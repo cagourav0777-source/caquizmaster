@@ -1,3 +1,4 @@
+import asyncio
 import html
 import logging
 from typing import Optional
@@ -124,7 +125,8 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat = update.effective_chat
     user = update.effective_user
     if chat:
-        await db.register_or_update_chat(chat.id, chat.title or "Chat", chat.type)
+        # Register user / group in database
+        await db.register_or_update_chat(chat.id, chat.title or (user.full_name if user else "User"), chat.type)
         if update.message:
             bot_info = await context.bot.get_me()
             add_to_group_url = f"https://t.me/{bot_info.username}?startgroup=true"
@@ -159,6 +161,83 @@ async def quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         await send_quiz_to_chat(context, chat.id, subj)
 
 # ----------------- STRICT BOT OWNER ONLY COMMANDS ----------------- #
+
+async def broadcast_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Strictly Owner-Only command to broadcast message to all users & groups."""
+    user = update.effective_user
+    msg = update.message
+    if not user or not is_bot_owner(user.id) or not msg:
+        if msg:
+            await msg.reply_text("⛔ Sirf Bot Owner hi broadcast bhej sakte hain.")
+        return
+
+    # Check if message is a reply or contains raw text
+    replied = msg.reply_to_message
+    raw_text = " ".join(context.args).strip() if context.args else None
+
+    if not replied and not raw_text:
+        await msg.reply_text(
+            "📢 <b>Broadcast Usage:</b>\n\n"
+            "1. <b>Text Broadcast:</b> <code>/broadcast Aapka message yahan likhein</code>\n"
+            "2. <b>Media/Photo Broadcast:</b> Kisi bhi photo ya post ko <b>Reply</b> karke <code>/broadcast</code> likhein.",
+            parse_mode=ParseMode.HTML,
+        )
+        return
+
+    all_chats = await db.get_all_broadcast_chats()
+    if not all_chats:
+        await msg.reply_text("❌ Database me koi users ya groups nahi mile.")
+        return
+
+    progress_msg = await msg.reply_text(f"⏳ <b>Broadcasting to {len(all_chats)} chats...</b>", parse_mode=ParseMode.HTML)
+
+    success_users = 0
+    success_groups = 0
+    failed_count = 0
+
+    for item in all_chats:
+        target_id = item["chat_id"]
+        c_type = item.get("chat_type", "private")
+        try:
+            if replied:
+                # Copy exact message (with media, caption, buttons etc.)
+                await context.bot.copy_message(
+                    chat_id=target_id,
+                    from_chat_id=msg.chat.id,
+                    message_id=replied.message_id,
+                )
+            else:
+                # Send text message
+                await context.bot.send_message(
+                    chat_id=target_id,
+                    text=raw_text,
+                    parse_mode=ParseMode.HTML,
+                )
+
+            if c_type in ["group", "supergroup"]:
+                success_groups += 1
+            else:
+                success_users += 1
+
+            # Sleep slightly to prevent Telegram flood limits (max 30 msgs/sec)
+            await asyncio.sleep(0.05)
+
+        except Forbidden:
+            failed_count += 1
+            await db.set_chat_active_status(target_id, False)
+        except Exception as e:
+            failed_count += 1
+            logger.warning(f"Broadcast failed for {target_id}: {e}")
+
+    total_success = success_users + success_groups
+    report_text = (
+        "📢 <b>Broadcast Completed!</b>\n\n"
+        f"✅ <b>Total Delivered:</b> <code>{total_success}</code> chats\n"
+        f"• 👤 <b>Users (DMs):</b> <code>{success_users}</code>\n"
+        f"• 👥 <b>Groups:</b> <code>{success_groups}</code>\n\n"
+        f"❌ <b>Failed / Blocked:</b> <code>{failed_count}</code>"
+    )
+    await progress_msg.edit_text(report_text, parse_mode=ParseMode.HTML)
 
 async def set_interval_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat, user = update.effective_chat, update.effective_user
@@ -243,6 +322,27 @@ async def reload_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
 
 # ----------------- PUBLIC STUDENT COMMANDS ----------------- #
 
+async def stats_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    chat = update.effective_chat
+    if not chat:
+        return
+    
+    stats = qm.get_stats()
+    db_stats = await db.get_system_stats()
+    served = await db.get_served_question_ids(chat.id)
+
+    text = (
+        "📊 <b>CA Foundation Quiz Master Stats</b>\n\n"
+        "👥 <b>Bot Community:</b>\n"
+        f"• 👤 <b>Total Users (DMs):</b> <code>{db_stats['total_users']}</code>\n"
+        f"• 👥 <b>Total Groups:</b> <code>{db_stats['total_groups']}</code> (Active: <code>{db_stats['active_groups']}</code>)\n\n"
+        "📚 <b>Question Bank:</b>\n"
+        f"• 📝 <b>Total Questions:</b> <code>{stats['total']}</code>\n"
+        f"• 🎯 <b>Served in this Chat:</b> <code>{len(served)}</code>"
+    )
+    if update.message:
+        await update.message.reply_text(text, parse_mode=ParseMode.HTML)
+
 async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     msg = update.message
     if not msg:
@@ -314,16 +414,6 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         parse_mode=ParseMode.HTML,
     )
 
-async def stats_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    chat = update.effective_chat
-    if not chat:
-        return
-    stats = qm.get_stats()
-    served = await db.get_served_question_ids(chat.id)
-    text = f"📊 <b>CA Foundation Bank Stats</b>\n• Total Questions: <b>{stats['total']}</b>\n• Served in this Group: <b>{len(served)}</b>"
-    if update.message:
-        await update.message.reply_text(text, parse_mode=ParseMode.HTML)
-
 async def post_init(application: Application) -> None:
     await db.init_db()
     active_chats = await db.get_all_active_chats()
@@ -348,6 +438,7 @@ def main() -> None:
     app.add_handler(CommandHandler("stats", stats_cmd))
     
     # 4. Owner-Only Commands
+    app.add_handler(CommandHandler("broadcast", broadcast_cmd))
     app.add_handler(CommandHandler("set_interval", set_interval_cmd))
     app.add_handler(CommandHandler("stop_quiz", stop_quiz_cmd))
     app.add_handler(CommandHandler("start_quiz", start_quiz_cmd))
