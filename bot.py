@@ -56,7 +56,7 @@ async def send_quiz_to_chat(context: ContextTypes.DEFAULT_TYPE, chat_id: int, su
             correct_option_id=int(q_data["correct_option_id"]),
             is_anonymous=False,
             explanation=expl,
-            open_period=None,  # Unlimited time
+            open_period=None,
         )
         await db.record_served_question(chat_id, q_data["id"])
         return True
@@ -108,6 +108,7 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
                 "• `/quiz` — Instant question\n"
                 "• `/set_interval 30` — Change auto-timer\n"
                 "• `/report <reason>` — Reply to any quiz to report a mistake\n"
+                "• `/set_report_group` — Set this group to receive all error reports\n"
                 "• `/stats` — Quiz stats",
                 parse_mode=ParseMode.MARKDOWN,
             )
@@ -143,15 +144,37 @@ async def stop_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
             for j in context.job_queue.get_jobs_by_name(get_job_name(chat.id)):
                 j.schedule_removal()
         if update.message:
-            await update.message.reply_text("⏸️ Auto-quiz paused.", parse_mode=ParseMode.MARKDOWN)
+            await update.message.reply_text("⏸️ Auto-quiz paused in this group.", parse_mode=ParseMode.MARKDOWN)
+
+# --- REPORT SYSTEM ---
+
+async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Sets the current group as the dedicated report receiving channel."""
+    chat = update.effective_chat
+    user = update.effective_user
+    if not chat or not user:
+        return
+
+    # Check if sender is admin
+    if not await is_admin(chat, user.id):
+        if update.message:
+            await update.message.reply_text("⛔ Sirf admin hi is group ko Report Group bana sakte hain.")
+        return
+
+    await db.set_setting("report_chat_id", str(chat.id))
+    if update.message:
+        await update.message.reply_text(
+            f"🎯 **Report Group Configured Successfully!**\n\n"
+            f"Ab kisi bhi study group se jab koi student `/report` karega, wo report sidha is group (**{chat.title}**) me aayegi.",
+            parse_mode=ParseMode.MARKDOWN,
+        )
 
 async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Handles reporting a question when user replies to a quiz poll."""
+    """Handles student reporting an issue with a quiz."""
     msg = update.message
     if not msg:
         return
 
-    # Check if this command is a reply to another message
     replied = msg.reply_to_message
     if not replied or not replied.poll:
         await msg.reply_text(
@@ -162,10 +185,10 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
 
     user = update.effective_user
     chat = update.effective_chat
-    user_name = user.full_name if user else "Anonymous"
-    user_handle = f"@{user.username}" if (user and user.username) else f"ID: {user.id}"
+    user_name = user.full_name if user else "Student"
+    user_handle = f"@{user.username}" if (user and user.username) else f"ID: `{user.id if user else 0}`"
     chat_title = chat.title if chat and chat.title else "Private Chat"
-    reason = " ".join(context.args).strip() if context.args else "No reason specified"
+    reason = " ".join(context.args).strip() if context.args else "Galti report ki gayi hai (No reason specified)"
 
     question_text = replied.poll.question
     options_text = "\n".join([f"  {idx+1}. {opt.text}" for idx, opt in enumerate(replied.poll.options)])
@@ -180,53 +203,47 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         reason=reason,
     )
 
-    # Prepare message for Super Admin
-    admin_alert = (
+    # Formatted Alert Message
+    alert_text = (
         f"🚨 **NEW QUESTION REPORT #{report_id}**\n\n"
-        f"📍 **From:** {chat_title} (`{chat.id if chat else 'N/A'}`)\n"
+        f"📍 **From Group:** {chat_title} (`{chat.id if chat else 'N/A'}`)\n"
         f"👤 **Reported By:** {user_name} ({user_handle})\n\n"
         f"❓ **Question:**\n`{question_text}`\n\n"
         f"📋 **Options:**\n{options_text}\n\n"
-        f"💬 **User Note / Reason:**\n_{reason}_"
+        f"💬 **Report Reason / Note:**\n_{reason}_"
     )
 
-    # Send directly to Super Admins in DM
-    for admin_id in config.SUPER_ADMIN_IDS:
+    # Check if a dedicated report group is set
+    report_chat_id = await db.get_setting("report_chat_id")
+
+    sent_somewhere = False
+    if report_chat_id:
         try:
             await context.bot.send_message(
-                chat_id=admin_id,
-                text=admin_alert,
+                chat_id=int(report_chat_id),
+                text=alert_text,
                 parse_mode=ParseMode.MARKDOWN,
             )
+            sent_somewhere = True
         except Exception as e:
-            logger.warning(f"Could not send report alert to admin {admin_id}: {e}")
+            logger.error(f"Failed sending report to report group {report_chat_id}: {e}")
+
+    # Fallback to Super Admin DMs if no group is configured or if sending failed
+    if not sent_somewhere:
+        for admin_id in config.SUPER_ADMIN_IDS:
+            try:
+                await context.bot.send_message(
+                    chat_id=admin_id,
+                    text=alert_text,
+                    parse_mode=ParseMode.MARKDOWN,
+                )
+            except Exception as e:
+                logger.warning(f"Could not send report to DM of admin {admin_id}: {e}")
 
     await msg.reply_text(
-        "✅ **Shukriya!** Aapki report admin ko bhej di gayi hai. Hum is question ko jald verify karenge.",
+        "✅ **Shukriya!** Aapki report admin group me forward kar di gayi hai. Hum is question ko jald verify karenge.",
         parse_mode=ParseMode.MARKDOWN,
     )
-
-async def view_reports_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Super Admin command to view recent reports."""
-    user = update.effective_user
-    if not user or user.id not in config.SUPER_ADMIN_IDS:
-        return
-
-    reports = await db.get_recent_reports(limit=5)
-    if not reports:
-        await update.message.reply_text("🎉 Koi nayi reports nahi hain!")
-        return
-
-    text = "📋 **Latest 5 Question Reports:**\n\n"
-    for r in reports:
-        text += (
-            f"**Report #{r['id']}** ({r['created_at']})\n"
-            f"• Group: {r['chat_title']}\n"
-            f"• By: {r['user_name']}\n"
-            f"• Q: `{r['question_text'][:80]}...`\n"
-            f"• Reason: _{r['reason']}_\n\n"
-        )
-    await update.message.reply_text(text, parse_mode=ParseMode.MARKDOWN)
 
 async def stats_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat = update.effective_chat
@@ -250,8 +267,8 @@ def main() -> None:
     app.add_handler(CommandHandler("quiz", quiz_cmd))
     app.add_handler(CommandHandler("set_interval", set_interval_cmd))
     app.add_handler(CommandHandler("stop_quiz", stop_quiz_cmd))
+    app.add_handler(CommandHandler("set_report_group", set_report_group_cmd))
     app.add_handler(CommandHandler("report", report_cmd))
-    app.add_handler(CommandHandler("view_reports", view_reports_cmd))
     app.add_handler(CommandHandler("stats", stats_cmd))
     app.run_polling(allowed_updates=Update.ALL_TYPES)
 
