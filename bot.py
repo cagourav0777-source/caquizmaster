@@ -102,6 +102,7 @@ async def chat_member_update(update: Update, context: ContextTypes.DEFAULT_TYPE)
 
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat = update.effective_chat
+    user = update.effective_user
     if chat:
         await db.register_or_update_chat(chat.id, chat.title or "Chat", chat.type)
         if update.message:
@@ -112,15 +113,20 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
                 [InlineKeyboardButton("➕ Add Me to Your Group", url=add_to_group_url)]
             ])
 
+            # User ka first name ya username fetch karega
+            user_name = user.first_name if (user and user.first_name) else "Student"
+            safe_user_name = html.escape(user_name)
+
             welcome_text = (
-                "👋 <b>Hello Future Chartered Accountant!</b> 🎓\n\n"
-                "Welcome to the <b>CA Foundation Quiz Master Bot</b> — aapka daily practice partner\n\n"
+                f"👋 <b>Hello {safe_user_name}!</b> 🎓\n\n"
+                f"Welcome <b>{safe_user_name}</b> to the <b>CA Foundation Quiz Master Bot</b> — aapka daily practice partner\n\n"
                 "⚡ <b>Quick Commands:</b>\n"
                 "🎯 <code>/quiz</code> — Get an instant MCQ\n"
                 "📊 <code>/stats</code> — View question bank stats\n"
                 "⚠️ <code>/report &lt;reason&gt;</code> — Reply to any quiz to report an issue\n\n"
                 "💡 <i>Tip: Is bot ko apne study group me add karein aur doston ke sath daily scheduled practice karein!</i>"
             )
+
             await update.message.reply_text(
                 welcome_text,
                 parse_mode=ParseMode.HTML,
