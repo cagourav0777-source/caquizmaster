@@ -17,6 +17,8 @@ from telegram.ext import (
     ChatMemberHandler,
     CommandHandler,
     ContextTypes,
+    MessageHandler,
+    filters,
 )
 
 import config
@@ -26,7 +28,7 @@ from questions_loader import QuestionsManager
 logging.basicConfig(format="%(asctime)s - [%(levelname)s] - %(message)s", level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-db = Database(config.DB_PATH)
+db = Database(config.MONGO_URI)
 qm = QuestionsManager()
 
 def get_job_name(chat_id: int) -> str:
@@ -35,6 +37,32 @@ def get_job_name(chat_id: int) -> str:
 def is_bot_owner(user_id: int) -> bool:
     """Strictly checks if the user is the Bot Owner (configured in SUPER_ADMIN_IDS)."""
     return user_id in config.SUPER_ADMIN_IDS
+
+def schedule_job(app: Application, chat_id: int, minutes: int) -> None:
+    if not app.job_queue:
+        return
+    name = get_job_name(chat_id)
+    for j in app.job_queue.get_jobs_by_name(name):
+        j.schedule_removal()
+    app.job_queue.run_repeating(scheduled_callback, interval=minutes * 60, first=10, data=chat_id, name=name)
+
+async def auto_recover_and_schedule(app: Application, chat: Chat) -> None:
+    """Silently registers and starts auto-quiz for any active group."""
+    if not chat or chat.type not in [Chat.GROUP, Chat.SUPERGROUP]:
+        return
+    job_name = get_job_name(chat.id)
+    if app.job_queue and not app.job_queue.get_jobs_by_name(job_name):
+        await db.register_or_update_chat(chat.id, chat.title or "Group", chat.type, is_active=True)
+        settings = await db.get_chat_settings(chat.id)
+        interval = settings["interval_minutes"] if settings else config.DEFAULT_QUIZ_INTERVAL_MINUTES
+        schedule_job(app, chat.id, interval)
+        logger.info(f"🔄 Auto-recovered and scheduled quiz for group: {chat.title} ({chat.id}) every {interval} mins")
+
+async def group_activity_listener(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Background listener that wakes up auto-quiz on ANY activity in groups."""
+    chat = update.effective_chat
+    if chat and chat.type in [Chat.GROUP, Chat.SUPERGROUP]:
+        await auto_recover_and_schedule(context.application, chat)
 
 async def send_quiz_to_chat(context: ContextTypes.DEFAULT_TYPE, chat_id: int, subject: Optional[str] = None) -> bool:
     try:
@@ -66,20 +94,12 @@ async def send_quiz_to_chat(context: ContextTypes.DEFAULT_TYPE, chat_id: int, su
         await db.set_chat_active_status(chat_id, False)
         return False
     except Exception as e:
-        logger.error(f"Error in {chat_id}: {e}")
+        logger.error(f"Error sending quiz to {chat_id}: {e}")
         return False
 
 async def scheduled_callback(context: ContextTypes.DEFAULT_TYPE) -> None:
     if context.job and context.job.data:
         await send_quiz_to_chat(context, context.job.data)
-
-def schedule_job(app: Application, chat_id: int, minutes: int) -> None:
-    if not app.job_queue:
-        return
-    name = get_job_name(chat_id)
-    for j in app.job_queue.get_jobs_by_name(name):
-        j.schedule_removal()
-    app.job_queue.run_repeating(scheduled_callback, interval=minutes * 60, first=10, data=chat_id, name=name)
 
 async def chat_member_update(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     res = update.my_chat_member
@@ -113,7 +133,6 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
                 [InlineKeyboardButton("➕ Add Me to Your Group", url=add_to_group_url)]
             ])
 
-            # User ka first name ya username fetch karega
             user_name = user.first_name if (user and user.first_name) else "Student"
             safe_user_name = html.escape(user_name)
 
@@ -126,7 +145,6 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
                 "⚠️ <code>/report &lt;reason&gt;</code> — Reply to any quiz to report an issue\n\n"
                 "💡 <i>Tip: Is bot ko apne study group me add karein aur doston ke sath daily scheduled practice karein!</i>"
             )
-
             await update.message.reply_text(
                 welcome_text,
                 parse_mode=ParseMode.HTML,
@@ -136,14 +154,13 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 async def quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat = update.effective_chat
     if chat:
-        await db.register_or_update_chat(chat.id, chat.title or "Chat", chat.type)
+        await auto_recover_and_schedule(context.application, chat)
         subj = " ".join(context.args).strip() if context.args else None
         await send_quiz_to_chat(context, chat.id, subj)
 
 # ----------------- STRICT BOT OWNER ONLY COMMANDS ----------------- #
 
 async def set_interval_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Strictly Owner-Only command to change interval."""
     chat, user = update.effective_chat, update.effective_user
     if not chat or not user or not is_bot_owner(user.id):
         if update.message:
@@ -162,7 +179,6 @@ async def set_interval_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -
         await update.message.reply_text(f"✅ Auto-quiz interval updated to <b>{mins} minutes</b> for this group.", parse_mode=ParseMode.HTML)
 
 async def stop_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Strictly Owner-Only command to pause auto-quiz."""
     chat, user = update.effective_chat, update.effective_user
     if not chat or not user or not is_bot_owner(user.id):
         if update.message:
@@ -177,7 +193,6 @@ async def stop_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
         await update.message.reply_text("⏸️ Auto-quiz paused in this group by Bot Owner.", parse_mode=ParseMode.HTML)
 
 async def start_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Strictly Owner-Only command to resume auto-quiz."""
     chat, user = update.effective_chat, update.effective_user
     if not chat or not user or not is_bot_owner(user.id):
         if update.message:
@@ -197,7 +212,6 @@ async def start_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         )
 
 async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Strictly Owner-Only command to set reports destination group."""
     chat = update.effective_chat
     user = update.effective_user
     if not chat or not user or not is_bot_owner(user.id):
@@ -214,7 +228,6 @@ async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYP
         )
 
 async def reload_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Strictly Owner-Only command to reload questions file."""
     user = update.effective_user
     if not user or not is_bot_owner(user.id):
         if update.message:
@@ -231,7 +244,6 @@ async def reload_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
 # ----------------- PUBLIC STUDENT COMMANDS ----------------- #
 
 async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Handles student reporting an issue with a quiz."""
     msg = update.message
     if not msg:
         return
@@ -314,25 +326,33 @@ async def stats_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 async def post_init(application: Application) -> None:
     await db.init_db()
-    for row in await db.get_all_active_chats():
-        schedule_job(application, row["chat_id"], row["interval_minutes"])
+    active_chats = await db.get_all_active_chats()
+    logger.info(f"🔄 MongoDB loaded: {len(active_chats)} active groups found.")
+    for row in active_chats:
+        if row.get("chat_type") in ["group", "supergroup"]:
+            schedule_job(application, row["chat_id"], row["interval_minutes"])
 
 def main() -> None:
     app = ApplicationBuilder().token(config.BOT_TOKEN).post_init(post_init).build()
+    
+    # 1. Background Auto-Recovery Listener for ALL groups
+    app.add_handler(MessageHandler(filters.ChatType.GROUPS, group_activity_listener), group=-1)
+
+    # 2. Member join/leave updates
     app.add_handler(ChatMemberHandler(chat_member_update, ChatMemberHandler.MY_CHAT_MEMBER))
+    
+    # 3. Public Commands
     app.add_handler(CommandHandler("start", start_cmd))
     app.add_handler(CommandHandler("quiz", quiz_cmd))
+    app.add_handler(CommandHandler("report", report_cmd))
+    app.add_handler(CommandHandler("stats", stats_cmd))
     
-    # Owner-Only Commands
+    # 4. Owner-Only Commands
     app.add_handler(CommandHandler("set_interval", set_interval_cmd))
     app.add_handler(CommandHandler("stop_quiz", stop_quiz_cmd))
     app.add_handler(CommandHandler("start_quiz", start_quiz_cmd))
     app.add_handler(CommandHandler("set_report_group", set_report_group_cmd))
     app.add_handler(CommandHandler("reload", reload_cmd))
-    
-    # Public Commands
-    app.add_handler(CommandHandler("report", report_cmd))
-    app.add_handler(CommandHandler("stats", stats_cmd))
     
     app.run_polling(allowed_updates=Update.ALL_TYPES)
 
