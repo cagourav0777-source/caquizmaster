@@ -27,7 +27,6 @@ class Database:
                     question_id TEXT
                 )
             """)
-            # Naya Reports Table
             await db.execute("""
                 CREATE TABLE IF NOT EXISTS reports (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -38,6 +37,13 @@ class Database:
                     question_text TEXT,
                     reason TEXT,
                     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                )
+            """)
+            # System Settings Table (Report Group ID store karne ke liye)
+            await db.execute("""
+                CREATE TABLE IF NOT EXISTS system_settings (
+                    key TEXT PRIMARY KEY,
+                    value TEXT
                 )
             """)
             await db.commit()
@@ -99,22 +105,23 @@ class Database:
             await db.execute("DELETE FROM served_questions WHERE chat_id = ?", (chat_id,))
             await db.commit()
 
-    # --- Reports Functions ---
     async def add_report(self, chat_id: int, chat_title: str, user_id: int, user_name: str, question_text: str, reason: str) -> int:
         async with aiosqlite.connect(self.db_path) as db:
             cursor = await db.execute(
-                """
-                INSERT INTO reports (chat_id, chat_title, user_id, user_name, question_text, reason)
-                VALUES (?, ?, ?, ?, ?, ?)
-                """,
+                "INSERT INTO reports (chat_id, chat_title, user_id, user_name, question_text, reason) VALUES (?, ?, ?, ?, ?, ?)",
                 (chat_id, chat_title, user_id, user_name, question_text, reason),
             )
             await db.commit()
             return cursor.lastrowid
 
-    async def get_recent_reports(self, limit: int = 5) -> List[Dict[str, Any]]:
+    # Global Settings Helper
+    async def set_setting(self, key: str, value: str) -> None:
         async with aiosqlite.connect(self.db_path) as db:
-            db.row_factory = aiosqlite.Row
-            async with db.execute("SELECT * FROM reports ORDER BY id DESC LIMIT ?", (limit,)) as cur:
-                rows = await cur.fetchall()
-                return [dict(r) for r in rows]
+            await db.execute("INSERT OR REPLACE INTO system_settings (key, value) VALUES (?, ?)", (key, str(value)))
+            await db.commit()
+
+    async def get_setting(self, key: str) -> Optional[str]:
+        async with aiosqlite.connect(self.db_path) as db:
+            async with db.execute("SELECT value FROM system_settings WHERE key = ?", (key,)) as cur:
+                row = await cur.fetchone()
+                return row[0] if row else None
