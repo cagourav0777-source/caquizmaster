@@ -2165,13 +2165,222 @@ Sub: Theory of Production and Cost
 
 ---
 
-Q: A fixed input is defined as:
-A) That input whose quantity can be quickly changed in the short run.
-B) That input whose quantity cannot be quickly changed in the short run.
-C) That input whose quantities can be easily changed.
-D) That input whose demand can be easily changed.
+Q: Average product is defined as:
+A) total product divided by the total cost.
+B) total product divided by marginal product.
+C) total product divided by the number of units of variable input.
+D) marginal product divided by the number of units of variable input.
+Ans: C
+Exp: Average Product (AP) = Total Product (TP) / Units of Variable Input (L).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true?
+A) After inflection point, greater use of variable input induces reduction in MP.
+B) Before reaching decreasing marginal returns, output can increase at increasing rate.
+C) The first stage corresponds to range in which AP is increasing.
+D) All the above.
+Ans: D
+Exp: All statements accurately describe the properties and stages of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Marginal product, mathematically, is the slope of the:
+A) total product curve.
+B) average product curve.
+C) marginal product curve.
+D) implicit product curve.
+Ans: A
+Exp: Marginal Product is the first derivative (slope) of the Total Product curve (MP = dTP/dL).
+Sub: Theory of Production and Cost
+
+---
+
+Q: If first four units of variable input generate total output of 200, 350, 450, 500, MP of 3rd unit is:
+A) 50
+B) 100
+C) 150
+D) 200
 Ans: B
-Exp: Fixed inputs (plant, heavy machinery, buildings) cannot be altered quickly in the short run.
+Exp: Marginal Product of 3rd unit = TP(3) - TP(2) = 450 - 350 = 100 units.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which statement is false in respect of fixed cost of a firm?
+A) TFC are constant in the short run except when prices of fixed inputs change.
+B) TFC continue to exist in short run when production stops, but cannot exist in long run when stopped.
+C) TFC can be defined as sum of costs of all fixed inputs in the short run.
+D) In short run, a firm's fixed cost cannot be escaped even when production is stopped.
+Ans: B
+Exp: In the long run, all inputs are variable and there are no fixed costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns for first four units of variable input is shown by TP sequence:
+A) 50, 50, 50, 50
+B) 50, 110, 180, 260
+C) 50, 100, 150, 200
+D) 50, 90, 120, 140
+Ans: D
+Exp: Marginal products in sequence D are 50, 40, 30, 20 (continuously diminishing MP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the third of the three stages of production:
+A) marginal product curve has a positive slope.
+B) marginal product curve lies completely below the average product curve.
+C) total product increases.
+D) marginal product is positive.
+Ans: B
+Exp: In Stage III (Negative Returns), MP is negative and lies below the horizontal axis and below the AP curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: When marginal costs are below average total costs:
+A) average fixed costs are rising.
+B) average total costs are falling.
+C) average total costs are rising.
+D) average total costs are minimized.
+Ans: B
+Exp: Whenever MC < ATC, the Average Total Cost (ATC) curve is declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's long-run average total cost curve is:
+A) Identical to its long-run marginal-cost curve.
+B) Also its long-run supply curve.
+C) In fact the average total cost curve of the optimal plant in short run.
+D) Tangent to all short-run average total cost curves and represents lowest ATC for each output level.
+Ans: D
+Exp: The LAC curve envelops all SAC curves and represents the minimum cost of producing each output level.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the long run, if a very small factory expands its scale of operations, it will initially experience:
+A) increase in pollution level.
+B) diseconomies of scale.
+C) economies of scale.
+D) constant returns to scale.
+Ans: C
+Exp: Initial expansion allows specialization and cost efficiencies, generating economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's long-run average total cost curve is:
+A) Identical to long-run marginal cost curve.
+B) Also its long-run total cost curve.
+C) Average total cost curve of optimal plant in short run.
+D) Tangent to all SAC curves and represents lowest average total cost for each output level.
+Ans: D
+Exp: LAC is the planning envelope curve tangent to all short-run average cost curves.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements describes increasing returns to scale?
+A) Doubling of all inputs used leads to doubling of output.
+B) Increasing inputs by 50% leads to a 25% increase in output.
+C) Increasing inputs by 1/4 leads to an increase in output of 1/3.
+D) None of the above.
+Ans: C
+Exp: Input increases by 25% (1/4) whereas output increases by 33.33% (1/3) > 25% (Increasing Returns).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Economic costs of production differ from accounting costs because:
+A) Economic costs include hired resources while accounting costs do not.
+B) Accounting costs include opportunity costs which are deducted later.
+C) Accounting costs include hired resources while economic costs do not.
+D) Economic costs add opportunity cost of a firm which uses its own resources.
+Ans: D
+Exp: Economic Cost = Explicit Accounting Costs + Implicit (Opportunity) Costs of self-owned factors.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The most important function of an entrepreneur is to:
+A) Innovate
+B) Bear the sense of responsibility
+C) Finance
+D) Earn profit
+Ans: A
+Exp: According to Schumpeter, innovation is the distinguishing and vital function of an entrepreneur.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Marginal cost changes due to changes in:
+A) Total cost
+B) Average cost
+C) Variable cost
+D) Quantity of output
+Ans: C
+Exp: Because fixed costs do not vary with output, marginal cost depends entirely on variable cost (MC = ΔTVC / ΔQ).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is correct?
+A) Fixed costs vary with change in output.
+B) Adding TVC and TFC gives average cost.
+C) Marginal cost is total cost divided by units produced.
+D) Total cost is obtained by adding up fixed cost and total variable cost.
+Ans: D
+Exp: Total Cost (TC) = Total Fixed Cost (TFC) + Total Variable Cost (TVC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is incorrect?
+A) LAC curve is also called planning curve of a firm.
+B) Total revenue = price per unit x number of units sold.
+C) Opportunity cost is also called alternative cost.
+D) If total revenue is divided by number of units sold we get marginal revenue.
+Ans: D
+Exp: Total Revenue divided by units sold gives Average Revenue (AR), not Marginal Revenue (MR).
+Sub: Theory of Production and Cost
+
+---
+
+Q: The vertical difference between TVC and TC is equal to:
+A) MC
+B) AVC
+C) TFC
+D) None of the above
+Ans: C
+Exp: TC = TFC + TVC, hence the vertical gap between TC and TVC is always constant and equal to TFC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The falling part of long run average cost curve is tangent to the ___ of corresponding SAC curve(s):
+A) falling part
+B) rising part
+C) minimum point
+D) None of the above
+Ans: A
+Exp: On the downward slope of LAC, it touches the falling portions of short-run average cost (SAC) curves.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which one of the following is an external economies of scale in long run?
+A) Risk bearing economies
+B) Financial economies
+C) Development of skilled labour
+D) None of the above
+Ans: C
+Exp: Pool of trained and skilled labour in an industrial region benefits the entire industry externally.
 Sub: Theory of Production and Cost
 
 ---
