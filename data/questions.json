@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ECO_01",
+    "subject": "Nature & Scope of Business Economics",
+    "question": "Economists regard decision making as important because:",
+    "options": [
+      "Resources required to satisfy unlimited wants are finite",
+      "Crucial to understand allocation of scarce resources",
+      "Resources have alternative uses",
+      "All of the above"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Scarcity of resources and unlimited human wants make decision-making essential."
+  },
+  {
+    "id": "ECO_02",
+    "subject": "Theory of Demand and Supply",
+    "question": "In the case of an inferior good, the income elasticity of demand is:",
+    "options": ["Positive", "Zero", "Negative", "Infinite"],
+    "correct_option_id": 2,
+    "explanation": "As consumer income increases, demand for inferior goods falls (negative income elasticity)."
+  },
+  {
+    "id": "ECO_03",
+    "subject": "Theory of Production and Cost",
+    "question": "Which cost curve is NEVER 'U' shaped?",
+    "options": ["Average Cost", "Marginal Cost", "Average Variable Cost", "Average Fixed Cost"],
+    "correct_option_id": 3,
+    "explanation": "Average Fixed Cost (AFC) is a rectangular hyperbola that continually slopes downward."
+  },
+  {
+    "id": "ECO_04",
+    "subject": "Price Determination in Markets",
+    "question": "Under perfect competition, the firm's demand curve is:",
+    "options": ["Horizontal (P = AR = MR)", "Vertical", "Downward sloping", "Indeterminate"],
+    "correct_option_id": 0,
+    "explanation": "The perfectly competitive firm is a price taker facing a perfectly elastic (horizontal) demand curve."
+  },
+  {
+    "id": "ECO_05",
+    "subject": "Business Cycles",
+    "question": "Trough of a business cycle occurs when ______ hits its lowest point.",
+    "options": ["Inflation", "Money supply", "Aggregate economic activity", "Unemployment"],
+    "correct_option_id": 2,
+    "explanation": "Trough is the bottom-most turning point of aggregate economic activity."
+  }
+]
