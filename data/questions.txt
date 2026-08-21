@@ -1084,3 +1084,1094 @@ D) It is pragmatic in nature
 Ans: D
 Exp: Unlike abstract theoretical economics, business economics is pragmatic and focused on realistic applications.
 Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Demand for a commodity refers to:
+A) desire backed by ability to pay for the commodity.
+B) need for the commodity and willingness to pay for it
+C) the quantity demanded of that commodity at a certain price.
+D) the quantity of the commodity demanded at a certain price during any particular period of time.
+Ans: D
+Exp: Demand in economics is always expressed at a given price and per unit of time (flow concept).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Contraction of demand is the result of:
+A) decrease in the number of consumers.
+B) increase in the price of the good concerned.
+C) increase in the prices of other goods.
+D) decrease in the income of purchasers.
+Ans: B
+Exp: Contraction of demand is a movement along the demand curve caused by a rise in the own price of the good.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: All but one of the following are assumed to remain the same while drawing an individual's demand curve for a commodity. Which one is it?
+A) The preference of the individual.
+B) His monetary income.
+C) Price of the commodity
+D) Price of related goods.
+Ans: C
+Exp: While drawing a demand curve, own price varies while other factors are held constant (ceteris paribus).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following pairs of goods is an example of substitutes?
+A) Tea and sugar.
+B) Tea and coffee.
+C) Pen and ink.
+D) Shirt and trousers.
+Ans: B
+Exp: Tea and coffee satisfy the same want and can easily be used in place of one another.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: In the case of a straight line demand curve meeting the two axes, the price-elasticity of demand at the mid-point of the line would be:
+A) 0
+B) 1
+C) 1.5
+D) 2
+Ans: B
+Exp: By point elasticity formula (Lower segment / Upper segment), elasticity at the exact midpoint equals 1.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: The Law of Demand, assuming other things to remain constant, establishes the relationship between:
+A) income of the consumer and the quantity of a good demanded by him.
+B) price of a good and the quantity demanded.
+C) price of a good and the demand for its substitute.
+D) quantity demanded of a good and the relative prices of its complementary goods.
+Ans: B
+Exp: Law of Demand states an inverse relationship between the own price of a good and its quantity demanded.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Identify the factor which generally keeps the price-elasticity of demand for a good low:
+A) Variety of uses for that good.
+B) Very low price of a commodity
+C) Close substitutes for that good.
+D) High proportion of the consumer's income spent on it.
+Ans: B
+Exp: Inexpensive items (like salt, matchboxes) where a tiny fraction of income is spent have inelastic demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Identify the coefficient of price-elasticity of demand when the percentage increase in the quantity of a good demanded is smaller than the percentage fall in its price:
+A) Equal to one.
+B) Greater than one.
+C) Less than one.
+D) Zero.
+Ans: C
+Exp: When % change in quantity demanded is less than % change in price, Ed < 1 (inelastic demand).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: In the case of an inferior good, the income elasticity of demand is:
+A) positive.
+B) Zero.
+C) Negative.
+D) infinite.
+Ans: C
+Exp: As consumer income rises, demand for inferior goods declines, resulting in negative income elasticity.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If the demand for a good is inelastic, an increase in its price will cause the total expenditure of the consumers of the good to:
+A) Remain the same.
+B) Increase.
+C) Decrease.
+D) Any of these.
+Ans: B
+Exp: Under total outlay method, when demand is inelastic, price and total expenditure move in the same direction.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If regardless of changes in its price, the quantity demanded of a good remains unchanged, then the demand curve for the good will be:
+A) horizontal.
+B) Vertical.
+C) positively sloped.
+D) negatively sloped.
+Ans: B
+Exp: A perfectly inelastic demand curve (Ed = 0) is a vertical straight line parallel to the Y-axis.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Suppose the price of Pepsi increases, we will expect the demand curve of Coca Cola to:
+A) Shift towards left since these are substitutes
+B) Shift towards right since these are substitutes
+C) Remain at the same level
+D) None of the above
+Ans: B
+Exp: Pepsi and Coke are substitutes; an increase in Pepsi's price shifts the demand curve for Coke rightward.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: All of the following are determinants of demand except:
+A) Tastes and preferences.
+B) Quantity supplied.
+C) Income of the consumer
+D) Price of related goods.
+Ans: B
+Exp: Quantity supplied is a seller-side variable, not a determinant of consumer demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: A movement along the demand curve for soft drinks is best described as:
+A) An increase in demand.
+B) A decrease in demand.
+C) A change in quantity demanded.
+D) A change in demand.
+Ans: C
+Exp: A change caused purely by own price variation leads to movement along the curve (change in quantity demanded).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If the price of Pepsi decreases relative to the price of Coke and 7-UP, the demand for:
+A) Coke will decrease.
+B) 7-Up will decrease.
+C) Coke and 7-UP will increase.
+D) Coke and 7-Up will decrease.
+Ans: D
+Exp: Cheaper Pepsi attracts consumers away from Coke and 7-UP, decreasing the demand for both.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If a good is a luxury, its income elasticity of demand is:
+A) Positive and less than 1.
+B) Negative but greater than -1.
+C) Positive and greater than 1.
+D) Zero.
+Ans: C
+Exp: Luxury goods have high income elasticity (Ey > 1) because demand expands faster than income growth.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: The price of hot dogs increases by 22% and the quantity of hot dogs demanded falls by 25%. This indicates that demand for hot dogs is:
+A) Elastic.
+B) Inelastic.
+C) Unitarily elastic.
+D) Perfectly elastic.
+Ans: A
+Exp: Ed = 25% / 22% = 1.14 > 1, so demand is price elastic.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If the quantity demanded of mutton increases by 5% when the price of chicken increases by 20%, the cross-price elasticity of demand between mutton and chicken is
+A) -0.25
+B) 0.25
+C) -4
+D) 4
+Ans: B
+Exp: Cross Ed = % change in Qty demanded of mutton / % change in Price of chicken = +5% / +20% = +0.25.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Suppose the price of movies seen at a theatre rises from Rs.120 to Rs.200 per person. Attendance falls from 300 to 200 persons. What is price elasticity of demand? (Use Arc Elasticity Method)
+A) .5
+B) .8
+C) 1.0
+D) 1.2
+Ans: D
+Exp: Arc elasticity formula = [(Q1 - Q2) / (Q1 + Q2)] / [(P1 - P2) / (P1 + P2)].
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following statements about price elasticity of supply is correct?
+A) Price elasticity of supply is a measure of how much quantity supplied responds to price change
+B) It is computed as % change in quantity supplied divided by % change in price
+C) Price elasticity of supply in the long run is different from short run
+D) All the above
+Ans: D
+Exp: All statements accurately describe the definition, calculation, and time horizon of elasticity of supply.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following is an incorrect statement?
+A) When goods are substitutes, a fall in the price of one lead to a fall in quantity demanded of other.
+B) When commodities are complements, a fall in price of one cause demand of other to rise.
+C) As the income of the consumer increases, the demand for the commodity increases always and vice versa.
+D) When a commodity becomes fashionable people prefer to buy it and therefore its demand increases.
+Ans: C
+Exp: In the case of inferior goods, demand decreases as income increases; hence statement C is incorrect.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If silverware price reduces from Rs.300 to Rs.200 and quantity increases from 3,000 to 5,000 units, what is price elasticity? (Use Arc Method)
+A) .8
+B) 1.0
+C) 1.25
+D) 1.50
+Ans: C
+Exp: Arc Ed = [(5000 - 3000)/(5000 + 3000)] / [(300 - 200)/(300 + 200)] = (2000/8000) / (100/500) = 0.25 / 0.20 = 1.25.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: When the numerical value of cross elasticity between two goods is very high, it means:
+A) The goods are perfect complements and therefore have to be used together
+B) The goods are perfect substitutes and can be used with ease in place of one another
+C) There is a high degree of substitutability between the two goods
+D) The goods are neutral and therefore cannot be considered as substitutes
+Ans: C
+Exp: High positive cross-elasticity indicates that two goods are close substitutes for each other.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If pizzeria raises pizza price from Rs.60 to Rs.100 and quantity falls from 700 to 100 pizzas, price elasticity is: (Use Arc Method)
+A) .67
+B) 1.5
+C) 2.0
+D) 3.0
+Ans: D
+Exp: Arc Ed = [(700 - 100)/(700 + 100)] / [(100 - 60)/(100 + 60)] = (600/800) / (40/160) = 0.75 / 0.25 = 3.0.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If electricity demand is inelastic, and electricity charges increase, which of the following is likely to occur?
+A) Quantity demanded will fall by a relatively large amount.
+B) Quantity demanded will fall by a relatively small amount.
+C) Quantity demanded will rise in the short run, but fall in the long run.
+D) Quantity demanded will fall in the short run, but rise in the long run.
+Ans: B
+Exp: Inelastic demand means consumers are less sensitive to price increases, resulting in only a small fall in quantity.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Suppose demand for meals at a restaurant is elastic. If management is considering raising prices, it can expect a relatively:
+A) Large fall in quantity demanded.
+B) Large fall in demand.
+C) Small fall in quantity demanded.
+D) Small fall in demand.
+Ans: A
+Exp: For price elastic demand (Ed > 1), a price rise causes a proportionately larger decrease in quantity demanded.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Point elasticity is useful for which of the following situations?
+A) The bookstore is considering doubling the price of notebooks.
+B) A restaurant is considering lowering the price of its most expensive dishes by 50 percent.
+C) An auto producer determines consumer response to price of cars being lowered by Rs.100.
+D) None of the above.
+Ans: C
+Exp: Point elasticity is suitable when price change is very small (marginal change).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: A decrease in price will result in an increase in total revenue if:
+A) Percentage change in quantity demanded is less than percentage change in price.
+B) Percentage change in quantity demanded is greater than percentage change in price.
+C) Demand is inelastic.
+D) Consumer is operating at a point where price is very low and quantity is very high.
+Ans: B
+Exp: When demand is elastic (%ΔQ > %ΔP), lowering the price increases total revenue.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: An increase in price will result in an increase in total revenue if:
+A) Percentage change in quantity demanded is less than percentage change in price.
+B) Percentage change in quantity demanded is greater than percentage change in price.
+C) Demand is elastic.
+D) Consumer is operating at a point where price is very high and quantity is very low.
+Ans: A
+Exp: When demand is inelastic (%ΔQ < %ΔP), raising the price increases total revenue.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Demand for a good will tend to be more elastic if it exhibits which of the following characteristics?
+A) It represents a small part of the consumer's income.
+B) The good has many substitutes available.
+C) It is a necessity (as opposed to a luxury).
+D) There is little time for the consumer to adjust to the price change.
+Ans: B
+Exp: Availability of close substitutes increases the price elasticity of demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Demand for a good will tend to be more inelastic if it exhibits which of the following characteristics?
+A) The good has many substitutes.
+B) The good is a luxury (as opposed to a necessity).
+C) The good is a small part of the consumer's income.
+D) There is a great deal of time for the consumer to adjust to the change in prices.
+Ans: C
+Exp: Goods that account for a tiny fraction of total income (e.g. salt, needles) tend to have inelastic demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If consumer income increases from Rs.30,000 to Rs.36,000 and CD purchases increase from 25 to 30 CDs, income elasticity is: (Use Arc Method)
+A) 0.5
+B) 1.0
+C) 1.5
+D) 2.0
+Ans: B
+Exp: Arc Ey = [(30 - 25)/(30 + 25)] / [(36000 - 30000)/(36000 + 30000)] = (5/55) / (6000/66000) = (1/11)/(1/11) = 1.0.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Total utility is maximum when:
+A) Marginal utility is zero.
+B) Marginal utility is at its highest point.
+C) Marginal utility is negative
+D) None of the above
+Ans: A
+Exp: Total Utility reaches its peak (point of satiety) when Marginal Utility equals zero.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which one is not an assumption of the theory of demand based on analysis of indifference curves?
+A) Given scale of preferences between different combinations of two goods.
+B) Diminishing marginal rate of substitution.
+C) Diminishing marginal utility of money
+D) Consumers prefer more of a good to less of it, other things remaining same.
+Ans: C
+Exp: Diminishing marginal utility of money is not an assumption of Indifference Curve ordinal analysis.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: An indifference curve slopes down towards right since more of one commodity and less of another result in:
+A) Same level of satisfaction.
+B) Greater satisfaction.
+C) Maximum satisfaction.
+D) Any of the above
+Ans: A
+Exp: To remain on the same indifference curve (same utility level), consuming more of one good requires sacrificing some of the other.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Significant wage package increase in a steel plant will affect the market supply of steel by:
+A) Supply curve will shift to the left.
+B) Supply curve will shift to the right.
+C) Supply will not shift, but quantity produced will decrease.
+D) Supply will not shift, but quantity produced will increase.
+Ans: A
+Exp: Rising input costs (wages) decrease supply, shifting the entire supply curve leftward.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following statements is incorrect?
+A) An indifference curve must be downward-sloping to the right.
+B) Convexity of a curve implies that the slope diminishes as one moves from left to right.
+C) The income elasticity for inferior goods to a consumer is positive
+D) Total effect of price change on quantity demanded is called price effect.
+Ans: C
+Exp: Income elasticity for inferior goods is negative, not positive.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: The successive units of stamps collected by a boy give him greater and greater satisfaction. This is a case of:
+A) Operation of the law of demand.
+B) Consumer surplus enjoyed in hobbies and rare collections
+C) Exception to the law of diminishing utility.
+D) None of the above
+Ans: C
+Exp: Hobbies, rare collections, and antiques are well-known exceptions to the Law of Diminishing Marginal Utility.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: What will happen in the rice market if buyers are expecting higher rice prices in the near future?
+A) The demand for rice will increase and the demand curve will shift to the right
+B) The demand for rice will decrease and the demand curve will shift to the left
+C) The demand for rice will be unaffected as it is a necessity
+D) The demand for wheat will increase and the demand curve will shift to the right
+Ans: A
+Exp: Expectations of higher future prices lead to an immediate increase in current demand, shifting the curve to the right.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following is considered production in Economics?
+A) Tilling of soil.
+B) Singing a song before friends.
+C) Preventing a child from falling into a manhole on the road.
+D) Painting a picture for pleasure.
+Ans: A
+Exp: In economics, production means creating utilities having an exchangeable market value.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Identify the correct statement:
+A) Average product is at its maximum when marginal product is equal to average product.
+B) Law of increasing returns to scale relates to effect of changes in factor proportions.
+C) Economies of scale arise only because of indivisibilities of factor proportions.
+D) Internal economies of scale accrue when industry expands beyond optimum.
+Ans: A
+Exp: Average Product (AP) reaches its peak when Marginal Product (MP) intersects AP from above (MP = AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is not a characteristic of land?
+A) Its supply for the economy is limited.
+B) It is immobile.
+C) Its usefulness depends on human efforts.
+D) It is produced by our forefathers.
+Ans: D
+Exp: Land is a primary, free gift of nature; it is not man-made or produced by human forefathers.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true?
+A) Accumulation of capital depends solely on income of individuals.
+B) Savings can be influenced by government policies.
+C) External economies go with size and internal economies with location.
+D) The supply curve of labour is an upward slopping curve.
+Ans: B
+Exp: Fiscal incentives, interest rates, and tax policies by the government directly influence national savings.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the production of wheat, all of the following are variable factors except:
+A) the seed and fertilizer used when the crop is planted.
+B) the field that has been cleared of trees and in which the crop is planted.
+C) the tractor used by the farmer in cultivating wheat, corn and barley.
+D) the number of hours that the farmer spends in cultivating wheat fields.
+Ans: B
+Exp: Agricultural land is fixed in quantity and cannot be readily altered in the short run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The marginal product of a variable input is best described as:
+A) total product divided by the number of units of variable input.
+B) additional output resulting from a one unit increase in the variable input.
+C) additional output resulting from a one unit increase in both variable and fixed inputs.
+D) ratio of variable input amount used to fixed input amount used.
+Ans: B
+Exp: Marginal product measures the incremental change in total output from adding one unit of variable factor.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns implies:
+A) decreasing average variable costs.
+B) decreasing marginal costs.
+C) increasing marginal costs.
+D) decreasing average fixed costs.
+Ans: C
+Exp: When marginal returns to a factor diminish, marginal cost of producing each additional unit increases.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The short run, as economists use the phrase, is characterized by:
+A) at least one fixed factor of production and firms neither leaving nor entering the industry.
+B) generally a period which is shorter than one year.
+C) all factors of production are fixed and no variable inputs.
+D) all inputs are variable and production is done in less than one year.
+Ans: A
+Exp: The short run is an operational timeframe where at least one factor input is fixed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The product curves in the short run exhibit all of the following relationships except:
+A) when total product is rising, average and marginal product may be either rising or falling.
+B) when marginal product is negative, total product and average product are falling.
+C) when average product is at maximum, MP equals AP, and total product is rising.
+D) when marginal product is at maximum, AP equals MP, and total product is rising.
+Ans: D
+Exp: Marginal Product reaches its maximum before Average Product; at MP max, MP is greater than AP.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The main difference between the short run and the long run is that:
+A) In the short run all inputs are fixed, while in the long run all inputs are variable.
+B) In the short run the firm varies all of its inputs to find the least-cost combination.
+C) In the short run, at least one of the firm's input levels is fixed.
+D) In the long run, the firm is making a constrained decision about existing equipment.
+Ans: C
+Exp: In the short run at least one input is fixed, whereas in the long run all factors are variable.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is the best definition of "production function"?
+A) Relationship between market price and quantity supplied.
+B) Relationship between the firm's total revenue and cost of production.
+C) Relationship between quantities of inputs needed to produce a given level of output.
+D) Relationship between quantity of inputs and the firm's marginal cost.
+Ans: C
+Exp: Production function expresses the technological relationship between physical inputs and physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The "law of diminishing returns" applies to:
+A) the short run, but not the long run.
+B) the long run, but not the short run.
+C) both the short run and the long run.
+D) neither the short run nor the long run.
+Ans: A
+Exp: The Law of Diminishing Returns (Law of Variable Proportions) applies strictly in the short run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing returns occur:
+A) when units of a variable input are added to a fixed input and total product falls.
+B) when units of a variable input are added to a fixed input and marginal product falls.
+C) when the size of the plant is increased in the long run.
+D) when quantity of fixed input is increased and returns to variable input falls.
+Ans: B
+Exp: Diminishing returns begin when Marginal Product (MP) of the variable factor starts declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is the total output when 2 hours of labour are employed? [Labour 1: TP=100; Labour 2: MP=80]
+A) 80
+B) 100
+C) 180
+D) 200
+Ans: C
+Exp: Total Product at 2 units of labour = TP(1) + MP(2) = 100 + 80 = 180.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is the marginal product of the third hour of labour? [TP at L=2 is 180, TP at L=3 is 240]
+A) 60
+B) 80
+C) 100
+D) 240
+Ans: A
+Exp: MP at 3 units = TP(3) - TP(2) = 240 - 180 = 60.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is the average product of the first three hours of labour? [TP at L=3 is 240]
+A) 60
+B) 80
+C) 100
+D) 240
+Ans: B
+Exp: Average Product = Total Product / Labour Units = 240 / 3 = 80.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which cost increases continuously with the increase in production?
+A) Average cost.
+B) Marginal cost.
+C) Fixed cost.
+D) Variable cost.
+Ans: D
+Exp: Total Variable Cost (TVC) starts from zero and increases continuously with output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following cost curves is never 'U' shaped?
+A) Average cost curve.
+B) Marginal cost curve.
+C) Average variable cost curve.
+D) Average fixed cost curve.
+Ans: D
+Exp: Average Fixed Cost (AFC) is a rectangular hyperbola that slopes downward continuously.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Total cost in the short run is classified into fixed and variable costs. Which one is a variable cost?
+A) Cost of raw materials.
+B) Cost of equipment.
+C) Interest payment on past borrowings.
+D) Payment of rent on building.
+Ans: A
+Exp: Raw materials vary directly with output, making them variable costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the short run, when the output of a firm increases, its average fixed cost:
+A) increases.
+B) decreases.
+C) remains constant.
+D) first declines and then rises.
+Ans: B
+Exp: Since TFC remains constant, AFC (TFC / Output) declines continuously as output rises.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which one of the following is also known as planning curve?
+A) Long run average cost curve.
+B) Short run average cost curve.
+C) Average variable cost curve.
+D) Average total cost curve.
+Ans: A
+Exp: LAC curve is called the planning curve because a firm chooses its optimal plant size along this curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If a firm moves from one point on a production isoquant to another, which of the following will not happen?
+A) A change in the ratio in which inputs are combined.
+B) A change in the ratio of marginal products of inputs.
+C) A change in the marginal rate of technical substitution.
+D) A change in the level of output.
+Ans: D
+Exp: An isoquant (equal product curve) represents constant total output at all points along the curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: With which of the following is the concept of marginal cost closely related?
+A) Variable cost.
+B) Fixed cost.
+C) Opportunity cost.
+D) Economic cost.
+Ans: A
+Exp: Marginal Cost = ΔTVC / ΔQ, because fixed costs do not vary with output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is correct?
+A) When average cost is rising, marginal cost must also be rising.
+B) When average cost is rising, marginal cost must be falling.
+C) When average cost is rising, marginal cost is above the average cost.
+D) When average cost is falling, marginal cost must be rising.
+Ans: C
+Exp: Whenever Average Cost (AC) is rising, Marginal Cost (MC) is always above AC (MC > AC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is an example of "explicit cost"?
+A) Wages a proprietor could have made working as an employee elsewhere.
+B) Income earned in alternative uses by firm-owned resources.
+C) Payment of wages by the firm to hired workers.
+D) Normal profit earned by a firm.
+Ans: C
+Exp: Explicit costs involve actual direct cash payments to outsiders for factor services.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is an example of an "implicit cost"?
+A) Interest that could have been earned on retained earnings used for expansion.
+B) Payment of rent by the firm for factory building.
+C) Interest payment made for bank loan.
+D) Payment of wages by the firm.
+Ans: A
+Exp: Implicit cost is the imputed opportunity cost of self-owned factors employed in business.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If TC at Q=0 is Rs.240 and TC at Q=2 is Rs.410, average fixed cost of 2 units is:
+A) Rs.80
+B) Rs.85
+C) Rs.120
+D) Rs.205
+Ans: C
+Exp: TFC = TC at zero output = Rs. 240. AFC at Q=2 is 240 / 2 = Rs. 120.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If TC at Q=5 is Rs.610 and TC at Q=6 is Rs.690, the marginal cost of the 6th unit is:
+A) Rs.133
+B) Rs.75
+C) Rs.80
+D) Rs.450
+Ans: C
+Exp: Marginal Cost of 6th unit = TC(6) - TC(5) = 690 - 610 = Rs. 80.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If TC for units 0 to 6 are 240, 330, 410, 480, 540, 610, 690, diminishing marginal returns start between:
+A) 2 and 3.
+B) 3 and 4.
+C) 4 and 5.
+D) 5 and 6.
+Ans: C
+Exp: MC values are 90, 80, 70, 60, 70, 80. MC reaches minimum at unit 4 and starts rising at unit 5.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Marginal cost is defined as:
+A) Change in total cost due to a one unit change in output.
+B) Total cost divided by output.
+C) Change in output due to a one unit change in input.
+D) Total product divided by quantity of input.
+Ans: A
+Exp: Marginal cost represents the incremental cost of producing one additional unit of output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is true of the relationship between marginal cost and average cost?
+A) If MC is greater than ATC, then ATC is falling.
+B) ATC curve intersects MC curve at minimum MC.
+C) MC curve intersects ATC curve at minimum ATC.
+D) If MC is less than ATC, then ATC is increasing.
+Ans: C
+Exp: The MC curve cuts the ATC curve from below at its lowest (minimum) point.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true of the relationship among average cost functions?
+A) ATC = AFC - AVC.
+B) AVC = AFC + ATC.
+C) AFC = ATC + AVC.
+D) AFC = ATC - AVC.
+Ans: D
+Exp: Since ATC = AFC + AVC, we have AFC = ATC - AVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is not a determinant of the firm's cost function?
+A) The production function.
+B) The price of labour.
+C) Taxes.
+D) The price of the firm's output.
+Ans: D
+Exp: The price of output affects revenue and profit, not the production cost function.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is correct concerning cost relationships?
+A) TC = TFC - TVC.
+B) TVC = TFC - TC.
+C) TFC = TC - TVC.
+D) TC = TVC - TFC.
+Ans: C
+Exp: Total Cost = TFC + TVC, which implies TFC = TC - TVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Suppose output increases in the short run. Total cost will:
+A) Increase due to an increase in fixed costs only.
+B) Increase due to an increase in variable costs only.
+C) Increase due to an increase in both fixed and variable costs.
+D) Decrease if firm is in region of diminishing returns.
+Ans: B
+Exp: Fixed costs remain constant in the short run, so any rise in TC is purely due to TVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which statement concerning the long-run average cost curve is false?
+A) It represents least-cost input combination for each output level.
+B) It is derived from a series of short-run average cost curves.
+C) SAC at minimum point of LAC represents least-cost plant size for all output levels.
+D) As output increases, capital employed increases along the curve.
+Ans: C
+Exp: The optimal plant size is least-cost only at the minimum point of LAC, not at all output levels.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The falling (negatively-sloped) part of the long-run average total cost curve is due to:
+A) Diseconomies of scale.
+B) Diminishing returns.
+C) Difficulties in coordinating large firm activities.
+D) The increase in productivity that results from specialization.
+Ans: D
+Exp: Falling LAC reflects internal and external economies of scale, including specialization of labour and management.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The rising (positively sloped) part of the long-run average total cost curve is due to:
+A) Diseconomies of scale.
+B) Increasing returns.
+C) Large-scale production techniques.
+D) Specialization productivity.
+Ans: A
+Exp: Beyond the minimum point of LAC, managerial and organizational diseconomies of scale set in.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's ATC is Rs.300 at 5 units and Rs.320 at 6 units. The marginal cost of the 6th unit is:
+A) Rs.20
+B) Rs.120
+C) Rs.320
+D) Rs.420
+Ans: D
+Exp: TC(5) = 300 * 5 = 1500; TC(6) = 320 * 6 = 1920. MC(6) = 1920 - 1500 = Rs. 420.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Firm producing 7 units has ATC of Rs.150 and fixed costs of Rs.350. What is the average variable cost?
+A) Rs.200
+B) Rs.50
+C) Rs.300
+D) Rs.100
+Ans: D
+Exp: AFC = TFC / Q = 350 / 7 = Rs. 50. AVC = ATC - AFC = 150 - 50 = Rs. 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm has variable cost of Rs.1000 and fixed cost of Rs.400 at 5 units. What is the average total cost?
+A) Rs.280
+B) Rs.60
+C) Rs.120
+D) Rs.1400
+Ans: A
+Exp: Total Cost = 1000 + 400 = Rs. 1400. Average Total Cost (ATC) = 1400 / 5 = Rs. 280.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's average fixed cost is Rs.20 at 6 units of output. What will it be at 4 units of output?
+A) Rs.60
+B) Rs.30
+C) Rs.40
+D) Rs.20
+Ans: B
+Exp: Total Fixed Cost = 20 * 6 = Rs. 120. AFC at 4 units = 120 / 4 = Rs. 30.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true?
+A) The services of a doctor are considered production.
+B) Man can create matter.
+C) The services of a housewife are considered production.
+D) When a man creates a table, he creates matter.
+Ans: A
+Exp: Doctor's services generate economic utility with a market price, hence classified as production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is a function of an entrepreneur?
+A) Initiating a business enterprise.
+B) Risk bearing.
+C) Innovating.
+D) All of the above.
+Ans: D
+Exp: An entrepreneur initiates production, manages business risks, and implements innovations.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In describing a given production technology, the short run is best described as lasting:
+A) up to six months from now.
+B) up to five years from now.
+C) as long as all inputs are fixed.
+D) as long as at least one input is fixed.
+Ans: D
+Exp: The short run is defined as the operational period during which at least one factor input remains fixed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If decreasing returns to scale are present, when all inputs are increased by 10%:
+A) output will also decrease by 10%.
+B) output will increase by 10%.
+C) output will increase by less than 10%.
+D) output will increase by more than 10%.
+Ans: C
+Exp: Under decreasing returns to scale, output increases by a smaller percentage than the increase in inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The production function is a relationship between a given combination of inputs and:
+A) another combination that yields the same output.
+B) the highest resulting output.
+C) increase in output generated by one-unit increase in one output.
+D) all levels of output that can be generated by those inputs.
+Ans: B
+Exp: A production function shows the maximum attainable output from a given combination of inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If the marginal product of labour is below the average product of labour, it must be true that:
+A) marginal product of labour is negative.
+B) marginal product of labour is zero.
+C) average product of labour is falling.
+D) average product of labour is negative.
+Ans: C
+Exp: When Marginal Product is less than Average Product (MP < AP), Average Product is declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The average product of labour is maximized when marginal product of labour:
+A) equals the average product of labour.
+B) equals zero.
+C) is maximized.
+D) none of the above.
+Ans: A
+Exp: Average Product reaches its peak at the exact point of intersection with Marginal Product (MP = AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: The law of variable proportions is drawn under all assumptions except:
+A) technology is changing.
+B) some inputs are kept fixed.
+C) we consider physical inputs rather than monetary profitability.
+D) technology is given and stable.
+Ans: A
+Exp: The state of technology is assumed to remain constant; improved technology shifts the curve upward.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is a production function?
+A) Technical relationship between physical inputs and physical output.
+B) Relationship between fixed factors and variable factors.
+C) Relationship between a factor of production and utility created.
+D) Relationship between quantity produced and time taken.
+Ans: A
+Exp: A production function expresses the engineering relationship between physical inputs and physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Laws of production does not include:
+A) returns to scale.
+B) law of diminishing returns to a factor.
+C) law of variable proportions.
+D) least cost combination of factors.
+Ans: D
+Exp: Least cost combination is an optimization condition for producer equilibrium, not a law of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: An isoquant shows:
+A) All combinations of two inputs produced using a given output fully.
+B) Combinations of two products yielding equal profit.
+C) All alternative combinations of two inputs that yield the same total product.
+D) Both (b) and (c).
+Ans: C
+Exp: An isoquant (equal product curve) shows different input combinations yielding identical total output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Economies of scale exist because as a firm increases its size in the long run:
+A) Labour and management can specialize more.
+B) Firm can get finance at lower cost and buy inputs cheaper.
+C) Firm can employ more sophisticated technology.
+D) All of these.
+Ans: D
+Exp: Specialization, technical advantages, and bulk purchasing power all contribute to economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The production function:
+A) is relationship between quantity of inputs used and resulting output quantity.
+B) tells maximum attainable output from given input combinations.
+C) expresses technological relationship between inputs and output.
+D) All the above.
+Ans: D
+Exp: All options represent fundamental characteristics of the production function.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If Output for 1, 2, 3 workers is 23, 40, 50 respectively, this process exhibits:
+A) constant marginal product of labour.
+B) diminishing marginal product of labour.
+C) increasing return to scale.
+D) increasing marginal product of labour.
+Ans: B
+Exp: Marginal products are 23, 17, 10, clearly showing diminishing marginal product of labour.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is a variable cost in the short run?
+A) rent of the factory.
+B) wages paid to factory labour.
+C) interest payments on borrowed capital.
+D) payment on lease for factory equipment.
+Ans: B
+Exp: Factory labour wages vary directly with the level of production output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The efficient scale of production is the quantity of output that minimizes:
+A) average fixed cost.
+B) average total cost.
+C) average variable cost.
+D) marginal cost.
+Ans: B
+Exp: Optimum/efficient plant scale is defined at the minimum point of the Average Total Cost (ATC) curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the short run, the firm's product curves show that:
+A) Total product decreases when average product decreases.
+B) When MP = AP, average product is decreasing.
+C) When MP cuts AP from below, AP equals MP.
+D) In stage two, total product increases at a diminishing rate and reaches maximum.
+Ans: D
+Exp: In Stage II, Total Product increases at a diminishing rate until reaching its peak when MP = 0.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A fixed input is defined as:
+A) That input whose quantity can be quickly changed in the short run.
+B) That input whose quantity cannot be quickly changed in the short run.
+C) That input whose quantities can be easily changed.
+D) That input whose demand can be easily changed.
+Ans: B
+Exp: Fixed inputs (plant, heavy machinery, buildings) cannot be altered quickly in the short run.
+Sub: Theory of Production and Cost
+
+---
