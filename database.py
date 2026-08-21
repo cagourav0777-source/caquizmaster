@@ -1,127 +1,116 @@
-import aiosqlite
+import datetime
 import logging
 from typing import Any, Dict, List, Optional
+import certifi
+from motor.motor_asyncio import AsyncIOMotorClient
 import config
 
 logger = logging.getLogger(__name__)
 
 class Database:
-    def __init__(self, db_path: str = config.DB_PATH):
-        self.db_path = db_path
+    def __init__(self, mongo_uri: str = config.MONGO_URI):
+        self.client = AsyncIOMotorClient(mongo_uri, tlsCAFile=certifi.where())
+        # Default database name 'quiz_bot_db'
+        self.db = self.client.get_default_database("quiz_bot_db")
+        
+        # Collections (Tables)
+        self.chats = self.db["chats"]
+        self.served_questions = self.db["served_questions"]
+        self.reports = self.db["reports"]
+        self.settings = self.db["system_settings"]
 
     async def init_db(self) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            await db.execute("""
-                CREATE TABLE IF NOT EXISTS chats (
-                    chat_id INTEGER PRIMARY KEY,
-                    chat_title TEXT,
-                    chat_type TEXT,
-                    interval_minutes INTEGER DEFAULT 30,
-                    is_active INTEGER DEFAULT 1
-                )
-            """)
-            await db.execute("""
-                CREATE TABLE IF NOT EXISTS served_questions (
-                    id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    chat_id INTEGER,
-                    question_id TEXT
-                )
-            """)
-            await db.execute("""
-                CREATE TABLE IF NOT EXISTS reports (
-                    id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    chat_id INTEGER,
-                    chat_title TEXT,
-                    user_id INTEGER,
-                    user_name TEXT,
-                    question_text TEXT,
-                    reason TEXT,
-                    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-                )
-            """)
-            # System Settings Table (Report Group ID store karne ke liye)
-            await db.execute("""
-                CREATE TABLE IF NOT EXISTS system_settings (
-                    key TEXT PRIMARY KEY,
-                    value TEXT
-                )
-            """)
-            await db.commit()
+        try:
+            # Create unique indexes
+            await self.chats.create_index("chat_id", unique=True)
+            await self.served_questions.create_index([("chat_id", 1), ("question_id", 1)])
+            await self.settings.create_index("key", unique=True)
+            logger.info("✅ MongoDB Connected Successfully & Indexes Verified!")
+        except Exception as e:
+            logger.error(f"Error initializing MongoDB: {e}")
 
-    async def register_or_update_chat(self, chat_id: int, title: str = "", chat_type: str = "group", is_active: Optional[bool] = None) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            async with db.execute("SELECT is_active FROM chats WHERE chat_id = ?", (chat_id,)) as cur:
-                row = await cur.fetchone()
-            if row is None:
-                active_val = 1 if is_active is None or is_active else 0
-                await db.execute(
-                    "INSERT INTO chats (chat_id, chat_title, chat_type, interval_minutes, is_active) VALUES (?, ?, ?, ?, ?)",
-                    (chat_id, title, chat_type, config.DEFAULT_QUIZ_INTERVAL_MINUTES, active_val),
-                )
-            else:
-                if is_active is not None:
-                    await db.execute("UPDATE chats SET chat_title = ?, chat_type = ?, is_active = ? WHERE chat_id = ?", (title, chat_type, 1 if is_active else 0, chat_id))
-                else:
-                    await db.execute("UPDATE chats SET chat_title = ?, chat_type = ? WHERE chat_id = ?", (title, chat_type, chat_id))
-            await db.commit()
+    async def register_or_update_chat(
+        self, chat_id: int, title: str = "", chat_type: str = "group", is_active: Optional[bool] = None
+    ) -> None:
+        update_fields: Dict[str, Any] = {
+            "chat_title": title,
+            "chat_type": chat_type,
+        }
+        if is_active is not None:
+            update_fields["is_active"] = 1 if is_active else 0
+
+        set_on_insert: Dict[str, Any] = {
+            "chat_id": chat_id,
+            "interval_minutes": config.DEFAULT_QUIZ_INTERVAL_MINUTES,
+        }
+        if is_active is None:
+            set_on_insert["is_active"] = 1
+
+        await self.chats.update_one(
+            {"chat_id": chat_id},
+            {
+                "$set": update_fields,
+                "$setOnInsert": set_on_insert,
+            },
+            upsert=True,
+        )
 
     async def set_chat_interval(self, chat_id: int, interval_minutes: int) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            await db.execute("UPDATE chats SET interval_minutes = ?, is_active = 1 WHERE chat_id = ?", (interval_minutes, chat_id))
-            await db.commit()
+        await self.chats.update_one(
+            {"chat_id": chat_id},
+            {"$set": {"interval_minutes": interval_minutes, "is_active": 1}},
+            upsert=True,
+        )
 
     async def set_chat_active_status(self, chat_id: int, is_active: bool) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            await db.execute("UPDATE chats SET is_active = ? WHERE chat_id = ?", (1 if is_active else 0, chat_id))
-            await db.commit()
+        await self.chats.update_one(
+            {"chat_id": chat_id},
+            {"$set": {"is_active": 1 if is_active else 0}},
+        )
 
     async def get_chat_settings(self, chat_id: int) -> Optional[Dict[str, Any]]:
-        async with aiosqlite.connect(self.db_path) as db:
-            db.row_factory = aiosqlite.Row
-            async with db.execute("SELECT * FROM chats WHERE chat_id = ?", (chat_id,)) as cur:
-                row = await cur.fetchone()
-                return dict(row) if row else None
+        return await self.chats.find_one({"chat_id": chat_id})
 
     async def get_all_active_chats(self) -> List[Dict[str, Any]]:
-        async with aiosqlite.connect(self.db_path) as db:
-            db.row_factory = aiosqlite.Row
-            async with db.execute("SELECT * FROM chats WHERE is_active = 1") as cur:
-                rows = await cur.fetchall()
-                return [dict(r) for r in rows]
+        cursor = self.chats.find({"is_active": 1})
+        return await cursor.to_list(length=None)
 
     async def record_served_question(self, chat_id: int, question_id: str) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            await db.execute("INSERT INTO served_questions (chat_id, question_id) VALUES (?, ?)", (chat_id, question_id))
-            await db.commit()
+        await self.served_questions.insert_one({
+            "chat_id": chat_id,
+            "question_id": question_id,
+            "served_at": datetime.datetime.utcnow(),
+        })
 
     async def get_served_question_ids(self, chat_id: int) -> set[str]:
-        async with aiosqlite.connect(self.db_path) as db:
-            async with db.execute("SELECT question_id FROM served_questions WHERE chat_id = ?", (chat_id,)) as cur:
-                rows = await cur.fetchall()
-                return {r[0] for r in rows}
+        cursor = self.served_questions.find({"chat_id": chat_id}, {"question_id": 1, "_id": 0})
+        docs = await cursor.to_list(length=None)
+        return {doc["question_id"] for doc in docs if "question_id" in doc}
 
     async def reset_served_questions_for_chat(self, chat_id: int) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            await db.execute("DELETE FROM served_questions WHERE chat_id = ?", (chat_id,))
-            await db.commit()
+        await self.served_questions.delete_many({"chat_id": chat_id})
 
-    async def add_report(self, chat_id: int, chat_title: str, user_id: int, user_name: str, question_text: str, reason: str) -> int:
-        async with aiosqlite.connect(self.db_path) as db:
-            cursor = await db.execute(
-                "INSERT INTO reports (chat_id, chat_title, user_id, user_name, question_text, reason) VALUES (?, ?, ?, ?, ?, ?)",
-                (chat_id, chat_title, user_id, user_name, question_text, reason),
-            )
-            await db.commit()
-            return cursor.lastrowid
+    async def add_report(
+        self, chat_id: int, chat_title: str, user_id: int, user_name: str, question_text: str, reason: str
+    ) -> str:
+        res = await self.reports.insert_one({
+            "chat_id": chat_id,
+            "chat_title": chat_title,
+            "user_id": user_id,
+            "user_name": user_name,
+            "question_text": question_text,
+            "reason": reason,
+            "created_at": datetime.datetime.utcnow(),
+        })
+        return str(res.inserted_id)[-6:]  # Short Reference ID
 
-    # Global Settings Helper
     async def set_setting(self, key: str, value: str) -> None:
-        async with aiosqlite.connect(self.db_path) as db:
-            await db.execute("INSERT OR REPLACE INTO system_settings (key, value) VALUES (?, ?)", (key, str(value)))
-            await db.commit()
+        await self.settings.update_one(
+            {"key": key},
+            {"$set": {"key": key, "value": str(value)}},
+            upsert=True,
+        )
 
     async def get_setting(self, key: str) -> Optional[str]:
-        async with aiosqlite.connect(self.db_path) as db:
-            async with db.execute("SELECT value FROM system_settings WHERE key = ?", (key,)) as cur:
-                row = await cur.fetchone()
-                return row[0] if row else None
+        doc = await self.settings.find_one({"key": key})
+        return doc["value"] if doc and "value" in doc else None
