@@ -10,10 +10,9 @@ logger = logging.getLogger(__name__)
 class Database:
     def __init__(self, mongo_uri: str = config.MONGO_URI):
         self.client = AsyncIOMotorClient(mongo_uri, tlsCAFile=certifi.where())
-        # Default database name 'quiz_bot_db'
         self.db = self.client.get_default_database("quiz_bot_db")
         
-        # Collections (Tables)
+        # Collections
         self.chats = self.db["chats"]
         self.served_questions = self.db["served_questions"]
         self.reports = self.db["reports"]
@@ -21,7 +20,6 @@ class Database:
 
     async def init_db(self) -> None:
         try:
-            # Create unique indexes
             await self.chats.create_index("chat_id", unique=True)
             await self.served_questions.create_index([("chat_id", 1), ("question_id", 1)])
             await self.settings.create_index("key", unique=True)
@@ -75,6 +73,22 @@ class Database:
         cursor = self.chats.find({"is_active": 1})
         return await cursor.to_list(length=None)
 
+    async def get_all_broadcast_chats(self) -> List[Dict[str, Any]]:
+        """Returns all registered users and groups for broadcast."""
+        cursor = self.chats.find({})
+        return await cursor.to_list(length=None)
+
+    async def get_system_stats(self) -> Dict[str, int]:
+        """Returns count of private users, total groups, and active groups."""
+        total_users = await self.chats.count_documents({"chat_type": "private"})
+        total_groups = await self.chats.count_documents({"chat_type": {"$in": ["group", "supergroup"]}})
+        active_groups = await self.chats.count_documents({"chat_type": {"$in": ["group", "supergroup"]}, "is_active": 1})
+        return {
+            "total_users": total_users,
+            "total_groups": total_groups,
+            "active_groups": active_groups,
+        }
+
     async def record_served_question(self, chat_id: int, question_id: str) -> None:
         await self.served_questions.insert_one({
             "chat_id": chat_id,
@@ -102,7 +116,7 @@ class Database:
             "reason": reason,
             "created_at": datetime.datetime.utcnow(),
         })
-        return str(res.inserted_id)[-6:]  # Short Reference ID
+        return str(res.inserted_id)[-6:]
 
     async def set_setting(self, key: str, value: str) -> None:
         await self.settings.update_one(
