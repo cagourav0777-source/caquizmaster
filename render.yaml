@@ -2,23 +2,6 @@ services:
   - type: worker
     name: ca-foundation-quiz-bot
     env: python
-    region: singapore # Ya 'frankfurt' / 'oregon'
-    plan: free
-    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
     autoDeploy: true
-    envVars:
-      - key: BOT_TOKEN
-        sync: false
-      - key: SUPER_ADMIN_IDS
-        sync: false
-      - key: DEFAULT_QUIZ_INTERVAL_MINUTES
-        value: "30"
-      - key: QUIZ_OPEN_PERIOD_SECONDS
-        value: "60"
-      - key: DB_PATH
-        value: "/var/data/quiz_bot.db"
-    disk:
-      name: quiz-data
-      mountPath: /var/data
-      sizeGB: 1
