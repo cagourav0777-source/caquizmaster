@@ -2,7 +2,13 @@ import html
 import logging
 from typing import Optional
 
-from telegram import Chat, ChatMemberUpdated, Update
+from telegram import (
+    Chat,
+    ChatMemberUpdated,
+    InlineKeyboardButton,
+    InlineKeyboardMarkup,
+    Update,
+)
 from telegram.constants import ChatMemberStatus, ParseMode, PollType
 from telegram.error import Forbidden, TelegramError
 from telegram.ext import (
@@ -99,12 +105,26 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if chat:
         await db.register_or_update_chat(chat.id, chat.title or "Chat", chat.type)
         if update.message:
+            bot_info = await context.bot.get_me()
+            add_to_group_url = f"https://t.me/{bot_info.username}?startgroup=true"
+
+            keyboard = InlineKeyboardMarkup([
+                [InlineKeyboardButton("➕ Add Me to Your Group", url=add_to_group_url)]
+            ])
+
+            welcome_text = (
+                "👋 <b>Hello Future Chartered Accountant!</b> 🎓\n\n"
+                "Welcome to the <b>CA Foundation Quiz Master Bot</b> — aapka daily practice partner\n\n"
+                "⚡ <b>Quick Commands:</b>\n"
+                "🎯 <code>/quiz</code> — Get an instant MCQ\n"
+                "📊 <code>/stats</code> — View question bank stats\n"
+                "⚠️ <code>/report &lt;reason&gt;</code> — Reply to any quiz to report an issue\n\n"
+                "💡 <i>Tip: Is bot ko apne study group me add karein aur doston ke sath daily scheduled practice karein!</i>"
+            )
             await update.message.reply_text(
-                "👋 Welcome to <b>CA Foundation Quiz Bot</b>!\n\n"
-                "• <code>/quiz</code> — Instant question\n"
-                "• <code>/report &lt;reason&gt;</code> — Reply to any quiz to report a mistake\n"
-                "• <code>/stats</code> — Quiz stats",
+                welcome_text,
                 parse_mode=ParseMode.HTML,
+                reply_markup=keyboard,
             )
 
 async def quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -166,7 +186,7 @@ async def start_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
 
     if update.message:
         await update.message.reply_text(
-            f"▶️ **Auto-Quiz Resumed!**\nInterval: har <b>{interval} minutes</b>.",
+            f"▶️ <b>Auto-Quiz Resumed!</b>\nInterval: har <b>{interval} minutes</b>.",
             parse_mode=ParseMode.HTML,
         )
 
@@ -228,7 +248,6 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
     question_text = replied.poll.question
     options_text = "\n".join([f"  {idx+1}. {opt.text}" for idx, opt in enumerate(replied.poll.options)])
 
-    # Save to SQLite database
     report_id = await db.add_report(
         chat_id=chat.id if chat else 0,
         chat_title=chat_title,
@@ -238,7 +257,6 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         reason=reason,
     )
 
-    # Safe HTML-escaped Alert Message
     alert_text = (
         f"🚨 <b>NEW QUESTION REPORT #{report_id}</b>\n\n"
         f"📍 <b>From Group:</b> {html.escape(chat_title)} (<code>{chat.id if chat else 0}</code>)\n"
@@ -248,7 +266,6 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         f"💬 <b>Report Reason / Note:</b>\n<i>{html.escape(reason)}</i>"
     )
 
-    # Check dedicated report group
     report_chat_id = await db.get_setting("report_chat_id")
 
     sent_somewhere = False
@@ -263,7 +280,6 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         except Exception as e:
             logger.error(f"Failed sending report to group {report_chat_id}: {e}")
 
-    # Fallback to Super Admin DMs if group failed
     if not sent_somewhere:
         for admin_id in config.SUPER_ADMIN_IDS:
             try:
