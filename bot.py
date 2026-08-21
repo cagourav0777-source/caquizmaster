@@ -26,14 +26,9 @@ qm = QuestionsManager()
 def get_job_name(chat_id: int) -> str:
     return f"quiz_job_{chat_id}"
 
-async def is_admin(chat: Chat, user_id: int) -> bool:
-    if user_id in config.SUPER_ADMIN_IDS or chat.type in [Chat.PRIVATE, Chat.SENDER]:
-        return True
-    try:
-        m = await chat.get_member(user_id)
-        return m.status in [ChatMemberStatus.ADMINISTRATOR, ChatMemberStatus.OWNER]
-    except Exception:
-        return False
+def is_bot_owner(user_id: int) -> bool:
+    """Strictly checks if the user is the Bot Owner (configured in SUPER_ADMIN_IDS)."""
+    return user_id in config.SUPER_ADMIN_IDS
 
 async def send_quiz_to_chat(context: ContextTypes.DEFAULT_TYPE, chat_id: int, subject: Optional[str] = None) -> bool:
     try:
@@ -90,7 +85,7 @@ async def chat_member_update(update: Update, context: ContextTypes.DEFAULT_TYPE)
         schedule_job(context.application, chat.id, config.DEFAULT_QUIZ_INTERVAL_MINUTES)
         await context.bot.send_message(
             chat.id,
-            f"🎉 <b>CA Foundation Quiz Bot Activated!</b>\nAuto-posting every <b>{config.DEFAULT_QUIZ_INTERVAL_MINUTES} mins</b>.\nCommands: <code>/quiz</code>, <code>/set_interval &lt;mins&gt;</code>, <code>/stop_quiz</code>, <code>/report</code>",
+            f"🎉 <b>CA Foundation Quiz Bot Activated!</b>\nAuto-posting every <b>{config.DEFAULT_QUIZ_INTERVAL_MINUTES} mins</b>.\nCommands: <code>/quiz</code>, <code>/report</code>, <code>/stats</code>",
             parse_mode=ParseMode.HTML,
         )
     elif status in [ChatMemberStatus.LEFT, ChatMemberStatus.BANNED]:
@@ -107,9 +102,7 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
             await update.message.reply_text(
                 "👋 Welcome to <b>CA Foundation Quiz Bot</b>!\n\n"
                 "• <code>/quiz</code> — Instant question\n"
-                "• <code>/set_interval 30</code> — Change auto-timer\n"
                 "• <code>/report &lt;reason&gt;</code> — Reply to any quiz to report a mistake\n"
-                "• <code>/set_report_group</code> — Set this group to receive all error reports\n"
                 "• <code>/stats</code> — Quiz stats",
                 parse_mode=ParseMode.HTML,
             )
@@ -121,42 +114,69 @@ async def quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         subj = " ".join(context.args).strip() if context.args else None
         await send_quiz_to_chat(context, chat.id, subj)
 
+# ----------------- STRICT BOT OWNER ONLY COMMANDS ----------------- #
+
 async def set_interval_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Strictly Owner-Only command to change interval."""
     chat, user = update.effective_chat, update.effective_user
-    if not chat or not user or not await is_admin(chat, user.id):
+    if not chat or not user or not is_bot_owner(user.id):
         if update.message:
-            await update.message.reply_text("⛔ Only group admins can change interval.")
+            await update.message.reply_text("⛔ Sirf Bot Owner hi interval set kar sakte hain.")
         return
+
     if not context.args or not context.args[0].isdigit() or int(context.args[0]) < 1:
         if update.message:
             await update.message.reply_text("❌ Usage: <code>/set_interval 30</code>", parse_mode=ParseMode.HTML)
         return
+
     mins = int(context.args[0])
     await db.set_chat_interval(chat.id, mins)
     schedule_job(context.application, chat.id, mins)
     if update.message:
-        await update.message.reply_text(f"✅ Auto-quiz interval updated to <b>{mins} minutes</b>.", parse_mode=ParseMode.HTML)
+        await update.message.reply_text(f"✅ Auto-quiz interval updated to <b>{mins} minutes</b> for this group.", parse_mode=ParseMode.HTML)
 
 async def stop_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Strictly Owner-Only command to pause auto-quiz."""
     chat, user = update.effective_chat, update.effective_user
-    if chat and user and await is_admin(chat, user.id):
-        await db.set_chat_active_status(chat.id, False)
-        if context.job_queue:
-            for j in context.job_queue.get_jobs_by_name(get_job_name(chat.id)):
-                j.schedule_removal()
+    if not chat or not user or not is_bot_owner(user.id):
         if update.message:
-            await update.message.reply_text("⏸️ Auto-quiz paused in this group.", parse_mode=ParseMode.HTML)
-
-async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Sets the current group as the dedicated report receiving channel."""
-    chat = update.effective_chat
-    user = update.effective_user
-    if not chat or not user:
+            await update.message.reply_text("⛔ Sirf Bot Owner hi auto-quiz pause kar sakte hain.")
         return
 
-    if not await is_admin(chat, user.id):
+    await db.set_chat_active_status(chat.id, False)
+    if context.job_queue:
+        for j in context.job_queue.get_jobs_by_name(get_job_name(chat.id)):
+            j.schedule_removal()
+    if update.message:
+        await update.message.reply_text("⏸️ Auto-quiz paused in this group by Bot Owner.", parse_mode=ParseMode.HTML)
+
+async def start_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Strictly Owner-Only command to resume auto-quiz."""
+    chat, user = update.effective_chat, update.effective_user
+    if not chat or not user or not is_bot_owner(user.id):
         if update.message:
-            await update.message.reply_text("⛔ Sirf admin hi is group ko Report Group bana sakte hain.")
+            await update.message.reply_text("⛔ Sirf Bot Owner hi auto-quiz start kar sakte hain.")
+        return
+
+    settings = await db.get_chat_settings(chat.id)
+    interval = settings["interval_minutes"] if settings else config.DEFAULT_QUIZ_INTERVAL_MINUTES
+
+    await db.set_chat_active_status(chat.id, is_active=True)
+    schedule_job(context.application, chat.id, interval)
+
+    if update.message:
+        await update.message.reply_text(
+            f"▶️ **Auto-Quiz Resumed!**\nInterval: har <b>{interval} minutes</b>.",
+            parse_mode=ParseMode.HTML,
+        )
+
+async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Strictly Owner-Only command to set reports destination group."""
+    chat = update.effective_chat
+    user = update.effective_user
+    if not chat or not user or not is_bot_owner(user.id):
+        if update.message:
+            await update.message.reply_text("⛔ Sirf Bot Owner hi Report Group set kar sakte hain.")
         return
 
     await db.set_setting("report_chat_id", str(chat.id))
@@ -166,6 +186,23 @@ async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYP
             f"Ab sabhi groups ki reports sidha is group (<b>{html.escape(chat.title or 'This Group')}</b>) me aayengi.",
             parse_mode=ParseMode.HTML,
         )
+
+async def reload_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Strictly Owner-Only command to reload questions file."""
+    user = update.effective_user
+    if not user or not is_bot_owner(user.id):
+        if update.message:
+            await update.message.reply_text("⛔ Sirf Bot Owner hi questions reload kar sakte hain.")
+        return
+
+    success = qm.load_questions()
+    if update.message:
+        if success:
+            await update.message.reply_text(f"✅ Questions reload ho gaye! Total count: <b>{len(qm.questions)}</b>", parse_mode=ParseMode.HTML)
+        else:
+            await update.message.reply_text("❌ Error reloading questions file.", parse_mode=ParseMode.HTML)
+
+# ----------------- PUBLIC STUDENT COMMANDS ----------------- #
 
 async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Handles student reporting an issue with a quiz."""
@@ -263,11 +300,18 @@ def main() -> None:
     app.add_handler(ChatMemberHandler(chat_member_update, ChatMemberHandler.MY_CHAT_MEMBER))
     app.add_handler(CommandHandler("start", start_cmd))
     app.add_handler(CommandHandler("quiz", quiz_cmd))
+    
+    # Owner-Only Commands
     app.add_handler(CommandHandler("set_interval", set_interval_cmd))
     app.add_handler(CommandHandler("stop_quiz", stop_quiz_cmd))
+    app.add_handler(CommandHandler("start_quiz", start_quiz_cmd))
     app.add_handler(CommandHandler("set_report_group", set_report_group_cmd))
+    app.add_handler(CommandHandler("reload", reload_cmd))
+    
+    # Public Commands
     app.add_handler(CommandHandler("report", report_cmd))
     app.add_handler(CommandHandler("stats", stats_cmd))
+    
     app.run_polling(allowed_updates=Update.ALL_TYPES)
 
 if __name__ == "__main__":
