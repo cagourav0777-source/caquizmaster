@@ -1,3 +1,4 @@
+import html
 import logging
 from typing import Optional
 
@@ -89,8 +90,8 @@ async def chat_member_update(update: Update, context: ContextTypes.DEFAULT_TYPE)
         schedule_job(context.application, chat.id, config.DEFAULT_QUIZ_INTERVAL_MINUTES)
         await context.bot.send_message(
             chat.id,
-            f"🎉 **CA Foundation Quiz Bot Activated!**\nAuto-posting every **{config.DEFAULT_QUIZ_INTERVAL_MINUTES} mins**.\nCommands: `/quiz`, `/set_interval <mins>`, `/stop_quiz`, `/report`",
-            parse_mode=ParseMode.MARKDOWN,
+            f"🎉 <b>CA Foundation Quiz Bot Activated!</b>\nAuto-posting every <b>{config.DEFAULT_QUIZ_INTERVAL_MINUTES} mins</b>.\nCommands: <code>/quiz</code>, <code>/set_interval &lt;mins&gt;</code>, <code>/stop_quiz</code>, <code>/report</code>",
+            parse_mode=ParseMode.HTML,
         )
     elif status in [ChatMemberStatus.LEFT, ChatMemberStatus.BANNED]:
         await db.set_chat_active_status(chat.id, False)
@@ -104,13 +105,13 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         await db.register_or_update_chat(chat.id, chat.title or "Chat", chat.type)
         if update.message:
             await update.message.reply_text(
-                "👋 Welcome to **CA Foundation Quiz Bot**!\n\n"
-                "• `/quiz` — Instant question\n"
-                "• `/set_interval 30` — Change auto-timer\n"
-                "• `/report <reason>` — Reply to any quiz to report a mistake\n"
-                "• `/set_report_group` — Set this group to receive all error reports\n"
-                "• `/stats` — Quiz stats",
-                parse_mode=ParseMode.MARKDOWN,
+                "👋 Welcome to <b>CA Foundation Quiz Bot</b>!\n\n"
+                "• <code>/quiz</code> — Instant question\n"
+                "• <code>/set_interval 30</code> — Change auto-timer\n"
+                "• <code>/report &lt;reason&gt;</code> — Reply to any quiz to report a mistake\n"
+                "• <code>/set_report_group</code> — Set this group to receive all error reports\n"
+                "• <code>/stats</code> — Quiz stats",
+                parse_mode=ParseMode.HTML,
             )
 
 async def quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -128,13 +129,13 @@ async def set_interval_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -
         return
     if not context.args or not context.args[0].isdigit() or int(context.args[0]) < 1:
         if update.message:
-            await update.message.reply_text("❌ Usage: `/set_interval <minutes>` (e.g. `/set_interval 30`)", parse_mode=ParseMode.MARKDOWN)
+            await update.message.reply_text("❌ Usage: <code>/set_interval 30</code>", parse_mode=ParseMode.HTML)
         return
     mins = int(context.args[0])
     await db.set_chat_interval(chat.id, mins)
     schedule_job(context.application, chat.id, mins)
     if update.message:
-        await update.message.reply_text(f"✅ Auto-quiz interval updated to **{mins} minutes**.", parse_mode=ParseMode.MARKDOWN)
+        await update.message.reply_text(f"✅ Auto-quiz interval updated to <b>{mins} minutes</b>.", parse_mode=ParseMode.HTML)
 
 async def stop_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat, user = update.effective_chat, update.effective_user
@@ -144,9 +145,7 @@ async def stop_quiz_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
             for j in context.job_queue.get_jobs_by_name(get_job_name(chat.id)):
                 j.schedule_removal()
         if update.message:
-            await update.message.reply_text("⏸️ Auto-quiz paused in this group.", parse_mode=ParseMode.MARKDOWN)
-
-# --- REPORT SYSTEM ---
+            await update.message.reply_text("⏸️ Auto-quiz paused in this group.", parse_mode=ParseMode.HTML)
 
 async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Sets the current group as the dedicated report receiving channel."""
@@ -155,7 +154,6 @@ async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYP
     if not chat or not user:
         return
 
-    # Check if sender is admin
     if not await is_admin(chat, user.id):
         if update.message:
             await update.message.reply_text("⛔ Sirf admin hi is group ko Report Group bana sakte hain.")
@@ -164,9 +162,9 @@ async def set_report_group_cmd(update: Update, context: ContextTypes.DEFAULT_TYP
     await db.set_setting("report_chat_id", str(chat.id))
     if update.message:
         await update.message.reply_text(
-            f"🎯 **Report Group Configured Successfully!**\n\n"
-            f"Ab kisi bhi study group se jab koi student `/report` karega, wo report sidha is group (**{chat.title}**) me aayegi.",
-            parse_mode=ParseMode.MARKDOWN,
+            f"🎯 <b>Report Group Configured Successfully!</b>\n\n"
+            f"Ab sabhi groups ki reports sidha is group (<b>{html.escape(chat.title or 'This Group')}</b>) me aayengi.",
+            parse_mode=ParseMode.HTML,
         )
 
 async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -178,17 +176,17 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
     replied = msg.reply_to_message
     if not replied or not replied.poll:
         await msg.reply_text(
-            "⚠️ **Report karne ke liye:**\nJis Quiz Poll me galti hai, us message ko **Reply** karke `/report <kya galti hai>` likhein.",
-            parse_mode=ParseMode.MARKDOWN,
+            "⚠️ <b>Report karne ke liye:</b>\nJis Quiz Poll me galti hai, us message ko <b>Reply</b> karke <code>/report &lt;kya galti hai&gt;</code> likhein.",
+            parse_mode=ParseMode.HTML,
         )
         return
 
     user = update.effective_user
     chat = update.effective_chat
     user_name = user.full_name if user else "Student"
-    user_handle = f"@{user.username}" if (user and user.username) else f"ID: `{user.id if user else 0}`"
+    user_handle = f"@{user.username}" if (user and user.username) else f"ID: {user.id if user else 0}"
     chat_title = chat.title if chat and chat.title else "Private Chat"
-    reason = " ".join(context.args).strip() if context.args else "Galti report ki gayi hai (No reason specified)"
+    reason = " ".join(context.args).strip() if context.args else "No specific reason provided"
 
     question_text = replied.poll.question
     options_text = "\n".join([f"  {idx+1}. {opt.text}" for idx, opt in enumerate(replied.poll.options)])
@@ -203,17 +201,17 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         reason=reason,
     )
 
-    # Formatted Alert Message
+    # Safe HTML-escaped Alert Message
     alert_text = (
-        f"🚨 **NEW QUESTION REPORT #{report_id}**\n\n"
-        f"📍 **From Group:** {chat_title} (`{chat.id if chat else 'N/A'}`)\n"
-        f"👤 **Reported By:** {user_name} ({user_handle})\n\n"
-        f"❓ **Question:**\n`{question_text}`\n\n"
-        f"📋 **Options:**\n{options_text}\n\n"
-        f"💬 **Report Reason / Note:**\n_{reason}_"
+        f"🚨 <b>NEW QUESTION REPORT #{report_id}</b>\n\n"
+        f"📍 <b>From Group:</b> {html.escape(chat_title)} (<code>{chat.id if chat else 0}</code>)\n"
+        f"👤 <b>Reported By:</b> {html.escape(user_name)} ({html.escape(user_handle)})\n\n"
+        f"❓ <b>Question:</b>\n<code>{html.escape(question_text)}</code>\n\n"
+        f"📋 <b>Options:</b>\n{html.escape(options_text)}\n\n"
+        f"💬 <b>Report Reason / Note:</b>\n<i>{html.escape(reason)}</i>"
     )
 
-    # Check if a dedicated report group is set
+    # Check dedicated report group
     report_chat_id = await db.get_setting("report_chat_id")
 
     sent_somewhere = False
@@ -222,27 +220,27 @@ async def report_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
             await context.bot.send_message(
                 chat_id=int(report_chat_id),
                 text=alert_text,
-                parse_mode=ParseMode.MARKDOWN,
+                parse_mode=ParseMode.HTML,
             )
             sent_somewhere = True
         except Exception as e:
-            logger.error(f"Failed sending report to report group {report_chat_id}: {e}")
+            logger.error(f"Failed sending report to group {report_chat_id}: {e}")
 
-    # Fallback to Super Admin DMs if no group is configured or if sending failed
+    # Fallback to Super Admin DMs if group failed
     if not sent_somewhere:
         for admin_id in config.SUPER_ADMIN_IDS:
             try:
                 await context.bot.send_message(
                     chat_id=admin_id,
                     text=alert_text,
-                    parse_mode=ParseMode.MARKDOWN,
+                    parse_mode=ParseMode.HTML,
                 )
             except Exception as e:
                 logger.warning(f"Could not send report to DM of admin {admin_id}: {e}")
 
     await msg.reply_text(
-        "✅ **Shukriya!** Aapki report admin group me forward kar di gayi hai. Hum is question ko jald verify karenge.",
-        parse_mode=ParseMode.MARKDOWN,
+        "✅ <b>Shukriya!</b> Aapki report admin group me forward kar di gayi hai.",
+        parse_mode=ParseMode.HTML,
     )
 
 async def stats_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -251,9 +249,9 @@ async def stats_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         return
     stats = qm.get_stats()
     served = await db.get_served_question_ids(chat.id)
-    text = f"📊 **CA Foundation Bank Stats**\n• Total Questions: **{stats['total']}**\n• Served in this Group: **{len(served)}**"
+    text = f"📊 <b>CA Foundation Bank Stats</b>\n• Total Questions: <b>{stats['total']}</b>\n• Served in this Group: <b>{len(served)}</b>"
     if update.message:
-        await update.message.reply_text(text, parse_mode=ParseMode.MARKDOWN)
+        await update.message.reply_text(text, parse_mode=ParseMode.HTML)
 
 async def post_init(application: Application) -> None:
     await db.init_db()
