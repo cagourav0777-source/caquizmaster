@@ -2384,3 +2384,1081 @@ Exp: Pool of trained and skilled labour in an industrial region benefits the ent
 Sub: Theory of Production and Cost
 
 ---
+
+Q: Assume that when price is Rs. 20, the quantity demanded is 9 units, and when price is Rs. 19, the quantity demanded is 10 units. Based on this information, what is the marginal revenue resulting from an increase in output from 9 units to 10 units.
+A) Rs. 20
+B) Rs. 19
+C) Rs. 10
+D) Rs. 1
+Ans: C
+Exp: TR(9) = 20 * 9 = 180. TR(10) = 19 * 10 = 190. MR = 190 - 180 = Rs. 10.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Assume that when price is Rs. 20, the quantity demanded is 15 units, and when price is Rs. 18, the quantity demanded is 16 units. Based on this information, what is the marginal revenue resulting from an increase in output from 15 units to 16 units?
+A) Rs. 18
+B) Rs. 16
+C) -Rs. 12
+D) Rs. 28
+Ans: C
+Exp: TR(15) = 20 * 15 = 300. TR(16) = 18 * 16 = 288. MR = 288 - 300 = -Rs. 12.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Suppose a firm is producing a level of output such that MR > MC, what should be firm do to maximize its profits?
+A) The firm should do nothing.
+B) The firm should hire less labour.
+C) The firm should increase price.
+D) The firm should increase output.
+Ans: D
+Exp: When MR > MC, producing additional units adds more to revenue than to cost, increasing total profit.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Marginal Revenue is equal to:
+A) The change in price divided by the change in output.
+B) The change in quantity divided by the change in price.
+C) The change in P x Q due to a one unit change in output.
+D) Price, but only if the firm is a price searcher.
+Ans: C
+Exp: MR = ΔTR / ΔQ = Δ(P x Q) / ΔQ.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Suppose that a sole proprietorship is earning total revenues of Rs. 1,00,000 and is incurring explicit costs of Rs. 75,000. If the owner could work for another company for Rs. 30,000 a year, we would conclude that:
+A) The firm is incurring an economic loss.
+B) Implicit costs are Rs. 25,000.
+C) The total economic costs are Rs. 1,00,000.
+D) The individual is earning an economic profit of Rs. 25,000.
+Ans: A
+Exp: Total Economic Cost = Explicit (75k) + Implicit (30k) = 1,05,000. Economic Profit = 1,00,000 - 1,05,000 = -Rs. 5,000 (Economic Loss).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not an essential condition of pure competition?
+A) Large number of buyers and sellers
+B) Homogeneous product
+C) Freedom of entry
+D) Absence of transport cost
+Ans: D
+Exp: Absence of transport cost is a condition of perfect competition, not pure competition.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: What is the shape of the demand curve faced by a firm under perfect competition?
+A) Horizontal
+B) Vertical
+C) Positively sloped
+D) Negatively sloped
+Ans: A
+Exp: Under perfect competition, a firm is a price-taker facing a perfectly elastic (horizontal) demand curve.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which is the first order condition for the profit of a firm to be maximum?
+A) AC = MR
+B) MC = MR
+C) MR = AR
+D) AC = AR
+Ans: B
+Exp: The first-order (necessary) condition for profit maximization is MC = MR.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not a characteristic of a "price-taker"?
+A) TR = P x Q
+B) AR = Price
+C) Negatively - sloped demand curve
+D) Marginal Revenue = Price
+Ans: C
+Exp: A price-taker faces a horizontal demand curve, not a negatively-sloped demand curve.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following statements is false?
+A) Economic costs include the opportunity costs of the resources owned by the firm.
+B) Accounting costs include only explicit costs.
+C) Economic profit will always be less than accounting profit if resources owned and used by the firm have any opportunity costs.
+D) Accounting profit is equal to total revenue less implicit costs.
+Ans: D
+Exp: Accounting profit equals Total Revenue minus Explicit costs (not implicit costs).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: With a given supply curve, a decrease in demand causes
+A) an overall decrease in price but an increase in equilibrium quantity.
+B) an overall increase in price but a decrease in equilibrium quantity.
+C) an overall decrease in price and a decrease in equilibrium quantity.
+D) no change in overall price but a reduction in equilibrium quantity.
+Ans: C
+Exp: Leftward shift of demand along a given supply curve decreases both equilibrium price and quantity.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: It is assumed in economic theory that
+A) decision making within the firm is usually undertaken by managers, but never by the owners.
+B) the ultimate goal of the firm is to maximise profits, regardless of firm size or type of business organisation.
+C) as the firm's size increases, so do its goals.
+D) the basic decision making unit of any firm is its owners.
+Ans: B
+Exp: Microeconomic theory assumes that profit maximization is the rational goal of every firm.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Assume that consumers' incomes and the number of sellers in the market for good A both decrease. Based upon this information, we can conclude, with certainty, that the equilibrium:
+A) price will increase.
+B) price will decrease.
+C) quantity will increase.
+D) quantity will decrease.
+Ans: D
+Exp: A fall in demand and a fall in supply both reduce equilibrium quantity with certainty.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: If supply increases in a greater proportion than demand
+A) The new equilibrium price and quantity will be greater than the original equilibrium price and quantity.
+B) The new equilibrium price will be greater than the original equilibrium price but equilibrium quantity will be higher.
+C) The new equilibrium price and quantity will be lower than the original equilibrium price and quantity.
+D) The new equilibrium price will be lower than the original equilibrium and the new equilibrium quantity will be higher.
+Ans: D
+Exp: When supply increases more than demand, price falls and equilibrium quantity rises.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Assume that in the market for good Z there is a simultaneous increase in demand and the quantity supplied. The result will be:
+A) an increase in equilibrium price and quantity.
+B) a decrease in equilibrium price and quantity.
+C) an increase in equilibrium quantity and uncertain effect on equilibrium price.
+D) a decrease in equilibrium price and increase in equilibrium quantity.
+Ans: C
+Exp: Both increases push equilibrium quantity up, while the effect on price depends on relative magnitude.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Suppose the technology for producing personal computers improves and, at the same time, individuals discover new uses for personal computers so that there is greater utilisation of personal computers. Which of the following will happen to equilibrium price and equilibrium quantity?
+A) Price will increase; quantity cannot be determined.
+B) Price will decrease; quantity cannot be determined.
+C) Quantity will increase; price cannot be determined.
+D) Quantity will decrease; price cannot be determined.
+Ans: C
+Exp: Both Supply increase (tech) and Demand increase (new uses) raise equilibrium quantity unambiguously.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not a condition of perfect competition?
+A) A large number of firms.
+B) Perfect mobility of factors.
+C) Informative advertising to ensure that consumers have good information.
+D) Freedom of entry and exit into and out of the market.
+Ans: C
+Exp: In perfect competition, goods are homogeneous and information is already perfect, making advertising redundant.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not a characteristic of a perfectly competitive market?
+A) Large number of firms in the industry.
+B) Outputs of the firms are perfect substitutes for one another.
+C) Firms face downward-sloping demand curves.
+D) Resources are very mobile.
+Ans: C
+Exp: Competitive firms face horizontal demand curves (P = AR = MR).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not a characteristic of monopolistic competition?
+A) Ease of entry into the industry.
+B) Product differentiation.
+C) A relatively large number of sellers.
+D) A homogeneous product.
+Ans: D
+Exp: Monopolistic competition is characterized by differentiated (heterogeneous) products.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Monopoly may arise in a product market because:
+A) A significantly important resource for production is owned by a single firm.
+B) The government has given the firm patent right to produce the commodity.
+C) Costs of production and economies of scale make production by a single producer more efficient.
+D) All the above.
+Ans: D
+Exp: Monopoly arises from exclusive resource ownership, legal patent rights, or natural cost advantages.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Oligopolistic industries are characterized by:
+A) a few dominant firms and substantial barriers to entry.
+B) a few large firms and no entry barriers.
+C) a large number of small firms and no entry barriers.
+D) one dominant firm and low entry barriers.
+Ans: A
+Exp: Oligopoly features a small number of large interdependent firms protected by high entry barriers.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Perfectly competitive firms are said to be "small" relative to the market. Which best describes this smallness?
+A) The individual firm must have fewer than 10 employees.
+B) The individual firm faces a downward-sloping demand curve.
+C) The individual firm has assets of less than Rs. 20 lakhs.
+D) The individual firm is unable to affect market price through its output decisions.
+Ans: D
+Exp: Being atomistic, an individual competitive firm's output change has a negligible impact on market price.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: For a price-taking firm:
+A) marginal revenue is less than price.
+B) marginal revenue is equal to price.
+C) marginal revenue is greater than price.
+D) the relationship between marginal revenue and price is indeterminate.
+Ans: B
+Exp: For a price-taker, price remains constant for all output units, so Price = AR = MR.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Monopolistic competition differs from perfect competition primarily because:
+A) in monopolistic competition, firms can differentiate their products.
+B) in perfect competition, firms can differentiate their products.
+C) in monopolistic competition, entry into the industry is blocked.
+D) in monopolistic competition, there are relatively few barriers to entry.
+Ans: A
+Exp: Product differentiation gives monopolistically competitive firms some degree of price-setting power.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Long-run equilibrium outcomes in monopolistic competition and perfect competition are similar because:
+A) efficient output level will be produced in the long run.
+B) firms will be producing at minimum average cost.
+C) firms will only earn a normal profit.
+D) firms realise all economies of scale.
+Ans: C
+Exp: Due to free entry and exit, firms in both market structures earn only normal profits in the long run.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is the distinguishing characteristic of oligopolies?
+A) A standardized product
+B) The goal of profit maximization
+C) The interdependence among firms
+D) Downward-sloping demand curves faced by firms.
+Ans: C
+Exp: Strategic interdependence (action of one firm provoking reactions from rivals) is unique to oligopoly.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: In which form of market structure is the degree of control over product price by a firm very large?
+A) Monopoly
+B) Imperfect Competition
+C) Oligopoly
+D) Perfect competition
+Ans: A
+Exp: A pure monopolist is the single seller of a product with no close substitutes, granting substantial pricing power.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Average revenue curve is also known as:
+A) Profit Curve
+B) Demand Curve
+C) Average Cost Curve
+D) Indifference Curve
+Ans: B
+Exp: The AR curve plots price against quantity demanded, making it identical to the firm's demand curve.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Under which form of market structure does a firm have no control over the price of its product?
+A) Monopoly
+B) Monopolistic competition
+C) Oligopoly
+D) Perfect competition
+Ans: D
+Exp: A perfectly competitive firm is a pure price-taker; market forces of demand and supply fix the price.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Discriminating monopoly implies that the monopolist charges different prices for his commodity:
+A) from different groups of consumers
+B) for different uses
+C) at different places
+D) any of the above.
+Ans: D
+Exp: Price discrimination can occur by customer segment, nature of use, or geographic location.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Price discrimination will be profitable only if elasticity of demand in different sub-markets is:
+A) uniform
+B) different
+C) less
+D) zero
+Ans: B
+Exp: Monopolists charge a higher price in inelastic sub-markets and a lower price in elastic sub-markets.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: In the context of oligopoly, the kinked demand hypothesis is designed to explain:
+A) Price and output determination
+B) Price rigidity
+C) Price leadership
+D) Collusion among rivals.
+Ans: B
+Exp: Paul Sweezy's kinked demand curve model explains why prices remain sticky/rigid in oligopoly markets.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The designation of a perfectly competitive firm as a price-taker is based on the assumption that:
+A) the firm has some control over product price.
+B) so many buyers and sellers exist that any individual firm cannot affect the market.
+C) each firm produces a homogeneous product.
+D) there is easy entry into or exit from the market place.
+Ans: B
+Exp: Large numbers of small buyers and sellers ensure that individual output decisions cannot move the market price.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Suppose demand curve for XYZ Co. slopes downward to the right. We conclude that:
+A) firm operates in a perfectly competitive market.
+B) firm can sell all that it wants at established market price.
+C) XYZ Co. is not a price-taker because it must lower price to sell additional units.
+D) XYZ Co. will not be able to maximize profits.
+Ans: C
+Exp: A downward-sloping demand curve implies that selling higher volume requires reducing price (price-setter).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The kinked demand curve model of oligopoly assumes that:
+A) consumer response to price increase is less than response to price decrease.
+B) consumer response to price increase is more than response to price decrease.
+C) elasticity of demand is constant regardless of price change.
+D) elasticity of demand is perfectly elastic if price increases and perfectly inelastic if it decreases.
+Ans: B
+Exp: Rivals do not match price increases (demand is elastic above kink), but match price cuts (inelastic below kink).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: A firm encounters its "shutdown point" when:
+A) average total cost equals price at profit-maximising level of output.
+B) average variable cost equals price at profit-maximising level of output.
+C) average fixed cost equals price at profit-maximising level of output.
+D) marginal cost equals price at profit-maximising level of output.
+Ans: B
+Exp: If Price < AVC in the short run, the firm cannot even cover its operating variable expenses and must shut down.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: If at profit-maximizing output, P < ATC but P > AVC, what should the firm do in the short run?
+A) Shutdown in order to minimise its losses.
+B) Raise its price enough to cover its losses.
+C) Move its resources to another industry.
+D) Continue to operate in the short run in order to minimize its losses.
+Ans: D
+Exp: Because Price covers AVC and contributes to part of fixed costs, continuing operations minimizes short-run losses.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When price is less than average variable cost (P < AVC) at profit-maximising output, a firm should:
+A) produce where MR = MC if operating in short run.
+B) produce where MR = MC if operating in long run.
+C) shut down, since it will lose nothing in that case.
+D) shut down, since it cannot even cover its variable costs if it stays in business.
+Ans: D
+Exp: Operating when P < AVC adds to total losses beyond fixed costs, making immediate shutdown optimal.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: A purely competitive firm's supply schedule in the short run is determined by:
+A) its average revenue.
+B) its marginal revenue.
+C) its marginal utility for money curve.
+D) its marginal cost curve.
+Ans: D
+Exp: A competitive firm's short-run supply curve is the rising portion of its MC curve above minimum AVC.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: One characteristic not typical of oligopolistic industry is:
+A) horizontal demand curve.
+B) too much importance to non-price competition.
+C) price leadership.
+D) a small number of firms in the industry.
+Ans: A
+Exp: Oligopolistic firms face downward-sloping or kinked demand curves, never a perfectly elastic horizontal curve.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The structure of the toothpaste industry in India is best described as:
+A) perfectly competitive.
+B) monopolistic.
+C) monopolistically competitive.
+D) oligopolistic.
+Ans: C
+Exp: Numerous branded varieties offering close substitutes with brand differentiation represent monopolistic competition.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The structure of the cold drink industry in India is best described as:
+A) perfectly competitive.
+B) monopolistic.
+C) monopolistically competitive.
+D) oligopolistic.
+Ans: D
+Exp: The Indian carbonated beverage market is dominated by a few giant players (Coca-Cola, PepsiCo), forming an oligopoly.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following statements is incorrect?
+A) Even a monopolistic firm can have losses.
+B) Firms in a perfectly competitive market are price takers.
+C) It is always beneficial for a firm in a perfectly competitive discriminate prices.
+D) Kinked demand curve is related to an oligopolistic market.
+Ans: C
+Exp: A perfectly competitive firm cannot practice price discrimination because its product is homogeneous and it is a price-taker.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Under perfect competition, in the long run, there will be no:
+A) normal profits
+B) supernormal profits.
+C) production
+D) costs.
+Ans: B
+Exp: Free entry and exit of firms ensure that all supernormal profits are competed away in the long run.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When _____ we know that the firms are earning just normal profits:
+A) AC = AR
+B) MC = MR
+C) MC = AC
+D) AR = MR
+Ans: A
+Exp: When Average Cost equals Average Revenue (AC = AR), total revenue equals total cost (TR = TC), yielding zero economic (normal) profit.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Under perfect competition, firms produce at minimum point of average cost curve (productive efficiency) when:
+A) AC = AR
+B) MC = AC
+C) MC = MR
+D) AR = MR
+Ans: B
+Exp: Productive efficiency is achieved when MC intersects AC at its lowest (minimum) point (MC = AC).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Allocative efficiency (cost of last unit equals price consumers are willing to pay) occurs when:
+A) MC = MR
+B) MC = AC
+C) MC = AR
+D) AR = MR
+Ans: C
+Exp: Allocative efficiency is achieved when Price (AR) equals Marginal Cost (MC), i.e., MC = AR.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Agricultural goods markets depict characteristics close to:
+A) perfect competition.
+B) oligopoly.
+C) monopoly.
+D) monopolistic competition.
+Ans: A
+Exp: Agricultural commodities (e.g. wheat, rice) have countless small sellers and homogeneous products.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not a characteristic of a competitive market?
+A) There are many buyers and sellers in the market.
+B) The goods offered for sales are largely the same.
+C) Firms generate small but positive supernormal profits in the long run.
+D) Firms can freely enter or exit the market.
+Ans: C
+Exp: Due to free entry and exit, competitive firms earn strictly zero supernormal profits in the long run.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following markets would most closely satisfy requirements for a perfectly competitive market?
+A) Electricity
+B) Cable television
+C) Cola
+D) Milk
+Ans: D
+Exp: Raw milk is a standardized agricultural good sold by numerous competing producers.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following statements is accurate regarding a perfectly competitive firm?
+A) Demand curve is downward sloping
+B) Demand curve always lies above marginal revenue curve
+C) Average revenue need not be equal to price
+D) Price is given and is determined by equilibrium in the entire market
+Ans: D
+Exp: The market demand and supply curves determine the equilibrium price, which individual firms take as given.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The hand tool market dominated by Draper, Stanley, and Craftsman is best described as:
+A) Monopolistically competitive
+B) a monopoly
+C) an oligopoly
+D) perfectly competitive
+Ans: C
+Exp: A market where a handful of large producers control most of the output is an oligopoly.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: A market structure in which many firms sell products that are similar but not identical is known as:
+A) monopolistic competition
+B) monopoly
+C) perfect competition
+D) oligopoly
+Ans: A
+Exp: Monopolistic competition involves many sellers competing with product differentiation.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When an oligopolist individually chooses output to maximize profit, it charges a price that is:
+A) more than the price charged by either monopoly or competitive market
+B) less than the price charged by either monopoly or competitive market
+C) more than monopoly price and less than competitive price
+D) less than monopoly price and more than competitive price.
+Ans: D
+Exp: Oligopoly pricing falls between pure monopoly (highest price) and perfect competition (lowest price).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: In the long-run equilibrium of a competitive market, firms operate at:
+A) intersection of marginal cost and marginal revenue
+B) their efficient scale
+C) zero economic profit
+D) all of these answers are correct
+Ans: D
+Exp: Competitive long-run equilibrium satisfies MR = MC, minimum AC (efficient scale), and zero economic profit.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following is not a characteristic of a monopolistically competitive market?
+A) Free entry and exit
+B) Abnormal profits in the long run
+C) Many sellers
+D) Differentiated products
+Ans: B
+Exp: Free entry of rival competitors eliminates abnormal/supernormal profits in the long run.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: In a very short period market:
+A) the supply is fixed
+B) the demand is fixed
+C) demand and supply are fixed
+D) none of the above
+Ans: A
+Exp: In the market period (very short period), physical supply is completely fixed and perfectly inelastic.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Time element in theory of value was conceived by:
+A) Adam Smith
+B) Alfred Marshall
+C) Pigou
+D) Lionel Robinson
+Ans: B
+Exp: Alfred Marshall classified price determination into market period, short period, long period, and secular period.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Total revenue =
+A) price x quantity
+B) price x income
+C) income x quantity
+D) none of the above
+Ans: A
+Exp: Total Revenue (TR) is the total money receipts obtained by multiplying price per unit by quantity sold (P x Q).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Average revenue is the revenue earned:
+A) per unit of input
+B) per unit of output
+C) different units of input
+D) different units of output
+Ans: B
+Exp: Average Revenue (AR) is total revenue divided by total units of output sold (TR / Q = Price).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: AR can be symbolically written as:
+A) MR/Q
+B) Price x quantity
+C) TR/Q
+D) none of the above
+Ans: C
+Exp: Average Revenue is calculated by dividing Total Revenue by total Quantity sold (AR = TR / Q).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: AR is also known as:
+A) price
+B) income
+C) revenue
+D) none of the above
+Ans: A
+Exp: Since AR = TR / Q = (P x Q) / Q = P, Average Revenue is always equal to price per unit.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Marginal revenue can be defined as the change in total revenue resulting from the:
+A) purchase of an additional unit of a commodity
+B) sales of an additional unit of a commodity
+C) sale of subsequent units of product
+D) none of the above
+Ans: B
+Exp: Marginal Revenue (MR) is the net addition made to total revenue by selling one extra unit of output.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When price elasticity of demand e > 1, then MR is:
+A) zero
+B) negative
+C) positive
+D) one
+Ans: C
+Exp: Using the formula MR = P(1 - 1/e), when e > 1, (1 - 1/e) > 0, so MR is always positive.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When price elasticity of demand e = 1, then MR is:
+A) positive
+B) zero
+C) one
+D) negative
+Ans: B
+Exp: Using MR = P(1 - 1/e), when e = 1, MR = P(1 - 1) = 0.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When price elasticity of demand e < 1, then MR is:
+A) negative
+B) zero
+C) positive
+D) one
+Ans: A
+Exp: Using MR = P(1 - 1/e), when e < 1, (1 - 1/e) < 0, making Marginal Revenue negative.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: In Economics, the term 'market' refers to a:
+A) place where buyer and seller bargain a product or service for a price
+B) place where buyer does not bargain
+C) place where seller does not bargain
+D) none of the above
+Ans: A
+Exp: A market is any arrangement or mechanism that brings buyers and sellers together to negotiate exchange prices.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Under perfect competition a firm is the:
+A) price-maker and not price-taker
+B) price-taker and not price-maker
+C) neither price-maker nor price-taker
+D) none of the above
+Ans: B
+Exp: An individual firm under perfect competition has zero market power and must take the market-determined price as given.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: A Monopolist is a:
+A) price-maker
+B) price-taker
+C) price-adjuster
+D) none of the above
+Ans: A
+Exp: A monopolist is the sole supplier of a commodity and has the power to set the product price.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Price discrimination is one of the features of:
+A) monopolistic competition
+B) monopoly
+C) perfect competition
+D) oligopoly
+Ans: B
+Exp: Charging different prices to different buyers for the same commodity is a distinct feature of monopoly.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Under monopoly, the degree of control over price is:
+A) none
+B) some
+C) very considerable
+D) none of the above
+Ans: C
+Exp: Because of the absence of close substitutes and presence of entry barriers, a monopolist enjoys considerable price control.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Generally, perishable goods like butter, eggs, milk, vegetables will have:
+A) regional market
+B) local market
+C) national market
+D) none of the above
+Ans: B
+Exp: Perishable goods spoil quickly without specialized cold storage and are largely traded in local markets.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Secular period is also known as:
+A) very short period
+B) short period
+C) very long period
+D) long period
+Ans: C
+Exp: Marshall defined the secular period (very long period) as one where technology, population, and capital supply fully evolve.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Stock exchange market is an example of:
+A) unregulated market
+B) regulated market
+C) spot market
+D) none of the above
+Ans: B
+Exp: Stock exchanges operate under strict statutory rules and guidelines of market regulators (e.g. SEBI).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The market for the ultimate consumers is known as:
+A) wholesale market
+B) regulated market
+C) unregulated market
+D) retail market
+Ans: D
+Exp: Retail markets sell commodities directly in small quantities to final consumers for personal consumption.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The condition for pure competition is:
+A) large number of buyers and sellers, free entry and exit
+B) homogeneous product
+C) both (a) and (b)
+D) large buyers/sellers, homogeneous product, perfect knowledge about product
+Ans: C
+Exp: Pure competition requires large numbers of buyers/sellers, homogeneous products, and free entry/exit.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Pure oligopoly is based on the products being:
+A) differentiated
+B) homogeneous
+C) unrelated
+D) none of the above
+Ans: B
+Exp: When oligopolistic firms produce identical/standardized products (e.g. cement, aluminium), it is pure/perfect oligopoly.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: In oligopoly, when the industry is dominated by one large firm considered as leader of the group, it is called:
+A) full oligopoly
+B) collusive oligopoly
+C) partial oligopoly
+D) syndicated oligopoly
+Ans: C
+Exp: Partial oligopoly occurs when one dominant firm acts as the price leader and small firms follow its pricing.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When products are sold through a centralized body, oligopoly is known as:
+A) organized oligopoly
+B) partial oligopoly
+C) competitive oligopoly
+D) syndicated oligopoly
+Ans: D
+Exp: Under syndicated oligopoly, member firms sell their products through a centralized agency/syndicate.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When monopolist divides consumers into separate sub-markets and charges different prices, it is known as:
+A) first degree of price discrimination
+B) second degree of price discrimination
+C) third degree of price discrimination
+D) none of the above.
+Ans: C
+Exp: Third-degree price discrimination occurs when a monopolist segments the market based on different price elasticities.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Under _____ the monopolist will fix a price which takes away the entire consumers' surplus:
+A) second degree of price discrimination
+B) first degree of price discrimination
+C) third degree of price discrimination
+D) none of the above.
+Ans: B
+Exp: In first-degree (perfect) price discrimination, the seller charges the maximum price each consumer is willing to pay.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Price discrimination is related to:
+A) time
+B) size of the purchase
+C) income
+D) any of the above
+Ans: D
+Exp: A seller can discriminate prices based on timing of purchase, volume/block purchased, or consumer income group.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The firm and the industry are one and the same in:
+A) Perfect competition
+B) Monopolistic competition
+C) Duopoly
+D) Monopoly
+Ans: D
+Exp: Because a monopolist is the sole producer of that commodity, the individual firm constitutes the entire industry.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: The demand curve of a monopoly firm will be:
+A) Upward sloping
+B) Downward sloping
+C) Horizontal
+D) Vertical
+Ans: B
+Exp: A monopolist faces the entire market demand curve, which slopes downwards from left to right.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: If the average cost is higher than the average revenue (AC > AR), the firm incurs:
+A) Normal profit
+B) Abnormal profit
+C) Loss
+D) No profit, no loss
+Ans: C
+Exp: When production cost per unit exceeds price earned per unit (AC > AR), total cost exceeds total revenue, causing losses.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following statements is correct?
+A) Price rigidity is an important feature of monopoly.
+B) Selling costs are possible under perfect competition.
+C) Factors of production cannot move freely under perfect competition.
+D) An industry consists of many firms.
+Ans: D
+Exp: An industry is defined as a group of numerous individual firms producing similar or identical goods.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Which of the following statements is incorrect?
+A) Under monopoly there is no difference between a firm and an industry.
+B) A monopolist may restrict the output and raise the price.
+C) Commodities offered for sale under a perfect competition will be heterogeneous.
+D) Product differentiation is peculiar to monopolistic competition.
+Ans: C
+Exp: Under perfect competition, products are strictly homogeneous (identical), not heterogeneous.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: For a market, the essential condition is:
+A) A particular geographical place
+B) Control of the government
+C) Close contact between buyers and sellers
+D) None of these
+Ans: C
+Exp: In economics, a market does not require a physical building, but rather contact/communication between buyers and sellers.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: When Price is Rs.10, Q=5 units; when Price is Rs.12, Q=4 units. Marginal revenue from 4 to 5 units is:
+A) Rs. 5
+B) Rs. 4
+C) Rs. 2
+D) Rs. 3
+Ans: C
+Exp: TR(4) = 12 * 4 = 48. TR(5) = 10 * 5 = 50. MR = 50 - 48 = Rs. 2.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Average revenue is equal to:
+A) The change in P x Q due to a one unit change in output.
+B) Nothing but price of one unit of output.
+C) The change in quantity divided by change in price.
+D) Graphically it denotes the firm's supply curve.
+Ans: B
+Exp: AR = Total Revenue / Output = (P x Q) / Q = Price of one unit.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Example of a commodity said to have an International Market:
+A) Perishable Goods.
+B) High Value and Small Bulk Commodities.
+C) Product whose trading is restricted by government.
+D) Bulky Articles.
+Ans: B
+Exp: High-value and low-weight goods (like gold, diamonds, precious metals) have global international markets.
+Sub: Price Determination in Different Markets
+
+---
+
+QQ: Weekly market is an example of:
+A) Regulated Market
+B) Spot Market
+C) Forward Market
+D) Unregulated Market
+Ans: D
+Exp: Local weekly village/town bazars function informally without centralized statutory regulations.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Conditions for equilibrium of a firm are:
+A) MR = MC
+B) MC should cut MR from below.
+C) MR = AR and MC should cut MR from below.
+D) MR = MC and MC should have a positive slope.
+Ans: D
+Exp: Equilibrium requires MR = MC (first-order) and MC rising/cutting MR from below (second-order condition).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Natural Monopoly arises when:
+A) There is enormous goodwill enjoyed by a firm.
+B) There are stringent legal and regulatory requirement.
+C) There are very large Economies of Scale.
+D) There are Business Combinations and Cartels.
+Ans: C
+Exp: Natural monopoly occurs when large economies of scale allow a single firm to serve the entire market at lowest cost.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Price Discrimination cannot persist under the following market form:
+A) Perfect Competition
+B) Monopoly
+C) Monopolistic
+D) Oligopoly
+Ans: A
+Exp: Price-taking behavior and homogeneous products under perfect competition prevent any price discrimination.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Sweezy's Model explains the concept of price rigidity relating to which market form?
+A) Oligopoly Market
+B) Perfect Competition Market
+C) Monopoly Market
+D) Monopolistic Market
+Ans: A
+Exp: Paul Sweezy developed the kinked demand curve model to explain sticky prices in oligopolies.
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Combination of Monopoly (single seller) and Monopsony (single buyer) Market is called:
+A) Duopoly Market
+B) Oligopoly Market
+C) Bilateral Monopoly Market
+D) Monopolistic Market
+Ans: C
+Exp: A bilateral monopoly consists of a market with exactly one seller (monopoly) facing exactly one buyer (monopsony).
+Sub: Price Determination in Different Markets
+
+---
+
+Q: Price varies by attributes such as location or Customer Segment is _____ degree of Price Discrimination:
+A) First
+B) Second
+C) Third
+D) Fourth
+Ans: C
+Exp: Charging different prices to different customer classes or locations represents third-degree price discrimination.
+Sub: Price Determination in Different Markets
+
+---
