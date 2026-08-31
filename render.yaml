@@ -1,0 +1,7 @@
+services:
+  - type: worker
+    name: ca-foundation-quiz-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    autoDeploy: true
