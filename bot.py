@@ -693,6 +693,7 @@ async def send_mocktest_question_job(context: ContextTypes.DEFAULT_TYPE) -> None
 
         if msg and msg.poll:
             session["current_poll_id"] = msg.poll.id
+            session["current_message_id"] = msg.message_id
             session["question_start_time"] = time.time()
             poll_to_mock_chat[msg.poll.id] = chat_id
             session["current_index"] += 1
@@ -752,7 +753,7 @@ async def poll_answer_handler(update: Update, context: ContextTypes.DEFAULT_TYPE
             user_score["correct"] += 1
             user_score["total_time"] += elapsed
 
-        # 🎯 NEW: For DM chats, immediately trigger next question after answer
+        # 🎯 NEW: For DM chats, immediately close poll and trigger next question after answer
         try:
             chat = await context.bot.get_chat(chat_id)
             if chat.type == Chat.PRIVATE:
@@ -760,6 +761,15 @@ async def poll_answer_handler(update: Update, context: ContextTypes.DEFAULT_TYPE
                 job_name = get_mock_job_name(chat_id)
                 for job in context.application.job_queue.get_jobs_by_name(job_name):
                     job.schedule_removal()
+                
+                # Close the poll immediately
+                try:
+                    message_id = session.get("current_message_id")
+                    if message_id:
+                        await context.bot.stop_poll(chat_id=chat_id, message_id=message_id)
+                        logger.info(f"DM user {user_id} answered, poll closed immediately")
+                except Exception as poll_error:
+                    logger.error(f"Error closing poll: {poll_error}")
                 
                 # Immediately trigger next question with small delay
                 context.application.job_queue.run_once(
