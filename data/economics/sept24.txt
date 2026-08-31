@@ -1,0 +1,1042 @@
+Q: Price in capitalist economy is determined by:
+A) Small private firms
+B) Big corporates
+C) Market forces of demand and supply
+D) Government
+Ans: C
+Exp: In a capitalist economy, the price mechanism functions freely through the market interaction of demand and supply.
+Sub: Sept 24
+
+---
+
+Q: Sarah, runs a lemonade stall, her decision-making process involves assessing the demand for her lemonade, pricing strategies, and maximizing her profit within the limited scope of her small business. Which level of the economy does Sarah's lemonade stall represent?
+A) Macro Economy
+B) Global Economy
+C) Micro Economy
+D) National Economy
+Ans: C
+Exp: Managing operational decisions, pricing, and profit maximization for an individual firm represents microeconomic analysis.
+Sub: Sept 24
+
+---
+
+Q: In which economy, the material means of production i.e. factories, capital, mines, etc. are owned by the whole community represented by the State ?
+A) Socialist Economy
+B) Capitalist Economy
+C) Mixed Economy
+D) Communist Economy
+Ans: A
+Exp: Under socialism, the means of production are collectively owned and managed by the state on behalf of the whole society.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is related with the total arrangements for the production and distribution of goods and services in a society ?
+A) Economic Problem
+B) Economic Choice
+C) Economic System
+D) Economic Institution
+Ans: C
+Exp: An economic system represents the comprehensive institutional framework through which a society organizes production and distribution.
+Sub: Sept 24
+
+---
+
+Q: Business Economics is basically concerned with:
+A) Applied Economics
+B) Managerial Economics
+C) Micro Economics
+D) Macro Economics
+Ans: C
+Exp: Business Economics is fundamentally rooted in microeconomic theory, applying its tools to internal firm decision-making.
+Sub: Sept 24
+
+---
+
+Q: Suppose the price elasticity of demand of a firm for its product is -1.2. If the price of the product is increased by 5%, then it is most probable that:
+A) Both total revenue and profit would increase.
+B) Both total revenue and profit would decrease.
+C) Total revenue would decrease but profit may increase.
+D) Total revenue would increase but profit may decrease.
+Ans: C
+Exp: When demand is price elastic (Ed > 1), raising price reduces Total Revenue; however, lower production volume may lower total cost, potentially raising net profit.
+Sub: Sept 24
+
+---
+
+Q: The demand function of a product X (in kg.) is expressed as Q = 1000 - 50P, where Q is the quantity demanded and P is the price of the product. When price of X is 10 per kg., it's price elasticity will be :
+A) -1
+B) 1
+C) -2
+D) 2
+Ans: A
+Exp: At P=10, Q = 1000 - 50(10) = 500. Elasticity = (dQ/dP) * (P/Q) = (-50) * (10 / 500) = -1.
+Sub: Sept 24
+
+---
+
+Q: With respect to the properties of indifference curve which of the following statement is false ?
+A) Higher indifference curve represents higher level of satisfaction.
+B) Indifference curve is a negatively sloped line.
+C) Intersecting point of two indifference curves represents highest level of satisfaction.
+D) An indifference curve is convex to the origin.
+Ans: C
+Exp: Two indifference curves can never intersect; intersection would violate the transitivity axiom of consumer preferences.
+Sub: Sept 24
+
+---
+
+Q: The price of a commodity is 10 per unit. At this price quantity supplied is 500 units. Price elasticity of supply of the commodity is 1.25. At what price the quantity to be supplied would be 20% more?
+A) 8.40
+B) 11.60
+C) 12.50
+D) 7.50
+Ans: B
+Exp: Es = %ΔQs / %ΔP => 1.25 = 20% / %ΔP => %ΔP = 20% / 1.25 = 16%. New Price = 10 * (1 + 0.16) = 11.60.
+Sub: Sept 24
+
+---
+
+Q: Mr. X and Mr. Y are rich rivals and, in a party, Mr. X wears an expensive dress and on seeing it Mr. Y who also has the same dress decided to reject the use of the same dress further. Rather Mr. Y will try to use an even more expensive one. Which effect affects Mr. Y?
+A) Bandwagon Effect
+B) Demonstration Effect
+C) Snob Effect
+D) Veblen Effect
+Ans: C
+Exp: Snob effect occurs when a consumer rejects or stops consuming a good because others are also using it.
+Sub: Sept 24
+
+---
+
+Q: If the income elasticity of a specific types of goods is greater than one, what does it suggest about the goods ?
+A) It is an inferior goods.
+B) It is a normal goods.
+C) It is a necessity goods.
+D) It is a luxury goods.
+Ans: D
+Exp: When income elasticity of demand is greater than one (Ey > 1), the commodity is categorized as a luxury good.
+Sub: Sept 24
+
+---
+
+Q: An increase in consumer surplus is likely to occur when:
+A) There is a rise in price of goods.
+B) There is a fall in price of goods.
+C) Demand decreases.
+D) Supply increases.
+Ans: B
+Exp: A fall in market price widens the gap between what consumers are willing to pay and what they actually pay.
+Sub: Sept 24
+
+---
+
+Q: Which tool does the ordinal utility approach uses to analyse consumer behaviour and is based on consumer preferences?
+A) Indifference Curve Analysis
+B) Law of Diminishing Marginal Utility
+C) Elasticity of Demand
+D) Consumer Surplus
+Ans: A
+Exp: The ordinal utility framework uses Indifference Curve Analysis (Hicks and Allen) to model consumer choice.
+Sub: Sept 24
+
+---
+
+Q: The price of 1 kg. of tea is 50. At this price, 10 kg. of tea is demanded. If the price of coffee rises from 30 to 40 per kg., the quantity demanded of tea rises from 10 kg. to 15 kg. What will be the cross price elasticity of tea?
+A) +1
+B) -1.5
+C) +1.5
+D) -1
+Ans: C
+Exp: Cross Ed = %ΔQ_tea / %ΔP_coffee = [(15 - 10)/10] / [(40 - 30)/30] = 50% / 33.33% = +1.5.
+Sub: Sept 24
+
+---
+
+Q: If change in quantity demanded is 60% and change in advertisement expenditure is 20% then what will be the advertisement elasticity ?
+A) 3
+B) 0.33
+C) 6
+D) 20
+Ans: A
+Exp: Advertisement Elasticity = %ΔQ / %ΔAd_Spend = 60% / 20% = 3.
+Sub: Sept 24
+
+---
+
+Q: At higher levels of output average total cost curve and average variable cost curve come closer because :
+A) Average fixed cost remains constant.
+B) Average variable cost remains constant.
+C) Average fixed cost accounts for relatively smaller percentage of average total cost.
+D) Average variable cost accounts for relatively smaller percentage of average total cost.
+Ans: C
+Exp: The vertical gap between ATC and AVC equals AFC (ATC - AVC = AFC); as output expands, AFC continuously declines toward zero.
+Sub: Sept 24
+
+---
+
+Q: A firm produces 5 units of output at average fixed cost of 4 per unit. For production of 10 units of output average cost is 7 per unit. Average variable cost for producing 10 units of output is:
+A) 4
+B) 5
+C) 6
+D) 10
+Ans: B
+Exp: TFC = 5 * 4 = 20. At 10 units, TC = 10 * 7 = 70. TVC = 70 - 20 = 50. AVC = 50 / 10 = 5.
+Sub: Sept 24
+
+---
+
+Q: How is production in the economic sense distinguished from non-market activities performed within a household ?
+A) Involvement of love and affection
+B) Exchange in the market
+C) Voluntary nature of the activity
+D) Intangible outputs
+Ans: B
+Exp: Economic production is strictly characterized by intention and ability to exchange goods/services in the market for a monetary price.
+Sub: Sept 24
+
+---
+
+Q: When does the Law of Variable Proportions, or the Law of Diminishing Returns, become relevant ?
+A) In the long run
+B) In the short run
+C) In both the short and long run
+D) Only when all factors are variable
+Ans: B
+Exp: The Law of Variable Proportions is a short-run concept where variable inputs are combined with at least one fixed factor.
+Sub: Sept 24
+
+---
+
+Q: What is the primary characteristic of Decreasing Returns to Scale ?
+A) Total output increases at an increasing rate
+B) Total output increases at a decreasing rate
+C) Total output remains constant
+D) Total output decreases
+Ans: B
+Exp: Under decreasing returns to scale in the long run, proportionate output growth is less than proportionate input expansion.
+Sub: Sept 24
+
+---
+
+Q: What term is used to describe costs that remain fixed over a certain range of output but suddenly jump to a new higher level when output goes beyond a given limit?
+A) Variable cost
+B) Semi-variable cost
+C) Stair-step variable cost
+D) Sunk cost
+Ans: C
+Exp: Stair-step costs stay constant over discrete capacity intervals and jump discontinuously when thresholds are exceeded.
+Sub: Sept 24
+
+---
+
+Q: Which of the following expenses is included in cost of production and termed as accounting cost?
+A) Wages paid to workers employed in the factory.
+B) Expenses incurred on Research & Development.
+C) Expenses incurred on advertising.
+D) Common costs incurred for general operation of business.
+Ans: A
+Exp: Factory labour wages are direct explicit contractual payments forming part of accounting cost of production.
+Sub: Sept 24
+
+---
+
+Q: The supply curve of a perfectly competitive firm in the short run is
+A) the portion of the Marginal Cost curve which lies below the minimum point of Average Variable Cost curve.
+B) the portion of the Marginal Cost curve which lies above the minimum point of Average Variable Cost curve.
+C) the portion of the Average Cost curve which lies below the minimum point of Average Variable Cost curve.
+D) the part of the Average Cost curve which lies above the Marginal Cost curve.
+Ans: B
+Exp: A competitive firm's short-run supply curve is the rising portion of its MC curve above the minimum AVC (shutdown point).
+Sub: Sept 24
+
+---
+
+Q: Three major smartphone manufacturers, Alpha Tech, Beta Mobile, and Gamma Gadgets, dominate the smartphone market. These companies are in constant competition for market share and innovation. Which type of the market structure has been described in this scenario?
+A) Monopoly
+B) Oligopoly
+C) Perfect Competition
+D) Monopolistic Competition
+Ans: B
+Exp: A market dominated by a few large, highly interdependent sellers is an Oligopoly.
+Sub: Sept 24
+
+---
+
+Q: If Marginal Revenue (MR) for Unit 1 is 10, for Unit 2 is 5, and for Unit 3 is 3 then what will be the amount of Total Revenue (TR)?
+A) 15
+B) 10
+C) 8
+D) 18
+Ans: D
+Exp: Total Revenue = Sum of Marginal Revenues = 10 + 5 + 3 = 18.
+Sub: Sept 24
+
+---
+
+Q: Which market covers a wider area such as a few adjacent cities, parts of states, or a cluster of states ?
+A) Regional Market
+B) National Market
+C) International Market
+D) Local Market
+Ans: A
+Exp: A regional market spans across adjacent cities, regional districts, or a cluster of neighbouring states.
+Sub: Sept 24
+
+---
+
+Q: When should a competitive firm consider shutting down its operations?
+A) When the price is above Total Variable Costs (TVC).
+B) When the price is below Average Variable Costs (AVC).
+C) When the price is equal to Total Revenue (TR).
+D) When the price is constant.
+Ans: B
+Exp: If price falls below minimum AVC in the short run, the firm minimizes losses by shutting down immediately.
+Sub: Sept 24
+
+---
+
+Q: What happens to the equilibrium price when there is a decrease in supply with no change in demand?
+A) Equilibrium price goes down.
+B) Equilibrium price remains constant.
+C) Equilibrium price goes up.
+D) Equilibrium quantity increases.
+Ans: C
+Exp: A leftward shift in supply with constant demand creates a shortage at the old price, bidding equilibrium price upward.
+Sub: Sept 24
+
+---
+
+Q: In the case of demand decreasing and supply increasing, what is the expected impact on equilibrium price?
+A) Equilibrium price rises
+B) Equilibrium price falls
+C) Equilibrium price remains constant
+D) Equilibrium price remains uncertain
+Ans: B
+Exp: Both a decrease in demand and an increase in supply exert downward pressure on equilibrium price.
+Sub: Sept 24
+
+---
+
+Q: In Ricardo's view, what does "Exchange Value" represent?
+A) The cost of production of a commodity
+B) The subjective preferences of individuals
+C) Power in exchange over purchasable commodities in general
+D) The quantity of labour embodied in a commodity
+Ans: C
+Exp: In classical political economy, exchange value represents the purchasing power of a good over other commodities.
+Sub: Sept 24
+
+---
+
+Q: Talcum powder market is an example of which of the following market ?
+A) Collusive Oligopoly
+B) Imperfect Oligopoly
+C) Open Oligopoly
+D) Close Oligopoly
+Ans: B
+Exp: When oligopoly firms produce branded, differentiated consumer products, it is termed Imperfect (Differentiated) Oligopoly.
+Sub: Sept 24
+
+---
+
+Q: A software company engages in price discrimination for its product. The company identifies different market segments and charges different prices based on perceived differences in willingness to pay. This is possible under which situation?
+A) Monopolistic competition
+B) A Monopoly
+C) Perfect competition
+D) Oligopoly competition
+Ans: B
+Exp: Exercising price discrimination across market sub-segments requires price-setting monopoly power.
+Sub: Sept 24
+
+---
+
+Q: According to the Kinked demand curve hypothesis, why does the demand curve facing an oligopolist have a 'Kink' at the prevailing price level ?
+A) To create confusion among competitors
+B) To make the demand curve visually interesting
+C) The segment above price is highly elastic, and below it is inelastic
+D) It is a graphical error in the representation
+Ans: C
+Exp: Paul Sweezy showed that rivals do not match price increases (elastic above kink) but match price cuts (inelastic below kink).
+Sub: Sept 24
+
+---
+
+Q: A market structure in which there is only a single buyer and a single seller is known as:
+A) Monopsony
+B) Bilateral Monopoly
+C) Oligopoly
+D) Duopoly
+Ans: B
+Exp: A market with exactly one seller and one buyer is classified as a Bilateral Monopoly.
+Sub: Sept 24
+
+---
+
+Q: Monopolistic Competition is characterized by
+A) Many sellers selling identical products to many buyers.
+B) Many sellers selling differentiated products to many buyers.
+C) Few sellers selling identical products to many buyers.
+D) Few sellers selling competing products to selective buyers.
+Ans: B
+Exp: Monopolistic competition is defined by numerous sellers offering differentiated, branded products.
+Sub: Sept 24
+
+---
+
+Q: Condition for equilibrium of firm under perfect competition:
+A) Where Marginal Revenue (MR) is equal to the Marginal Cost (MC).
+B) Where Average Revenue (AR) is equal to the Average Cost (AC).
+C) MC curve cuts MR curve from below.
+D) Where MR = MC and also MC curve cuts MR curve from below.
+Ans: D
+Exp: Firm equilibrium requires MR = MC (first-order) and MC rising/cutting MR from below (second-order condition).
+Sub: Sept 24
+
+---
+
+Q: A market structure in which all firms individually are price takers is known as:
+A) Monopolistic competition
+B) Monopoly
+C) Perfect competition
+D) Oligopoly
+Ans: C
+Exp: In perfect competition, individual atomistic firms have zero pricing power and act as price takers.
+Sub: Sept 24
+
+---
+
+Q: The ratio between nominal GDP and real GDP is known as:
+A) Inflation Rate
+B) Gross Domestic Product deflator
+C) Gross National Product
+D) Net National Product
+Ans: B
+Exp: GDP Deflator = (Nominal GDP / Real GDP) * 100.
+Sub: Sept 24
+
+---
+
+Q: If the GDP Deflator of a country in the year 2020 is 140.75 and in the year 2021 is 157.33, then what is the inflation rate in the year 2021?
+A) 9.09%
+B) 10.97%
+C) 11.78%
+D) 12.34%
+Ans: C
+Exp: Inflation Rate = [(157.33 - 140.75) / 140.75] * 100 = (16.58 / 140.75) * 100 = 11.78%.
+Sub: Sept 24
+
+---
+
+Q: If GDP at market price is 6,700 crore and depreciation is 530 crore, then what will be the NDP at market price?
+A) 6,200 crore
+B) 6,170 crore
+C) 7,230 crore
+D) 6,690 crore
+Ans: B
+Exp: NDP MP = GDP MP - Depreciation = 6,700 - 530 = 6,170 crore.
+Sub: Sept 24
+
+---
+
+Q: Suppose the consumption of an economy is given by C = 30 + 0.5Y and investment I = 12 + 0.15Y. What will be the equilibrium level of National Income?
+A) 120
+B) 115
+C) 105
+D) 112
+Ans: A
+Exp: Y = C + I = 30 + 0.5Y + 12 + 0.15Y => Y = 42 + 0.65Y => 0.35Y = 42 => Y = 42 / 0.35 = 120.
+Sub: Sept 24
+
+---
+
+Q: Which of the following refers to the mixed income of the self-employed ?
+A) Combined factor payments which are not distinguishable
+B) Wages due to non-economic activities
+C) Net profits received by self-employed
+D) Outside wages received by self-employed
+Ans: A
+Exp: Mixed income covers the combined, non-separable earnings of labour and capital generated by self-employed individuals.
+Sub: Sept 24
+
+---
+
+Q: What does Disposable Personal Income (DPI) represent ?
+A) The total income earned by individuals before taxes
+B) The income individuals have for consumption or saving
+C) The total savings accumulated by individuals
+D) The total income of a country's government
+Ans: B
+Exp: DPI is the net income available to households to allocate between personal consumption and savings after all personal direct taxes.
+Sub: Sept 24
+
+---
+
+Q: What are the phases included in the circular flow of income ?
+A) Production, Saving and Expenditure
+B) Production, Income and Taxation
+C) Production, Distribution and Disposition
+D) Income, Saving and Investment
+Ans: C
+Exp: Circular flow of national income operates through Production (Generation), Distribution (Income), and Disposition (Expenditure).
+Sub: Sept 24
+
+---
+
+Q: Which of the following is not the limitation in the computation of the national income?
+A) Issue of transfer payments
+B) Services of durable goods
+C) Difficulty of incorporating the distribution of income
+D) Quality improvements due to technological innovations
+Ans: D
+Exp: Technological quality enhancement is an index number compilation challenge, not a structural national income accounting limitation.
+Sub: Sept 24
+
+---
+
+Q: Which method measures the contribution of each producing enterprise in the domestic territory of a country over an accounting year by consolidating production of each industry less intermediate purchases from all other industries ?
+A) Income Disposal Method
+B) Value Added Method
+C) Income Method
+D) Expenditure Method
+Ans: B
+Exp: The Value Added (Product) Method calculates net output by subtracting intermediate consumption from gross value of output.
+Sub: Sept 24
+
+---
+
+Q: In the three-sector model of a closed economy (neglecting foreign trade), what are the three components of aggregate demand?
+A) Consumption, Savings, and Investment
+B) Consumption, Exports, and Government Spending
+C) Consumption, Investment, and Government Spending
+D) Consumption, Imports, and Exports
+Ans: C
+Exp: In a three-sector closed macro model, Aggregate Demand is C + I + G.
+Sub: Sept 24
+
+---
+
+Q: According to the Keynesian theory of income and employment, national income depends upon :
+A) Aggregate Effective Supply
+B) Aggregate Effective Savings
+C) Aggregate Effective Demand
+D) Aggregate Effective Production
+Ans: C
+Exp: Keynesian economics establishes that equilibrium output and employment are determined by aggregate effective demand.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is not a correct formula to calculate NNP_MP?
+A) NNP_MP = GNP_MP - Depreciation
+B) NNP_MP = NDP_MP + Net Factor Income from Abroad
+C) NNP_MP = GDP_MP + Net Factor Income from Abroad - Depreciation
+D) NNP_MP = NDP_MP - Depreciation
+Ans: D
+Exp: NDP is already net of depreciation; deducting depreciation again from NDP is mathematically incorrect.
+Sub: Sept 24
+
+---
+
+Q: The state-level estimates are typically prepared by the State Income Units of the respective states. Which organization is primarily responsible for this task ?
+A) Directorates of Economics and Statistics (DESs)
+B) Central Statistical Organization (CSO)
+C) Ministry of Finance
+D) Reserve Bank of India
+Ans: A
+Exp: State Domestic Product estimates are prepared by the Directorates of Economics and Statistics (DESs) of respective state governments.
+Sub: Sept 24
+
+---
+
+Q: What will be the Total Income if the value of Average Propensity to Consume (APC) is 0.45 and Total Consumption = 900 crores?
+A) 2,500 crores
+B) 2,000 crores
+C) 2,050 crores
+D) 2,100 crores
+Ans: B
+Exp: Total Income Y = Total Consumption / APC = 900 / 0.45 = 2,000 crores.
+Sub: Sept 24
+
+---
+
+Q: When there is fall in the levels of investment and employment, producers do not instantaneously recognise the pulse of the economy. What is indicated by this situation?
+A) Peak
+B) Expansion
+C) Contraction
+D) Trough and Depression
+Ans: C
+Exp: In the early contraction phase, output continues momentarily until unsold inventories accumulate and slowdown is recognized.
+Sub: Sept 24
+
+---
+
+Q: What is the term for the lowest point of economic activity in a business cycle, where unemployment is high, and production is at its lowest ?
+A) Prosperity
+B) Trough and Depression
+C) Peak
+D) Expansion
+Ans: B
+Exp: The trough represents the bottom of the business cycle where aggregate output and employment hit their lowest point.
+Sub: Sept 24
+
+---
+
+Q: Business whose fortune is closely linked to the rate of economic growth is referred to as:
+A) Cyclical Business
+B) Seasonal Business
+C) Static Business
+D) Dynamic Business
+Ans: A
+Exp: Cyclical businesses (construction, heavy engineering, luxury durables) follow aggregate macroeconomic fluctuations.
+Sub: Sept 24
+
+---
+
+Q: During what time, the production of weapons and arms, etc. increase and most of the resources of the country are diverted for their production?
+A) Post-War
+B) Pre-War
+C) War
+D) Peace
+Ans: C
+Exp: During wartime, productive resources are redirected toward arms, weapons, and defense supplies.
+Sub: Sept 24
+
+---
+
+Q: In Recovery phase of business cycle, the process of reversal is initially felt in the:
+A) Capital market
+B) Labour market
+C) Agriculture market
+D) Financial market
+Ans: B
+Exp: Economic recovery begins in the labour market as firms start recalling workers and increasing hours.
+Sub: Sept 24
+
+---
+
+Q: Sarah is considering purchasing a used car from a private seller named John. John claims that the car is in excellent condition and has never been in an accident. However, John is aware that the car had significant damage in the past due to an accident, but he has repaired it without disclosing this information to Sarah. Based on the case described, what concept of economics does this scenario illustrate ?
+A) Moral Hazard
+B) Lemons Problem
+C) Market Power
+D) Government Interventions
+Ans: B
+Exp: George Akerlof's 'Market for Lemons' illustrates how asymmetric information between buyers and sellers leads to adverse selection.
+Sub: Sept 24
+
+---
+
+Q: If the primary deficit is 20,500 crores and the net interest liabilities of a country are 3,500 crores then what will be the fiscal deficit ?
+A) 17,000 crores
+B) 21,500 crores
+C) 19,500 crores
+D) 24,000 crores
+Ans: D
+Exp: Fiscal Deficit = Primary Deficit + Net Interest Liabilities = 20,500 + 3,500 = 24,000 crores.
+Sub: Sept 24
+
+---
+
+Q: Which Articles of the Indian Constitution contain specific provisions regarding the distribution of finances among states ?
+A) Articles 356 to 369
+B) Articles 248 to 257
+C) Articles 268 to 281
+D) Articles 292 to 304
+Ans: C
+Exp: Chapter I of Part XII of the Constitution (Articles 268 to 281) deals with the distribution of revenues between Union and States.
+Sub: Sept 24
+
+---
+
+Q: Richard Musgrave introduced a three-branch taxonomy describing the role of government in a market economy. What are these branches ?
+A) Resource allocation, income generation, and price stability
+B) Resource allocation, income redistribution, and macro economic stabilization
+C) Production efficiency, income equality, and fiscal sustainability
+D) Price regulation, employment generation, and fiscal responsibility
+Ans: B
+Exp: Richard Musgrave categorized the public economic role into Allocation, Redistribution, and Stabilization functions.
+Sub: Sept 24
+
+---
+
+Q: Under which Supreme Court verdict do the Union and State Legislatures have "equal, simultaneous and unique powers" to make laws on Goods and Services Tax (GST)?
+A) June 2020 verdict
+B) July 2021 verdict
+C) Feb. 2022 verdict
+D) May 2022 verdict
+Ans: D
+Exp: In May 2022 (Mohit Minerals case), the Supreme Court ruled that Parliament and State legislatures possess equal and simultaneous GST powers.
+Sub: Sept 24
+
+---
+
+Q: Under institutional responsibility for public debt management, external debt is the responsibility of:
+A) Reserve Bank of India
+B) Ministry of Finance
+C) Department of Economic Affairs
+D) State Government
+Ans: B
+Exp: External sovereign debt management is administered by the Ministry of Finance (Department of Economic Affairs).
+Sub: Sept 24
+
+---
+
+Q: What actions can be taken during Inflation?
+A) Introduce subsidies and reduce tax rates.
+B) Implement austerity measures and reduce government spending.
+C) Levy new taxes and raise the rates of existing taxes.
+D) Increase government borrowing and stimulate demand.
+Ans: B
+Exp: Contractionary fiscal policy during inflation implements spending cuts, austerity measures, and higher tax rates.
+Sub: Sept 24
+
+---
+
+Q: Which of the following are considered tools of fiscal policy?
+A) Taxes, subsidies and tariffs
+B) Taxes, government expenditure, public debt and the budget
+C) Monetary policy, interest rates and inflation targeting
+D) Exchange rates, capital controls and quantitative easing
+Ans: B
+Exp: The core instruments of fiscal policy are taxation, public expenditure, government debt management, and the budget.
+Sub: Sept 24
+
+---
+
+Q: All revenues received, loans raised and all moneys received by the government in repayment of loans are credited to the:
+A) Consolidated fund of India
+B) Contingency fund of India
+C) Public provident fund of India
+D) Public Account
+Ans: A
+Exp: Under Article 266(1), all government revenues, loans, and loan recoveries are credited to the Consolidated Fund of India.
+Sub: Sept 24
+
+---
+
+Q: In an economy, the money supply (M) is 500 crores, the velocity of money (V) is 5 and the total number of transactions (T) is 10,000. Calculate the average price level (P) in the economy.
+A) 25 thousand
+B) 25 lakhs
+C) 50 lakhs
+D) 50 thousand
+Ans: B
+Exp: Fisher's equation: MV = PT => P = MV / T = (500,00,00,000 * 5) / 10,000 = 25,00,000 (25 lakhs).
+Sub: Sept 24
+
+---
+
+Q: If the monetary base in an economy is 250 crores through an open market operation by the central bank, and the money supply is 1,000 crores, calculate the money multiplier.
+A) 0.25
+B) 1
+C) 4
+D) 0.40
+Ans: C
+Exp: Money Multiplier = Money Supply / Monetary Base = 1,000 / 250 = 4.
+Sub: Sept 24
+
+---
+
+Q: If the reserve ratio (R) is 0.10 and there is an increase in the reserves by 1,000, what will be the change in the money supply?
+A) 10,000
+B) 1,000
+C) 100
+D) 10
+Ans: A
+Exp: Change in Money Supply = ΔReserves / Reserve Ratio = 1,000 / 0.10 = 10,000.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is NOT a function of money?
+A) Providing a common measure of value
+B) Acting as a medium of exchange
+C) Serving as a unit of account
+D) Easily reproducible by people
+Ans: D
+Exp: Money cannot be easily duplicated or reproduced by citizens; unauthorized reproduction is counterfeiting.
+Sub: Sept 24
+
+---
+
+Q: The concept of "aversion of risk" is propounded by:
+A) James Tobin
+B) Milton Friedman
+C) John Maynard Keynes
+D) Alfred Marshall
+Ans: A
+Exp: James Tobin developed the risk-avoiding portfolio balance theory of liquidity preference.
+Sub: Sept 24
+
+---
+
+Q: What type of currency is issued by the central bank ?
+A) Commodity money
+B) Digital money
+C) Fiat money
+D) Representative money
+Ans: C
+Exp: Central banks issue legal tender Fiat Money backed by government guarantee without intrinsic commodity backing.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is the correct formula to calculate Excess Reserves?
+A) Excess Reserves = Total reserves - Required reserves
+B) Excess Reserves = Total reserves + Required reserves
+C) Excess Reserves = Total reserves / Required reserves
+D) Excess Reserves = Total reserves * Required reserves
+Ans: A
+Exp: Excess Reserves equal Total Bank Reserves minus Statutorily Required Cash Reserves.
+Sub: Sept 24
+
+---
+
+Q: What does RBI publish every six months, providing explanations of the sources of inflation and forecasts for the upcoming period of six to eighteen months ?
+A) Economic Outlook Report
+B) Financial Stability Report
+C) Monetary Policy Report
+D) Inflation Targeting Framework
+Ans: C
+Exp: Under the statutory framework, the RBI publishes the half-yearly Monetary Policy Report.
+Sub: Sept 24
+
+---
+
+Q: Reverse Repo rate is linked to repo rate in the following way:
+A) Reverse Repo Rate = Repo Rate + 1
+B) Reverse Repo Rate = Repo Rate - 1
+C) Reverse Repo Rate = Repo Rate * 0.1%
+D) Reverse Repo Rate = Repo Rate * 0.01%
+Ans: B
+Exp: In the standard RBI policy corridor, Reverse Repo Rate = Repo Rate - 1 (i.e. -100 bps).
+Sub: Sept 24
+
+---
+
+Q: Real money refers to:
+A) Real national income
+B) Money demanded at given rate of interest
+C) Nominal GNP divided by price level
+D) Nominal money adjusted to the price level
+Ans: D
+Exp: Real money balances represent the nominal money supply deflated by the general price index (M / P).
+Sub: Sept 24
+
+---
+
+Q: As of 1st February 2021, how many Regional Trade Agreements (RTAs) were in force worldwide?
+A) 239 RTAS
+B) 339 RTAS
+C) 439 RTAS
+D) 539 RTAS
+Ans: B
+Exp: As per WTO records, 339 Regional Trade Agreements (RTAs) were in force globally as of February 1, 2021.
+Sub: Sept 24
+
+---
+
+Q: Suppose the exchange rate between INR and EUR changes from 1 EUR = 80 INR to 1 EUR = 85 INR. What can be said about the change in the value of the INR relative terms to the EUR?
+A) INR has appreciated against EUR.
+B) INR has depreciated against the EUR.
+C) EUR has no effect against INR.
+D) EUR has depreciated against INR.
+Ans: B
+Exp: Paying more INR (85 vs 80) per Euro means the Indian Rupee has depreciated against the Euro.
+Sub: Sept 24
+
+---
+
+Q: What does the principle of Absolute Advantage refer to ?
+A) The ability to produce a greater quantity of a goods using fewer resources
+B) The ability to produce a greater quantity of a goods using the same amount of resources as competitors
+C) The ability to produce a lesser quantity of a goods using the same amount of resources as competitors
+D) The ability to produce a greater variety of goods than competitors
+Ans: B
+Exp: Absolute advantage (Adam Smith) is the ability of an economy to produce higher physical output per given input than trading partners.
+Sub: Sept 24
+
+---
+
+Q: The North American Free Trade Agreement (NAFTA), is a trade agreement signed between
+A) United States of America and Canada
+B) United States of America, Canada, and Mexico
+C) United States of America, Mexico
+D) Canada and Mexico
+Ans: B
+Exp: NAFTA (now modernized as USMCA) was signed between the United States, Canada, and Mexico.
+Sub: Sept 24
+
+---
+
+Q: What does TRIPS stand for?
+A) Trade-Related Agreements on Investment Policies
+B) Trade-Related Aspects of Intellectual Property Rights
+C) Transnational Regulations for International Product Standards
+D) Trade Regulations for International Patent Systems
+Ans: B
+Exp: TRIPS stands for Trade-Related Aspects of Intellectual Property Rights administered under the WTO.
+Sub: Sept 24
+
+---
+
+Q: What term is used for the rate between currencies Y and Z, which is derived from the given rates of another set of two pairs of currency (say, X and Y, and, X and Z) ?
+A) Bid rate
+B) Ask rate
+C) Spot rate
+D) Cross rate
+Ans: D
+Exp: A cross rate is an exchange rate between two non-domestic currencies derived via a common third vehicle currency (e.g. USD).
+Sub: Sept 24
+
+---
+
+Q: What is the main difference between Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI)?
+A) FDI creates physical assets, while FPI involves only financial assets.
+B) FDI involves financial assets, while FPI creates physical assets.
+C) Both FDI and FPI create physical assets.
+D) Both FDI and FPI involve only financial assets.
+Ans: A
+Exp: FDI creates lasting physical productive assets and management control, whereas FPI is short-term financial asset investment.
+Sub: Sept 24
+
+---
+
+Q: Foreign corporations invest in India to benefit from the country's particular investment privileges such as tax breaks and comparatively lower salaries. This type of investment is an example of:
+A) Foreign Portfolio Investment
+B) Joint Venture
+C) Foreign Direct Investment
+D) Strategic Alliance
+Ans: C
+Exp: Multinational corporate investment in factories and facilities to leverage cost and tax advantages is Foreign Direct Investment.
+Sub: Sept 24
+
+---
+
+Q: A tariff which a WTO member binds itself with a legal commitment not to raise tariff rate above a certain level is known as:
+A) Applied tariff
+B) Bound tariff
+C) Specific tariff
+D) Most-favoured nation tariffs
+Ans: B
+Exp: A bound tariff is a legally committed ceiling rate registered with the WTO that a member country cannot exceed.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is covered under Technical Barriers to Trade (TBT)?
+A) Only food products.
+B) Only non-food traded products.
+C) Only technical standard products.
+D) Both food and non-food traded products.
+Ans: D
+Exp: The WTO TBT Agreement covers technical regulations, standards, and packaging requirements for both food and industrial goods.
+Sub: Sept 24
+
+---
+
+Q: Transportation and storage, real estate service, public administration and education are the activities in India which are covered by:
+A) Primary sector
+B) Secondary sector
+C) Tertiary sector
+D) Private sector
+Ans: C
+Exp: Transport, real estate, administrative services, and education constitute the Services or Tertiary sector.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is a feature of green revolution ?
+A) Grow more crops by redistributing land to landless people
+B) Use of soil friendly green manure to preserve fertility of soil
+C) Diversification to horticulture
+D) Use of high yielding varieties of seeds and scientific cultivation
+Ans: D
+Exp: The Green Revolution introduced High-Yielding Variety (HYV) seeds, chemical inputs, fertilizers, and assured irrigation.
+Sub: Sept 24
+
+---
+
+Q: On which date was the 'New Industrial Policy' announced by Government of India?
+A) 15th August 1947
+B) 24th July 1991
+C) 26th January 1950
+D) 5th September 1992
+Ans: B
+Exp: India's historic New Industrial Policy ushering in LPG reforms was unveiled on 24th July 1991.
+Sub: Sept 24
+
+---
+
+Q: On which date was the apex policy-making body, the Planning Commission, replaced by the National Institution for Transforming India (NITI) Aayog?
+A) 1st April 2015
+B) 1st July 2015
+C) 1st January 2015
+D) 1st July 2016
+Ans: B
+Exp: NITI Aayog was established by a Union Cabinet resolution replacing the Planning Commission (officially operationalized in 2015).
+Sub: Sept 24
+
+---
+
+Q: Which government scheme supports and promotes organic farming, as well as the improvement of soil health ?
+A) National Rural Employment Guarantee Act (NREGA)
+B) Rashtriya Krishi Vikas Yojana (RKVY)
+C) Pradhan Mantri Fasal Bima Yojana (PMFBY)
+D) Paramparagat Krishi Vikas Yojana (PKVY)
+Ans: D
+Exp: Paramparagat Krishi Vikas Yojana (PKVY) is dedicated to promoting cluster-based organic farming and certified chemical-free agriculture.
+Sub: Sept 24
+
+---
+
+Q: Which initiative aims at the empowerment of Micro Small and Medium Enterprises (MSMEs)?
+A) Udyami Bharat
+B) Start-up India
+C) Make in India
+D) Digital India
+Ans: A
+Exp: 'Udyami Bharat' is an initiative launched to scale up, empower, and enhance access to finance for Indian MSMEs.
+Sub: Sept 24
+
+---
+
+Q: The India Development Update (IDU) report published in November 2022 is published by:
+A) United Nations Development Programme (UNDP)
+B) International Monetary Fund (IMF)
+C) World Bank
+D) Asian Development Bank (ADB)
+Ans: C
+Exp: The India Development Update (IDU) is the flagship bi-annual macroeconomic report published by the World Bank.
+Sub: Sept 24
+
+---
+
+Q: What is the full form of DPIIT?
+A) Department for Promotion of Industry and International Trade
+B) Department for Promotion of Industrial and Internal Trade
+C) Directorate for Promotion of Industry and Internal Trade
+D) Department for Promotion of Industry and Internal Trade
+Ans: D
+Exp: DPIIT stands for Department for Promotion of Industry and Internal Trade under the Ministry of Commerce & Industry.
+Sub: Sept 24
+
+---
+
+Q: Which of the following is not the aim of 'Methanol Economy' programme?
+A) Converting coal reserves and municipal solid waste into methanol.
+B) Reducing Greenhouse gas (GHG) emissions.
+C) Reducing India's oil import bill.
+D) Converting industrial waste into methanol.
+Ans: D
+Exp: Methanol Economy prioritizes converting high-ash Indian coal and biomass/MSW to replace imported crude; industrial waste conversion is not a core focus.
+Sub: Sept 24
+
+---
+
+Q: Which of the following statement is true in relation to the object of The National Data and Analytics Platform (NDAP)?
+A) To ensure data security.
+B) To facilitate and improve access to Indian government data.
+C) To convert all government data in electronic form.
+D) To formulate a national cyber security law.
+Ans: B
+Exp: NITI Aayog's NDAP platform aims to democratize and facilitate seamless public access to government datasets for analysis.
+Sub: Sept 24
