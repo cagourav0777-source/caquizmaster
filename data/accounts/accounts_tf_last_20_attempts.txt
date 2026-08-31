@@ -1,0 +1,1023 @@
+Q: 1. Re-issue of forfeited shares is allotment of shares but not a sale.
+A) True
+B) False
+Ans: B
+Exp: Reissue of forfeited shares is not an allotment of shares but only a sale, because such shares have already been allotted earlier.
+Sub: Accounts - January 2021
+
+---
+
+Q: 2. Subsidy received from the government for working capital by a manufacturing concern is a revenue receipt.
+A) True
+B) False
+Ans: A
+Exp: Subsidy received from the government for meeting working capital requirements is a revenue receipt because it is meant to support operational running expenses.
+Sub: Accounts - January 2021
+
+---
+
+Q: 3. The Sale Book is kept to record both the cash and credit sales.
+A) True
+B) False
+Ans: B
+Exp: The Sales Book is a subsidiary register specially maintained to record credit sales of goods only; cash sales are recorded in the Cash Book.
+Sub: Accounts - January 2021
+
+---
+
+Q: 4. There are two ways of preparing an account current.
+A) True
+B) False
+Ans: B
+Exp: There are three methods of preparing an Account Current: (1) with the help of interest tables, (2) by means of products, and (3) by means of products of balances.
+Sub: Accounts - January 2021
+
+---
+
+Q: 5. Consignee will not pass any journal entry in his books at time of receiving of goods from Consignor.
+A) True
+B) False
+Ans: A
+Exp: The consignee is not the owner of the consigned goods and incurs no liability upon receiving them; hence, no entry is passed in the consignee's books on receipt of goods.
+Sub: Accounts - January 2021
+
+---
+
+Q: 6. Accounting Standards for non-corporate entities in India are issued by the Central Government.
+A) True
+B) False
+Ans: B
+Exp: Accounting Standards for non-corporate entities in India are formulated and issued by the Institute of Chartered Accountants of India (ICAI).
+Sub: Accounts - January 2021
+
+---
+
+Q: 7. Goods sold on approval or return basis are not recorded as credit sales initially when they are sent-out.
+A) True
+B) False
+Ans: B
+Exp: Under the ordinary/frequent method, goods sent on approval or return basis are treated and recorded as credit sales at the time of dispatch.
+Sub: Accounts - July 2021
+
+---
+
+Q: 8. A Company is not allowed to issue shares at a discount to the public in general.
+A) True
+B) False
+Ans: A
+Exp: Under Section 53 of the Companies Act, 2013, a company is prohibited from issuing shares at a discount, except in the case of Sweat Equity Shares (Section 54).
+Sub: Accounts - July 2021
+
+---
+
+Q: 9. Warehouse rent paid for storage of finished inventory should be included in the cost of finished inventory.
+A) True
+B) False
+Ans: B
+Exp: Warehousing and storage costs of finished goods are treated as period/selling expenses and excluded from inventory valuation, unless storage is a necessary part of the production process.
+Sub: Accounts - July 2021
+
+---
+
+Q: 10. A person holding preference shares of a company cannot hold equity shares of the same company.
+A) True
+B) False
+Ans: B
+Exp: There is no legal restriction barring a person from holding both Equity Shares and Preference Shares in the same company simultaneously.
+Sub: Accounts - July 2021
+
+---
+
+Q: 11. Business of partnership comes to an end on death of a partner.
+A) True
+B) False
+Ans: B
+Exp: The partnership business does not necessarily dissolve if the partnership agreement provides that the surviving partners can continue the business.
+Sub: Accounts - July 2021
+
+---
+
+Q: 12. Cash book is a subsidiary book as well as a principal book.
+A) True
+B) False
+Ans: A
+Exp: The Cash Book is a book of prime entry (subsidiary book) as transactions are recorded directly from source documents, and it also functions as the cash/bank ledger accounts (principal book).
+Sub: Accounts - July 2021
+
+---
+
+Q: 13. Any amount spent to minimize the working expenses is revenue expenditure.
+A) True
+B) False
+Ans: B
+Exp: Expenditure incurred to permanently reduce operational/working expenses yields enduring long-term benefits to the enterprise, making it capital expenditure.
+Sub: Accounts - December 2021
+
+---
+
+Q: 14. Expenses incurred on the repairs for the first time on purchase of an old building are capital expenditure.
+A) True
+B) False
+Ans: A
+Exp: Initial repairs incurred on purchasing second-hand property are necessary to bring the asset into usable condition and form part of the capital cost of the building.
+Sub: Accounts - December 2021
+
+---
+
+Q: 15. The provision for bad debts is debited to sundry debtors account.
+A) True
+B) False
+Ans: B
+Exp: Provision for bad debts is created by debiting the Profit and Loss Account and is presented in the Balance Sheet as a deduction from Sundry Debtors.
+Sub: Accounts - December 2021
+
+---
+
+Q: 16. Non-participating preference shareholders enjoy voting rights.
+A) True
+B) False
+Ans: B
+Exp: Non-participating preference shareholders are entitled only to a fixed rate of dividend and do not possess voting rights on general company resolutions.
+Sub: Accounts - December 2021
+
+---
+
+Q: 17. There is no entry passed by the consignee in his books for the remaining stock of goods lying with him.
+A) True
+B) False
+Ans: A
+Exp: Ownership of unsold consignment inventory remains with the consignor; therefore, only the consignor accounts for closing stock, and no entry is passed in the consignee's books.
+Sub: Accounts - December 2021
+
+---
+
+Q: 18. Discount column of the cash book is never balanced.
+A) True
+B) False
+Ans: A
+Exp: Discount columns in the Cash Book represent discount allowed and discount received separately; they are totaled and posted to their respective ledger accounts and never balanced against each other.
+Sub: Accounts - December 2021
+
+---
+
+Q: 19. A claim that an enterprise is pursuing through legal process, where the outcome is uncertain, is a Contingent Liability.
+A) True
+B) False
+Ans: B
+Exp: A legal claim pursued by an enterprise where the outcome is uncertain represents a possible economic resource inflow, which is classified as a Contingent Asset, not a liability.
+Sub: Accounts - June 2022
+
+---
+
+Q: 20. At the end of the accounting year, all the nominal accounts of the ledger book are balanced.
+A) True
+B) False
+Ans: B
+Exp: Nominal accounts are not balanced; their balances are closed by transferring them to the Trading and Profit & Loss Account at the end of the financial year.
+Sub: Accounts - June 2022
+
+---
+
+Q: 21. The specific due date excludes the addition of grace days to arrive at the due date.
+A) True
+B) False
+Ans: A
+Exp: When a bill of exchange is made payable on a stated specific calendar date, no additional 3 days of grace are added.
+Sub: Accounts - June 2022
+
+---
+
+Q: 22. Any amount spent for replacement of worn out part of a machine is capital expenditure.
+A) True
+B) False
+Ans: B
+Exp: Replacement of worn-out parts is routine repair and maintenance to maintain existing operating efficiency, which is classified as revenue expenditure.
+Sub: Accounts - June 2022
+
+---
+
+Q: 23. Debentures Suspense Account appears on the Liability side of the Balance Sheet of a Company.
+A) True
+B) False
+Ans: B
+Exp: When debentures are issued as collateral security, the Debentures Suspense Account is shown on the Assets side under Non-Current Assets or shown as a deduction from Debentures on the liabilities side.
+Sub: Accounts - June 2022
+
+---
+
+Q: 24. If the errors are detected after preparing trial balance, then all the errors are rectified through suspense account.
+A) True
+B) False
+Ans: B
+Exp: Two-sided errors (such as errors of principle and errors of complete omission) do not cause trial balance disagreement and are rectified without a Suspense Account.
+Sub: Accounts - June 2022
+
+---
+
+Q: 25. The financial statements are not prepared on the assumption that an enterprise is a going concern and will continue its operation for the foreseeable future.
+A) True
+B) False
+Ans: B
+Exp: Fundamental accounting assumption of Going Concern dictates that financial statements are prepared on the basis that the entity will continue operational existence in the foreseeable future.
+Sub: Accounts - December 2022
+
+---
+
+Q: 26. Periodic inventory system is a method of ascertaining inventory by taking an actual physical count.
+A) True
+B) False
+Ans: A
+Exp: Under the periodic inventory system, inventory quantities and values are determined exclusively by conducting a physical count at the end of the accounting period.
+Sub: Accounts - December 2022
+
+---
+
+Q: 27. The provision for discount on creditors is often not provided in keeping with the principle of conservatism.
+A) True
+B) False
+Ans: A
+Exp: Under the conservatism convention, anticipated future gains/discounts are not recognized, whereas all prospective losses must be provided for.
+Sub: Accounts - December 2022
+
+---
+
+Q: 28. If the errors are detected after preparing trial balance, then all the errors are rectified through suspense account.
+A) True
+B) False
+Ans: B
+Exp: Errors that do not affect trial balance agreement (e.g., compensating errors or errors of principle) are rectified directly through account entries without opening a Suspense Account.
+Sub: Accounts - December 2022
+
+---
+
+Q: 29. Both revenue and capital nature transactions are recorded in the Receipts and Payments Account.
+A) True
+B) False
+Ans: A
+Exp: Receipts and Payments Account is a summarized cash book recording all actual cash receipts and cash disbursements, irrespective of whether they are capital or revenue in nature.
+Sub: Accounts - December 2022
+
+---
+
+Q: 30. A fixed charge generally covers all the assets of the company including future one.
+A) True
+B) False
+Ans: B
+Exp: A fixed charge attaches to specific, identifiable fixed assets; it is a floating charge that covers dynamic and future circulating assets of the company.
+Sub: Accounts - December 2022
+
+---
+
+Q: 31. As per concept of conservatism the accountant should provide for all possible losses but should not anticipate income.
+A) True
+B) False
+Ans: A
+Exp: The conservatism (prudence) concept requires recognizing all probable/foreseeable losses while anticipating no unrealized future gains.
+Sub: Accounts - June 2023
+
+---
+
+Q: 32. Expenses in connection with obtaining a license for running the Cinema Hall are Revenue Expenditure.
+A) True
+B) False
+Ans: B
+Exp: A cinema hall cannot legally commence operations without a license; hence, initial licensing costs are pre-operative capital expenditures.
+Sub: Accounts - June 2023
+
+---
+
+Q: 33. Under or over - casting of a subsidiary book is an example of error of commission.
+A) True
+B) False
+Ans: A
+Exp: Errors of commission include clerical arithmetic errors, incorrect totaling (casting), wrong posting, or carry-forward mistakes in subsidiary books.
+Sub: Accounts - June 2023
+
+---
+
+Q: 34. If Del-credere commission is paid to consignee, the loss of bad debts is to be borne by the consignor.
+A) True
+B) False
+Ans: B
+Exp: Payment of del-credere commission transfers the entire credit risk of bad debts from the consignor to the consignee.
+Sub: Accounts - June 2023
+
+---
+
+Q: 35. Perpetual debentures are payable at the time of liquidation of the company.
+A) True
+B) False
+Ans: A
+Exp: Perpetual (irredeemable) debentures carry no fixed maturity redemption date and are repayable only upon the winding-up/liquidation of the issuing company.
+Sub: Accounts - June 2023
+
+---
+
+Q: 36. Overhead is defined as the total cost of direct material, direct wages and direct expenses.
+A) True
+B) False
+Ans: B
+Exp: Overhead represents the aggregate of all indirect costs (indirect materials + indirect labor + indirect expenses); prime cost comprises direct material, wages, and expenses.
+Sub: Accounts - June 2023
+
+---
+
+Q: 37. The financial statement must disclose all the relevant and reliable information in accordance with the full disclosure principle.
+A) True
+B) False
+Ans: A
+Exp: The full disclosure principle mandates that financial statements disclose all material, relevant, and reliable financial information necessary for users to make sound economic judgments.
+Sub: Accounts - December 2023
+
+---
+
+Q: 38. The gain from sale of capital assets is added to revenue to ascertain the net profit of the business.
+A) True
+B) False
+Ans: A
+Exp: Net capital gains on the disposal of fixed assets are credited to the Profit and Loss Account to determine the total net profit for the period.
+Sub: Accounts - December 2023
+
+---
+
+Q: 39. Depreciation is non-cash and non-operating expense which is to be provided for if there are profits.
+A) True
+B) False
+Ans: B
+Exp: Depreciation is an operating expense and a mandatory charge against profit that must be provided for regardless of whether the business earns a profit or incurs a loss.
+Sub: Accounts - December 2023
+
+---
+
+Q: 40. Sum of the year's digit method is an example of accelerated method of charging depreciation.
+A) True
+B) False
+Ans: A
+Exp: Sum-of-the-years'-digits is an accelerated depreciation method that allocates higher depreciation expense during the initial years of asset utilization.
+Sub: Accounts - December 2023
+
+---
+
+Q: 41. Inauguration expenses of 10 lakhs incurred on the new unit in an existing business is a capital expenditure.
+A) True
+B) False
+Ans: B
+Exp: Inauguration ceremony expenses do not create or enhance any tangible revenue-generating asset; therefore, they are treated as revenue expenditure.
+Sub: Accounts - December 2023
+
+---
+
+Q: 42. Discount column of cash book records the trade discount.
+A) True
+B) False
+Ans: B
+Exp: The discount columns in the Cash Book record cash discounts only; trade discounts are deducted directly from the invoice and not recorded in the ledger/cash book.
+Sub: Accounts - December 2023
+
+---
+
+Q: 43. If Closing Stock appears in the Trial Balance then it does not enter in Trading Account. It is shown only in the Balance Sheet.
+A) True
+B) False
+Ans: A
+Exp: When closing inventory appears in the Trial Balance, it has already been adjusted against purchases (Adjusted Purchases), so it is presented only on the Assets side of the Balance Sheet.
+Sub: Accounts - June 2024
+
+---
+
+Q: 44. If the amount is posted in the wrong account or it is written on the wrong side of the account, it is called error of principle.
+A) True
+B) False
+Ans: B
+Exp: Posting to the wrong account or on the wrong side is an Error of Commission; an Error of Principle occurs when fundamental accounting rules separating capital and revenue are violated.
+Sub: Accounts - June 2024
+
+---
+
+Q: 45. Accounting Standards can override the statute.
+A) True
+B) False
+Ans: B
+Exp: Accounting Standards cannot override prevailing statutes or legislation; in any conflict between the law and an accounting standard, the statute prevails.
+Sub: Accounts - June 2024
+
+---
+
+Q: 46. Promissory Note is different from Bill of Exchange because the amount is paid by maker in case of former and by the acceptor in the later.
+A) True
+B) False
+Ans: A
+Exp: In a promissory note, the maker makes an unconditional promise to pay; in a bill of exchange, the drawer orders payment, which is fulfilled by the drawee/acceptor.
+Sub: Accounts - June 2024
+
+---
+
+Q: 47. All errors are rectified by means of journal entries.
+A) True
+B) False
+Ans: B
+Exp: Single-sided errors discovered before the preparation of a Trial Balance are rectified by recording explanatory notes/corrections directly in the affected ledger account, without journal entries.
+Sub: Accounts - June 2024
+
+---
+
+Q: 48. Revaluation Account is also known as Profit and Loss Adjustment Account.
+A) True
+B) False
+Ans: A
+Exp: Revaluation Account is also called Profit and Loss Adjustment Account because it records gains and losses arising from the revaluation of assets and liabilities upon reconstitution of a partnership.
+Sub: Accounts - June 2024
+
+---
+
+Q: 49. Matching concept is based on accrual concept.
+A) True
+B) False
+Ans: A
+Exp: The Matching Principle relies on the Accrual concept to match periodic revenues with the expenses incurred in generating them, irrespective of the timing of cash flows.
+Sub: Accounts - January 2025
+
+---
+
+Q: 50. Customers of business should not be considered as users of accounts prepared by business. They are not interested in knowing the performance of the business.
+A) True
+B) False
+Ans: B
+Exp: Customers depend on the enterprise for reliable future supplies, ongoing service, and warranties, making them external stakeholders interested in the business's financial viability.
+Sub: Accounts - January 2025
+
+---
+
+Q: 51. Under inflationary conditions, FIFO will not show lowest value of cost of goods sold.
+A) True
+B) False
+Ans: B
+Exp: During periods of rising prices (inflation), FIFO assigns the earliest and lowest purchase costs to Cost of Goods Sold, thus reporting the lowest COGS and highest closing inventory value.
+Sub: Accounts - January 2025
+
+---
+
+Q: 52. For redemption of preference shares, proceeds from fresh issue of equity shares and debentures can be utilized.
+A) True
+B) False
+Ans: B
+Exp: Under Section 55 of the Companies Act, 2013, preference shares may only be redeemed out of divisible profits or proceeds from a fresh issue of shares (equity or preference), not from debenture proceeds.
+Sub: Accounts - January 2025
+
+---
+
+Q: 53. Book keeping and accounting are not synonymous terms; they are different from each other.
+A) True
+B) False
+Ans: A
+Exp: Bookkeeping is the mechanical and clerical phase of recording transactions, whereas accounting involves classifying, summarizing, analyzing, and interpreting financial statements.
+Sub: Accounts - January 2025
+
+---
+
+Q: 54. A ledger is also known as the principal books of accounts.
+A) True
+B) False
+Ans: A
+Exp: The Ledger is the principal book of accounts because it classifies all recorded transactions into specific accounts, serving as the ultimate basis for preparing trial balances and final accounts.
+Sub: Accounts - January 2025
+
+---
+
+Q: 55. Money spent to reduce working expenses is revenue expenditure.
+A) True
+B) False
+Ans: B
+Exp: Expenditure that results in a permanent reduction of working/operational expenses provides an enduring future economic benefit, qualifying as capital expenditure.
+Sub: Accounts - January 2026
+
+---
+
+Q: 56. Transactions regarding the purchase of fixed assets on credit are recorded in the purchase book.
+A) True
+B) False
+Ans: B
+Exp: The Purchases Book is strictly used for recording credit purchases of trade goods/inventory; credit purchases of fixed assets are recorded in the Journal Proper.
+Sub: Accounts - January 2026
+
+---
+
+Q: 57. A present financial obligation of an uncertain amount, which can be measured reliably by using a substantial degree of estimation, is termed as liability.
+A) True
+B) False
+Ans: B
+Exp: A present obligation of uncertain timing or amount that can be measured using a substantial degree of estimation is defined as a Provision, not a general liability.
+Sub: Accounts - January 2026
+
+---
+
+Q: 58. Nominal Accounts are kept under Single Entry System.
+A) True
+B) False
+Ans: B
+Exp: Under an incomplete single entry records system, only Personal Accounts and the Cash Book are maintained; Nominal Accounts are generally omitted.
+Sub: Accounts - January 2026
+
+---
+
+Q: 59. Winding up of a LLP may be initiated by Tribunal if the LLP has failed to submit the Statements of Accounts and Solvency or the LLP Annual Returns for more than three consecutive financial years with the Registrar.
+A) True
+B) False
+Ans: B
+Exp: Under the LLP Act, Tribunal winding-up can be initiated if the LLP defaults in filing its Statement of Account and Solvency or Annual Return for five (not three) consecutive financial years.
+Sub: Accounts - January 2026
+
+---
+
+Q: 60. As per Section 52 of the Companies Act, 2013, a company may utilise the Securities Premium Account to write off its preliminary expenses.
+A) True
+B) False
+Ans: A
+Exp: Section 52(2) of the Companies Act, 2013 explicitly permits using the Securities Premium Account to write off the preliminary expenses of the company.
+Sub: Accounts - January 2026
+
+---
+
+Q: 1. Expenses in connection with obtaining a license for running the Cinema Hall is Revenue Expenditure.
+A) True
+B) False
+Ans: B
+Exp: A cinema hall cannot legally commence operations without a license; hence, initial licensing expenditure is a pre-operative capital expenditure and capitalized.
+Sub: Accounts - May 2018
+
+---
+
+Q: 2. Re-issue of forfeited shares is allotment of shares but not a sale.
+A) True
+B) False
+Ans: B
+Exp: A forfeited share is an existing share available for disposal; its reissue constitutes a sale rather than a fresh allotment since it was already allotted earlier.
+Sub: Accounts - May 2018
+
+---
+
+Q: 3. If the effect of errors committed cancel out, the errors will be called compensating errors and the trial balance will disagree.
+A) True
+B) False
+Ans: B
+Exp: Compensating errors neutralize each other's net debit and credit effects; therefore, they do not cause the trial balance to disagree (trial balance will agree).
+Sub: Accounts - May 2018
+
+---
+
+Q: 4. There are two ways of preparing an account current.
+A) True
+B) False
+Ans: B
+Exp: There are three recognized methods of preparing an Account Current: (1) with the help of interest tables, (2) by means of products, and (3) by means of products of balances.
+Sub: Accounts - May 2018
+
+---
+
+Q: 5. When there is no partnership deed prevails, the interest on loan of a partner to be paid @ 6%.
+A) True
+B) False
+Ans: A
+Exp: As per Section 13(d) of the Indian Partnership Act, 1932, in the absence of an agreement, a partner is entitled to interest on loans/advances @ 6% p.a.
+Sub: Accounts - May 2018
+
+---
+
+Q: 6. Interest coverage ratio indicates the firm's ability to pay off current interest and installments.
+A) True
+B) False
+Ans: B
+Exp: The Interest Coverage Ratio (EBIT / Interest) measures the firm's ability to service its periodic interest obligations only, not principal loan installments.
+Sub: Accounts - May 2018
+
+---
+
+Q: 7. Overhauling expenses for the engine of motor car to get better fuel efficiency is revenue expenditure.
+A) True
+B) False
+Ans: B
+Exp: Engine overhauling expenses that improve fuel efficiency and reduce running costs provide long-term enduring benefits and should be capitalized.
+Sub: Accounts - November 2018
+
+---
+
+Q: 8. Depreciation is a non-cash expense and does not result in any cash outflow.
+A) True
+B) False
+Ans: A
+Exp: Depreciation is an internal accounting write-off for asset wear and tear; it does not involve any actual disbursement or outflow of cash.
+Sub: Accounts - November 2018
+
+---
+
+Q: 9. Fees received for Life Membership is a revenue receipt as it is of recurring nature.
+A) True
+B) False
+Ans: B
+Exp: Life membership fee is received once in a lifetime (non-recurring) from a member, making it a capital receipt that is added directly to the Capital/General Fund.
+Sub: Accounts - November 2018
+
+---
+
+Q: 10. If Closing Stock appears in the Trial Balance: The closing inventory is then not entered in Trading Account. It is shown only in the balance sheet.
+A) True
+B) False
+Ans: A
+Exp: Closing stock in the Trial Balance has already been adjusted against purchases (Adjusted Purchases); therefore, it is shown only on the Assets side of the Balance Sheet.
+Sub: Accounts - November 2018
+
+---
+
+Q: 11. Inventory Turnover Ratio is also known as Stock Turnover Ratio.
+A) True
+B) False
+Ans: A
+Exp: Inventory Turnover Ratio and Stock Turnover Ratio are synonymous terms measuring how rapidly inventory is sold and replaced during a period.
+Sub: Accounts - November 2018
+
+---
+
+Q: 12. If del-credere commission is paid to consignee, the loss of bad debts is to be borne by the consignor.
+A) True
+B) False
+Ans: B
+Exp: Del-credere commission is paid to transfer credit risk; once paid, any loss arising from bad debts is borne entirely by the consignee.
+Sub: Accounts - November 2018
+
+---
+
+Q: 13. Amount spent for the construction of temporary huts, which were necessary for construction of the Cinema House and were demolished when the Cinema House was ready, is capital expenditure.
+A) True
+B) False
+Ans: A
+Exp: Temporary structures indispensable for constructing a main building form part of the construction cost of that asset and are capitalized.
+Sub: Accounts - May 2019
+
+---
+
+Q: 14. If the amount is posted in the wrong account or it is written on the wrong side of the account, it is called error of principle.
+A) True
+B) False
+Ans: B
+Exp: Posting to the wrong account or on the wrong side is an Error of Commission; errors of principle involve violating fundamental accounting rules separating capital and revenue.
+Sub: Accounts - May 2019
+
+---
+
+Q: 15. In case of consignment sale, ownership of goods will be transferred to consignee at the time of receiving the goods.
+A) True
+B) False
+Ans: B
+Exp: Ownership of consigned goods remains with the consignor until the goods are sold to ultimate third-party buyers; the consignee acts merely as an agent.
+Sub: Accounts - May 2019
+
+---
+
+Q: 16. In case the due date of a bill falls after the date of closing the account, the interest from the date of closing to such due date is known as Red-Ink interest.
+A) True
+B) False
+Ans: A
+Exp: Interest calculated for the unexpired period between the account closing date and a future maturity date is entered in red ink and termed Red-Ink Interest.
+Sub: Accounts - May 2019
+
+---
+
+Q: 17. Limited Liability Partnership (LLP) is governed by Indian Partnership Act, 1932.
+A) True
+B) False
+Ans: B
+Exp: An LLP is a corporate body governed exclusively by the Limited Liability Partnership Act, 2008; the Indian Partnership Act, 1932 does not apply to LLPs.
+Sub: Accounts - May 2019
+
+---
+
+Q: 18. The relationship between sales and fixed assets is expressed as working capital ratio.
+A) True
+B) False
+Ans: B
+Exp: The relationship between sales/cost of sales and fixed assets is expressed as Fixed Assets Turnover Ratio (Working Capital Ratio is Current Assets / Current Liabilities).
+Sub: Accounts - May 2019
+
+---
+
+Q: 19. Trade Discount is a reduction granted by a supplier from the list price of goods or services on business considerations for prompt payment.
+A) True
+B) False
+Ans: B
+Exp: Trade discount is granted for trade volume/commercial practices; a discount allowed specifically for prompt or early cash settlement is a Cash Discount.
+Sub: Accounts - November 2019
+
+---
+
+Q: 20. M/s. XYZ & Co. runs a cafe. They renovated some of the old cabins. Because of this renovation some space was made free and number of cabins was increased from 15 to 18. The total expenditure incurred was 30,000 and was treated as a revenue expenditure.
+A) True
+B) False
+Ans: B
+Exp: Renovation that increases customer seating capacity directly enhances the future revenue-generating capacity of the business, making it a Capital Expenditure.
+Sub: Accounts - November 2019
+
+---
+
+Q: 21. Valuation of inventory, at cost or net realizable value, whichever less, is based on principle of Conservatism.
+A) True
+B) False
+Ans: A
+Exp: Valuing inventory at the lower of cost or net realizable value adheres to the conservatism principle by anticipating all possible losses without booking unrealized gains.
+Sub: Accounts - November 2019
+
+---
+
+Q: 22. In case of bill of exchange, the drawer and the payee may not be the same person but in case of a promissory note, the maker and the payee may be the same person.
+A) True
+B) False
+Ans: B
+Exp: In a promissory note, the maker (debtor) and payee (creditor) cannot be the same person, whereas in a bill of exchange, the drawer and payee can be identical.
+Sub: Accounts - November 2019
+
+---
+
+Q: 23. A Partnership firm cannot own any Assets.
+A) True
+B) False
+Ans: A
+Exp: A partnership firm lacks an independent legal personality separate from its partners; thus, all firm assets are legally owned jointly by the partners.
+Sub: Accounts - November 2019
+
+---
+
+Q: 24. Since company has existence independent of its members, it continues to be in existence despite the death, insolvency or change of members.
+A) True
+B) False
+Ans: A
+Exp: By virtue of Perpetual Succession, a company's legal existence remains completely unaffected by the death, insolvency, or change in its shareholding members.
+Sub: Accounts - November 2019
+
+---
+
+Q: 25. In case of admission of a new partner in a partnership firm, the profit/loss on revaluation account is transferred to all partners in their new profit sharing ratio.
+A) True
+B) False
+Ans: B
+Exp: Revaluation profit or loss belongs to the period prior to admission and is transferred exclusively to the old partners in their old profit-sharing ratio.
+Sub: Accounts - November 2020
+
+---
+
+Q: 26. In the balance sheet of X Limited, preliminary expenses amounting to 5 lakhs and securities premium account of 35 lakhs are appearing: The accountant can use the balance in securities premium account to write off preliminary expenses.
+A) True
+B) False
+Ans: A
+Exp: Section 52(2) of the Companies Act, 2013 explicitly permits the utilization of the Securities Premium Account for writing off preliminary expenses.
+Sub: Accounts - November 2020
+
+---
+
+Q: 27. Insurance claim received on account of plant and machinery completely damaged by fire is a capital receipt.
+A) True
+B) False
+Ans: A
+Exp: Compensation received for the destruction of a fixed capital asset represents recovery of capital outlay and is treated as a Capital Receipt.
+Sub: Accounts - November 2020
+
+---
+
+Q: 28. Purchase of office furniture & fixtures of 2,500 has been debited to General Expense Account. It is an error of omission.
+A) True
+B) False
+Ans: B
+Exp: Debiting a capital expenditure (furniture) to a revenue expense account (General Expenses) is an Error of Principle, not an error of omission.
+Sub: Accounts - November 2020
+
+---
+
+Q: 29. A Limited is sending goods costing 50,000 to B Limited on consignment basis. The accountant of A Limited is of the opinion that these goods should be sent under a sale invoice.
+A) True
+B) False
+Ans: B
+Exp: Consignment is a transfer of possession without transfer of ownership; goods must be forwarded under a Proforma Invoice, not a sales invoice.
+Sub: Accounts - November 2020
+
+---
+
+Q: 30. A concern proposes to discontinue its business from December 2020 and decides to dispose off all its plants within a period of 3 months. The Balance Sheet as on 31st December, 2020 should continue to indicate the plants at its historical costs as the assets will be disposed off after the Balance Sheet date.
+A) True
+B) False
+Ans: B
+Exp: When the Going Concern assumption is no longer valid due to impending closure, assets must be valued and reported at their Net Realizable Values.
+Sub: Accounts - November 2020
+
+---
+
+Q: 31. Nominal Accounts are balanced at the end of the Accounting Year.
+A) True
+B) False
+Ans: B
+Exp: Nominal accounts are not balanced; they are closed at year-end by transferring their balances to the Trading and Profit & Loss Account.
+Sub: Accounts - September 2024
+
+---
+
+Q: 32. Overhaul Expenses of a second-hand machinery purchased are Revenue Expenditure.
+A) True
+B) False
+Ans: B
+Exp: Overhauling costs incurred to put a second-hand asset into working condition are necessary capital additions and must be capitalized.
+Sub: Accounts - September 2024
+
+---
+
+Q: 33. Valuation of inventory at cost or net realizable value is based on Principle of Conservatism.
+A) True
+B) False
+Ans: A
+Exp: Valuing inventory at lower of cost or net realizable value adheres to conservatism by recognizing prospective losses while ignoring unearned profits.
+Sub: Accounts - September 2024
+
+---
+
+Q: 34. A Promissory Note can be made payable to the Bearer.
+A) True
+B) False
+Ans: B
+Exp: Under Section 31 of the RBI Act, 1934, only the RBI or Central Government can issue a promissory note payable to bearer; a private promissory note must be payable to an order/specified person.
+Sub: Accounts - September 2024
+
+---
+
+Q: 35. The Receipts and payment account for a non-profit organization follows the accrual concept of accounting.
+A) True
+B) False
+Ans: B
+Exp: Receipts and Payments Account is maintained purely on a cash basis of accounting, summarizing actual cash receipts and payments during the year.
+Sub: Accounts - September 2024
+
+---
+
+Q: 36. Legal heirs of a deceased partner are entitled to his capital account balance only.
+A) True
+B) False
+Ans: B
+Exp: Legal representatives of a deceased partner are entitled to his capital balance, share of accumulated reserves, goodwill, revaluation profit/loss, and accrued interim profits.
+Sub: Accounts - September 2024
+
+---
+
+Q: 37. Trade discount is recorded in the discount column in triple column cash book.
+A) True
+B) False
+Ans: B
+Exp: Discount columns in the Cash Book record Cash Discounts only; trade discounts are deducted directly from invoices and never posted to ledger accounts or cash book.
+Sub: Accounts - May 2025
+
+---
+
+Q: 38. Money measurement concept means transactions are to be recorded at a uniform-monetary units.
+A) True
+B) False
+Ans: A
+Exp: The money measurement concept requires that only transactions capable of being quantified in a uniform national monetary denominator (e.g., Rupee) are recorded.
+Sub: Accounts - May 2025
+
+---
+
+Q: 39. If a society (Non-profit organization) has a separate trading activity, the profit/loss from the trading account shall be transferred to Income and Expenditure Account at the time of consolidation.
+A) True
+B) False
+Ans: A
+Exp: When an NPO runs a secondary trading section (e.g., canteen/bar), the net trading profit or loss is transferred to the general Income and Expenditure Account.
+Sub: Accounts - May 2025
+
+---
+
+Q: 40. Partners in a partnership firm will share the profits of business according to their capital contribution in the absence of any agreement.
+A) True
+B) False
+Ans: B
+Exp: In the absence of a partnership agreement, Section 13(b) of the Indian Partnership Act, 1932 requires that all partners share profits and losses equally.
+Sub: Accounts - May 2025
+
+---
+
+Q: 41. LLP should have two designated partners who are resident in India.
+A) True
+B) False
+Ans: B
+Exp: Under Section 7 of the LLP Act, 2008, every LLP must have at least two designated partners who are individuals, and at least ONE of them must be a resident in India.
+Sub: Accounts - May 2025
+
+---
+
+Q: 42. A Non-Profit Organization registered under Section 8 of Companies Act, 2013 can distribute its surplus among its members.
+A) True
+B) False
+Ans: B
+Exp: Section 8 companies are legally prohibited from declaring dividends or distributing surplus to members; all income must be applied towards promoting charitable objectives.
+Sub: Accounts - May 2025
+
+---
+
+Q: 43. The materiality depends only upon the amount of the item and not upon the size of the business, nature and level of information, level of the person making the decision etc.
+A) True
+B) False
+Ans: B
+Exp: Materiality is a relative concept that depends on the size of the entity, nature and quantum of the item, and the context of the economic decision-maker.
+Sub: Accounts - September 2025
+
+---
+
+Q: 44. While preparing the Income and Expenditure Account as per accrual concept, the income and expenditure is considered in the period in which actual receipts or actual payments are made.
+A) True
+B) False
+Ans: B
+Exp: Under the accrual concept, revenues and expenditures are recognized when earned or incurred during the accounting period, regardless of when cash is settled.
+Sub: Accounts - September 2025
+
+---
+
+Q: 45. Profit sharing ratio and capital contribution ratio need not be same.
+A) True
+B) False
+Ans: A
+Exp: Partners can mutually agree on any profit-sharing ratio in their partnership deed regardless of their individual capital contributions.
+Sub: Accounts - September 2025
+
+---
+
+Q: 46. Depreciation is not provided in the financial year when the entity incurs loss.
+A) True
+B) False
+Ans: B
+Exp: Depreciation is an essential operating charge against revenue and not an optional appropriation; it must be fully provided for even in a loss-making year.
+Sub: Accounts - September 2025
+
+---
+
+Q: 47. The concept that helps in keeping business affairs free from the influence of the personal affairs of the owner is known as the matching concept.
+A) True
+B) False
+Ans: B
+Exp: The concept that separates business transactions from the owner's personal transactions is the Business Entity Concept, not the matching concept.
+Sub: Accounts - September 2025
+
+---
+
+Q: 48. A Company cannot issue equity shares at discount to general public.
+A) True
+B) False
+Ans: A
+Exp: According to Section 53 of the Companies Act, 2013, any issue of shares at a discount (other than sweat equity shares under Section 54) is prohibited and void.
+Sub: Accounts - September 2025
+
+---
+
+Q: 1. Cost of inventories should comprise all cost of purchase.
+A) True
+B) False
+Ans: B
+Exp: Cost of inventories comprises all costs of purchase, costs of conversion, and other costs incurred in bringing the inventories to their present location and condition.
+Sub: Accounts - May 2026
+
+---
+
+Q: 2. According to the decision in the case of Garner vs Murray, the loss due to insolvency of a partner has to be borne by the solvent partners in their profit sharing ratio.
+A) True
+B) False
+Ans: B
+Exp: According to the rule in Garner vs. Murray, the deficiency arising from the insolvency of a partner must be borne by the solvent partners in their capital ratio, not their profit-sharing ratio.
+Sub: Accounts - May 2026
+
+---
+
+Q: 3. Amount spent on demolition of an old building which was necessary for the construction of a new factory building on the same site is Revenue Expenditure.
+A) True
+B) False
+Ans: B
+Exp: The amount spent on the demolition of an existing building to enable the construction of a new factory building on the site is a capital expenditure.
+Sub: Accounts - May 2026
+
+---
+
+Q: 4. As per Section 39 of the Companies Act, 2013, in case of issue of shares, the Application money must be atleast 25% of the issue price of shares.
+A) True
+B) False
+Ans: B
+Exp: As per Section 39 of the Companies Act, 2013, application money must be at least 5% of the nominal (face) value of the shares, not 25% of the issue price.
+Sub: Accounts - May 2026
+
+---
+
+Q: 5. Adjustments in the form of additional information shall be adjusted in the final accounts of a Non-profit organization only in one place.
+A) True
+B) False
+Ans: B
+Exp: Since Non-Profit Organizations follow the double-entry system of bookkeeping, every adjustment given as additional information must have two effects in the final accounts.
+Sub: Accounts - May 2026
+
+---
+
+Q: 6. Cash book is a subsidiary book as well as a principal book.
+A) True
+B) False
+Ans: A
+Exp: The Cash Book is a subsidiary book because transactions are recorded directly in it, and also a principal book because it serves as the cash and bank ledger accounts whose balances are transferred to the Trial Balance.
+Sub: Accounts - May 2026

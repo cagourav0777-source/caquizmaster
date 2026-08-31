@@ -1,0 +1,1273 @@
+Q: Non-participating preference shareholders enjoy voting rights.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Liability of a holder of shares is limited to the face value of shares acquired by them.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Books of accounts are closed in dissolution of partnership.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The provision for discount on creditors is often not provided in keeping with the principle of conservatism.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The debts written off as bad, if recovered subsequently are credited to Debtors Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The financial statement must disclose all the relevant and reliable information in accordance with the full disclosure principle.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Bills payable account is a nominal account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Tournament expenses incurred are more than the Tournament fund, then the excess is to be shown as an asset in the closing Balance sheet.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: There is opening balance of Income and expenditure account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Goods worth Rs. 600 taken by the proprietor for personal use should be credited to Capital Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: A loss is an expenditure which does not bring any benefit to the concern.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Medicines given to the office staff by a manufacturer of medicines will be debited to salaries account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: An intangible asset is a non-identifiable, non-monetary asset.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If the debit side of the trading account exceeds its credit side then the balance is termed as gross profit.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The concept of conservatism when applied to Balance sheet results in understatement of assets.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Receipts and payments account gives the details about the expenses outstanding for the year.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Premium paid on the life policy of a proprietor is debited to profit and loss account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Management has daily information about the quantity and valuation of closing stock under physical Inventory System.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: An Insurance company is an example of non-profit organization.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The balance in forfeited shares account can be used for transfer to capital redemption reserve account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: No revaluation account is necessary on retirement of a partner.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The provision for bad debts is debited to Sundry Debtors Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: A loss is an expenditure which does not bring any benefit to the concern.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Where a Non-profit organisation has a separate trading activity, the profit/loss from the trading account shall be transferred to Income and Expenditure Account at the time of consolidation.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Providing for depreciation also helps in providing for accumulation of funds to facilitate the replacement at the end of its useful life.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: If the balance of an account on the debit side of the trial balance where the benefit has already expired then it is treated as an expense.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The value of stock is shown on the assets side of the balance-sheet as fixed assets.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Sum of the years digit method is an example of accelerated method of charging depreciation.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Promise to pay is included in a bill of exchange.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Expense incurred on the repairs and white washing for the first time on purchase of an old building are Revenue Expenses.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Legal fees to acquire property is Capital Expenditure.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: A has drawn a bill on B. B accepts the same and endorses the bill to C.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Expenses of dissolution on realization of assets are credited to the Realization Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Prior period items need not be separately disclosed in the current statement of profit & loss.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Issued share capital including issue of rights shares and bonus shares may be more than the Authorised capital.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: On the dissolution of a partnership, firstly the assets of the firm are realized. Then the amount realized is applied first towards repayment of liabilities to outsiders.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: While depreciating land cost, Straight line method shall give more depreciation than the written down value.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Earning per share gets increased after bonus issue.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: A fixed charge generally covers all the assets of the company including future one.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Depreciation is a cash expenditure like other normal expenses.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Amounts credited to the debenture redemption reserve may be utilised by the company for any purpose.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Redeemable debentures are not payable during the life time of the company.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Adjustments in the form of additional information shall be adjusted in the final accounts of a Non-profit organisation only in one place.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Any appreciation in the value of an asset is credited to Revaluation account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: A company may issue shares at a discount to the public in general.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: In case the carrying amount of an asset is decreased due to revaluation, such decrease should always be recognized in the Profit and Loss account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: At the time of admission or retirement of a partner, goodwill can be raised in the books of accounts and shown as an asset.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Goodwill is intangible asset therefore it cannot be valued.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: A bill given to a creditor is called bills payable.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Only simple average method can be used for valuation of goodwill.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Amount spent for the construction of temporary huts, which were necessary for construction of the cinema house and were demolished when the cinema house was ready, is Capital Expenditure.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: While calculating the depreciation as per diminishing balance method, the salvage value of the asset at the end of its life is reduced from its cost.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Depreciation is charged with a constant amount under straight line method and charged with a constant percentage under diminishing balance method.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The debts written off as bad, if recovered subsequently are credited to Debtors Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Depreciation account appearing in the trial balance is taken only to profit and loss account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: At the time of admission of a partner, goodwill brought in by the new partner is shared equally by old partners.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: New partner brings necessary amount as his capital.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Sales less cost of goods sold = gross profit.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: At the time of retirement of a partner no special treatment is required for any reserves appearing in the Balance Sheet.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Tournament fund, building fund, library fund is based on the fund based accounting.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Business of a partnership has to be closed if any one of the partners retires.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Cost of fixed asset should also include cost of opening a new facility such as inauguration costs.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Closing inventory = Opening inventory + Purchases + Direct expenses - Cost of goods sold.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Super profit means excess of actual average profit over normal profit.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Right shares are normally offered at a price more than the cum-right value of the share, causing dilution in its value post-right issue.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The adjustment entry in respect of income received in advance is debit Income received in advance account and credit income account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Legal heir of a deceased partner automatically becomes partner in the firm.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Medicines given to the office staff by a manufacturer of medicines will be debited to salaries account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Gains from the sale or exchange of assets are not considered as the revenue of the business.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Debentures can be issued for a consideration other than for cash, such as for purchasing land, machinery etc.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: An asset gives rise to expenditure when it is acquired and to an expense when it is consumed.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Sale of grass by a sports club is to be treated as sale of an asset.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Premium paid on the life policy of a proprietor is debited to profit and loss account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Revaluation account is also called as Profit and Loss Adjustment Account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Inventory by-products, should be valued at net realisable value where cost of by products can be separately determined.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Money spent to reduce working expenses is Revenue Expenditure.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Not for profit concerns concentrate their efforts to maximize the profit earning avenues.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The provision for bad debts is debited to Sundry Debtors Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Increase in market value of a fixed asset is one of the reasons for depreciation being charged.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: An asset gives rise to expenditure when it is acquired and to an expense when it is consumed.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Akash purchased a machine for Rs. 12,00,000. Estimated useful life is 10 years and scrap value is Rs. 1,00,000. Depreciation for the first year using sum of the years digit method shall be Rs. 2,00,000.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: All the receipts are of revenue nature in case of Non-profit organisation.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Depreciation account appearing in the trial balance is taken only to profit and loss account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The term current asset is used to designate cash and other assets or resources which are reasonably expected to be realized or sold or consumed within one year.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: A claim that an enterprise is pursuing through legal process, where the outcome is uncertain, is a contingent liability.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Loss on reissue should exceed the forfeited amount.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Profit on revaluation is credited to continuing partners, retiring partner is not entitled to any profit on revaluation.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If the balance of an account on the debit side of the trial balance where the benefit has already expired then it is treated as an expense.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Inventories are stocks of goods and materials that are maintained for mainly the purpose of revenue generation.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: If the debit side of the trading account exceeds its credit side then the balance is termed as gross profit.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: A building is considered inventory in a construction business.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Finished goods are normally valued at cost or market price whichever is higher.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Goodwill is the value of reputation of a firm in respect of profits expected in future over and above the normal rate of profits.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: A newly admitted partner does not have same rights as old partners.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Retiring partner has to forego his share of goodwill in the firm.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Both the income and expenditure of the current and the previous year are recorded in the Income and Expenditure account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: At redemption of debentures, DRR should be transferred to general reserve.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The adjustment entry in respect of income received in advance is debit Income received in advance account and credit income account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If any partner wants to retire from the business, he must retire on 1st day of the accounting year.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: At the time of liquidation, debenture holders are paid off after the shareholders.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: When companies issue their own debentures as collateral security for a loan, the holder of such debenture is entitled to interest only on the amount of loan and not on the debentures.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Sweat equity shares are those which are issued to employees & directors at a discount.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The term current asset is used to designate cash and other assets or resources which are reasonably expected to be realized or sold or consumed within one year.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The income statement shows either net profit or net loss for a particular period.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Valuation of inventory, at cost or net realisable value, whichever less, is based on the principle of Conservatism.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: A partnership firm cannot own any Assets.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Inventory is valued as carrying cost less percentage decreases.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The salary paid in advance is not an expense because it neither reduces assets nor increases liabilities.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Periodic inventory system is a method of ascertaining inventory by taking an actual physical count.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Rights issue of shares results in decrease of market value of per share in comparison to market price before rights issue.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Under LIFO, valuation of inventory is based on the assumption that costs are charged against revenue in the order in which they occur.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Any change in the estimated useful life of an asset should be accounted for as a change in an accounting estimate in accordance with Accounting Standards.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Registered debentures are transferable by delivery.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: When a property, plant or equipment is sold then provision for depreciation account is debited, asset account is credited and any gain or loss is recorded to profit and loss account.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Legal heirs of a deceased partner are entitled to his capital account balance only.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: New partner is entitled to share in revaluation profit.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: All liabilities which become due for payment within the year are classified as long-term liabilities.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The provision for discount on creditors is often not provided in keeping with the principle of conservatism.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Over the life of an asset subject to depreciation, the accelerated method will result in less depreciation expense in early years and more depreciation in later years of its life.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Cost of property, plant and equipment includes purchase price, refundable taxes & import duties after deducting any discount or rebate.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: When closing inventory is overstated, net income for the accounting period will be understated.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: A revaluation account is opened in the books of accounts on death of a partner.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: If a partner retires in between the accounting year then he is not entitled to any profit from the date of beginning of the year till his date of retirement.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The Receipts and payment account for a non-profit organization follows the accrual concept of accounting.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Part amount of entrance fees which is to be capitalized shall be disclosed in the income and expenditure account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: All the partners may decide not to change the values of assets and liabilities in the books of accounts.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Over the life of an asset subject to depreciation, the accelerated method will result in less depreciation expense in early years and more depreciation in later years of its life.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Token payment made to a person, who voluntarily undertakes a service which would normally be paid in case of profitable organization is termed as Honorarium.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Overhaul expenses of second-hand machinery purchased are Revenue Expenditure.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: For Non-profit organisation, Excess of income over expenditure in the Income and Expenditure account is termed as profit.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Goods worth Rs. 600 taken by the proprietor for personal use should be credited to Capital Account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The rate of dividend on preference shares may vary from year to year.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Subscriptions outstanding for the current year are disclosed under the Fixed assets side of the Balance sheet.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Any joint life policy reserve appearing in the Balance Sheet is credited to all the partners in their old profit sharing ratio.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Amount spent for replacement of worn-out part of machine is Capital Expenditure.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Cost of inventories should comprise all cost of purchase.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Periodic Inventory System is more suitable for small enterprises.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: On death of a partner, the firm gets surrender value of the joint life policy.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Expenses in connection with obtaining a license for running the cinema is Capital Expenditure.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: As per Table F, rate of interest on calls in advance is 10%.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The debit notes are used to prepare Sales Return Book.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Perpetual system requires closure of business for counting of inventory.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If revaluation account shows credit balance then it represents profit and therefore it is credited to all partners equally in their profit sharing ratio.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If the firm has taken any joint life policy then it is to be surrendered at the time of retirement of a partner.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: When shares are redeemed by utilising distributable profit, an amount equal to the face value of shares redeemed is transferred to Capital Reserve account by debiting the distributable profit.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Debentures suspense account appears on liability side of balance sheet.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The value of closing inventory under simple average price method is realistic as compare to LIFO.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The nature of business is not an important criteria in separating an expenditure between capital and revenue.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Debenture interest is payable after the payment of preference dividend but before the payment of equity dividend.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If adequate maintenance expenditure is incurred with relation to running repairs of an asset, we need not charge any depreciation.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Discount at the time of retirement of a bill is a gain for the drawee.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Personal purchases included in the purchases day book are added to the sales account in the Trading account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Subscription fees refers to the one-time fees paid by the members to get admission for the benefits of the club.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: When a new partner is admitted, old partners have to forego certain share in profits of the firm, this is called as sacrifice ratio.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Debenture holders are the owners of the company.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Under inflationary conditions, FIFO will not show lowest value of cost of goods sold.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Business of partnership comes to an end on death of a partner.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Surplus of non-profit organizations is distributed among its members.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: If the equipment account has a balance of Rs. 12,50,000 and the accumulated depreciation account has a balance of Rs. 4,00,000, the written down value of same shall be Rs. 16,50,000.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Forfeited shares are available to the company for the purpose of resale.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: If Closing Stock appears in the Trial Balance, the Closing inventory is then not entered in Trading Account. It is only shown in the Balance Sheet.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Provision for depreciation account is debited at the time of recording the depreciation on an asset.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: The business of partnership must be carried on by all the partners.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Goodwill is valued whenever there is change in the profit sharing ratio among the partners.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: If a company incurs loss, then it does not pay interest to the debenture holders.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: In event of the dissolution of the firm, the business ceases to end. In event of dissolution of the partnership, the partnership is reconstituted and the business discontinues.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Personal purchases included in the purchases day book are added to the sales account in the Trading account.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Foreign bill is drawn in the country and payable outside the country.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: The income statement shows either net profit or net loss for a particular period.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: After retirement of a partner, profit sharing ratio of continuing partners remains the same.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: As per Table F, rate of interest on calls in arrears is 12%.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: It is not necessary to adjust goodwill on death of a partner.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Amount spent as lawyer’s fee to defend a suit claiming that the firm’s factory site belonged to the plaintiff’s land is Capital Expenditure.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: On death of a partner continuing partners can agree to change their capital contribution and profit sharing ratio.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Perpetual debentures are payable at the time of liquidation of the company.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Capital redemption reserve cannot be used for writing off miscellaneous expenses and losses.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: A company who prepares financial statements in compliance with Accounting Standards under Section 133 of the Companies Act, 2013, it cannot utilize securities premium for the purpose of providing for premium on the redemption of Redeemable Preference
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Gains from the sale or exchange of assets are not considered as the revenue of the business.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Promissory note is different from bill of exchange because the amount is paid by the maker in case of former and by the acceptor in the latter.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Sales less cost of goods sold = gross profit.
+A) True
+B) False
+Ans: A
+
+---
+
+Q: Expenditure incurred for major repair of the asset so as to increase its product capacity is Revenue in nature.
+A) True
+B) False
+Ans: B
+
+---
+
+Q: Only legal heirs of deceased partner are entitled to amount received from joint life policy.
+A) True
+B) False
+Ans: B
+
+---
