@@ -1,0 +1,1009 @@
+Q: Which of the following is NOT covered under Macro Economics?
+A) Balance of Payment
+B) The overall level of savings and investment
+C) The level of employment
+D) Behaviour of Firms
+Ans: D
+Exp: Behaviour of individual firms and industries is studied under Microeconomics, whereas BoP, aggregate savings, and total employment belong to Macroeconomics.
+Sub: Sept 25
+
+---
+
+Q: An ice cream company is planning to expand its business. Before making decisions, it studies various economic factors, such as consumer preferences, pricing strategies, employee wages and the ideal location for its outlets. Which level of the economy does the company analyze for expansion?
+A) Macro Economy
+B) Micro Economy
+C) International Economy
+D) National Economy
+Ans: B
+Exp: Analyzing consumer preferences, pricing strategies, and outlet locations for an individual enterprise is a microeconomic analysis.
+Sub: Sept 25
+
+---
+
+Q: The important feature of a mixed economy is the:
+A) Co-existence of both manufacturing and service sectors
+B) Co-existence of both agriculture and industries
+C) Co-existence of both private and public sectors
+D) Co-existence of both small and large industries
+Ans: C
+Exp: A mixed economy is defined by the simultaneous co-existence and cooperation of the private sector and the public (state) sector.
+Sub: Sept 25
+
+---
+
+Q: Which one of the following is not the characteristic of a capitalist economy?
+A) Profit motive
+B) Competition
+C) Freedom of enterprise
+D) Collective ownership
+Ans: D
+Exp: Collective/state ownership of resources is a feature of socialism, whereas capitalism is founded on private property rights.
+Sub: Sept 25
+
+---
+
+Q: What will happen to demand when a larger proportion of people belong to older age groups relative to younger age groups?
+A) There will be increased demand for children's books.
+B) There will be increased demand for geriatric care services, spectacles and walking sticks etc.
+C) There will be increased demand for normal goods and services.
+D) There will be decreased demand for goods and services.
+Ans: B
+Exp: Demographic shifts toward an aging population increase the demand for elderly care, healthcare, and geriatric assistance products.
+Sub: Sept 25
+
+---
+
+Q: Under ______ conditions, supply will be more than that under ______ conditions.
+A) Monopolized; Competitive
+B) Competitive; Monopolized
+C) Competitive, Oligopoly
+D) Oligopoly, Monopolized
+Ans: B
+Exp: Competitive markets maximize output at lower prices, whereas monopolies restrict supply to charge higher prices.
+Sub: Sept 25
+
+---
+
+Q: Demand is said to be elastic, if:
+A) Elasticity is one (Ep = 1)
+B) Elasticity is greater than one (Ep > 1)
+C) Elasticity is less than one (Ep < 1)
+D) Elasticity is zero (Ep = 0)
+Ans: B
+Exp: When percentage change in quantity demanded exceeds percentage change in price (Ep > 1), demand is price elastic.
+Sub: Sept 25
+
+---
+
+Q: The consumer is in equilibrium position at a point where the price line is:
+A) cutting an indifference curve
+B) below an indifference curve
+C) tangent to an indifference curve
+D) above an indifference curve
+Ans: C
+Exp: Consumer equilibrium in indifference curve analysis occurs where the budget line is tangent to the highest attainable indifference curve.
+Sub: Sept 25
+
+---
+
+Q: How does an increase in the income of consumers generally affect the demand for normal goods?
+A) It decreases the demand.
+B) It has no effect on the demand.
+C) It increases the demand.
+D) It makes the demand more elastic.
+Ans: C
+Exp: Normal goods have a positive income elasticity of demand; hence an increase in income shifts demand rightward.
+Sub: Sept 25
+
+---
+
+Q: If a company increases its advertisement expenditure by 20% and the quantity demanded increases by 40%, what is the advertisement elasticity of demand?
+A) Ea = 0
+B) Ea = 1
+C) Ea = 0.5
+D) Ea = 2
+Ans: D
+Exp: Advertisement Elasticity (Ea) = % change in Quantity Demanded / % change in Ad Spend = 40% / 20% = 2.
+Sub: Sept 25
+
+---
+
+Q: The condition for consumer equilibrium is given by:
+A) MUX * PX = MUY * PY
+B) MUX = MUY
+C) MUX / PX = MUY / PY
+D) MUX / MUY = PY / PX
+Ans: C
+Exp: Under cardinal utility theory, consumer equilibrium across two commodities requires equating marginal utility per rupee: MUX/PX = MUY/PY.
+Sub: Sept 25
+
+---
+
+Q: Which of the following statements is true about Giffen goods?
+A) All Giffen goods are inferior goods.
+B) All inferior goods are Giffen goods.
+C) Giffen goods are inferior goods with close substitutes.
+D) Giffen goods follow the law of demand.
+Ans: A
+Exp: All Giffen goods are inferior goods with a strong negative income effect that outweighs the substitution effect, but not all inferior goods are Giffen goods.
+Sub: Sept 25
+
+---
+
+Q: The concept of consumer surplus is closely related to the ______ curve for a product.
+A) Supply
+B) Demand
+C) Cost
+D) Profit
+Ans: B
+Exp: Consumer surplus represents the area below the demand curve and above the prevailing market price line.
+Sub: Sept 25
+
+---
+
+Q: The slope of the budget line is determined by the relative prices of the two goods and is equal to:
+A) Total expenditure of two goods
+B) The price ratio of two goods
+C) The income level of the consumer
+D) The marginal utility of the goods
+Ans: B
+Exp: The slope of the budget constraint line equals the negative price ratio of the two commodities: -(PX / PY).
+Sub: Sept 25
+
+---
+
+Q: When average product rises as a result of an increase in the quantity of variable input, marginal product is:
+A) less than the average product
+B) minimum
+C) equal to the average product
+D) more than the average product
+Ans: D
+Exp: As long as Average Product (AP) is rising, Marginal Product (MP) lies above Average Product (MP > AP).
+Sub: Sept 25
+
+---
+
+Q: Which of the following curve is known as 'plant curve'?
+A) Average total cost curve
+B) Average variable cost curve
+C) Short run average cost curve
+D) Long run average cost curve
+Ans: C
+Exp: Short Run Average Cost (SAC) curves correspond to specific plant sizes, hence termed plant curves (whereas LAC is the envelope/planning curve).
+Sub: Sept 25
+
+---
+
+Q: If a firm adds more number of workers but total output starts to increase at a decreasing rate, the firm is experiencing:
+A) Increasing Returns to Scale
+B) Diminishing Marginal Returns
+C) Constant Returns to Scale
+D) Negative Marginal Returns
+Ans: B
+Exp: Output increasing at a decreasing rate indicates that Marginal Product is falling, which is the stage of Diminishing Marginal Returns.
+Sub: Sept 25
+
+---
+
+Q: Which of the following factors or resources make it possible to produce goods and services?
+A) Land, Labour, Industrial policy and Capital
+B) Land, Labour, Fiscal policy and Capital
+C) Land, Labour, Capital and Entrepreneurial ability
+D) Land, Labour, Technology and Capital
+Ans: C
+Exp: The four classical factors of production are Land, Labour, Capital, and Entrepreneurship/Organization.
+Sub: Sept 25
+
+---
+
+Q: In Cobb-Douglas production function, output is manufactured production and inputs used are:
+A) Entrepreneur and land
+B) Labour and capital
+C) Land and Labour
+D) Entrepreneur and capital
+Ans: B
+Exp: The standard Cobb-Douglas production function is formulated as Q = A * L^a * K^b, where inputs are Labour (L) and Capital (K).
+Sub: Sept 25
+
+---
+
+Q: After identifying the market, the enterprise has to make decision regarding 4 P's namely:
+A) Product, Promotion, Price and Purchase
+B) Product, Promotion, Profit and Place
+C) Product, Promotion, Price and Place
+D) Product, Purchase, Price and Placement
+Ans: C
+Exp: The marketing mix comprises the 4 P's: Product, Price, Place, and Promotion.
+Sub: Sept 25
+
+---
+
+Q: Under which of the following forms of market structure a firm cannot influence the price of its product?
+A) Monopoly
+B) Oligopoly
+C) Perfect competition
+D) Monopolistic competition
+Ans: C
+Exp: In perfect competition, numerous sellers produce identical goods, making each firm a pure price-taker with zero pricing power.
+Sub: Sept 25
+
+---
+
+Q: What is the Average Variable Cost (AVC) when the quantity produced is 100 units, the total cost is ₹1,000, and the fixed cost is ₹200?
+A) 5
+B) 8
+C) 10
+D) 12
+Ans: B
+Exp: Total Variable Cost (TVC) = Total Cost - Fixed Cost = 1,000 - 200 = ₹800. AVC = TVC / Q = 800 / 100 = ₹8.
+Sub: Sept 25
+
+---
+
+Q: In an increase in supply with unchanged demand:
+A) The equilibrium price will go down and the quantity demanded will go up.
+B) The equilibrium price will go up and the quantity demanded will go down.
+C) The equilibrium price will go up and the quantity demanded will remain constant.
+D) The equilibrium price will go down and the quantity demanded will also go down.
+Ans: A
+Exp: A rightward shift in supply creates excess supply at the original price, pulling equilibrium price down and expanding equilibrium quantity.
+Sub: Sept 25
+
+---
+
+Q: Assuming that the supply of cars will remain constant and the prices of cars are expected to increase in future, then what will be its effect on Demand Curve?
+A) Demand curve will shift to right.
+B) Demand curve will shift to left.
+C) Demand curve will remain unchanged.
+D) Insufficient information to predict the effect on demand curve.
+Ans: A
+Exp: Expectation of higher future prices encourages buyers to purchase now, increasing current demand and shifting the demand curve to the right.
+Sub: Sept 25
+
+---
+
+Q: A competitive firm should shut down if:
+A) Its total revenues are less than the total cost.
+B) Its total revenues are less than the marginal revenues.
+C) Its total revenues are less than the total variable cost.
+D) Its total revenues are less than the fixed cost.
+Ans: C
+Exp: In the short run, a firm shuts down when price falls below Average Variable Cost (or Total Revenue < Total Variable Cost).
+Sub: Sept 25
+
+---
+
+Q: Aluminium industry is the example of:
+A) Competitive oligopoly
+B) Perfect oligopoly
+C) Collusive oligopoly
+D) Open oligopoly
+Ans: B
+Exp: When firms in an oligopoly market produce standardized, homogeneous industrial raw materials (like aluminium, cement), it is a Perfect/Pure Oligopoly.
+Sub: Sept 25
+
+---
+
+Q: Kinked Demand Curve is found under:
+A) Monopoly
+B) Monopsony
+C) Duopoly
+D) Oligopoly
+Ans: D
+Exp: Paul Sweezy's kinked demand curve model explains sticky/rigid pricing specifically in oligopoly markets.
+Sub: Sept 25
+
+---
+
+Q: Which one of the following is not the object of price discrimination?
+A) To earn maximum profit
+B) To enjoy economies of scale
+C) To hold excess stock
+D) To secure equity through pricing
+Ans: C
+Exp: Disposing of surplus stock (rather than holding excess stock), profit maximization, and capturing scale economies are genuine objectives.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is a fundamental cause for the creation of a monopoly?
+A) Barriers to entry
+B) Low startup costs
+C) High competition
+D) Equal distribution of resources
+Ans: A
+Exp: High structural, legal, or economic barriers to entry prevent competitors from entering, sustaining a monopoly.
+Sub: Sept 25
+
+---
+
+Q: A fast-food chain introduces a new burger with a unique sauce to differentiate itself from competitors. Although many similar burger options exist in the market, customers perceive this product as distinct. Which type of market structure has been represented in given scenario?
+A) Perfect Competition
+B) Monopoly
+C) Monopolistic Competition
+D) Oligopoly
+Ans: C
+Exp: A large number of sellers competing through product differentiation and perceived brand uniqueness defines Monopolistic Competition.
+Sub: Sept 25
+
+---
+
+Q: Identify the correct formula for Marginal Revenue (MR) when there is a one-unit change in output.
+A) MRn = TRn - TRn-1
+B) MRn = TRn + TRn-1
+C) MRn = TRn * TRn-1
+D) MRn = TRn / TRn-1
+Ans: A
+Exp: Marginal Revenue from the nth unit is the difference between total revenue at n units and total revenue at n-1 units.
+Sub: Sept 25
+
+---
+
+Q: When both demand and supply decrease, the equilibrium quantity ______ but the change in equilibrium price is ______
+A) decreases, uncertain
+B) increases, constant
+C) increases, uncertain
+D) decreases, constant
+Ans: A
+Exp: Both leftward shifts unambiguously reduce equilibrium quantity, while the net impact on price depends on relative shift magnitudes.
+Sub: Sept 25
+
+---
+
+Q: Which type of firm has the market power to charge a price above marginal cost and earn a positive profit?
+A) A perfectly competitive firm
+B) A monopolistic competitive firm
+C) A monopoly firm
+D) A firm in an oligopolistic market
+Ans: C
+Exp: A pure monopoly possesses maximum market power, facing no close substitutes and pricing significantly above marginal cost.
+Sub: Sept 25
+
+---
+
+Q: Suppose that the cost of producing 1,000 units of a product by a Firm is ₹15,000. The entrepreneur has invested ₹50,000 in the business and the normal rate of return in the market is 10%. What will be the implicit cost?
+A) ₹5,000
+B) ₹1,500
+C) ₹6,500
+D) ₹2,000
+Ans: A
+Exp: Implicit cost is the opportunity cost of invested self-owned funds = 10% of ₹50,000 = ₹5,000.
+Sub: Sept 25
+
+---
+
+Q: When there is a decrease in demand due to a fall in income, while supply remains the same, what happens to the demand curve?
+A) It will shifts to the right.
+B) It will remain unchanged.
+C) It will shifts to the left.
+D) It will become vertical.
+Ans: C
+Exp: A reduction in consumer income for normal goods decreases demand, shifting the demand curve to the left.
+Sub: Sept 25
+
+---
+
+Q: If the consumption function C = 10 + 0.5Y and Investment is 200, then what will be the equilibrium level of Income?
+A) 510
+B) 325
+C) 420
+D) 350
+Ans: C
+Exp: Y = C + I => Y = 10 + 0.5Y + 200 => 0.5Y = 210 => Y = 210 / 0.5 = 420.
+Sub: Sept 25
+
+---
+
+Q: The maximum value of investment multiplier will be infinity when the value of:
+A) MPC is 1.
+B) MPC is -1.
+C) APC is 1.
+D) MPS is -1.
+Ans: A
+Exp: Investment Multiplier k = 1 / (1 - MPC). When MPC = 1, k = 1 / 0 = infinity.
+Sub: Sept 25
+
+---
+
+Q: Calculate consumption of fixed capital (depreciation) from: GDP_MP = 8,000, NNP_MP = 5,600, Indirect tax = 400, Subsidy = 300, NFIA = 200 (in crores):
+A) 1,700 crores
+B) 5,200 crores
+C) 7,600 crores
+D) 2,600 crores
+Ans: D
+Exp: GNP_MP = GDP_MP + NFIA = 8,000 + 200 = 8,200. Depreciation = GNP_MP - NNP_MP = 8,200 - 5,600 = 2,600 crores.
+Sub: Sept 25
+
+---
+
+Q: There are three different interlinked phases in a circular flow of income, namely:
+A) Production, consumption and disposition
+B) Production, consumption and investment
+C) Production, disposition and distribution
+D) Production, expenditure and disposition
+Ans: C
+Exp: The circular flow of income flows through Generation (Production), Distribution (Factor Income), and Disposition (Expenditure).
+Sub: Sept 25
+
+---
+
+Q: Calculate net factor income from abroad (NFIA) from: NDP_MP = 10,000, NNP_MP = 12,000, Net indirect tax = 400, Depreciation = 200 (in crores):
+A) 2,400 crores
+B) 2,000 crores
+C) 3,600 crores
+D) 1,800 crores
+Ans: B
+Exp: NNP_MP = NDP_MP + NFIA => 12,000 = 10,000 + NFIA => NFIA = 12,000 - 10,000 = 2,000 crores.
+Sub: Sept 25
+
+---
+
+Q: If the GDP deflator is greater than 100, it indicates that:
+A) Real GDP is greater than nominal GDP.
+B) Nominal GDP is greater than real GDP.
+C) Price levels are lower as compared to the base year.
+D) Real GDP is equal to nominal GDP.
+Ans: B
+Exp: GDP Deflator = (Nominal GDP / Real GDP) * 100. If Deflator > 100, Nominal GDP exceeds Real GDP, indicating inflation.
+Sub: Sept 25
+
+---
+
+Q: Gamma Ltd., a South Korean company, earns profits from its manufacturing operations in India. How these profits will be reflected in the economic measures of both countries?
+A) They will be included in India's GDP and South Korea's GDP.
+B) They will be included in India's GDP but not in South Korea's GNP.
+C) They will be included in India's GDP and South Korea's GNP.
+D) They will be included only in India's GNP.
+Ans: C
+Exp: The factory is located in India (India's GDP), while the factor income accrues to South Korean owners (South Korea's GNP).
+Sub: Sept 25
+
+---
+
+Q: If national income increases from ₹500 crores to ₹2,500 crores due to an increase in investment of ₹200 crores, what will be the value of the Marginal Propensity to Consume (MPC)?
+A) 0.90
+B) 0.85
+C) 0.75
+D) 0.95
+Ans: A
+Exp: ΔY = 2,500 - 500 = 2,000. Multiplier k = ΔY / ΔI = 2,000 / 200 = 10. k = 1 / (1 - MPC) => 10 = 1 / (1 - MPC) => 1 - MPC = 0.10 => MPC = 0.90.
+Sub: Sept 25
+
+---
+
+Q: The slope of the consumption function represents:
+A) Average Propensity to Save (APS).
+B) Marginal Propensity to Consume (MPC).
+C) Marginal Propensity to Save (MPS).
+D) Average Propensity to Consume (APC).
+Ans: B
+Exp: In C = a + bY, the slope of the consumption curve is the first derivative dC/dY = b = Marginal Propensity to Consume.
+Sub: Sept 25
+
+---
+
+Q: Who are the economists credited with pioneering National Income Accounting?
+A) John Maynard Keynes and Milton Friedman
+B) Simon Kuznets and Richard Stone
+C) Adam Smith and David Ricardo
+D) Paul Samuelson and Joseph Schumpeter
+Ans: B
+Exp: Simon Kuznets (Nobel Prize 1971) and Richard Stone (Nobel Prize 1984) established modern national income accounting systems.
+Sub: Sept 25
+
+---
+
+Q: If a country has economic data: GDP_MP = ₹2,000 billion, indirect taxes = ₹250 billion and subsidies = ₹100 billion, what is its GDP at Factor Cost?
+A) ₹1,850 billion
+B) ₹2,100 billion
+C) ₹2,150 billion
+D) ₹2,000 billion
+Ans: A
+Exp: GDP_FC = GDP_MP - Indirect Taxes + Subsidies = 2,000 - 250 + 100 = ₹1,850 billion.
+Sub: Sept 25
+
+---
+
+Q: If the Average Propensity to Save (APS) of a household is 0.4, and their total income is ₹25,000, what is the total saving?
+A) ₹15,000
+B) ₹10,000
+C) ₹6,250
+D) ₹12,500
+Ans: B
+Exp: Total Saving = Income * APS = 25,000 * 0.4 = ₹10,000.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is an anti-inflationary measure that puts downward pressure on aggregate demand, causing the economy to slow down?
+A) Reduction in government spending.
+B) Increase in government spending.
+C) Decrease in interest rates.
+D) Decrease in taxes.
+Ans: A
+Exp: Contractionary fiscal policy reduces government spending (G), lowering aggregate demand to control inflation.
+Sub: Sept 25
+
+---
+
+Q: The advent of mobile phones, which led to a boom in telecom industry, exemplifies which external cause of business cycles?
+A) Technology Disruptions
+B) Technology Shocks
+C) Technology Regulations
+D) Technology Limitations
+Ans: B
+Exp: Exogenous technological shocks and innovations spark waves of capital investment and economic expansion.
+Sub: Sept 25
+
+---
+
+Q: Which of the following best describes the economic conditions during bad trade in a business cycle?
+A) Rising prices and low unemployment rate.
+B) Falling prices and high unemployment rate.
+C) High consumer confidence and rising wages.
+D) Increasing demand and production.
+Ans: B
+Exp: A depression/recessionary phase ('bad trade') is characterized by depressed prices, low sales, and severe unemployment.
+Sub: Sept 25
+
+---
+
+Q: Business cycles typically consist of which of the following phases?
+A) Inflation, deflation, stagnation, growth
+B) Expansion, peak, contraction, trough
+C) Recession, depression, boom, stabilization
+D) Peak, decline, recovery, boom
+Ans: B
+Exp: The four standard sequential phases of a business cycle are Expansion, Peak, Contraction, and Trough.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is true about the duration and intensity of business cycles?
+A) Business cycles have a fixed duration and intensity.
+B) Business cycles exhibit the same duration and intensity across all economies.
+C) Business cycles varies in duration and intensity, but they share common features.
+D) Business cycles do not vary in duration or intensity.
+Ans: C
+Exp: While business cycles vary in length and severity across historical episodes, they share recurring pervasive characteristics.
+Sub: Sept 25
+
+---
+
+Q: What does Article 275 of the Indian Constitution deal with?
+A) Surcharge on certain duties and taxes for purposes of the union.
+B) Statutory grants-in-aid from the union to certain states.
+C) Grants for any public purpose.
+D) Loans for any public purpose.
+Ans: B
+Exp: Article 275 provides for statutory grants-in-aid of the revenues of specific States requiring financial assistance.
+Sub: Sept 25
+
+---
+
+Q: Who introduced the concept of 'collective consumption goods', which later came to be known as public goods?
+A) Milton Friedman
+B) John Maynard Keynes
+C) Paul A. Samuelson
+D) Adam Smith
+Ans: C
+Exp: Paul A. Samuelson introduced the formal economic theory of public goods in his seminal 1954 paper.
+Sub: Sept 25
+
+---
+
+Q: If revenue receipts = ₹10,000 cr, non-debt capital receipts = ₹2,000 cr, revenue expenditure = ₹12,000 cr and capital expenditure = ₹5,000 cr. What is the fiscal deficit?
+A) ₹5,000 crore
+B) ₹7,000 crore
+C) ₹10,000 crore
+D) ₹9,000 crore
+Ans: A
+Exp: Fiscal Deficit = Total Expenditure - Total Non-Debt Receipts = (12,000 + 5,000) - (10,000 + 2,000) = 17,000 - 12,000 = ₹5,000 crore.
+Sub: Sept 25
+
+---
+
+Q: Contractionary fiscal policy typically involves:
+A) Increasing government spending and reducing taxes.
+B) Reducing government spending and increasing taxes.
+C) Increasing government spending and increasing taxes.
+D) Reducing both government spending and taxes.
+Ans: B
+Exp: To cool down an overheated inflationary economy, the government cuts public expenditures and increases taxes.
+Sub: Sept 25
+
+---
+
+Q: The government's use of proceeds from progressive taxes to supply essential food grains at highly subsidized prices to BPL households is an example of:
+A) Allocation Function
+B) Stabilization Function
+C) Redistribution Function
+D) Production Function
+Ans: C
+Exp: Collecting progressive taxes from the rich to subsidize basic necessities for low-income groups serves the Redistribution Function.
+Sub: Sept 25
+
+---
+
+Q: The Right of Children to Free and Compulsory Education Act, 2009, which mandates free and compulsory education for every child aged 6-14, is an example of:
+A) Government Intervention in the case of Merit Goods.
+B) Government Intervention in the case of Demerit Goods.
+C) Government Intervention in the case of Public Goods.
+D) Government Intervention to correct Externalities.
+Ans: A
+Exp: Primary education is a merit good with massive positive social externalities that warrants state provision.
+Sub: Sept 25
+
+---
+
+Q: Alex has comprehensive car insurance covering accident damages. As a result, he drives more recklessly, getting into more accidents. This scenario illustrates:
+A) Moral Hazard
+B) Market Power
+C) Lemon's Problem
+D) Government Interventions
+Ans: A
+Exp: Moral hazard arises when insured individuals take higher risks because the financial consequences are absorbed by the insurer.
+Sub: Sept 25
+
+---
+
+Q: Under Article 266(1) of the Constitution of India, which of the following is used in relation to all fund flows where the government acts as a banker?
+A) Public Account
+B) Consolidated Fund
+C) Contingency Fund
+D) State Development Fund
+Ans: A
+Exp: Public Account of India holds funds (such as provident funds, small savings) where the government acts as a custodian/banker.
+Sub: Sept 25
+
+---
+
+Q: ______ is defined as the excess of total estimated expenditure over total estimated revenue and is the difference between all receipts and expenditures, both revenue and capital.
+A) Fiscal Deficit
+B) Revenue Deficit
+C) Budgetary Deficit
+D) Primary Deficit
+Ans: C
+Exp: Budgetary deficit measures the total shortfall between all receipts (revenue + capital) and all expenditures.
+Sub: Sept 25
+
+---
+
+Q: The situation when the market does not supply products at all despite the fact that such products and services are wanted by the people is known as:
+A) Temporary market failure
+B) Complete market failure
+C) Partial market failure
+D) Relative market failure
+Ans: B
+Exp: Complete market failure (missing market) occurs when the private market completely fails to supply a beneficial good (e.g. pure public goods).
+Sub: Sept 25
+
+---
+
+Q: For initial deposit of ₹6,00,000, the total credit creation is calculated at ₹50,00,000. What is Required Reserve Ratio (RRR)?
+A) 12%
+B) 10%
+C) 12.5%
+D) 8%
+Ans: A
+Exp: Money Multiplier = Total Credit / Initial Deposit = 50,00,000 / 6,00,000 = 8.33. RRR = 1 / Multiplier = 6 / 50 = 12%.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is not a quantitative tool as used by RBI to control the money supply in the entire economy?
+A) Open Market Operations
+B) Statutory Liquidity Ratio
+C) Selective Credit Control
+D) Cash Reserve Ratio
+Ans: C
+Exp: Selective Credit Control (SCC) is a qualitative tool directing credit to specific sectors, unlike quantitative tools (OMO, CRR, SLR).
+Sub: Sept 25
+
+---
+
+Q: Which of the following statements are true in relation to Cryptocurrency? (Statement-I: Significant legislative recognition, Statement-II: Not legally recognized as currency in India, Statement-III: Not categorized as money, Statement-IV: Legitimate payment like fiat money)
+A) Statement I and IV
+B) Statement I and II
+C) Statement I and III
+D) Statement II and III
+Ans: D
+Exp: In India, cryptocurrencies are not legal tender currency or traditional money, but treated as Virtual Digital Assets.
+Sub: Sept 25
+
+---
+
+Q: If the money supply is 1,000 billion and the monetary base is 200 billion, what is the money multiplier (m)?
+A) 5
+B) 2
+C) 10
+D) 0.2
+Ans: A
+Exp: Money Multiplier (m) = Money Supply (M) / Monetary Base (H) = 1,000 / 200 = 5.
+Sub: Sept 25
+
+---
+
+Q: What is the primary objective of monetary policy in most countries, including India?
+A) To ensure a high level of government spending.
+B) To maintain a balance between price stability and economic growth.
+C) To promote export-led growth.
+D) To control exchange rates at all costs.
+Ans: B
+Exp: Under the RBI Act, the primary objective of monetary policy is price stability while keeping in mind the objective of growth.
+Sub: Sept 25
+
+---
+
+Q: Marginal Standing Facility (MSF) Rate is the penal rate at which Central Banks lend to Banks over Repo Rate. Which options are correct?
+A) Option (1) and (4)
+B) Option (2) and (3)
+C) Option (1) and (3)
+D) Option (2) and (4)
+Ans: C
+Exp: MSF Rate is benchmarked at a premium above Repo Rate (MSF Rate = Repo Rate + 100 bps / +1%).
+Sub: Sept 25
+
+---
+
+Q: According to Friedman, how does the price level, as a determinant, affect the nominal demand for money?
+A) It has no effect.
+B) It is negatively related to the demand for money.
+C) A rise in the price level increases the demand for money and vice versa.
+D) A rise in the price level decreases the demand for money.
+Ans: C
+Exp: Demand for nominal money balances is homogeneous of degree one in price level; doubling prices doubles nominal money demand.
+Sub: Sept 25
+
+---
+
+Q: When the speculative demand for money becomes perfectly elastic with respect to interest rate, making the curve parallel to X-axis, it is called:
+A) Inflationary gap
+B) Liquidity trap
+C) Monetary expansion
+D) Deflationary spiral
+Ans: B
+Exp: In a Keynesian Liquidity Trap, nominal interest rates are so low that the public holds all incremental money in cash form.
+Sub: Sept 25
+
+---
+
+Q: Calculate Broad Money (M3) from: Currency with public = 2250, Demand Deposits = 630, Total Post Office Deposits = 478, Time Deposits with banks = 535, Post office savings = 312 (in Crores):
+A) 3,415 crores
+B) 3,225 crores
+C) 3,260 crores
+D) 3,420 crores
+Ans: A
+Exp: M3 = Currency with Public + Demand Deposits + Time Deposits with Banks = 2250 + 630 + 535 = 3,415 crores.
+Sub: Sept 25
+
+---
+
+Q: Which monetary tool is used to check temporary liquidity mismatches in the market due to foreign capital flow?
+A) Cash Reserve Ratio (CRR)
+B) Statutory Liquidity Ratio (SLR)
+C) Open Market Operations (OMO / MSS)
+D) Marginal Standing Facility (MSF)
+Ans: C
+Exp: Open Market Operations (and Market Stabilization Scheme) absorb or inject liquidity resulting from forex inflows/outflows.
+Sub: Sept 25
+
+---
+
+Q: ABC Ltd. in Country A imports machinery from Country B. Country A requires all importers to pay 25% of total value 3 months in advance before arrival. Which measure is this?
+A) Financial Measures
+B) Price Control Measures
+C) Measures affecting Competition
+D) Government Procurement Policies
+Ans: A
+Exp: Advance import deposits and foreign exchange cash margin requirements are non-tariff Financial Measures.
+Sub: Sept 25
+
+---
+
+Q: Which consists of a group of countries having a free trade agreement among themselves and applying a common external tariff to other countries?
+A) Free-trade area
+B) Regional Preferential Trade Agreements
+C) Economic and Monetary Union
+D) Customs Union / Trading Bloc
+Ans: D
+Exp: A Customs Union (or common trading bloc) eliminates internal tariffs and adopts a common external tariff (CET) for non-members.
+Sub: Sept 25
+
+---
+
+Q: Country X has seen an increase in its Real Effective Exchange Rate (REER), making its goods more expensive abroad and imports cheaper. What is the impact?
+A) Exports from Country X will increase.
+B) Imports to Country X will become more expensive.
+C) Exports from Country X will become less competitive.
+D) Imports to Country X will decrease.
+Ans: C
+Exp: An appreciating REER erodes international price competitiveness, reducing exports and encouraging cheaper imports.
+Sub: Sept 25
+
+---
+
+Q: In which of the following forms of FDI, 100% investment is allowed under the automatic route for airport projects in India?
+A) Greenfield investment
+B) Brownfield investment
+C) Joint venture
+D) Subsidiary establishment
+Ans: B
+Exp: In airport projects, 100% FDI is permitted under the automatic route for existing/brownfield and greenfield projects.
+Sub: Sept 25
+
+---
+
+Q: Who proposed that a country should export goods in which it has the greatest absolute advantage and import goods in which its absolute advantage is comparatively less?
+A) Adam Smith
+B) David Ricardo
+C) Eli Heckscher and Bertil Ohlin
+D) John Maynard Keynes
+Ans: B
+Exp: David Ricardo formulated the Law of Comparative Advantage (1817) comparing relative production efficiencies.
+Sub: Sept 25
+
+---
+
+Q: An anti-dumping duty is a protectionist tariff that a domestic government imposes on imports that it believes are priced below:
+A) Production cost
+B) Export price
+C) Fair market value (Normal value)
+D) Import duty
+Ans: C
+Exp: Anti-dumping duties neutralize unfair dumping where foreign goods are priced below their normal fair market value.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is NOT an example of Technical Barriers to Trade (TBT)?
+A) Eco-labelling
+B) Quality standards
+C) Import quotas
+D) Organic certification
+Ans: C
+Exp: Import quotas are quantitative trade restrictions, whereas technical regulations and labelling are TBTs.
+Sub: Sept 25
+
+---
+
+Q: A U.S. based cell phone service provider expands in India by offering the same telecommunication services as in the U.S. This is an example of:
+A) Horizontal direct investment
+B) Vertical investment
+C) Conglomerate Investment
+D) Two-way direct foreign investment
+Ans: A
+Exp: Horizontal FDI occurs when a company replicates its identical core business operations in a foreign country.
+Sub: Sept 25
+
+---
+
+Q: Tariff on steel product: "5% ad valorem or ₹800 per tonne, whichever is higher". It is an example of:
+A) Mixed Tariff
+B) Compound Tariff
+C) Ad valorem Tariff
+D) Bound Tariff
+Ans: A
+Exp: A mixed tariff sets an alternate duty structure choosing either an ad valorem rate or a specific rate based on which is higher.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is NOT the advantage of a fixed exchange rate regime?
+A) An increase in speculation on exchange rate movements.
+B) Enhances international trade and investment.
+C) Avoids currency fluctuations and eliminates exchange rate risks.
+D) Enhances credibility of monetary policy.
+Ans: A
+Exp: Fixed exchange rates eliminate currency uncertainty; destabilizing speculation is an issue under vulnerable pegs, not a designed advantage.
+Sub: Sept 25
+
+---
+
+Q: Which of the following was NOT the focus of monetary and financial sector reforms?
+A) Reducing the burden of non-performing assets on government banks.
+B) Restricting foreign investment in banks.
+C) Introducing and sustaining competition.
+D) Deregulating interest rates.
+Ans: B
+Exp: Narasimham Committee reforms liberalized foreign investment and private bank entry rather than restricting it.
+Sub: Sept 25
+
+---
+
+Q: What type of economy is described as prevalent in ancient and medieval India?
+A) A predominantly agricultural economy
+B) A self-reliant and prosperous economy
+C) A heavily trade-dependent economy
+D) A barter-based economy
+Ans: B
+Exp: Historical accounts depict ancient and medieval India as a self-reliant, prosperous economic powerhouse.
+Sub: Sept 25
+
+---
+
+Q: Foreign Investment Promotion Board (FIPB) was abolished in May 2017 and replaced by:
+A) Foreign Investor Promotion Portal (FIPP).
+B) Foreign Investment Facilitation Portal (FIFP)
+C) Foreign Direct Investment Portal (FDIP)
+D) Foreign Direct Investment Promotion Portal (FDIPP)
+Ans: B
+Exp: The Union Government established the Foreign Investment Facilitation Portal (FIFP) under DPIIT to process FDI approvals online.
+Sub: Sept 25
+
+---
+
+Q: The ______ includes a stable and transparent tax structure, better tax compliance, reduction of subsidies and encouragement of private sector participation.
+A) Fiscal Reforms
+B) Capital Market Reforms
+C) Trade Policy Reforms
+D) Monetary and Financial Sector Reforms
+Ans: A
+Exp: Fiscal policy reforms focus on tax rationalization, widening tax compliance, and public expenditure management.
+Sub: Sept 25
+
+---
+
+Q: Which of the following sectors has recently been included under the PLI Scheme?
+A) Automobiles
+B) Textiles
+C) White goods (Air conditioners and LED lights)
+D) Pharmaceuticals
+Ans: C
+Exp: Production Linked Incentive (PLI) scheme for White Goods incentivizes domestic manufacturing of components for ACs and LED lights.
+Sub: Sept 25
+
+---
+
+Q: Which facility was provided to industry groups to allow flexibility and rapid changes in their product mix without requiring a fresh license?
+A) Open General License (OGL)
+B) Broad-Banding
+C) Special Economic Zones (SEZs)
+D) Export Promotion Policy
+Ans: B
+Exp: Broad-banding was introduced in the 1980s allowing industrial units to produce allied product categories under a single license.
+Sub: Sept 25
+
+---
+
+Q: Which scheme aims to increase water use efficiency at the farm level?
+A) Agricultural Mechanization
+B) Paramparagat Krishi Vikas Yojana (PKVY)
+C) Per Drop More Crop (PDMC)
+D) Agri Infrastructure Fund
+Ans: C
+Exp: 'Per Drop More Crop' (under PMKSY) promotes micro-irrigation systems (drip and sprinkler) to maximize water efficiency.
+Sub: Sept 25
+
+---
+
+Q: What is the full form of PMI?
+A) Prime Management Index
+B) Purchase Management Index
+C) Purchasing Managers' Index
+D) Property Managers' Index
+Ans: C
+Exp: Purchasing Managers' Index (PMI) is an economic indicator derived from monthly surveys of private sector purchasing managers.
+Sub: Sept 25
+
+---
+
+Q: Which of the following is the aim of the National Manufacturing Policy?
+A) To increase the share of manufacturing in GVA to 27% by 2027.
+B) To increase the share of manufacturing in NDP to 27% by 2027.
+C) To increase the share of manufacturing in NNP to 25% by 2025.
+D) To increase the share of manufacturing in GDP to 25% by 2025.
+Ans: D
+Exp: The National Manufacturing Policy targets increasing manufacturing's share in India's GDP to at least 25% by 2025.
+Sub: Sept 25
+
+---
+
+Q: The reason for introduction of 'Kisan Rail' is:
+A) For taking initiative towards transportation of perishable goods to market.
+B) For improvement in farm produce logistics.
+C) For creation of start-up eco system in agriculture and allied sectors.
+D) For taking initiative to formulate a comprehensive policy framework for logistics sector.
+Ans: B
+Exp: Kisan Rail services were launched by Indian Railways to provide cold-supply-chain transport for perishable agricultural harvest.
+Sub: Sept 25

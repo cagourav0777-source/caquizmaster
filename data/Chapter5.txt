@@ -1,0 +1,2848 @@
+Q: The term business cycle refers to:
+A) ups and downs in production of commodities
+B) fluctuating levels of economic activity over a period of time
+C) decline in economic activities over prolonged period of time
+D) increasing unemployment rate and diminishing rate of savings
+Ans: B
+Exp: Business cycles refer to the recurrent fluctuations in aggregate economic activity over time.
+Sub: Business Cycles
+
+---
+
+Q: A significant decline in general economic activity extending over a period of time is:
+A) business cycle
+B) contraction phase
+C) recession
+D) recovery
+Ans: B
+Exp: A broad-based decline in output, trade, and employment across the economy constitutes the contraction phase.
+Sub: Business Cycles
+
+---
+
+Q: The trough of a business cycle occurs when _____ hits its lowest point:
+A) inflation in the economy
+B) the money supply
+C) aggregate economic activity
+D) the unemployment rate
+Ans: C
+Exp: The trough represents the lowest turning point where aggregate production and economic activity bottom out.
+Sub: Business Cycles
+
+---
+
+Q: The lowest point in the business cycle is referred to as the:
+A) Expansion.
+B) Boom.
+C) Peak.
+D) Trough.
+Ans: D
+Exp: The bottom-most point of contraction before recovery starts is called the trough.
+Sub: Business Cycles
+
+---
+
+Q: A leading indicator is:
+A) a variable that tends to move along with the level of economic activity
+B) a variable that tends to move in advance of aggregate economic activity
+C) a variable that tends to move consequent on the level of aggregate economic activity
+D) None of the above
+Ans: B
+Exp: Leading indicators change before the overall economy changes (e.g. stock market movements, new housing orders).
+Sub: Business Cycles
+
+---
+
+Q: A variable that tends to move later than aggregate economic activity is called:
+A) a leading variable.
+B) a coincident variable.
+C) a lagging variable.
+D) a cyclical variable.
+Ans: C
+Exp: Lagging indicators reflect historical performance and change only after the overall economy has shifted (e.g. unemployment rate).
+Sub: Business Cycles
+
+---
+
+Q: Industries that are extremely sensitive to the business cycle are the:
+A) Durable goods and service sectors.
+B) Non-durable goods and service sectors.
+C) Capital goods and non-durable goods sectors.
+D) Capital goods and durable goods sectors.
+Ans: D
+Exp: Purchases of durable consumer goods and capital equipment can be postponed during downturns, making them highly volatile.
+Sub: Business Cycles
+
+---
+
+Q: A decrease in government spending would cause:
+A) aggregate demand curve to shift to the right.
+B) aggregate demand curve to shift to the left.
+C) movement down along aggregate demand curve.
+D) movement up along aggregate demand curve.
+Ans: B
+Exp: Government spending is a component of Aggregate Demand (AD = C + I + G + NX); cutting G shifts AD leftward.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following does not occur during an expansion?
+A) Consumer purchases of all types of goods tend to increase.
+B) Employment increases as demand for labour rises.
+C) Business profits and business confidence tend to increase.
+D) None of the above.
+Ans: D
+Exp: All the mentioned phenomena (rising consumption, rising employment, and soaring profits) occur during expansion.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following best describes a typical business cycle?
+A) Economic expansions are followed by economic contractions.
+B) Inflation is followed by rising income and unemployment.
+C) Economic expansions are followed by economic growth and development.
+D) Stagflation is followed by inflationary economic growth.
+Ans: A
+Exp: Business cycles are wave-like movements alternating between periods of expansion and contraction.
+Sub: Business Cycles
+
+---
+
+Q: During recession, the unemployment rate _______ and output _______:
+A) Rises; falls
+B) Rises; rises
+C) Falls; rises
+D) Falls; falls
+Ans: A
+Exp: Falling demand leads firms to curtail production (output falls) and lay off workers (unemployment rises).
+Sub: Business Cycles
+
+---
+
+Q: The four phases of the business cycle are:
+A) expansion, peak, contraction and trough
+B) contraction, expansion, trough and boom
+C) expansion contraction, peak, and trough
+D) peak, depression, bust, and boom
+Ans: A
+Exp: The standard sequence of a business cycle consists of Expansion, Peak, Contraction, and Trough.
+Sub: Business Cycles
+
+---
+
+Q: Leading economic indicators:
+A) are used to forecast probable shifts in economic policies
+B) are generally used to forecast economic fluctuations
+C) are indicators of stock prices existing in an economy
+D) are indicators of probable recession and depression
+Ans: B
+Exp: Economists use leading indicators to forecast upcoming turning points and fluctuations in the business cycle.
+Sub: Business Cycles
+
+---
+
+Q: When aggregate economic activity is declining, the economy is said to be in:
+A) Contraction.
+B) an expansion.
+C) a trough.
+D) a turning point.
+Ans: A
+Exp: Downward movement from peak to trough represents the contraction (downswing) phase.
+Sub: Business Cycles
+
+---
+
+Q: Peaks and troughs of the business cycle are known collectively as:
+A) Volatility.
+B) Turning points.
+C) Equilibrium points.
+D) Real business cycle events.
+Ans: B
+Exp: Peaks (upper turning points) and troughs (lower turning points) mark shifts in the direction of economic activity.
+Sub: Business Cycles
+
+---
+
+Q: The most probable outcome of an increase in the money supply is:
+A) interest rates to rise, investment spending to rise, and AD to rise
+B) interest rates to rise, investment spending to fall, and AD to fall
+C) interest rates to fall, investment spending to rise, and AD to rise
+D) interest rates to fall, investment spending to fall, and AD to fall
+Ans: C
+Exp: Expanding the money supply lowers interest rates, stimulating private investment and boosting aggregate demand.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is not a characteristic of business cycles?
+A) Business cycles have serious consequences on the well-being of society.
+B) Business cycles occur periodically, although they do not exhibit the same regularity.
+C) Business cycles have uniform characteristics and causes.
+D) Business cycles are contagious and unpredictable.
+Ans: C
+Exp: Business cycles differ in their duration, intensity, and underlying causes; they are not uniform.
+Sub: Business Cycles
+
+---
+
+Q: Economic recession shares all of these characteristics except:
+A) Fall in levels of investment, employment
+B) Incomes of wage and interest earners gradually decline resulting in decreased demand
+C) Investor confidence is adversely affected and new investments may not be forthcoming
+D) Increase in price of inputs due to increased demand for inputs
+Ans: D
+Exp: During recession, input demand falls, which puts downward pressure on input prices rather than increasing them.
+Sub: Business Cycles
+
+---
+
+Q: The different phases of a business cycle:
+A) do not have the same length and severity
+B) expansion phase always last more than ten years
+C) last many years and are difficult to get over in short periods
+D) none of the above
+Ans: A
+Exp: Phases of business cycles vary widely in length, magnitude, and severity across historical periods.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is not an example of coincident indicator?
+A) Industrial production
+B) inflation
+C) Retail sales
+D) New orders for plant and equipment
+Ans: D
+Exp: New orders for plant and equipment is a leading indicator because it precedes future production activity.
+Sub: Business Cycles
+
+---
+
+Q: According to __________ trade cycles occur due to onset of innovations:
+A) Hawtrey
+B) Adam Smith
+C) J M Keynes
+D) Schumpeter
+Ans: D
+Exp: Joseph Schumpeter propounded the Innovation Theory of Business Cycles.
+Sub: Business Cycles
+
+---
+
+Q: Economic indicators are:
+A) A one stroke solution to check the phase of economy
+B) Indicators showing the movement of economy
+C) Some activities which predict the direction of economy
+D) Just an illusion
+Ans: C
+Exp: Economic indicators are key statistical metrics and activities that help forecast the direction of the macroeconomy.
+Sub: Business Cycles
+
+---
+
+Q: Which economic indicator is required to predict the turning point of business cycle?
+A) Leading indicator
+B) Lagging indicator
+C) Coincident indicator
+D) All of the above
+Ans: D
+Exp: Complete analysis of turning points requires monitoring leading, coincident, and lagging indicators together.
+Sub: Business Cycles
+
+---
+
+Q: Business cycle generally originates in free market economies, what is a free market economy?
+A) The economy where government is in possession of major assets
+B) The economy where private firms control major assets
+C) The economy where decisions of production are taken by PSUs
+D) The economy where price is controlled by government.
+Ans: B
+Exp: A free market economy is one where resource allocation and major productive assets are controlled by private enterprise.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following statements is correct?
+A) The business cycle largely affects the agricultural sector
+B) The business cycle largely affects small employees
+C) The business cycle generally affects all sectors of economy but business sector in particular.
+D) The business cycle affects low wages workers
+Ans: C
+Exp: Business cycles are pervasive, impacting all sectors while affecting the industrial and commercial business sectors most heavily.
+Sub: Business Cycles
+
+---
+
+Q: According to Keynes, fluctuations in Economic activities are due to:
+A) Fluctuation in aggregate effective demand.
+B) Innovations
+C) Changes in money supply
+D) Fluctuation in agricultural output
+Ans: A
+Exp: J.M. Keynes established that shifts in aggregate effective demand drive booms and slumps in the economy.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is the cause of business cycles?
+A) Fluctuations in aggregate effective demand
+B) Fluctuations in investments
+C) Fluctuations in government spending
+D) All of the above
+Ans: D
+Exp: Volatility in consumer demand, autonomous investment, and government expenditure collectively cause business cycles.
+Sub: Business Cycles
+
+---
+
+Q: Economists use changes in a variety of activities to measure the business cycle and to predict where the economy is headed towards which are called:
+A) Signals
+B) Indicators
+C) Barometer
+D) Clues
+Ans: B
+Exp: Quantitative variables used to assess and forecast macroeconomic momentum are called economic indicators.
+Sub: Business Cycles
+
+---
+
+Q: If the growth rate of population is higher than the rate of economic growth, there will be ________ in the economy:
+A) more savings
+B) no effect on savings
+C) lesser savings
+D) none of these
+Ans: C
+Exp: Faster population growth diverts income toward immediate subsistence consumption, reducing overall national savings.
+Sub: Business Cycles
+
+---
+
+Q: The cobweb theory was propounded by:
+A) Hawtrey
+B) Adam Smith
+C) J M Keynes
+D) Nicholas Kaldor
+Ans: D
+Exp: Nicholas Kaldor formulated the Cobweb Theory to explain lagged supply responses and price oscillations in agricultural markets.
+Sub: Business Cycles
+
+---
+
+Q: ______ is not a phase of business cycle:
+A) Peak
+B) Trough
+C) Expansion
+D) reconstruction
+Ans: D
+Exp: Reconstruction is a post-war economic recovery measure, not one of the four standard phases of a business cycle.
+Sub: Business Cycles
+
+---
+
+Q: During 1920s, UK saw rapid growth in GDP, production and living standards with unprecedented stock market rise. This is an example of:
+A) Boom
+B) Recession
+C) Contraction
+D) Trough
+Ans: A
+Exp: Rapid GDP growth, high employment, peak confidence, and soaring asset markets together constitute a Boom.
+Sub: Business Cycles
+
+---
+
+Q: Cost of living increases when business cycle is:
+A) at peak
+B) contracting
+C) expanding
+D) at lowest point
+Ans: C
+Exp: During the expansion phase, soaring consumer demand and higher factor costs lead to demand-pull and cost-push inflation.
+Sub: Business Cycles
+
+---
+
+Q: Increase in national output and other economic variables is a characteristic of which phase in Business cycles?
+A) Trough
+B) Depression
+C) Contraction
+D) Expansion
+Ans: D
+Exp: The expansion phase is marked by sustained growth in output, income, employment, and investment.
+Sub: Business Cycles
+
+---
+
+Q: During an upturn in business cycle, negative output gap does not become much more negative because:
+A) Capacity increases because of the rise in investment.
+B) Expenditure decreases because of the rise in the interest rate.
+C) The government lowers the taxes during an upturn.
+D) Labour productivity decreases during upturn.
+Ans: A
+Exp: Expanding business investment during an upturn builds productive capacity, bridging the negative output gap.
+Sub: Business Cycles
+
+---
+
+Q: A rise in sale of which type of good is expected in the case of recession:
+A) Luxury
+B) Necessity
+C) Inferior
+D) Normal
+Ans: C
+Exp: In a recession, declining purchasing power forces consumers to switch toward inferior/cheaper alternative goods.
+Sub: Business Cycles
+
+---
+
+Q: Peaks and troughs of the business cycle are known collectively as:
+A) Volatility.
+B) Turning points.
+C) Equilibrium points.
+D) Real business cycle events
+Ans: B
+Exp: Peaks (upper turning points) and troughs (lower turning points) mark the reversal points of economic direction.
+Sub: Business Cycles
+
+---
+
+Q: Peak is the _____ stage of expansion:
+A) Later
+B) Earlier
+C) Either (A) or (B)
+D) None of the above
+Ans: A
+Exp: The peak is the upper turning point and the terminal/later stage of the expansionary phase.
+Sub: Business Cycles
+
+---
+
+Q: Decrease in input demand:
+A) Doesn’t affect inputs prices
+B) Pushes inputs prices up
+C) Pulls inputs prices down
+D) Either (B) or (C)
+Ans: C
+Exp: Lower demand for factors of production during slowdowns creates excess input supply, pulling prices down.
+Sub: Business Cycles
+
+---
+
+Q: Expansion phase of business cycle depicts characteristics except:
+A) Consumer spending on goods and services tend to rise
+B) Business confidence tends to rise
+C) Interest rates and profits tend to rise
+D) Unemployment tends to rise
+Ans: D
+Exp: In expansion, hiring increases and unemployment consistently falls rather than rising.
+Sub: Business Cycles
+
+---
+
+Q: A typical feature of depression is ________ in the interest rate:
+A) Rise
+B) Constant
+C) Fall
+D) Infinity
+Ans: C
+Exp: Sluggish loan demand and excess liquidity in banks during a severe depression lead to sharp falls in interest rates.
+Sub: Business Cycles
+
+---
+
+Q: Actual demand stagnates in which of the following stages of a business cycle?
+A) Expansion
+B) Peak
+C) Contraction
+D) Recovery
+Ans: B
+Exp: At the peak, consumer demand plateaus and bottlenecks emerge before contraction begins.
+Sub: Business Cycles
+
+---
+
+Q: In which stage of the business cycle involuntary unemployment is almost zero?
+A) Expansion
+B) Peak
+C) Contraction
+D) Recovery
+Ans: A
+Exp: At near-peak expansion, the economy reaches full employment where involuntary unemployment is virtually eliminated.
+Sub: Business Cycles
+
+---
+
+Q: _______ sector is more prone to the adverse effects of the business cycle:
+A) Agriculture
+B) Service
+C) Industrial
+D) Can’t say
+Ans: C
+Exp: The industrial sector produces capital and durable goods, which experience the sharpest cyclical volatility.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following statements is false with respect to Business Cycles?
+A) They occur periodically.
+B) They generally originate in free market economies.
+C) They are international in character.
+D) They do not affect capitalist economies.
+Ans: D
+Exp: Capitalist and market-oriented economies are the primary origin and victims of business cycle swings.
+Sub: Business Cycles
+
+---
+
+Q: Repercussions of business cycles get ____ felt on nearly all economic variables:
+A) alternatively
+B) simultaneously
+C) one by one
+D) All of the above
+Ans: B
+Exp: Cyclical shocks simultaneously transmit across output, employment, income, investment, and price indices.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following statements is correct?
+A) No economy follows a perfectly timed cycle
+B) Economy follows a perfectly timed cycle
+C) Most of the economy follows a perfectly timed cycle
+D) Capitalist economy follow a perfectly timed cycle
+Ans: A
+Exp: Business cycles do not follow rigid mathematical timelines or constant frequencies.
+Sub: Business Cycles
+
+---
+
+Q: Economists use changes in variety of activities to measure business cycle & predict economy direction called:
+A) Leading indicators
+B) Indicators
+C) Lagging Indicators
+D) None of these
+Ans: B
+Exp: Quantitative economic indicators are used to track macroeconomic conditions and turning points.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is not an example of lagging indicator?
+A) Consumer price index
+B) Labour cost price per unit
+C) Commercial lending
+D) Personal income
+Ans: D
+Exp: Personal income is a coincident indicator because it moves simultaneously with real economic activity.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is not a variable in the index of leading indicators?
+A) New consumer goods orders
+B) Delayed deliveries
+C) New building permits
+D) Prime rate
+Ans: D
+Exp: Prime rate is a lagging indicator because commercial lending rates adjust after economic conditions change.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is not an internal cause of business cycles?
+A) Fluctuations in effective demand
+B) Fluctuations in investment
+C) Macro-economic policies
+D) Post war reconstruction
+Ans: D
+Exp: Post-war reconstruction is an external (exogenous) shock, not an internal economic mechanism.
+Sub: Business Cycles
+
+---
+
+Q: According to J. M. Keynes, what was the main cause of massive decline in income and employment during Great Depression of 1930?
+A) Lower aggregate expenditure in the economy.
+B) Banking crises and low money supply.
+C) Overdebtness.
+D) Lower profits & pessimism
+Ans: A
+Exp: Keynes argued that a deficiency in aggregate effective demand (lower spending) caused the Great Depression.
+Sub: Business Cycles
+
+---
+
+Q: Post war reconstruction:
+A) pushes economy to slow down because of external debts.
+B) causes pickup in economic activities as reconstruction pushes up effective demand, employment and income.
+C) can cause boom or recession depending upon government policies.
+D) None of these
+Ans: B
+Exp: Rebuilding infrastructure and destroyed capital stock injects massive demand, accelerating economic revival.
+Sub: Business Cycles
+
+---
+
+Q: In order to influence spending on goods and services in the short run, monetary policy is directed at directly influencing:
+A) Unemployment rate
+B) Inflation rate
+C) Interest rate
+D) Economic growth rate
+Ans: C
+Exp: Central banks adjust repo rates and banking liquidity to influence short-term market interest rates.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is not an example of business cycle?
+A) During 1920s, UK saw rapid growth in GDP, production and living standards.
+B) Due to bursting of IT bubble stock markets crashed and downturn began.
+C) The Sub-prime crisis led to chain effect and had worldwide impact.
+D) The bicycle business has seen a slowdown in growth over a period of time.
+Ans: D
+Exp: A structural change in a single specific industry (bicycles) is not an aggregate economy-wide business cycle.
+Sub: Business Cycles
+
+---
+
+Q: If demand for goods and services is more than their supply, the resultant inflation is:
+A) Cost push inflation.
+B) stagflation
+C) deflation.
+D) demand pull inflation.
+Ans: D
+Exp: When aggregate demand outpaces full-employment aggregate supply, demand-pull inflation emerges.
+Sub: Business Cycles
+
+---
+
+Q: Businesses whose fortunes are closely linked to the rate of economic growth is referred to as:
+A) Cyclical
+B) Counter Cyclical
+C) Fiscal Policy
+D) None of these
+Ans: A
+Exp: Cyclical businesses (construction, luxury retail, capital equipment) rise and fall with GDP growth.
+Sub: Business Cycles
+
+---
+
+Q: _______ sector cannot be included as ‘cyclical’ businesses:
+A) electric goods
+B) House builders
+C) Agriculture
+D) Restaurants
+Ans: C
+Exp: Agricultural output is determined primarily by climate and monsoon conditions rather than GDP business cycles.
+Sub: Business Cycles
+
+---
+
+Q: Recent example of Business cycle is ‘the housing bubble’ of the US economy. This bubble burst in:
+A) 1930
+B) 1998
+C) 2000
+D) 2008
+Ans: D
+Exp: The US subprime mortgage bubble burst in 2007-2008, triggering the Global Financial Crisis.
+Sub: Business Cycles
+
+---
+
+Q: Phase of business cycle where growth rate becomes negative with rapid decline in income and widespread unemployment:
+A) Contraction
+B) Recession
+C) Depression
+D) Recovery
+Ans: C
+Exp: An acute, prolonged contraction with negative growth and severe unemployment is termed a Depression.
+Sub: Business Cycles
+
+---
+
+Q: Which is not an External Cause of business cycle?
+A) Technology shock
+B) Population Growth
+C) Money Supply
+D) Natural Factors
+Ans: C
+Exp: Changes in money supply is an internal/endogenous macroeconomic policy variable.
+Sub: Business Cycles
+
+---
+
+Q: Assertion (A): Investment has also a supply effect. Reason (R): Because it raises capacity to produce.
+A) (A) is true and (R) is false
+B) Both (A) and (R) are true & (R) is the correct explanation of (A)
+C) Both (A) and (R) are true & (R) is not the correct explanation of (A)
+D) (A) is false and (R) is true
+Ans: B
+Exp: Investment creates immediate demand for inputs and permanently expands long-run productive capacity.
+Sub: Business Cycles
+
+---
+
+Q: Minimum assured price to the farmers to purchase their output by the government is called:
+A) Market Price
+B) Equilibrium Price
+C) Support Price
+D) Ceiling Price
+Ans: C
+Exp: Minimum Support Price (MSP) guarantees a price floor for agricultural commodities.
+Sub: Business Cycles
+
+---
+
+Q: Which phase of business cycle is characterized by increasing economic activity, rising employment, and growing consumer spending?
+A) Expansion.
+B) Recession.
+C) Trough.
+D) Recovery.
+Ans: A
+Exp: Expansion represents the upswing phase marked by rising output, higher employment, and buoyant consumer spending.
+Sub: Business Cycles
+
+---
+
+Q: During an expansion phase of the business cycle, which of the following is likely to occur?
+A) Decrease in consumer spending.
+B) Increase in business bankruptcies.
+C) Increase in job opportunities.
+D) Decrease in government spending.
+Ans: C
+Exp: Increased production during expansion creates robust demand for labour, multiplying job openings.
+Sub: Business Cycles
+
+---
+
+Q: During a recession, the economy experiences:
+A) A decrease in prices and inflation
+B) High levels of economic growth and expansion
+C) A decline in employment and economic activity
+D) Increased business investments and consumer spending
+Ans: C
+Exp: A recession is defined as a widespread contraction in real GDP, investment, and employment.
+Sub: Business Cycles
+
+---
+
+Q: Which policy measure is typically used by central banks to manage the business cycle?
+A) Fiscal policy
+B) Monetary policy
+C) Trade policy
+D) Industrial policy
+Ans: B
+Exp: Central banks use monetary policy instruments (interest rates, CRR, repo rate, open market operations) to stabilize the economy.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is a lagging economic indicator?
+A) Consumer confidence Index
+B) Stock market performance
+C) Unemployment rate
+D) New housing starts
+Ans: C
+Exp: The unemployment rate is a lagging indicator because businesses delay layoffs until a downturn is well underway.
+Sub: Business Cycles
+
+---
+
+Q: Information Technology bubble burst of 2000 is an example of:
+A) Business Cycle
+B) Consumer Sovereignty
+C) Freedom of choice
+D) None of these
+Ans: A
+Exp: The Dot-com stock crash in 2000 created macroeconomic shocks leading to an economic recession.
+Sub: Business Cycles
+
+---
+
+Q: What is the similarity between the Subprime Crisis and Greece Crisis?
+A) High Financial Leverage
+B) Low-Interest Rate
+C) Credit Expansion
+D) All of the above
+Ans: D
+Exp: Both major global financial crises were driven by excessive borrowing, low interest rates, and reckless credit growth.
+Sub: Business Cycles
+
+---
+
+Q: 46: Economy’s historical performance is reflected by:
+A) Lagging indicator
+B) Leading indicator
+C) Either (a) or (b)
+D) None of these
+Ans: A
+Exp: Lagging indicators confirm long-term economic trends by reflecting past (historical) performance.
+Sub: Business Cycles
+
+---
+
+Q: The lowest point of economic activity in a business cycle, where unemployment is high and production at its lowest is:
+A) Prosperity
+B) Trough and Depression
+C) Peak
+D) Expansion
+Ans: B
+Exp: The trough represents the deepest point of a slump where output bottoms out and unemployment reaches its maximum.
+Sub: Business Cycles
+
+---
+
+Q: A business whose fortune is closely linked to the rate of economic growth is referred to as:
+A) Cyclical Business
+B) Seasonal Business
+C) Static Business
+D) Dynamic Business
+Ans: A
+Exp: Cyclical industries (e.g. automobiles, luxury goods, heavy machinery) mirror broader GDP movements.
+Sub: Business Cycles
+
+---
+
+Q: During which time are most of the country's resources diverted toward the production of weapons and arms?
+A) Post – war
+B) Pre – war
+C) War
+D) peace
+Ans: C
+Exp: In wartime, economic production shifts heavily toward military hardware and defense supplies.
+Sub: Business Cycles
+
+---
+
+Q: In the Recovery phase of a business cycle, the process of reversal is initially felt in the:
+A) Capital market
+B) Labour market
+C) Agriculture market
+D) Financial market
+Ans: B
+Exp: Initial recovery signals emerge when businesses begin recalling furloughed workers and extending work hours.
+Sub: Business Cycles
+
+---
+
+Q: When investment and employment fall and producers do not instantaneously recognize the pulse, it indicates:
+A) Peak
+B) Expansion
+C) Contraction
+D) Trough and Depression
+Ans: C
+Exp: In the early contraction stage, production continues temporarily at previous rates until unsold inventories accumulate.
+Sub: Business Cycles
+
+---
+
+Q: Which of the following is an external cause of business cycles?
+A) Variations in government spending
+B) Macroeconomic policies
+C) Psychological factors
+D) Technological shocks
+Ans: D
+Exp: Exogenous technological innovations and breakthroughs create investment waves that drive economic cycles.
+Sub: Business Cycles
+
+---
+
+Q: The variable that changes after real income changes is known as a _______ indicator:
+A) Leading
+B) Lagging
+C) Coincident
+D) They do not indicate anything
+Ans: B
+Exp: Lagging indicators alter their trajectory only after changes in national income and output have already taken place.
+Sub: Business Cycles
+
+---
+
+Q: 1. The term business cycle refers to:
+A) The ups and downs in production of commodities.
+B) The fluctuating levels of economic activity over a period of time.
+C) Decline in economic activities over prolonged period of time.
+D) Increasing unemployment rate and diminishing rate of savings.
+Ans: B
+Exp: Business cycles refer to the recurrent fluctuations in aggregate economic activity that an economy experiences over time.
+Sub: Business Cycles
+
+---
+
+Q: 2. The rhythmic fluctuations in aggregate economic activity that an economy experiences over a period of time are called:
+A) Inflation
+B) Unemployment
+C) Business cycles
+D) Growth rate
+Ans: C
+Exp: Wave-like periodic expansions and contractions in national output, employment, and income are known as business cycles.
+Sub: Business Cycles
+
+---
+
+Q: 3. Which of the following statement is correct for a business cycle?
+A) A Typical feature of depression is the rise in the interest rate.
+B) A typical feature of depression is the constant interest rate.
+C) Recession is the severe form of depression.
+D) Depression is the severe form of recession.
+Ans: D
+Exp: When an economic recession becomes prolonged and extremely severe with negative growth and rampant unemployment, it is called a depression.
+Sub: Business Cycles
+
+---
+
+Q: 4. The economy-wide fluctuations in production, trade and general economic activity is referred as:
+A) Business Cycle
+B) Economic cycle
+C) Boom-bust Cycle
+D) All of the above
+Ans: D
+Exp: Fluctuations in overall economic activity are interchangeably referred to as business cycles, economic cycles, or boom-bust cycles.
+Sub: Business Cycles
+
+---
+
+Q: 5. Greatest depression suffered by economy in which year?
+A) 1924
+B) 1930
+C) 2008
+D) 2009
+Ans: B
+Exp: The Great Depression of 1929–1933 (centered around 1930) was the most severe economic crisis of the 20th century.
+Sub: Business Cycles
+
+---
+
+Q: 6. According to ______ trade cycle is a purely monetary phenomenon.
+A) Schumpeter
+B) Nicholas Kaldor
+C) Keynes
+D) Hawtrey
+Ans: D
+Exp: R.G. Hawtrey propounded that trade cycles are purely monetary phenomena caused by instability in bank credit and money supply.
+Sub: Business Cycles
+
+---
+
+Q: 7. According to ______ trade cycle occurs due to the onset of innovations.
+A) Hawtrey
+B) Adam Smith
+C) JM, Keynes
+D) Schumpeter
+Ans: D
+Exp: Joseph Schumpeter propounded the Innovation Theory, stating that trade cycles are driven by waves of commercial innovations introduced by entrepreneurs.
+Sub: Business Cycles
+
+---
+
+Q: 8. Trade cycles occur as a result of the mismatch between the aggregate demand function and aggregate supply function. Who said this?
+A) Pigou
+B) Schumpeter
+C) Hawtrey
+D) Keynes
+Ans: D
+Exp: J.M. Keynes explained that business fluctuations arise from fluctuations in aggregate effective demand.
+Sub: Business Cycles
+
+---
+
+Q: 9. Which is not related to great depression of 1930?
+A) It stated in USA
+B) John Maynard Keynes regarded lower aggregate expenditure as the cause
+C) Excess Money Supply
+D) Both (a) and (b)
+Ans: C
+Exp: The Great Depression was caused by a severe collapse in aggregate demand and banking contractions, not excess money supply.
+Sub: Business Cycles
+
+---
+
+Q: 10. Which of the following is not correct about the business cycles?
+A) Business cycles have distinct phase of expansion, peak, contraction and trough
+B) Business cycles generally originate in capitalist economies
+C) Business cycles are contagious and are internal in character
+D) All sectors of the economy are adversely affected in equal proportion
+Ans: D
+Exp: Business cycles do not affect all sectors equally; capital goods and durable goods sectors are affected far more severely than agriculture or services.
+Sub: Business Cycles
+
+---
+
+Q: 11. The world economy suffered the longest deepest and most widespread depression of the 20th century during:
+A) 1934
+B) 1928
+C) 1930
+D) 1932
+Ans: C
+Exp: The Great Depression during the period 1929–1933 was the longest and deepest economic crisis of the 20th century.
+Sub: Business Cycles
+
+---
+
+Q: 12. Recent example of the Business cycle is the housing bubble of the US economy bubble got bust in the year:
+A) 1930
+B) 1998
+C) 2000
+D) 2007
+Ans: D
+Exp: The US subprime mortgage housing bubble burst around 2007–2008, triggering the global financial crisis.
+Sub: Business Cycles
+
+---
+
+Q: 13. Which among the following is not a feature of Business Cycles?
+A) Business Cycles are sporadic in nature.
+B) Business Cycles have serious consequence on the well-being of the society.
+C) Business Cycles are exceedingly complex Phenomena.
+D) Business Cycles are contagious.
+Ans: A
+Exp: Business cycles are recurrent and periodic, not purely sporadic (isolated or random) events.
+Sub: Business Cycles
+
+---
+
+Q: 14. The rhythmic fluctuations in aggregate economic activity that an economy experiences over a period of time is called:
+A) Business cycle
+B) Recession
+C) Contraction phase
+D) Recovery
+Ans: A
+Exp: The rhythmic alternation of prosperity and depression across the entire economy is known as a business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 15. The business Cycles or the periodic booms and slumps in economic activities reflect the ______ in economic activities.
+A) Upward movements
+B) Downward movements
+C) Upward and downward movements
+D) Extreme rise
+Ans: C
+Exp: Business cycles represent alternating waves of upward (expansion) and downward (contraction) economic movements.
+Sub: Business Cycles
+
+---
+
+Q: 16. Which statement is incorrect?
+A) Depression of Severe form of trough.
+B) Depression causes fall in Interest rate.
+C) Peak is highest point.
+D) All of the above.
+Ans: D
+Exp: Depression is a prolonged trough, causes interest rates to decline, and peak is the uppermost point of the cycle.
+Sub: Business Cycles
+
+---
+
+Q: 17. When aggregate economic activity is increasing in an economy, the economy is said to be in:
+A) Peak
+B) Contraction
+C) Expansion
+D) Trough
+Ans: C
+Exp: During the expansion phase, output, employment, investment, aggregate demand, and income all increase.
+Sub: Business Cycles
+
+---
+
+Q: 18. During the phase of trough of business cycle, the growth rate became:
+A) Negative
+B) Zero
+C) High
+D) Low
+Ans: A
+Exp: In a trough or deep depression, the economic growth rate turns negative as output falls below previous levels.
+Sub: Business Cycles
+
+---
+
+Q: 19. When aggregate economic activity is expanding it is said to be in:
+A) Contraction
+B) Expansion
+C) At turning point
+D) A peak
+Ans: B
+Exp: A continuous upward trend in economic indicators represents the expansion (upswing or boom) phase.
+Sub: Business Cycles
+
+---
+
+Q: 20. During ______ there is fall in level of investment and employment.
+A) Boom
+B) Recovery
+C) Contraction
+D) Depression
+Ans: C
+Exp: In the contraction (downswing) phase, both business investment and overall employment levels decline.
+Sub: Business Cycles
+
+---
+
+Q: 21. The term ______ refers to the top or the highest point of business cycle.
+A) Top
+B) Expansion
+C) Peak
+D) Equilibrium
+Ans: C
+Exp: The peak refers to the upper turning point where economic expansion reaches its maximum limit.
+Sub: Business Cycles
+
+---
+
+Q: 22. Select the odd out:
+A) Expansion
+B) Boom
+C) Upswing
+D) Trough
+Ans: D
+Exp: Expansion, boom, and upswing all refer to upward phases, whereas trough is the lowest bottom turning point.
+Sub: Business Cycles
+
+---
+
+Q: 23. ______ represents the steady growth line or the growth of the economy when there are no business cycles.
+A) Peak
+B) Trend
+C) Depression
+D) Expansion
+Ans: B
+Exp: The long-run secular trend line depicts the steady underlying growth path of an economy over time.
+Sub: Business Cycles
+
+---
+
+Q: 24. In which phase of Business Cycles levels of investment & employment falls:
+A) Peak
+B) Recession
+C) Expansion
+D) Contraction
+Ans: D
+Exp: During contraction, declining aggregate demand leads to drops in investment, output, and employment.
+Sub: Business Cycles
+
+---
+
+Q: 25. Which one of the following is not a phase of business cycle:
+A) Peak
+B) Trough
+C) Expansion
+D) Reconstruction
+Ans: D
+Exp: The four standard phases of a business cycle are Expansion, Peak, Contraction (Recession), and Trough (Depression).
+Sub: Business Cycles
+
+---
+
+Q: 26. Actual demand stagnates in which of the following stage of a business cycle?
+A) Expansion
+B) Peak
+C) Contraction
+D) Recovery
+Ans: B
+Exp: At the peak, productive capacity is fully utilized and growth in actual consumer demand begins to stagnate.
+Sub: Business Cycles
+
+---
+
+Q: 27. The phase of business cycle in which growth rate becomes negative and the level of national income and expenditure declines rapidly resulting in widespread unemployment:
+A) Contraction
+B) Recession
+C) Depression
+D) Recovery
+Ans: C
+Exp: Severe and continuous contraction leading to negative growth, severe unemployment, and falling prices is termed a depression.
+Sub: Business Cycles
+
+---
+
+Q: 28. Which indicators coincide or occur simultaneously with the business cycle movements?
+A) Legal
+B) Lagging
+C) Leading
+D) Concurrent
+Ans: D
+Exp: Concurrent (or coincident) indicators change at roughly the same time as aggregate economic activity.
+Sub: Business Cycles
+
+---
+
+Q: 29. Expansion phase is characterized by increases in:
+A) National output, employment and demand
+B) Excessive investment over production
+C) Unemployment, workers accept work at lower wages
+D) Decrease in input demand and prices fall down
+Ans: A
+Exp: Expansion is marked by comprehensive increases in national output, employment, income, and aggregate demand.
+Sub: Business Cycles
+
+---
+
+Q: 30. Which business cycle phases are known as Turning Points?
+A) Trough and Depression
+B) Peak and Trough
+C) Expansion and Contraction
+D) Peak and Boom
+Ans: B
+Exp: Peak (upper turning point) and Trough (lower turning point) are the two critical turning points of the business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 31. Peaks and troughs of the business cycle are known collectively as:
+A) Volatility
+B) Turning points
+C) Equilibrium points
+D) Real business cycle events
+Ans: B
+Exp: Peaks and troughs represent the reversal points where the direction of economic activity changes.
+Sub: Business Cycles
+
+---
+
+Q: 32. ______ sector cannot be included as 'cyclical' businesses.
+A) Electric goods
+B) House builder
+C) Agriculture
+D) Restaurants
+Ans: C
+Exp: Agriculture depends mainly on natural factors and weather conditions rather than macroeconomic business cycles.
+Sub: Business Cycles
+
+---
+
+Q: 33. Which of the following is not an example of cyclical business?
+A) Fashion retailers
+B) Ensure builders
+C) Restaurants
+D) Washing powder
+Ans: D
+Exp: Washing powder is a consumer non-durable basic necessity whose demand remains stable regardless of economic cycles.
+Sub: Business Cycles
+
+---
+
+Q: 34. The four phases of the business cycle are:
+A) peak, recession, trough and boom
+B) peak, depression, trough and boom
+C) peak, recession, trough and recovery
+D) peak, depression, bust and boom
+Ans: C
+Exp: The standard cycle consists of Peak, Recession (Contraction), Trough (Depression), and Recovery (Expansion).
+Sub: Business Cycles
+
+---
+
+Q: 35. Expansion phase of business cycle depicts characteristics except:
+A) Consumer spending on goods and services tend to rise
+B) Business confidence tends to rise
+C) Interest rates and profits tend to rise
+D) Unemployment tends to rise
+Ans: D
+Exp: During an economic expansion, unemployment declines significantly as firms hire more labour.
+Sub: Business Cycles
+
+---
+
+Q: 36. ______ state continues till there is full employment of resources and production is at its maximum possible level using available productive resources.
+A) Expansion
+B) Peak
+C) Contraction
+D) Depression
+Ans: A
+Exp: The expansion phase continues until resources are fully employed, eventually leading into the peak.
+Sub: Business Cycles
+
+---
+
+Q: 37. At 'trough' the production in the economy reaches at which of the following:
+A) High
+B) Low
+C) Constant
+D) Negative
+Ans: B
+Exp: At the trough, overall production, employment, and economic activity hit their lowest level before recovery begins.
+Sub: Business Cycles
+
+---
+
+Q: 38. The lowest level of economic activity is called:
+A) Depression
+B) Boom
+C) Expansion
+D) Contraction
+Ans: A
+Exp: Depression represents the absolute lowest level (trough) of economic activity in a business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 39. The different phases of a business cycle:
+A) Do not have the same length and severity
+B) Expansion phase always last more than ten years
+C) Last many years and are difficult to get over in short periods
+D) None of the above
+Ans: A
+Exp: Business cycles exhibit periodicity, but each cycle and phase varies in terms of duration and intensity.
+Sub: Business Cycles
+
+---
+
+Q: 40. Which phase of business cycle is characterised by increase in national output, employment, aggregate demand, capital and consumer expenditure sales, profits etc.?
+A) Depression
+B) Contraction
+C) Trough
+D) Expansion
+Ans: D
+Exp: Expansion is characterized by widespread growth across output, employment, investment, demand, and profits.
+Sub: Business Cycles
+
+---
+
+Q: 41. A typical feature of depression is ______ in the interest rate.
+A) Rise
+B) Constant
+C) Fall
+D) Infinity
+Ans: C
+Exp: During a depression, very weak demand for credit and funds causes interest rates to fall to low levels.
+Sub: Business Cycles
+
+---
+
+Q: 42. In ______ phase, the overall economic activities (i.e. Production and Employment) are at the lowest level.
+A) Expansion
+B) Trough
+C) Peak
+D) Bottom
+Ans: B
+Exp: The trough is the bottom point where production, capacity utilization, and employment reach their lowest levels.
+Sub: Business Cycles
+
+---
+
+Q: 43. Increase in national output and other economic variables is a characteristic of ______ in Business Cycles.
+A) Trough
+B) Depression
+C) Contraction
+D) Expansion
+Ans: D
+Exp: Expansion is marked by upward movement in national output, employment, and income.
+Sub: Business Cycles
+
+---
+
+Q: 44. Peaks and troughs of the business cycle are known collectively as:
+A) Volatility
+B) Turning points
+C) Equilibrium points
+D) Real business cycle events
+Ans: B
+Exp: Peaks and troughs are called turning points because they mark the transition from one phase to the opposite.
+Sub: Business Cycles
+
+---
+
+Q: 45. Actual demand stagnates in which stage:
+A) Peak
+B) Trough
+C) Recovery
+D) Contraction
+Ans: A
+Exp: At the peak, capacity constraints and high prices lead to a stagnation in actual demand.
+Sub: Business Cycles
+
+---
+
+Q: 46. Identify the odd-one in the following:
+A) Downswing
+B) Recession
+C) Boom
+D) Contraction
+Ans: C
+Exp: Downswing, recession, and contraction represent downward phases, whereas boom represents the peak expansion phase.
+Sub: Business Cycles
+
+---
+
+Q: 47. In which stage of the business cycle involuntary unemployment is almost zero?
+A) Expansion
+B) Peak
+C) Contraction
+D) Recovery
+Ans: A
+Exp: Near the peak of the expansion phase, the economy operates close to full employment with near-zero involuntary unemployment.
+Sub: Business Cycles
+
+---
+
+Q: 48. Which of the following characteristics does not belong to expansion path of business cycles?
+A) Consumer spending on goods and service tend to rise
+B) Business confidence tends to rise
+C) Interest rates and profits tend to rise
+D) Unemployment tends to rise
+Ans: D
+Exp: Unemployment falls during expansion because firms increase hiring to meet growing demand.
+Sub: Business Cycles
+
+---
+
+Q: 49. The expansion phase is characterized by high growth rate. What is the next phase after expansion?
+A) Peak
+B) Contraction
+C) Downstream
+D) None of the above
+Ans: A
+Exp: The expansion phase culminates at the Peak, after which the economy enters the contraction phase.
+Sub: Business Cycles
+
+---
+
+Q: 50. Which of the following does not occur during an expansion?
+A) Consumer purchases of all types of goods tend to increase.
+B) Employment increases as demand for labour rises.
+C) Business profits and business confidence tend to increase.
+D) None of the above.
+Ans: D
+Exp: All the mentioned phenomena (rising purchases, increased employment, and higher profits) typically occur during an expansion.
+Sub: Business Cycles
+
+---
+
+Q: 51. Which phase is the Highest point of the business Cycle?
+A) Upswing
+B) Downswing
+C) Peak
+D) Trough
+Ans: C
+Exp: The peak is the uppermost turning point where economic activity, output, and capacity utilization reach their maximum level.
+Sub: Business Cycles
+
+---
+
+Q: 52. In a typical business cycle, in which phase Supply exceeds demand?
+A) Expansion
+B) Peak
+C) Contraction
+D) Recovery
+Ans: C
+Exp: During the contraction phase, consumer demand slows down rapidly while production capacity remains high, creating excess supply.
+Sub: Business Cycles
+
+---
+
+Q: 53. In which of the following phase of a business cycle, actual demand stagnates?
+A) Expansion
+B) Peak
+C) Contraction
+D) Recovery
+Ans: B
+Exp: At the peak of the business cycle, consumer spending and actual demand hit their saturation point and begin to stagnate.
+Sub: Business Cycles
+
+---
+
+Q: 54. ______ is the turning point and the beginning of recession.
+A) Contraction
+B) Depression
+C) Upswing
+D) Boom
+Ans: A
+Exp: The contraction phase marks the downswing turning point of the business cycle, leading directly into recession.
+Sub: Business Cycles
+
+---
+
+Q: 55. A significant decline in general economic activity extending over a period of time is:
+A) Business cycle
+B) Contraction phase
+C) Recession
+D) Recovery
+Ans: C
+Exp: A recession is defined as a widespread and significant decline in economic activity lasting more than a few months.
+Sub: Business Cycles
+
+---
+
+Q: 56. Which is not an example of coincident indicator?
+A) Inflation
+B) GDP
+C) Financial market trend
+D) Interest rate
+Ans: D
+Exp: Interest rates and commercial lending costs are lagging indicators, whereas GDP, retail sales, and inflation are coincident indicators.
+Sub: Business Cycles
+
+---
+
+Q: 57. Variables that change before the real output changes are called as:
+A) Trade cycle
+B) Business cycle
+C) Leading indicators
+D) Lagging indicators
+Ans: C
+Exp: Leading indicators change in advance of aggregate economic trends, helping predict future shifts in the economy.
+Sub: Business Cycles
+
+---
+
+Q: 58. ______ are the variables that change after the real output.
+A) Leading indicator
+B) Lagging indicator
+C) Coincident indicator
+D) Concurrent indicator
+Ans: B
+Exp: Lagging indicators change only after the overall economy has already begun following a particular trend.
+Sub: Business Cycles
+
+---
+
+Q: 59. When aggregate economic activity is declining, the economy is said to be in:
+A) Contraction
+B) An expansion
+C) A trough
+D) A turning point
+Ans: A
+Exp: A phase of negative growth characterized by falling output, income, and employment is termed contraction.
+Sub: Business Cycles
+
+---
+
+Q: 60. According to Hawtrey, which of the following is correct?
+A) Trade Cycle occurs as a result of innovation
+B) Trade Cycle is purely monetary phenomenon
+C) Fluctuation in economy activity is due to fluctuation in demand
+D) Fluctuation in government expenditure
+Ans: B
+Exp: R.G. Hawtrey considered the trade cycle as a purely monetary phenomenon driven by bank credit fluctuations.
+Sub: Business Cycles
+
+---
+
+Q: 61. Economic recession shares all of these characteristics except:
+A) Fall in the levels of investment, employment.
+B) Incomes of wage and interest earners gradually decline resulting in decreased demand for goods and services.
+C) Investor confidence is adversely affected and new investments may not be forthcoming.
+D) Increase in the price of inputs due to increased demand for inputs.
+Ans: D
+Exp: During a recession, input demand decreases, which pulls input prices down rather than increasing them.
+Sub: Business Cycles
+
+---
+
+Q: 62. Which one of the following is not a feature of Contraction?
+A) Decrease in input demand pulls input prices down.
+B) Increases of wage and interest earns gradually decline.
+C) Producers lower their prices in order to dispose of their inventories.
+D) Business Firms become optimistic about future state of economy.
+Ans: D
+Exp: Business confidence turns highly pessimistic, not optimistic, during the contraction phase.
+Sub: Business Cycles
+
+---
+
+Q: 63. During recession, the unemployment rate ______ and output ______
+A) rises; falls
+B) rises; rises
+C) falls; rises
+D) falls; falls
+Ans: A
+Exp: A recession is characterized by falling national output and a corresponding rise in unemployment.
+Sub: Business Cycles
+
+---
+
+Q: 64. Excess capacity in capital industries is the characteristics of which of the following stage?
+A) Trough
+B) Recovery
+C) Depression
+D) Peak
+Ans: A
+Exp: At the trough (the bottom of the cycle), capital goods industries suffer from massive idle and excess productive capacity.
+Sub: Business Cycles
+
+---
+
+Q: 65. An unemployment type cause due to structural changes in the economy is which of the following:
+A) Involuntary
+B) Ethical friction
+C) Full employment
+D) Structural
+Ans: D
+Exp: Structural unemployment arises from long-term mismatches between workers' skills and the structural demands of industries.
+Sub: Business Cycles
+
+---
+
+Q: 66. Chinas recent slowdown causes:
+A) Cycle of decline and panic across the world.
+B) Countries across the Globe were able to insulate themselves from the crisis.
+C) Stock markets in the Emerging Economics largely remained unaffected.
+D) Old technology fuelled the economic decline.
+Ans: A
+Exp: Because modern economies are globally interdependent, a major slowdown in China spreads decline across global commodity and financial markets.
+Sub: Business Cycles
+
+---
+
+Q: 67. ______ phase of business cycle marks the end of pessimism and the beginning of optimism.
+A) Recovery
+B) Depression
+C) Upswing
+D) Downswing
+Ans: A
+Exp: The recovery phase begins at the bottom of the trough, turning business sentiment from pessimism to renewed optimism.
+Sub: Business Cycles
+
+---
+
+Q: 68. What is the most visible sign of recession in an economy?
+A) Fall in the level of employment
+B) Fall in price level
+C) Rise in the inventory cost
+D) Weakening stock market
+Ans: A
+Exp: Rising layoffs and a sharp fall in employment opportunities are the most visible indicators of an economic recession.
+Sub: Business Cycles
+
+---
+
+Q: 69. Which of the following is an internal cause of business cycles?
+A) Population growth
+B) Wars
+C) Natural factors
+D) Fluctuations in the effective demand
+Ans: D
+Exp: Fluctuations in aggregate effective demand originate from within the economic system, making it an endogenous (internal) cause.
+Sub: Business Cycles
+
+---
+
+Q: 70. Which of the following factors is an external cause or exogenous factor which may lead to a boom or burst?
+A) Economical factor
+B) Social factor
+C) Natural factor
+D) Industrial factor
+Ans: C
+Exp: Natural factors (weather, droughts, agricultural shocks) originate outside the economic system, classifying them as exogenous causes.
+Sub: Business Cycles
+
+---
+
+Q: 71. The trough of a business cycle occurs when ______ hits its lowest point.
+A) Inflation in the economy
+B) The money supply
+C) Aggregate economic activity
+D) The unemployment rate
+Ans: C
+Exp: The trough represents the absolute lowest level of aggregate economic activity (output, spending, and employment).
+Sub: Business Cycles
+
+---
+
+Q: 72. The lowest point in the business cycle is referred to as the:
+A) Expansion
+B) Boom
+C) Peak
+D) Trough
+Ans: D
+Exp: The trough is the bottom turning point where contraction ends and the recovery process begins.
+Sub: Business Cycles
+
+---
+
+Q: 73. The most feature of business cycles:
+A) Pervasive nature
+B) Regular length
+C) Periodic intensity
+D) None of these
+Ans: A
+Exp: Business cycles are pervasive, meaning their effects spread across almost all sectors, industries, and regions of an economy.
+Sub: Business Cycles
+
+---
+
+Q: 74. The period 1929-33 is cited for ______ of world economy.
+A) Great depression
+B) Great recovery
+C) Great upswing
+D) Great downswing
+Ans: A
+Exp: The 1929–1933 period is universally known as the Great Depression.
+Sub: Business Cycles
+
+---
+
+Q: 75. Feature of ______ is fall in interest rates and people's demand for holding liquid money.
+A) Contraction
+B) Peak
+C) Trough & Depression
+D) Recovery
+Ans: C
+Exp: In a deep depression/trough, very low credit demand drives down interest rates, leading to high liquidity preference among the public.
+Sub: Business Cycles
+
+---
+
+Q: 76. In Recovery phase of business Cycle, the process of reversal is initially felt in the:
+A) Capital market
+B) Labour market
+C) Production level
+D) Financial market
+Ans: B
+Exp: As economic turnaround begins, the labour market responds with workers being rehired at lower wages, initiating broader recovery.
+Sub: Business Cycles
+
+---
+
+Q: 77. Business that are more vulnerable to changes in business cycle and whose fortunes are closely linked to rate of economic growth are called as:
+A) Vulnerable Business
+B) Cyclical Business
+C) Leading Business
+D) Lagging Business
+Ans: B
+Exp: Businesses whose revenues and profits fluctuate sharply with GDP fluctuations (e.g., automobiles, real estate) are called cyclical businesses.
+Sub: Business Cycles
+
+---
+
+Q: 78. Boom and depression in business cycles are:
+A) Turning points
+B) Equilibrium points
+C) Both (a) and (b)
+D) None of the above
+Ans: A
+Exp: The peaks (booms) and troughs (depressions) mark the critical turning points of the business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 79. Which of the following is not the phase of business cycles?
+A) Prosperity
+B) Upswing
+C) Reconstruction
+D) Depression
+Ans: C
+Exp: Reconstruction is a post-war economic activity, not a standard phase of a macroeconomic business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 80. Which of the following is not a variable in the index of leading indicators?
+A) Prime Rate
+B) Delayed Deliveries
+C) Construction permits
+D) New consumer goods orders
+Ans: A
+Exp: Prime rate and commercial lending rates are lagging indicators, whereas building permits and new orders are leading indicators.
+Sub: Business Cycles
+
+---
+
+Q: 81. Which of the following is not an example of coincident indicator?
+A) Industrial production
+B) Inflation
+C) Retail sales
+D) New orders for plant and equipment
+Ans: D
+Exp: New orders for capital goods and equipment precede actual manufacturing activity, making it a leading indicator.
+Sub: Business Cycles
+
+---
+
+Q: 82. Those variables that change before the real output changes are called:
+A) Leading indicators
+B) Lagging indicators
+C) Concurrent indicators
+D) Business indicators
+Ans: A
+Exp: Leading indicators provide early signals about the future trajectory of economic output and activity.
+Sub: Business Cycles
+
+---
+
+Q: 83. Friction unemployment is the characteristic of which of the following stages:
+A) Expansion
+B) Peak
+C) Construction
+D) Recovery
+Ans: A
+Exp: In a strong expansion phase with near full employment, only short-term frictional or voluntary unemployment remains.
+Sub: Business Cycles
+
+---
+
+Q: 84. Identify which among the following is an example of a lagging indicator?
+A) Stock market prices
+B) Gross domestic product
+C) Unemployment
+D) Industrial production
+Ans: C
+Exp: Unemployment rate is a classic lagging indicator because employers delay hiring and firing decisions until economic trends are well established.
+Sub: Business Cycles
+
+---
+
+Q: 85. Leading economic indicators:
+A) Are used to forecast probable shifts in economic policies.
+B) Are generally used to forecast economic fluctuations.
+C) Are indicators of stock prices existing in an economy.
+D) Are indicators of probable recession and depression.
+Ans: B
+Exp: Leading economic indicators move ahead of overall economic performance and are widely used to forecast future business cycles.
+Sub: Business Cycles
+
+---
+
+Q: 86. Variables that give information about the rate of change of the expansion or contraction of an economy more or less at the same time it happens are called:
+A) Lagging indicators
+B) Coincident indicators
+C) Leading indicators
+D) Economic indicators
+Ans: B
+Exp: Coincident indicators provide real-time information because they move simultaneously with the business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 87. A leading indicator is:
+A) A variable that tends to move along with the level of economic activity.
+B) A variable that tends to move in advance of aggregate economic activity.
+C) A variable that tends to move consequent on the level of aggregate economic activity.
+D) None of the above.
+Ans: B
+Exp: A leading indicator moves ahead of aggregate economic activity, signaling future turns in the business cycle.
+Sub: Business Cycles
+
+---
+
+Q: 88. Coincident indicators are also known as:
+A) Lagging indicators
+B) Concurrent indicators
+C) Effective indicators
+D) Leading indicators
+Ans: B
+Exp: Coincident indicators are also termed concurrent indicators because they run concurrent with real-time economic performance.
+Sub: Business Cycles
+
+---
+
+Q: 89. Those variables that change after the real output changes are called as:
+A) Lagging indicators
+B) Leading indicators
+C) Concurrent indicators
+D) Coincident indicators
+Ans: A
+Exp: Lagging indicators reflect economic changes with a time delay after real output and GDP have already altered.
+Sub: Business Cycles
+
+---
+
+Q: 90. From the following variance that change after real output changes are as:
+A) Coincide indicator
+B) Coincide economy indicator
+C) Lagging indicator
+D) Concurrent indicator
+Ans: C
+Exp: Variables that adjust only after real output has undergone a directional change are lagging indicators.
+Sub: Business Cycles
+
+---
+
+Q: 91. Which of the following is not an example of lagging indicator?
+A) Consumer price index
+B) Labour cost price per unit
+C) Commercial lending
+D) Personal income
+Ans: D
+Exp: Personal income and retail sales move simultaneously with economic activity and are coincident indicators.
+Sub: Business Cycles
+
+---
+
+Q: 92. ______ is measurable economics factor that changes before economy starts to follow a particular pattern of trend.
+A) Lagging indicators
+B) Leading indicators
+C) Coincident indicators
+D) Concurrent indicator
+Ans: B
+Exp: A leading indicator changes its direction before the general economy begins to follow a new trend.
+Sub: Business Cycles
+
+---
+
+Q: 93. Which of the following is an example of a leading indicator?
+A) Change in stock prices
+B) Change in unemployment rate
+C) Change in GDP
+D) Change in commercial lending activity
+Ans: A
+Exp: Stock market price movements are leading indicators because equity investors trade on forward-looking profit expectations.
+Sub: Business Cycles
+
+---
+
+Q: 94. A measurable economic factor that changes before the economy starts follows particulars pattern/trend is:
+A) Leading Factor
+B) Lagging Factor
+C) Coincident Factor
+D) Concurrent Factor
+Ans: A
+Exp: Leading factors or indicators provide predictive signals of upcoming expansions or contractions.
+Sub: Business Cycles
+
+---
+
+Q: 95. Coincident economic indicators are also called as which of the following?
+A) Leading indicators
+B) Concurrent indicators
+C) Headed indicators
+D) Capacity indicators
+Ans: B
+Exp: Coincident indicators are synonymous with concurrent economic indicators.
+Sub: Business Cycles
+
+---
+
+Q: 96. A variable that tends to move later than aggregate economic activity is called:
+A) A leading variable
+B) A coincident variable
+C) A lagging variable
+D) A cyclical variable
+Ans: C
+Exp: A lagging variable lags behind aggregate economic activity, confirming the phase after it has occurred.
+Sub: Business Cycles
+
+---
+
+Q: 97. Those variables that change before the real output changes prior to large economic adjustments are called as:
+A) Coincident indicator
+B) Leading indicator
+C) Concurrent indicator
+D) Lagging indicator
+Ans: B
+Exp: Economic variables that change in advance of real output adjustments are leading indicators.
+Sub: Business Cycles
+
+---
+
+Q: 98. Coincident indicators are also called as:
+A) Lagging indicator
+B) Leading indicator
+C) Concurrent indicators
+D) None
+Ans: C
+Exp: Concurrent indicators is the alternative technical term used for coincident indicators.
+Sub: Business Cycles
+
+---
+
+Q: 99. Which of the following best describes a typical business cycle?
+A) Economic expansions are followed by economic contractions.
+B) Inflation is followed by rising income and unemployment.
+C) Economic expansions are followed by economic growth and development.
+D) Stagflation is followed by inflationary economic growth.
+Ans: A
+Exp: Business cycles are characterized by periodic alternation between expansions (booms) and contractions (recessions).
+Sub: Business Cycles
+
+---
+
+Q: 100. Which of the following is true about leading indicators?
+A) Measurable economic factors
+B) Changes after real output
+C) Both (a) and (b)
+D) None
+Ans: A
+Exp: Leading indicators are quantifiable, measurable economic metrics that change prior to shifts in real output.
+Sub: Business Cycles
+
+---
+
+Q: 101. Last stage of recession is called:
+A) Depreciation
+B) Recovery
+C) Slowdown
+D) All of these
+Ans: A
+Exp: The deepest and final phase of a prolonged recession is known as depression (or trough).
+Sub: Business Cycles
+
+---
+
+Q: 102. Variables that change after real output changes are known as:
+A) Leading indicators
+B) Cyclical indicators
+C) Lagging indicators
+D) Coincident indicators
+Ans: C
+Exp: Lagging economic indicators change only after aggregate real output and GDP have already changed direction.
+Sub: Business Cycles
+
+---
+
+Q: 103. When once peak is reached, increase in demand is salted, then ______ phase begins?
+A) Trough
+B) Contraction
+C) Expansion
+D) Trend
+Ans: B
+Exp: Once peak capacity is attained and demand halts, the contraction (downswing) phase of the business cycle begins.
+Sub: Business Cycles
+
+---
+
+Q: 104. Which of the following macro economic variables would you include in an index of leading economic indicators?
+A) Employment
+B) Inflation
+C) Real interest rates
+D) Residential investment
+Ans: D
+Exp: Residential housing investment and building permits precede future construction activity, making them leading indicators.
+Sub: Business Cycles
+
+---
+
+Q: 105. An economic variable that moves in the opposite direction as aggregate economic activity down in expansions, up in contractions is called:
+A) Procyclical
+B) Counter cyclical
+C) Acyclical
+D) A leading variable
+Ans: B
+Exp: A counter-cyclical variable (such as the unemployment rate) moves in the opposite direction of overall economic activity.
+Sub: Business Cycles
+
+---
+
+Q: 106. Fashion Retailer is business of:
+A) Cyclical business
+B) Sun rise business
+C) Sluggish business
+D) None of these
+Ans: A
+Exp: Discretionary consumer goods like fashion apparel experience high revenue fluctuations during booms and recessions, making them cyclical.
+Sub: Business Cycles
+
+---
+
+Q: 107. Rampant unemployment is found in:
+A) Boom
+B) Recovery
+C) Contraction
+D) Depression
+Ans: D
+Exp: A depression is characterized by severe business closures, widespread bankruptcies, and rampant unemployment.
+Sub: Business Cycles
+
+---
+
+Q: 108. Which economic indicator is required to predict the turning point of business cycle?
+A) Leading indicator
+B) Lagging indicator
+C) Coincident
+D) All of the above
+Ans: D
+Exp: While leading indicators provide early signals, economists use a composite index of leading, coincident, and lagging indicators to accurately confirm turning points.
+Sub: Business Cycles
+
+---
+
+Q: 109. Economics activities will be declining in the phase of:
+A) Expansion
+B) Depression
+C) Contraction
+D) Peak
+Ans: C
+Exp: The contraction phase is the stage during which production, employment, and investment are continuously declining.
+Sub: Business Cycles
+
+---
+
+Q: 110. In the later stages of expansion, inputs are difficult to find as they are ______ of their demand and therefore & input prices ______
+A) short, increase
+B) excess, increases
+C) short, decrease
+D) excess, decrease
+Ans: A
+Exp: In late expansion, input shortages develop due to high demand, driving up input costs and interest rates.
+Sub: Business Cycles
+
+---
+
+Q: 111. The economy cannot continue to grow endlessly. Once Peak is reached, ______ in demand is halted & starts ______ in certain sectors.
+A) increase, decreasing
+B) decrease, Increasing
+C) increase, Increasing
+D) decrease, Decreasing
+Ans: A
+Exp: After reaching the peak, demand growth halts and actual demand begins decreasing, triggering contraction.
+Sub: Business Cycles
+
+---
+
+Q: 112. ______ is the severe form of ______
+A) Depression, Recovery
+B) Depression, Recession
+C) Recession, Depreciation
+D) Recession, Recovery
+Ans: B
+Exp: A depression is an extremely severe, widespread, and prolonged form of economic recession.
+Sub: Business Cycles
+
+---
+
+Q: 113. The great depression of ______ is still cited for the enormous misery and human sufferings it caused.
+A) 1929-1930
+B) 1929-1931
+C) 1929-1932
+D) 1929-1933
+Ans: D
+Exp: The Great Depression spanning from 1929 to 1933 is the most severe economic slump recorded in modern history.
+Sub: Business Cycles
+
+---
+
+Q: 114. Which of the following statement is false?
+A) No economy follows a perfectly timed Cycle.
+B) Business Cycles vary in intensity and length.
+C) There is no set pattern which Business Cycles follow.
+D) Every Business Cycle has relatively longer period.
+Ans: D
+Exp: Business cycles do not have fixed or uniformly long durations; their length and severity vary considerably.
+Sub: Business Cycles
+
+---
+
+Q: 115. Which of the following phase occurs after threat and before peak?
+A) Boom
+B) Recession
+C) Expansion
+D) Depression
+Ans: C
+Exp: The expansion (upswing) phase occurs after the trough (bottom) and continues up to the peak.
+Sub: Business Cycles
+
+---
+
+Q: 116. Economic indicators are:
+A) A one stroke solution to check the phase of economy.
+B) Indicators showing the movement of economy.
+C) Some activities which predict the direction of economy.
+D) Just and illusion.
+Ans: B
+Exp: Economic indicators are statistical metrics that reflect the directional movements and health of an economy.
+Sub: Business Cycles
+
+---
+
+Q: 117. Industries that are extremely sensitive to the business cycle are the:
+A) Durable goods and service sectors.
+B) Non-durable goods and service sectors.
+C) Capital goods and non-durable goods sectors.
+D) Capital goods and durable goods sectors.
+Ans: D
+Exp: Capital goods and consumer durables are highly sensitive because purchases can be easily postponed during economic downturns.
+Sub: Business Cycles
+
+---
+
+Q: 118. Business Cycle occurs:
+A) Periodically
+B) In different phases
+C) Both (a) and (b)
+D) None of the above
+Ans: C
+Exp: Business cycles recur periodically and progress through four distinct phases (expansion, peak, contraction, trough).
+Sub: Business Cycles
+
+---
+
+Q: 119. Features of business cycles include:
+A) Discuss periodically
+B) Have four different phases
+C) Originate in free Market Economy
+D) All of the above
+Ans: D
+Exp: Business cycles recur periodically across four distinct phases and predominantly originate in free market economies.
+Sub: Business Cycles
+
+---
+
+Q: 120. Which of the following is not a characteristic of business cycles?
+A) Business cycles have serious consequences on the well being of the society.
+B) Business cycles occur periodically, although they do not exhibit the same regularity.
+C) Business cycles have uniform characteristics and causes.
+D) Business cycles are contagious and unpredictable.
+Ans: C
+Exp: Business cycles do not have identical characteristics or uniform causes; every cycle has unique triggering factors.
+Sub: Business Cycles
+
+---
+
+Q: 121. Which of the following statement is correct?
+A) No economy follows a perfectly timed cycle.
+B) Economy follows a perfectly timed cycle.
+C) Most of the economy follows a perfectly timed cycle.
+D) Capitalist economy follow a perfectly timed cycle.
+Ans: A
+Exp: Business cycles do not occur with clockwork precision or perfectly timed intervals.
+Sub: Business Cycles
+
+---
+
+Q: 122. Which is not the characteristic feature of expansion phase in business cycle?
+A) Increase in national output
+B) Unemployment
+C) Rise in price and costs
+D) Boost in business confidence
+Ans: B
+Exp: During expansion, high employment generation leads to a sharp decline in unemployment.
+Sub: Business Cycles
+
+---
+
+Q: 123. Business Cycles are exceedingly Complex phenomena because:
+A) they do not have uniform characteristics and causes.
+B) they are caused by varying factor.
+C) it is difficult to make an accurate prediction of trade cycles before their occurrence.
+D) all of the above.
+Ans: D
+Exp: Diverse causes, varying intensities, and unpredictable human expectations make business cycles highly complex.
+Sub: Business Cycles
+
+---
+
+Q: 124. Repercussions of Business Cycles get simultaneously felt on the economic variable:
+A) Output and employment.
+B) Investment & Consumption
+C) Interest, Trade & Price levels
+D) All of the above.
+Ans: D
+Exp: Business cycles affect almost all macroeconomic variables simultaneously across the entire economic system.
+Sub: Business Cycles
+
+---
+
+Q: 125. Business Cycles have ______ consequences on the well-being of the society.
+A) some
+B) serious
+C) no
+D) moderate
+Ans: B
+Exp: Economic contractions create serious social consequences including unemployment, poverty, and loss of welfare.
+Sub: Business Cycles
+
+---
+
+Q: 126. What is incorrect about business cycle?
+A) They occur periodically.
+B) They exhibit same regularity.
+C) The duration of cycles vary.
+D) The intercity of fluctuations also varies.
+Ans: B
+Exp: While business cycles recur periodically, they do not exhibit mathematical or uniform regularity in timing.
+Sub: Business Cycles
+
+---
+
+Q: 127. Which is a feature of business cycles?
+A) Pervasive in nature
+B) Occurs in restrictive market economy
+C) Periodical regularity
+D) It has same reasons
+Ans: A
+Exp: Business cycles are pervasive because fluctuations in one sector quickly transmit across the entire economy.
+Sub: Business Cycles
+
+---
+
+Q: 128. Business cycle generally originate in free market economies, what is a free market economy?
+A) The economy where government is in possession of major assets.
+B) The economy where private firms control major assets.
+C) The economy decisions of productions are taken by public sector undertakings
+D) The economy where price is controlled by government.
+Ans: B
+Exp: A free market economy is a capitalist system where private enterprises own resources and produce for profit.
+Sub: Business Cycles
+
+---
+
+Q: 129. Which of the following statement is correct?
+A) The business cycle largely affects the agricultural sector.
+B) The business cycle largely affects small employees.
+C) The business cycle generally affects all sectors of economy but business sector in particular.
+D) The business cycle affects low wages workers.
+Ans: C
+Exp: Business cycles impact the entire economy, with industrial and corporate business sectors being the most heavily affected.
+Sub: Business Cycles
+
+---
+
+Q: 130. The disturbances in one or more Sectors ______ other Sectors.
+A) do not affect
+B) equally affect
+C) gets easily transmitted to all
+D) none of the above
+Ans: C
+Exp: Interconnected financial and trade links cause economic shocks in one sector to rapidly transmit across all other sectors.
+Sub: Business Cycles
+
+---
+
+Q: 131. Business cycle is contagious and ______ in character?
+A) Local
+B) Regional
+C) National
+D) International
+Ans: D
+Exp: Global trade and financial linkages make business cycles contagious and international in character.
+Sub: Business Cycles
+
+---
+
+Q: 132. Business Cycles may occur due to:
+A) External Causes
+B) Internal Causes
+C) Both (a) & (b)
+D) Either (a) or (b)
+Ans: C
+Exp: Business cycles result from a combination of endogenous (internal) economic forces and exogenous (external) shocks.
+Sub: Business Cycles
+
+---
+
+Q: 133. According to Monetarists, business cycles occur due to:
+A) Changes in aggregate expenditure in economy
+B) Innovation
+C) Unplanned changes in the money supply
+D) Waves of optimism & pessimism
+Ans: C
+Exp: Monetarists argue that inappropriate fluctuations in money supply and bank credit drive boom-bust cycles.
+Sub: Business Cycles
+
+---
+
+Q: 134. According to some economists, ______ are the prime causes of business cycles.
+A) Fluctuations in effective demand
+B) Fluctuations in investments
+C) Macroeconomic policies
+D) All of the above
+Ans: D
+Exp: Fluctuations in effective demand, investment volatility, and government monetary/fiscal policies all cause business cycles.
+Sub: Business Cycles
+
+---
+
+Q: 135. Which of the following is extreme or exogeneous following that lead to boom or burst?
+A) Economic factor
+B) Social factor
+C) Natural factor
+D) Industrial factor
+Ans: C
+Exp: Exogenous causes originate outside the economic system, such as natural calamities, wars, and weather shocks.
+Sub: Business Cycles
+
+---
+
+Q: 136. Which of the following is not an internal factor?
+A) Fluctuations in effective demand
+B) Fluctuations in investment
+C) Macro economic policies
+D) Post war reconstruction
+Ans: D
+Exp: Post-war reconstruction is an external (exogenous) factor arising from non-economic political events.
+Sub: Business Cycles
+
+---
+
+Q: 137. Which internal factor affect the Business cycle?
+A) Fluctuations in investment
+B) Natural factors
+C) Technology shocks
+D) Population growth
+Ans: A
+Exp: Investment spending is an internal (endogenous) macroeconomic variable that fluctuates significantly.
+Sub: Business Cycles
+
+---
+
+Q: 138. The internal causes of business cycle is:
+A) Fluctuation in effective demand
+B) Technology shocks
+C) Both (a) and (b)
+D) None
+Ans: A
+Exp: Fluctuations in aggregate effective demand are an internal economic factor, whereas technology shocks are external.
+Sub: Business Cycles
+
+---
+
+Q: 139. The internal cause of business cycle is:
+A) Technology shocks
+B) Fluctuation in effective demand
+C) Post war reconstruction
+D) Population Growth
+Ans: B
+Exp: Shifts in effective demand originate internally within the economic system of consumers and businesses.
+Sub: Business Cycles
+
+---
+
+Q: 140. A decrease in government spending would cause:
+A) The aggregate demand curve to shift to the right.
+B) The aggregate demand curve to shift to the left.
+C) A movement down and to the right along the aggregate demand curve.
+D) A movement up and to the left along the aggregate demand curve.
+Ans: B
+Exp: Government spending is a component of aggregate demand (AD); reducing it shifts the AD curve leftward.
+Sub: Business Cycles
+
+---
+
+Q: 141. Modern business activities are based on the anticipations of business community and are affected by waves of optimism or pessimism, according to:
+A) Pigou
+B) Keynes
+C) Hawtrey
+D) Schumpeter
+Ans: A
+Exp: A.C. Pigou proposed the Psychological Theory of business cycles based on psychological waves of optimism and pessimism.
+Sub: Business Cycles
+
+---
+
+Q: 142. According to ______ trade cycles occur due to onset of innovations.
+A) Hawtrey
+B) Adam Smith
+C) J M Keynes
+D) Schumpeter
+Ans: D
+Exp: Joseph Schumpeter attributed business cycles to clusterings of technological and entrepreneurial innovations.
+Sub: Business Cycles
+
+---
+
+Q: 143. Fluctuations in economic activity are due to fluctuations in aggregate effective demand. The theory is propounded by:
+A) Keynes
+B) Schumpeter
+C) Nicholas Kaldor
+D) Pigou
+Ans: A
+Exp: J.M. Keynes established that business cycle fluctuations are primarily driven by shifts in aggregate effective demand.
+Sub: Business Cycles
+
+---
+
+Q: 144. Whose statement out of these is false?
+A) Hawtrey - "Trade cycle is purely Monetary phenomena"
+B) Keynes - "Fluctuations in aggregate Demand"
+C) Pigou - "Fluctuations in investment"
+D) Schumpeter - "Innovations"
+Ans: C
+Exp: Pigou linked trade cycles to psychological expectations (optimism and pessimism), not merely fluctuations in investment.
+Sub: Business Cycles
+
+---
+
+Q: 145. Optimistic and Pessimistic mood of business community also affects the economic activities is view of:
+A) Hawtrey
+B) Schumpeter
+C) Pigou
+D) Marshall
+Ans: C
+Exp: Arthur Cecil Pigou emphasized the role of psychological moods of entrepreneurs in causing business fluctuations.
+Sub: Business Cycles
+
+---
+
+Q: 146. The most probable outcome of an increase in the money supply is:
+A) Interest rates to rise, investment spending to rise, and aggregate demand to rise.
+B) Interest rates to rise, investment spending to fall, and aggregate demand to fall.
+C) Interest rates to fall, investment spending to rise, and aggregate demand to rise.
+D) Interest rates to fall, investment spending to fall, and aggregate demand to fall.
+Ans: C
+Exp: An expansion in money supply lowers interest rates, boosting private investment and expanding aggregate demand.
+Sub: Business Cycles
+
+---
+
+Q: 147. In the long run, a reduction in labour supply would cause output to ______ and the aggregate price level to ______
+A) fall, rise
+B) fall, fall
+C) rise, fall
+D) rise, rise
+Ans: A
+Exp: A reduction in labour supply decreases productive capacity (output falls) and raises wage costs, causing price levels to rise.
+Sub: Business Cycles
+
+---
+
+Q: 148. According to some economists which is not the prime cause of Business Cycles?
+A) Fluctuations in investment
+B) Micro Economic policy
+C) Impact on aggregate economic activity
+D) Psychological factors
+Ans: B
+Exp: Business cycles are macroeconomic phenomena driven by macro policies and aggregate shocks, not microeconomic policies.
+Sub: Business Cycles
+
+---
+
+Q: 149. Endogenous factors refers to ______ causes.
+A) Internal
+B) External
+C) Economic
+D) Ecological
+Ans: A
+Exp: Endogenous factors are internal mechanisms operating within the economic system itself.
+Sub: Business Cycles
+
+---
+
+Q: 150. According to which economist trade cycle is a purely monetary phenomenon:
+A) Schumpeter
+B) Pigou
+C) Hawtrey
+D) Marshall
+Ans: C
+Exp: R.G. Hawtrey asserted that trade cycles are entirely monetary phenomena caused by changes in bank credit and money flows.
+Sub: Business Cycles
+
+---
+
+Q: 151. According to whom "Business fluctuations are the outcome of some psychological states of mind of business community"?
+A) Marshall
+B) A.C. Pigou
+C) J.K. Hicks
+D) Schumpeter
+Ans: B
+Exp: A.C. Pigou attributed business fluctuations to alternating waves of optimism and pessimism in the business community.
+Sub: Business Cycles
+
+---
+
+Q: 152. The difference between exports and imports is the ______ for goods and services.
+A) Net foreign demand
+B) Gross Foreign demand
+C) Net Outflow
+D) Net Inflow
+Ans: A
+Exp: Net foreign demand (net exports) is the value of exports minus imports (X - M) for domestic goods and services.
+Sub: Business Cycles
+
+---
+
+Q: 153. The external causes which may lead to boom or bust do not include:
+A) Psychological Factors
+B) Wars
+C) Technology Shocks
+D) Natural Factors
+Ans: A
+Exp: Psychological factors (optimism and pessimism) are internal economic behaviors, whereas wars and natural shocks are external.
+Sub: Business Cycles
+
+---
+
+Q: 154. According to Keynes, fluctuations in Economic activities are due to:
+A) Fluctuation in aggregate effective demand
+B) Innovations
+C) Changes in money supply
+D) Fluctuation in agricultural output
+Ans: A
+Exp: J.M. Keynes emphasized that shifts in aggregate effective demand drive business cycle expansions and contractions.
+Sub: Business Cycles
+
+---
+
+Q: 155. ______ theory holds that business cycles result from the fact that present prices substantially influence the production at some future date.
+A) Schumpeter's
+B) Hawtrey's
+C) Cobweb
+D) Pigou's
+Ans: C
+Exp: The Cobweb theory demonstrates that production decisions based on current prices create lagged cyclical adjustments in future output.
+Sub: Business Cycles
+
+---
+
+Q: 156. Who propounded the Cobweb theory?
+A) Nicholas Kaldor
+B) Hawtrey
+C) Adam Smith
+D) Schumpeter
+Ans: A
+Exp: Nicholas Kaldor formulated the Cobweb theorem to explain price-production cycles in markets with output lags.
+Sub: Business Cycles
+
+---
+
+Q: 157. According to ______ Trade Cycle is a purely monetary phenomenon.
+A) Nicholas Kaldor
+B) Hawtrey
+C) Adam Smith
+D) Schumpeter
+Ans: B
+Exp: R.G. Hawtrey advocated that trade cycles are purely monetary occurrences caused by bank credit expansions and contractions.
+Sub: Business Cycles
+
+---
+
+Q: 158. According to ______ modern business activities are based on the anticipations of business Community and are affected by waves of optimism or pessimism.
+A) Pigou
+B) Schumpeter
+C) Adam Smith
+D) Hawtrey
+Ans: A
+Exp: A.C. Pigou's psychological theory emphasizes that business investments fluctuate with waves of optimism and pessimism.
+Sub: Business Cycles
+
+---
+
+Q: 159. In a free market economy, where maximization of profits is the aim of business, a higher level of aggregate demand will induce businessmen to produce more. As a result, there will be more:
+A) Output
+B) Income
+C) Employment
+D) All of these
+Ans: D
+Exp: An increase in aggregate demand induces producers to expand production, generating higher output, employment, and income.
+Sub: Business Cycles
+
+---
+
+Q: 160. When companies lay off workers, consumers lose their jobs and stop buying anything but necessities. That causes a:
+A) Downward Spiral
+B) Cross Spiral
+C) Upward Spiral
+D) Triangle Spiral
+Ans: A
+Exp: Falling employment leads to reduced consumer spending, further reducing demand in a cumulative downward spiral.
+Sub: Business Cycles
+
+---
+
+Q: 161. ______ is considered to be the most volatile Component of the aggregate demand.
+A) Investment Spending
+B) Saving Flow
+C) Expenditure behaviour
+D) None of these
+Ans: A
+Exp: Private investment spending is highly sensitive to profit expectations, interest rates, and confidence, making it the most volatile component of AD.
+Sub: Business Cycles
+
+---
+
+Q: 162. Investments may rise when the rate of interest is ______ in the economy.
+A) High
+B) Moderate
+C) Low
+D) Very high
+Ans: C
+Exp: Lower interest rates reduce the cost of capital and borrowing, stimulating private business investment.
+Sub: Business Cycles
+
+---
+
+Q: 163. Increase in investment; shift the aggregate demand to the ______ leading to ______
+A) right, economic expansion
+B) right, depression
+C) left, economic expansion
+D) left, depression
+Ans: A
+Exp: Rising investment increases total spending, shifting aggregate demand to the right and driving economic expansion.
+Sub: Business Cycles
+
+---
+
+Q: 164. The most common method of boosting aggregate demand is:
+A) Increased Government Spending
+B) Tax Cuts
+C) Both (a) & (b)
+D) None of these
+Ans: C
+Exp: Expansionary fiscal policy uses both increased public expenditure and tax cuts to stimulate aggregate demand.
+Sub: Business Cycles
+
+---
+
+Q: 165. The macroeconomic policies which cause business cycles may be:
+A) Monetary Policy
+B) Fiscal Policy
+C) Both (a) & (b)
+D) None of these
+Ans: C
+Exp: Fluctuations in central bank monetary policies (interest rates/credit) and government fiscal policies (taxation/spending) influence business cycles.
+Sub: Business Cycles
+
+---
+
+Q: 166. In case of softening of interest rates:
+A) There will be inflationary effects and increase in unemployment rates.
+B) There will be deflationary effects and increase in unemployment rates.
+C) There will be inflationary effect and decline in employment rates.
+D) There will be deflationary effects and decline in employment rates.
+Ans: C
+Exp: Lowering (softening) interest rates stimulates economic activity and hiring, but prolonged easy monetary policy can fuel inflation.
+Sub: Business Cycles
+
+---
+
+Q: 167. Which of the following is anti-inflationary measure which causes a downward pressure on the aggregate demand and the economy slows down?
+A) Reduction in Government Spending
+B) Increase in Taxes
+C) Increase in Interest Rates
+D) All of these
+Ans: D
+Exp: Contractionary policies such as cutting government spending, raising taxes, and increasing interest rates suppress aggregate demand.
+Sub: Business Cycles
+
+---
+
+Q: 168. How many phases are their in business cycle?
+A) Four
+B) Five
+C) One
+D) Many
+Ans: A
+Exp: Standard business cycles consist of four distinct phases: Expansion, Peak, Contraction (Recession), and Trough (Depression).
+Sub: Business Cycles
+
+---
+
+Q: 169. Business Cycles effect ______ of an economy.
+A) Social Aspects
+B) Economic Aspects
+C) All Aspects
+D) No Aspects
+Ans: C
+Exp: The pervasive impact of business cycles affects economic variables, societal welfare, employment, and political stability.
+Sub: Business Cycles
+
+---
+
+Q: 170. Which of the following industries are less sensitive to business cycle?
+A) Consume goods industry
+B) Durable consumer goods industry
+C) Travel and Tourism Industries
+D) Food Grain processing Industries
+Ans: D
+Exp: Essential basic food staples have stable demand and are relatively immune to macroeconomic business cycles.
+Sub: Business Cycles
+
+---
+
+Q: 171. The period of prosperity opens up new and superior opportunities for ______ thereby promotes business.
+A) Investment and Unemployment
+B) Employment and Production
+C) Production, Unemployment & Savings
+D) Investment, Employment and Production
+Ans: D
+Exp: Prosperity and economic boom create favorable conditions for new capital investments, expanded production, and high employment.
+Sub: Business Cycles
+
+---
+
+Q: 172. A ______ reduces profits and business opportunities:
+A) Recession
+B) Depression
+C) Either (a) or (b)
+D) None of these
+Ans: C
+Exp: Both recessions and depressions depress aggregate demand, reducing business sales, profitability, and investment opportunities.
+Sub: Business Cycles
+
+---
+
+Q: 173. Business Cycles have ______ influence on Business decisions.
+A) Negligible
+B) Least
+C) No
+D) Tremendous
+Ans: D
+Exp: Macroeconomic cycles have a tremendous impact on strategic decisions regarding capital expenditure, hiring, pricing, and expansion.
+Sub: Business Cycles
+
+---
+
+Q: 174. Which External Factor affect the business cycle?
+A) Population growth
+B) Variation in government spending
+C) Money supply
+D) Macro economic policies
+Ans: A
+Exp: Demographic shifts and population growth are exogenous (external) factors affecting aggregate consumption over time.
+Sub: Business Cycles
+
+---
+
+Q: 175. Economy-wide trends can have significant impact on:
+A) Capital Goods Industries
+B) FMCG Industries
+C) Social activities
+D) All types of business
+Ans: D
+Exp: General macroeconomic fluctuations affect virtually all types of commercial and industrial enterprises.
+Sub: Business Cycles
+
+---
+
+Q: 176. Business cycle is contagious and ______ in character?
+A) Local
+B) Regional
+C) National
+D) International
+Ans: D
+Exp: Through international trade, capital flows, and supply chains, business cycles quickly spread across national borders.
+Sub: Business Cycles
+
+---
+
+Q: 177. Businesses whose fortunes are closely linked to the rate of economic growth are referred to as ______ business.
+A) FMCG
+B) Durable goods
+C) Fluctuating
+D) Cyclical
+Ans: D
+Exp: Cyclical businesses experience high revenue growth during economic booms and sharp declines during downturns.
+Sub: Business Cycles
+
+---
+
+Q: 178. The world economy suffered the longest, deepest and most widespread depreciation of the 20th century during?
+A) 1934
+B) 1928
+C) 1930
+D) 1932
+Ans: C
+Exp: The Great Depression of 1929–1933 (centered around 1930) was the most severe economic crisis of the 20th century.
+Sub: Business Cycles
+
+---
+
+Q: 179. Which of the following business are examples of "Cyclical business"?
+A) Fashion retailers, electrical goods & house-builders.
+B) Restaurants, advertising and overseas tour operators.
+C) Construction and other infrastructure firms.
+D) All of the above.
+Ans: D
+Exp: All luxury, leisure, construction, and discretionary consumer industries are cyclical in nature.
+Sub: Business Cycles
+
+---
+
+Q: 180. The Stage/phase of the business Cycle is important for:
+A) Making managerial decisions regarding expansion or downsizing.
+B) A new business to decide on entry into the market.
+C) The success of a new product.
+D) All of the above.
+Ans: D
+Exp: Business cycle analysis informs key managerial decisions regarding capital expansion, market entry timing, and new product launches.
+Sub: Business Cycles
+
+---
+
+Q: 181. Due to recession, employment rate and output ______ respectively.
+A) Rises and rises
+B) Falls and falls
+C) Rises and falls
+D) Falls and rises
+Ans: B
+Exp: In a recession, output decreases and firms lay off workers, causing employment rates to fall alongside production.
+Sub: Business Cycles
+
+---

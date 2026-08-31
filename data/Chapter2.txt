@@ -1,0 +1,4872 @@
+Q: Demand for a commodity refers to:
+A) desire backed by ability to pay for the commodity.
+B) need for the commodity and willingness to pay for it
+C) the quantity demanded of that commodity at a certain price.
+D) the quantity of the commodity demanded at a certain price during any particular period of time.
+Ans: D
+Exp: Demand in economics is always expressed at a given price and per unit of time (flow concept).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Contraction of demand is the result of:
+A) decrease in the number of consumers.
+B) increase in the price of the good concerned.
+C) increase in the prices of other goods.
+D) decrease in the income of purchasers.
+Ans: B
+Exp: Contraction of demand is a movement along the demand curve caused by a rise in the own price of the good.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: All but one of the following are assumed to remain the same while drawing an individual's demand curve for a commodity. Which one is it?
+A) The preference of the individual.
+B) His monetary income.
+C) Price of the commodity
+D) Price of related goods.
+Ans: C
+Exp: While drawing a demand curve, own price varies while other factors are held constant (ceteris paribus).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following pairs of goods is an example of substitutes?
+A) Tea and sugar.
+B) Tea and coffee.
+C) Pen and ink.
+D) Shirt and trousers.
+Ans: B
+Exp: Tea and coffee satisfy the same want and can easily be used in place of one another.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: In the case of a straight line demand curve meeting the two axes, the price-elasticity of demand at the mid-point of the line would be:
+A) 0
+B) 1
+C) 1.5
+D) 2
+Ans: B
+Exp: By point elasticity formula (Lower segment / Upper segment), elasticity at the exact midpoint equals 1.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: The Law of Demand, assuming other things to remain constant, establishes the relationship between:
+A) income of the consumer and the quantity of a good demanded by him.
+B) price of a good and the quantity demanded.
+C) price of a good and the demand for its substitute.
+D) quantity demanded of a good and the relative prices of its complementary goods.
+Ans: B
+Exp: Law of Demand states an inverse relationship between the own price of a good and its quantity demanded.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Identify the factor which generally keeps the price-elasticity of demand for a good low:
+A) Variety of uses for that good.
+B) Very low price of a commodity
+C) Close substitutes for that good.
+D) High proportion of the consumer's income spent on it.
+Ans: B
+Exp: Inexpensive items (like salt, matchboxes) where a tiny fraction of income is spent have inelastic demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Identify the coefficient of price-elasticity of demand when the percentage increase in the quantity of a good demanded is smaller than the percentage fall in its price:
+A) Equal to one.
+B) Greater than one.
+C) Less than one.
+D) Zero.
+Ans: C
+Exp: When % change in quantity demanded is less than % change in price, Ed < 1 (inelastic demand).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: In the case of an inferior good, the income elasticity of demand is:
+A) positive.
+B) Zero.
+C) Negative.
+D) infinite.
+Ans: C
+Exp: As consumer income rises, demand for inferior goods declines, resulting in negative income elasticity.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If the demand for a good is inelastic, an increase in its price will cause the total expenditure of the consumers of the good to:
+A) Remain the same.
+B) Increase.
+C) Decrease.
+D) Any of these.
+Ans: B
+Exp: Under total outlay method, when demand is inelastic, price and total expenditure move in the same direction.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If regardless of changes in its price, the quantity demanded of a good remains unchanged, then the demand curve for the good will be:
+A) horizontal.
+B) Vertical.
+C) positively sloped.
+D) negatively sloped.
+Ans: B
+Exp: A perfectly inelastic demand curve (Ed = 0) is a vertical straight line parallel to the Y-axis.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Suppose the price of Pepsi increases, we will expect the demand curve of Coca Cola to:
+A) Shift towards left since these are substitutes
+B) Shift towards right since these are substitutes
+C) Remain at the same level
+D) None of the above
+Ans: B
+Exp: Pepsi and Coke are substitutes; an increase in Pepsi's price shifts the demand curve for Coke rightward.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: All of the following are determinants of demand except:
+A) Tastes and preferences.
+B) Quantity supplied.
+C) Income of the consumer
+D) Price of related goods.
+Ans: B
+Exp: Quantity supplied is a seller-side variable, not a determinant of consumer demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: A movement along the demand curve for soft drinks is best described as:
+A) An increase in demand.
+B) A decrease in demand.
+C) A change in quantity demanded.
+D) A change in demand.
+Ans: C
+Exp: A change caused purely by own price variation leads to movement along the curve (change in quantity demanded).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If the price of Pepsi decreases relative to the price of Coke and 7-UP, the demand for:
+A) Coke will decrease.
+B) 7-Up will decrease.
+C) Coke and 7-UP will increase.
+D) Coke and 7-Up will decrease.
+Ans: D
+Exp: Cheaper Pepsi attracts consumers away from Coke and 7-UP, decreasing the demand for both.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If a good is a luxury, its income elasticity of demand is:
+A) Positive and less than 1.
+B) Negative but greater than -1.
+C) Positive and greater than 1.
+D) Zero.
+Ans: C
+Exp: Luxury goods have high income elasticity (Ey > 1) because demand expands faster than income growth.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: The price of hot dogs increases by 22% and the quantity of hot dogs demanded falls by 25%. This indicates that demand for hot dogs is:
+A) Elastic.
+B) Inelastic.
+C) Unitarily elastic.
+D) Perfectly elastic.
+Ans: A
+Exp: Ed = 25% / 22% = 1.14 > 1, so demand is price elastic.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If the quantity demanded of mutton increases by 5% when the price of chicken increases by 20%, the cross-price elasticity of demand between mutton and chicken is
+A) -0.25
+B) 0.25
+C) -4
+D) 4
+Ans: B
+Exp: Cross Ed = % change in Qty demanded of mutton / % change in Price of chicken = +5% / +20% = +0.25.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Suppose the price of movies seen at a theatre rises from Rs.120 to Rs.200 per person. Attendance falls from 300 to 200 persons. What is price elasticity of demand? (Use Arc Elasticity Method)
+A) .5
+B) .8
+C) 1.0
+D) 1.2
+Ans: D
+Exp: Arc elasticity formula = [(Q1 - Q2) / (Q1 + Q2)] / [(P1 - P2) / (P1 + P2)].
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following statements about price elasticity of supply is correct?
+A) Price elasticity of supply is a measure of how much quantity supplied responds to price change
+B) It is computed as % change in quantity supplied divided by % change in price
+C) Price elasticity of supply in the long run is different from short run
+D) All the above
+Ans: D
+Exp: All statements accurately describe the definition, calculation, and time horizon of elasticity of supply.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following is an incorrect statement?
+A) When goods are substitutes, a fall in the price of one lead to a fall in quantity demanded of other.
+B) When commodities are complements, a fall in price of one cause demand of other to rise.
+C) As the income of the consumer increases, the demand for the commodity increases always and vice versa.
+D) When a commodity becomes fashionable people prefer to buy it and therefore its demand increases.
+Ans: C
+Exp: In the case of inferior goods, demand decreases as income increases; hence statement C is incorrect.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If silverware price reduces from Rs.300 to Rs.200 and quantity increases from 3,000 to 5,000 units, what is price elasticity? (Use Arc Method)
+A) .8
+B) 1.0
+C) 1.25
+D) 1.50
+Ans: C
+Exp: Arc Ed = [(5000 - 3000)/(5000 + 3000)] / [(300 - 200)/(300 + 200)] = (2000/8000) / (100/500) = 0.25 / 0.20 = 1.25.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: When the numerical value of cross elasticity between two goods is very high, it means:
+A) The goods are perfect complements and therefore have to be used together
+B) The goods are perfect substitutes and can be used with ease in place of one another
+C) There is a high degree of substitutability between the two goods
+D) The goods are neutral and therefore cannot be considered as substitutes
+Ans: C
+Exp: High positive cross-elasticity indicates that two goods are close substitutes for each other.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If pizzeria raises pizza price from Rs.60 to Rs.100 and quantity falls from 700 to 100 pizzas, price elasticity is: (Use Arc Method)
+A) .67
+B) 1.5
+C) 2.0
+D) 3.0
+Ans: D
+Exp: Arc Ed = [(700 - 100)/(700 + 100)] / [(100 - 60)/(100 + 60)] = (600/800) / (40/160) = 0.75 / 0.25 = 3.0.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If electricity demand is inelastic, and electricity charges increase, which of the following is likely to occur?
+A) Quantity demanded will fall by a relatively large amount.
+B) Quantity demanded will fall by a relatively small amount.
+C) Quantity demanded will rise in the short run, but fall in the long run.
+D) Quantity demanded will fall in the short run, but rise in the long run.
+Ans: B
+Exp: Inelastic demand means consumers are less sensitive to price increases, resulting in only a small fall in quantity.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Suppose demand for meals at a restaurant is elastic. If management is considering raising prices, it can expect a relatively:
+A) Large fall in quantity demanded.
+B) Large fall in demand.
+C) Small fall in quantity demanded.
+D) Small fall in demand.
+Ans: A
+Exp: For price elastic demand (Ed > 1), a price rise causes a proportionately larger decrease in quantity demanded.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Point elasticity is useful for which of the following situations?
+A) The bookstore is considering doubling the price of notebooks.
+B) A restaurant is considering lowering the price of its most expensive dishes by 50 percent.
+C) An auto producer determines consumer response to price of cars being lowered by Rs.100.
+D) None of the above.
+Ans: C
+Exp: Point elasticity is suitable when price change is very small (marginal change).
+Sub: Theory of Demand & Supply
+
+---
+
+Q: A decrease in price will result in an increase in total revenue if:
+A) Percentage change in quantity demanded is less than percentage change in price.
+B) Percentage change in quantity demanded is greater than percentage change in price.
+C) Demand is inelastic.
+D) Consumer is operating at a point where price is very low and quantity is very high.
+Ans: B
+Exp: When demand is elastic (%ΔQ > %ΔP), lowering the price increases total revenue.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: An increase in price will result in an increase in total revenue if:
+A) Percentage change in quantity demanded is less than percentage change in price.
+B) Percentage change in quantity demanded is greater than percentage change in price.
+C) Demand is elastic.
+D) Consumer is operating at a point where price is very high and quantity is very low.
+Ans: A
+Exp: When demand is inelastic (%ΔQ < %ΔP), raising the price increases total revenue.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Demand for a good will tend to be more elastic if it exhibits which of the following characteristics?
+A) It represents a small part of the consumer's income.
+B) The good has many substitutes available.
+C) It is a necessity (as opposed to a luxury).
+D) There is little time for the consumer to adjust to the price change.
+Ans: B
+Exp: Availability of close substitutes increases the price elasticity of demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Demand for a good will tend to be more inelastic if it exhibits which of the following characteristics?
+A) The good has many substitutes.
+B) The good is a luxury (as opposed to a necessity).
+C) The good is a small part of the consumer's income.
+D) There is a great deal of time for the consumer to adjust to the change in prices.
+Ans: C
+Exp: Goods that account for a tiny fraction of total income (e.g. salt, needles) tend to have inelastic demand.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: If consumer income increases from Rs.30,000 to Rs.36,000 and CD purchases increase from 25 to 30 CDs, income elasticity is: (Use Arc Method)
+A) 0.5
+B) 1.0
+C) 1.5
+D) 2.0
+Ans: B
+Exp: Arc Ey = [(30 - 25)/(30 + 25)] / [(36000 - 30000)/(36000 + 30000)] = (5/55) / (6000/66000) = (1/11)/(1/11) = 1.0.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Total utility is maximum when:
+A) Marginal utility is zero.
+B) Marginal utility is at its highest point.
+C) Marginal utility is negative
+D) None of the above
+Ans: A
+Exp: Total Utility reaches its peak (point of satiety) when Marginal Utility equals zero.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which one is not an assumption of the theory of demand based on analysis of indifference curves?
+A) Given scale of preferences between different combinations of two goods.
+B) Diminishing marginal rate of substitution.
+C) Diminishing marginal utility of money
+D) Consumers prefer more of a good to less of it, other things remaining same.
+Ans: C
+Exp: Diminishing marginal utility of money is not an assumption of Indifference Curve ordinal analysis.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: An indifference curve slopes down towards right since more of one commodity and less of another result in:
+A) Same level of satisfaction.
+B) Greater satisfaction.
+C) Maximum satisfaction.
+D) Any of the above
+Ans: A
+Exp: To remain on the same indifference curve (same utility level), consuming more of one good requires sacrificing some of the other.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Significant wage package increase in a steel plant will affect the market supply of steel by:
+A) Supply curve will shift to the left.
+B) Supply curve will shift to the right.
+C) Supply will not shift, but quantity produced will decrease.
+D) Supply will not shift, but quantity produced will increase.
+Ans: A
+Exp: Rising input costs (wages) decrease supply, shifting the entire supply curve leftward.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Which of the following statements is incorrect?
+A) An indifference curve must be downward-sloping to the right.
+B) Convexity of a curve implies that the slope diminishes as one moves from left to right.
+C) The income elasticity for inferior goods to a consumer is positive
+D) Total effect of price change on quantity demanded is called price effect.
+Ans: C
+Exp: Income elasticity for inferior goods is negative, not positive.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: The successive units of stamps collected by a boy give him greater and greater satisfaction. This is a case of:
+A) Operation of the law of demand.
+B) Consumer surplus enjoyed in hobbies and rare collections
+C) Exception to the law of diminishing utility.
+D) None of the above
+Ans: C
+Exp: Hobbies, rare collections, and antiques are well-known exceptions to the Law of Diminishing Marginal Utility.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: What will happen in the rice market if buyers are expecting higher rice prices in the near future?
+A) The demand for rice will increase and the demand curve will shift to the right
+B) The demand for rice will decrease and the demand curve will shift to the left
+C) The demand for rice will be unaffected as it is a necessity
+D) The demand for wheat will increase and the demand curve will shift to the right
+Ans: A
+Exp: Expectations of higher future prices lead to an immediate increase in current demand, shifting the curve to the right.
+Sub: Theory of Demand & Supply
+
+---
+
+Q: Demand for a commodity refers to:
+A) Desire backed by ability to pay for the commodity.
+B) Need for the commodity and willingness to pay for it.
+C) The quantity demanded of that commodity at a certain price.
+D) The quantity of the commodity demanded at a certain price during any particular period of time.
+Ans: D
+Exp: In economics, demand is always expressed at a specific price per unit of time (flow concept).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The term 'demand' refers to:
+A) Demand of money
+B) Need for the commodity
+C) Need for services
+D) The quantity of a good or service that buyers are willing and able to purchase at various prices during a given period of time
+Ans: D
+Exp: Demand represents both the willingness and effective purchasing ability to buy goods at various prices during a given timeframe.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Demand is the:
+A) The desire for a commodity given its price and those of related commodities.
+B) The entire relationship between the quantity demanded and the price of a good other things remaining the same,
+C) Willingness to pay for a good if income is larger enough.
+D) Ability to pay for a good.
+Ans: B
+Exp: Demand expresses the functional relationship between various prices and the corresponding quantities demanded, ceteris paribus.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The quantity demanded is always expressed
+A) Separately in isolation
+B) Separately with quantity supplied
+C) At a given price
+D) None of these
+Ans: C
+Exp: Quantity demanded is meaningful only when stated at a specific price per period of time.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements is correct?
+A) With the help of statistical tools, the demand can be forecasted accurately.
+B) The more the number of substitutes of a commodity, more elastic is the demand.
+C) Demand for butter is perfectly elastic.
+D) Gold jewellery will have negative income elasticity.
+Ans: B
+Exp: The availability of close substitutes makes consumers highly responsive to price changes, increasing price elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for a firm's product when expressed as a percentage of industry demand it signifies the of the firm
+A) Product share
+B) Market share
+C) Demand
+D) Supply
+Ans: B
+Exp: A firm's sales volume expressed as a proportion of total industry demand represents its market share.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The quantity demanded is a
+A) Flow
+B) Stock
+C) Single isolated purchase
+D) Concept without reference to time
+Ans: A
+Exp: Demand is a flow variable because it is measured continuously as so many units per day, month, or year.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Effective demand depends on.
+A) Price
+B) Cost
+C) Desire
+D) Product
+Ans: A
+Exp: Effective demand in the market depends upon the price at which buyers are willing and able to purchase.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In economics, Effective Demand for a thing depends on :
+A) Desire
+B) Means to purchase
+C) Willingness to use those means for that purchase
+D) All of the above
+Ans: D
+Exp: Effective demand requires three elements: desire for the good, ability to pay (means), and willingness to spend.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: All of the following are determinants of demand except:
+A) Tastes and preferences.
+B) Quantity supplied.
+C) Income of the consumer.
+D) Price of related goods.
+Ans: B
+Exp: Quantity supplied is a seller-side variable, whereas income, tastes, and prices of related goods determine consumer demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is not a determinant of demand for commodity.
+A) Price of substitute commodities
+B) Price of complementary goods
+C) Consumer expectations about future price of the commodity
+D) Quantity of stock of the commodity
+Ans: D
+Exp: The existing stock of a good held by sellers determines supply, not consumer demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which is not an important factor that determines demand?
+A) Price of commodity
+B) Disposable income of consumer
+C) Tastes and preferences of buyers
+D) Educational qualification of buyer
+Ans: D
+Exp: Formal educational degrees do not directly determine market demand functions.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Price of goods expresses value.
+A) Exchange
+B) Cost
+C) Demand
+D) Fair
+Ans: A
+Exp: The price of a commodity reflects its value in exchange for money in the marketplace.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following will affect the demand for non-durable goods?
+A) Disposable income
+B) Price
+C) Demography
+D) All of the above
+Ans: D
+Exp: Non-durable goods (food, fuel, clothing) are influenced by current disposable income, price levels, and population demography.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: What is not a determinant of demand?
+A) Consumer's expectations
+B) Consumer's tastes and preferences
+C) Income of the consumers
+D) Prices of unrelated goods.
+Ans: D
+Exp: The prices of totally unrelated commodities have zero impact on the demand for a given product.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The term "Ceteris Paribus" refers to
+A) Other things being equal
+B) Other things also change
+C) Other things may change
+D) None of the above
+Ans: A
+Exp: 'Ceteris Paribus' is a Latin phrase meaning 'other things remaining constant or equal'.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Ceteris Paribus, the demand for a commodity is inversely related to its price. This happens because of:
+A) Income Effect
+B) Substitution Effect
+C) Both (a) & (b)
+D) None of above
+Ans: C
+Exp: The Law of Demand operates due to the combined impact of the Substitution Effect and the Real Income Effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is/are the types of Related Commodities.
+A) Complementary
+B) Substitutes
+C) Complementary and Substitutes
+D) Complementary or Substitutes
+Ans: C
+Exp: Related goods are classified into Complementary goods (jointly used) and Substitute goods (competing).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The increase in demand on account of an increase in real income is known as:
+A) Substitution effect
+B) Income effect
+C) Marginal effect
+D) Demand effect
+Ans: B
+Exp: When a price fall increases the consumer's real purchasing power, enabling higher purchases, it is called the Income Effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following set of Commodities represents Complementary goods?
+A) Tea and Sugar
+B) Automobile and Petrol
+C) Pen and ink
+D) All of the above
+Ans: D
+Exp: All the given pairs (Tea-Sugar, Car-Petrol, Pen-Ink) are consumed jointly to satisfy a single want.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: are those goods which are consumed together or simultaneously.
+A) Complementary
+B) Substitutes
+C) Similar
+D) Unrelated
+Ans: A
+Exp: Complementary goods are goods that are used in conjunction with each other to satisfy a specific need.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Goods which are inferior, with no close substitutes easily available and which occupy a substantial place in consumer's budget are called goods.
+A) Speculative
+B) Prestige
+C) Conspicuous
+D) Giffen
+Ans: D
+Exp: Giffen goods are highly inferior staple goods lacking close substitutes where the negative income effect outweighs the substitution effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When two commodities are complementary, a fall in the price of one (other things being equal) will cause the demand for the other to
+A) Fall
+B) Rise
+C) Remain constant
+D) Fall substantially
+Ans: B
+Exp: A fall in the price of a complementary good lowers the overall cost of joint consumption, raising demand for both.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Two Commodities are called when they satisfy the same want and can be used with ease in place of one another.
+A) Substitutes
+B) Complementary
+C) Unrelated
+D) Opposite
+Ans: A
+Exp: Substitute goods are alternative products that can fulfill identical consumer needs (e.g. tea and coffee).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: There is a relation between the demand for a product and the price of its substitutes.
+A) Direct
+B) Positive
+C) Indirect
+D) Both (a) & (b)
+Ans: D
+Exp: There is a direct (positive) relationship: as the price of a substitute rises, demand for the given good increases.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of Veblen goods, the demand curve is
+A) Horizontal
+B) Vertical
+C) Upward sloping to the right
+D) Downward sloping to the right
+Ans: C
+Exp: Veblen (prestige) goods have an upward-sloping demand curve because higher prices enhance their status appeal.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Highly priced goods are consumed by status seeking rich people to satisfy their need for conspicuous consumption. This is called as
+A) Veblen Effect
+B) Snob Effect
+C) Helen Effect
+D) None of these
+Ans: A
+Exp: Thorstein Veblen formulated the concept of conspicuous consumption where demand rises with prestige pricing.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Name the term which refers to the demand for consumer goods which is decreased owing be the fact that others are also consuming the same commodity.
+A) Hallo effect
+B) Snob effect
+C) Veblen effect
+D) Demonstration effect
+Ans: B
+Exp: The snob effect represents the desire to own exclusive items; demand falls when common consumers start buying the same good.
+Sub: Theory of Demand and Supply
+
+---
+
+: are the commodities for which the quantity demanded rises only up to a certain level of income and decreases with an increase in money income beyond this level.
+A) Inferior Goods
+B) Normal Goods
+C) Consumption Goods
+D) Durable Goods
+Ans: A
+Exp: Inferior goods exhibit negative income elasticity beyond a threshold income level as consumers switch to superior goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The substitution effect will be what when the price of the product falls?
+A) Zero
+B) Negative
+C) Positive
+D) Lower cost
+Ans: C
+Exp: The substitution effect is always positive: when a good becomes cheaper, consumers always substitute it in place of dearer goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When goods are substitutes, a fall in the price of one (Ceteris Paribus) leads to in the quantity demanded of its substitutes.
+A) Rise
+B) Fall
+C) Constant
+D) No effect
+Ans: B
+Exp: A price drop in good A attracts consumers away from its substitute good B, causing demand for good B to fall.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A group of people decrease or altogether stop consumption of a common to which of the following effect?
+A) Bandwagon effect
+B) Veblen effect
+C) Snob effect
+D) Marshall effect
+Ans: A
+Exp: Bandwagon effect refers to demand shifting in response to mass social trends and conformity among consumer groups.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The term demonstration effect was coined by
+A) Hicks
+B) Veblen
+C) James Duesen berry
+D) Marshall
+Ans: C
+Exp: James Duesenberry introduced the 'Demonstration Effect' to explain how people imitate the consumption patterns of higher-income neighbours.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following will affect the demand for non-durable goods?
+A) Disposable income
+B) Price
+C) Demography
+D) All of the above
+Ans: D
+Exp: Total market demand for non-durable goods depends on household disposable income, prices, and demographic structure.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following pairs of goods is an example of substitutes?
+A) Tea and sugar.
+B) Tea and coffee.
+C) Pen and ink.
+D) Shirt and trousers.
+Ans: B
+Exp: Tea and coffee serve as direct substitutes for satisfying hot beverage demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the price of petrol decreases, people reduce the consumption of diesel, then the goods are:
+A) Complementary
+B) Substitutes
+C) Superior
+D) Any of the above
+Ans: B
+Exp: When cheaper petrol induces motorists to switch away from diesel, the two fuels act as substitute goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the price of Pepsi decreases relative to the price of Coke and 7-UP, the demand for:
+A) Coke will decrease.
+B) 7-Up will decrease.
+C) Coke and 7-UP will increase.
+D) Coke and 7-Up will decrease.
+Ans: D
+Exp: A relative price drop in Pepsi diverts consumers away from rival substitutes Coke and 7-UP.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is an incorrect statement?
+A) When goods are substitutes, a fall in the price of one (ceteris paribus) leads to a fall in the quantity demanded of its substitutes.
+B) When commodities are complements, a fall in the price of one (other things being equal) will cause the demand of the other to rise.
+C) As the income of the consumer increases, the demand for the commodity increases always and vice versa.
+D) When a commodity becomes fashionable people prefer to buy it and therefore its demand increases.
+Ans: C
+Exp: Statement C is incorrect because in the case of inferior goods, demand falls as consumer income rises.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: What will happen in the rice market if buyers are expecting higher rice prices in the near future?
+A) The demand for rice will increase.
+B) The demand for rice will decrease.
+C) The demand for rice will be unaffected.
+D) None of the above.
+Ans: A
+Exp: Expecting price hikes in the future induces buyers to stockpile and buy more immediately, raising current demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Conspicuous goods are also known as:
+A) Prestige goods.
+B) Snob goods.
+C) Veblen goods.
+D) All of the above.
+Ans: D
+Exp: Goods bought for social status and ostentation are interchangeably termed prestige, snob, or Veblen goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A good which cannot be consumed more than once is known as
+A) Durable good
+B) Non-durable good
+C) Producer good
+D) None of the above
+Ans: B
+Exp: Non-durable goods (single-use goods like milk, bread, petrol) are completely exhausted in a single act of consumption.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A relative price is
+A) Price expressed in terms of money.
+B) What you get paid for baby-sitting your cousin.
+C) The ratio of one money price to another.
+D) Equal to a money price.
+Ans: C
+Exp: Relative price expresses the price of one commodity in terms of another commodity (ratio of two absolute money prices).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of tomatoes increases and people buy tomato puree. You infer that tomato puree and tomatoes are
+A) Normal goods.
+B) Complements.
+C) Substitutes.
+D) Inferior goods.
+Ans: C
+Exp: When a price increase in fresh tomatoes causes consumers to purchase tomato puree, the two goods function as substitutes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Chicken and fish are substitutes. If the price of chicken increases, the demand for fish will
+A) Increase or decrease but the demand curve for chicken will not change.
+B) Increase and the demand curve for fish will shift rightwards.
+C) Not change but there will be a movement along the demand curve for fish.
+D) Decrease and the demand curve for fish will shift leftwards.
+Ans: B
+Exp: A price hike in chicken diverts demand to its substitute fish, shifting the entire demand curve for fish to the right.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the price of X commodity increases and due to that the demand for Y commodity increases, then x and y goods are
+A) Complementary
+B) Substitutes
+C) Normal
+D) Giffen
+Ans: B
+Exp: A positive cross-price effect (price of X rises, demand for Y rises) indicates that goods X and Y are substitute goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Potato chips and popcorn are substitutes. A rise in the price of potato chips will the demand for popcorn and the quantity of popcorn will
+A) Increase; increase.
+B) Increase; decrease.
+C) Decrease; decrease.
+D) Decrease; increase.
+Ans: A
+Exp: Higher chip prices increase the demand for popcorn, shifting popcorn demand rightward and raising its equilibrium quantity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Increase in price of pulses leads to increase in demand of green vegetables. The pulses and green vegetables are
+A) Substitutes
+B) Complimentary goods
+C) Normal goods
+D) None of the above
+Ans: A
+Exp: Consumers substitute green vegetables in their diet when pulses become expensive, demonstrating substitute relationship.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: "High priced goods consumed by status seeking rich people to satisfy their need for conspicuous goods" is:
+A) Veblen effect
+B) Bandwagon effect
+C) Snob effect
+D) Demonstration effect
+Ans: A
+Exp: Veblen effect refers to conspicuous consumption where demand for status goods increases at higher price points.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is the price at which the quantity demanded of a commodity is equal to the quantity supplied of the commodity and there is no unsold stock or no unsupplied demand.
+A) Selling price
+B) Asking price
+C) Future price
+D) Market clearing price
+Ans: D
+Exp: Market clearing price (equilibrium price) equates quantity demanded with quantity supplied, clearing all market surpluses or shortages.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the price of Orange Juice increases, the demand for Apple Juice will
+A) Increase
+B) Decrease
+C) Remain the same
+D) Become negative
+Ans: A
+Exp: Orange juice and apple juice are substitute beverages; an increase in orange juice price shifts demand toward apple juice.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: At higher prices people demand more of certain goods not for their worth but for their prestige value - This is called
+A) Veblen effect.
+B) Giffen paradox.
+C) Speculative effect
+D) None of the above
+Ans: A
+Exp: Buying prestigious items (e.g. diamonds, luxury cars) primarily because of their high price is termed the Veblen effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: With a fall in the price of a commodity:
+A) Consumer's real income increases.
+B) Consumer's real income decreases.
+C) There is no change in the real income of the consumer.
+D) None of the above.
+Ans: A
+Exp: When price falls, the purchasing power of nominal money income rises, which is an increase in real income.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: With an increase in the price of diamond, the quantity demanded also increases. This is because it is a:
+A) Substitute good.
+B) Complementary good.
+C) Conspicuous good.
+D) None of the above.
+Ans: C
+Exp: Diamonds are conspicuous prestige goods whose appeal increases with higher prices (exception to the Law of Demand).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the price of tea decreases, people reduces the consumption of coffee. Then the goods are
+A) Complementaries
+B) Substitutes
+C) Inferior goods
+D) Normal goods
+Ans: B
+Exp: Tea and coffee are substitute goods; cheaper tea diverts consumers away from coffee consumption.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A Symbolic statement of a relationship between the dependent and the independent variables is called as
+A) Function
+B) Sets
+C) Equation
+D) Variable
+Ans: A
+Exp: A mathematical function expresses the functional dependence of a dependent variable upon one or more independent variables.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In a demand function, the demand for a product is the
+A) Independent Variable
+B) Explanatory Variable
+C) Dependent Variable
+D) Complex Variable
+Ans: C
+Exp: In the demand function Dx = f(Px, Y, Pr, T), quantity demanded Dx is the dependent variable.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In a demand function, the determinants of demand like price, money income, tastes & preferences, etc, may be regarded as
+A) Dependent Variables
+B) Independent Variables
+C) Related Variables
+D) Complex Variables
+Ans: B
+Exp: Factors influencing demand (price, consumer income, tastes, related prices) are independent explanatory variables.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand curve of a normal good has shifted to the right. Which of the four events would have caused the shift?
+A) A fall in the price of a substitute with the price of the good unchanged
+B) A fall in the nominal income of the consumer and a fall in the price of the normal good
+C) A fall in the price of a complementary good with the price of the normal good unchanged
+D) A fall in the price of the normal good, other things remaining the same
+Ans: C
+Exp: A price drop in a complementary good lowers the overall cost of joint consumption, shifting demand rightward.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Law of Demand, assuming other things to remain constant, establishes the relationship between:
+A) Income of the consumer and the quantity of a good demanded by him.
+B) Price of a good and the quantity demanded.
+C) Price of a good and the demand for its substitute.
+D) Quantity demanded of a good and the relative prices of its complementary goods.
+Ans: B
+Exp: The Law of Demand states an inverse relationship between the own price of a commodity and its quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: What are exceptions to Law of Demand?
+A) Law of Diminishing Marginal Utility
+B) Substitution effect
+C) Conspicuous goods
+D) Different uses
+Ans: C
+Exp: Conspicuous prestige goods violate the standard law of demand as demand rises with higher prices.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When Price of a commodity increases what will be the affect on Quantity demanded?
+A) Increases
+B) Decreases
+C) No change
+D) None of these
+Ans: B
+Exp: Under the Law of Demand, an increase in own price leads to a contraction (decrease) in quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An increase in the demand for computers, other things remaining same, will:
+A) Increase the number of computers bought.
+B) Decrease the price but increase the number of computers bought.
+C) Increase the price of computers.
+D) Increase the price and number of computers bought.
+Ans: D
+Exp: A rightward shift in demand along an upward-sloping supply curve drives up both equilibrium price and equilibrium quantity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of Normal goods, Rise in price leads to ?
+A) Fall in demand
+B) Rise in demand
+C) No Change
+D) Initially rise then ultimately fall
+Ans: A
+Exp: For normal goods, the Law of Demand holds strictly: higher price leads to a fall in quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A decrease in the demand for cameras, other things remaining the same will.
+A) Increase the number of cameras bought.
+B) Decrease the price but increase the number of cameras bought.
+C) Increase the price of cameras.
+D) Decrease the price and decrease in the number of cameras bought.
+Ans: D
+Exp: A leftward shift in camera demand leads to a lower equilibrium price and a smaller equilibrium quantity sold.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Comforts lies between
+A) Inferior goods and necessaries.
+B) Luxuries and inferior goods.
+C) Necessaries and luxuries.
+D) None of the above.
+Ans: C
+Exp: In classification of human wants, comforts occupy the intermediate position between basic necessities and extreme luxuries.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If price of the commodity increases, what will be the effect on Quantity demanded?
+A) Decreases
+B) Increases
+C) No change
+D) Can't say
+Ans: A
+Exp: As per the fundamental Law of Demand, higher price reduces quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Due to increase in price of coffee, the demand for tea increases. The two commodities under consideration are
+A) Substitute goods
+B) Complementary goods
+C) Unrelated goods
+D) Producers goods
+Ans: A
+Exp: A positive cross-price effect indicates that tea and coffee are substitute commodities.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Who has given the law of Demand?
+A) Alfred Marshall
+B) Paul Samuelson
+C) Robbins
+D) J.B. Say
+Ans: A
+Exp: Alfred Marshall formally formulated and popularized the Law of Demand in his 'Principles of Economics' (1890).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A Table which represents the different prices of a good and the corresponding quantity demanded per unit of time is called as
+A) Demand Curve
+B) Demand Table
+C) Demand Schedule
+D) Demand Tabulation
+Ans: C
+Exp: A tabular representation showing quantities demanded at various alternative price levels is a Demand Schedule.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Demand Schedule depicts relationship between price and quantity demanded.
+A) Direct
+B) Inverse
+C) Adverse
+D) None of these
+Ans: B
+Exp: A demand schedule shows an inverse (negative) relationship between price and quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is a graphical presentation of the
+A) Demand Curve, Demand Schedule
+B) Demand Schedule, Demand Curve
+C) Demand Curve, Supply Schedule
+D) Supply Curve, Demand Schedule
+Ans: A
+Exp: A Demand Curve is the graphical plot of the data presented in a Demand Schedule.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: All but one of the following are assumed to remain the same while drawing an individual's demand curve for a commodity. Which one is it?
+A) The preference of the individual.
+B) His monetary income.
+C) Price of the commodity.
+D) Price of related goods.
+Ans: C
+Exp: While drawing a demand curve, the commodity's own price varies along the vertical axis while other factors are held constant.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand curve has a Slope.
+A) Positive
+B) Negative
+C) Circular
+D) No
+Ans: B
+Exp: The standard demand curve slopes downwards from left to right, representing a negative slope.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for petrol decreases due to increase in its price, it is termed as
+A) A decrease in demand
+B) A change in demand
+C) A contraction in demand
+D) An increase in demand
+Ans: C
+Exp: A reduction in quantity demanded caused purely by an increase in the own price of the good is a Contraction in Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The sloping Demand Curve is in accordance with the law of demand which describes an price demand relationship.
+A) Upward, inverse
+B) Downward, Inverse
+C) Upward, direct
+D) Download, direct
+Ans: B
+Exp: A downward-sloping demand curve reflects the inverse relationship between price and quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The sum of individual demands for a product at a price per unit of time is called as
+A) Firm's Demand
+B) Market Demand
+C) Goods available in market
+D) Goods to be sold in market
+Ans: B
+Exp: Total aggregate demand of all individual consumers in the market at a given price is Market Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The table which represents the sum of various quantities demanded by different consumers in the market is called as
+A) Demand Schedule
+B) Individual Demand Schedule
+C) Market Demand Schedule
+D) Market Demand Curve.
+Ans: C
+Exp: A tabular aggregation of all individual consumer demand schedules across the market is the Market Demand Schedule.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The market Demand Schedule indicates relationship between price and quantity demanded of a commodity.
+A) Direct
+B) Inverse
+C) Circular
+D) No
+Ans: B
+Exp: The market demand schedule reflects an inverse relationship between market price and aggregate quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If we plot the market demand schedule on a graph, we get
+A) Demand Chart
+B) Market Demand Chart
+C) Demand Curve
+D) Market Demand Curve
+Ans: D
+Exp: Plotting the market demand schedule graphically yields the Market Demand Curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The lateral summation of individual demand Curves is regarded as
+A) Economy Demand Curve
+B) Market Demand Curve
+C) Product Demand Curve
+D) Marginal Demand Curve
+Ans: B
+Exp: The Market Demand Curve is derived by horizontal (lateral) summation of all individual consumer demand curves.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: According to the consumer has diminishing utility for each additional unit of a commodity and therefore, he will be willing to pay only less for each additional unit.
+A) Marshall
+B) Robbins
+C) Samuelson
+D) None of these
+Ans: A
+Exp: Alfred Marshall based the downward-sloping demand curve on the Law of Diminishing Marginal Utility.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A Consumer maximizes his satisfaction when the Marginal utility of the commodity is its price.
+A) Equal to
+B) Less than
+C) More than
+D) Less than or equal to
+Ans: A
+Exp: Under cardinal utility analysis, a consumer attains equilibrium for a single good when MU = Price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The operations of diminishing marginal utility and the act of the Consumer to equalize the utility of the commodity with its price result in a demand curve.
+A) Downward Sloping
+B) Upward Sloping
+C) Straight line
+D) Hyperbola upward
+Ans: A
+Exp: Because marginal utility diminishes with successive units, consumers will only purchase additional quantities at lower prices.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: has/have explained the law of demand in terms of Substitution Effect and Income Effect.
+A) Marshall
+B) Hicks
+C) Allen
+D) Both (b) & (c)
+Ans: D
+Exp: J.R. Hicks and R.G.D. Allen decomposed the total price effect into the substitution effect and income effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: As a result of fall in the price of a commodity, consumer's real income or purchasing power increases. This increase in the real income induces him to buy more of that commodity. This is technically termed as:
+A) Price Effect
+B) Substitution Effect
+C) Income Effect
+D) Both (b) & (c)
+Ans: C
+Exp: The change in quantity demanded resulting purely from the change in consumer's real purchasing power is the Income Effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following is not the rationale of the law of Demand?
+A) Law of Diminishing Marginal Utility
+B) Price Effect
+C) Arrival of New Customers
+D) Change of Taste & Performances
+Ans: D
+Exp: Shifts in tastes and preferences shift the entire demand curve rather than explaining the downward slope of the demand curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Certain commodities have multiple uses. These different uses of a commodity make the demand curve reacting to changes in price.
+A) Slope downwards
+B) Slope Upwards
+C) Straight Line
+D) Both (a) & (b)
+Ans: A
+Exp: When a multi-use commodity (e.g. milk, electricity) becomes cheaper, consumers put it to less urgent uses, expanding total demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When total demand for a commodity whose price has fallen increases, it is due to:
+A) Income effect.
+B) Substitution effect.
+C) Complementary effect.
+D) Price effect.
+Ans: D
+Exp: Total change in quantity demanded resulting from a price fall is the combined Price Effect (Substitution Effect + Income Effect).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not an exception to the law of demand?
+A) Giffen goods
+B) Speculative goods
+C) Conspicuous goods
+D) White goods
+Ans: D
+Exp: White goods (household appliances like refrigerators, washing machines) follow the standard law of demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose the demand for automobile decreases due to increase in price of petrol. Both the goods are.
+A) Perishable
+B) Complementary
+C) Substitute
+D) Normal
+Ans: B
+Exp: Petrol and automobiles are jointly used; an increase in petrol prices reduces automobile demand (Complementary goods).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following may be Considered as a rationale of the law of demand?
+A) Price Effect
+B) Giffen Goods
+C) Returns to Scale
+D) None of these
+Ans: A
+Exp: The Price Effect (Substitution + Income effects) provides the fundamental theoretical justification for the Law of Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not an exception to the law of demand?
+A) Speculative goods
+B) Giffen goods
+C) Necessary goods
+D) Normal goods
+Ans: D
+Exp: The Law of Demand operates strictly for normal goods (inverse price-demand relationship).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements is not correct?
+A) Giffen goods exhibit negative relationship between price and demand
+B) Conspicuous goods exhibit positive relationship between price and demand
+C) Incomplete information and irrational behaviour of consumer is one of the reasons of exception to the law of demand
+D) Law of demand states inverse relationship between price of a commodity and its quantity demanded
+Ans: A
+Exp: Giffen goods exhibit a positive (direct) relationship between price and quantity demanded, making statement A incorrect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In which of the following cases, the law of demand holds true?
+A) Normal Goods
+B) Giffen Goods
+C) Speculative Goods
+D) Necessary Goods
+Ans: A
+Exp: The standard downward-sloping Law of Demand holds true for all normal goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Higher the price of diamonds, higher is the prestige value attached to them and hence higher is the demand for them. These goods are called as
+A) Conspicuous goods
+B) Giffen goods
+C) Normal goods
+D) None of these
+Ans: A
+Exp: Goods that confer social prestige when priced exorbitantly high are conspicuous (Veblen) goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following is an exception to the law of demand?
+A) Future expectations about prices
+B) Demand for necessaries
+C) Speculative Goods
+D) All of these
+Ans: D
+Exp: Price expectations, basic life necessities, and speculative stock purchases all act as exceptions to the Law of Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: For what type of goods does demand fall with a rise in income levels of households?
+A) Inferior goods
+B) Substitutes
+C) Luxuries
+D) Necessities
+Ans: A
+Exp: Inferior goods have negative income elasticity; demand declines as household income rises.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A situation where after a price decrease, more units are sold causing increase in revenue is called as which of the following?
+A) Price effect
+B) Quantity effect
+C) Income effect
+D) Substitution effect
+Ans: B
+Exp: When a price drop induces higher sales volume that outweighs the price cut, the dominant volume increase is the quantity effect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Price effect is described as which of following?
+A) Income effect + Veblen effect
+B) Substitution effect + Veblen effect
+C) Income effect + Substitution effect
+D) Veblen effect + Demonstration effect
+Ans: C
+Exp: Price Effect is the algebraic sum of the Income Effect and the Substitution Effect (Slutsky/Hicks theorem).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of inferior goods, with rise of income of consumes, demand of goodwill?
+A) Increases
+B) Decreases
+C) No change
+D) None of these
+Ans: B
+Exp: Higher consumer income enables switching to superior substitutes, reducing demand for inferior goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In the case of a Giffen good, the demand curve will be:
+A) Horizontal.
+B) Downward-sloping to the right.
+C) Vertical.
+D) Upward-sloping to the right.
+Ans: D
+Exp: For Giffen goods, a price rise leads to higher quantity demanded, resulting in an upward-sloping demand curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case there is an inverse relationship between income and demand for a product.
+A) Substitute goods
+B) Complementary goods
+C) Giffen Goods
+D) None of the above
+Ans: C
+Exp: Giffen goods (being a subset of inferior goods) have an inverse relationship between consumer income and demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the demand of Bajra decreases due to decrease in its price, then Bajra is a:
+A) Superior good
+B) Inferior good
+C) Necessary good
+D) Luxury good
+Ans: B
+Exp: A direct price-demand relationship (demand falls when price falls) defines an inferior/Giffen good.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An example of a good that exhibit direct price-demand relationship is
+A) Giffen goods.
+B) Complementary goods.
+C) Substitute goods.
+D) None of the above.
+Ans: A
+Exp: Giffen goods violate the law of demand and exhibit a direct (positive) price-demand relationship.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In Economics, when demand for a commodity increases with a fall in its price it is known as:
+A) Contraction of demand.
+B) Expansion of demand.
+C) No change in demand.
+D) None of the above.
+Ans: B
+Exp: A rise in quantity demanded resulting solely from a fall in own price is known as Expansion (Extension) of Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When, as a result of increase in price, the quantity demanded decreases, it is called as
+A) Expansion of Demand
+B) Increase in demand
+C) Both (a) & (b)
+D) None of these
+Ans: A
+Exp: When quantity demanded decreases due to a price increase, it is termed Contraction of Demand (in book key: A).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The change in demand will be regarded as expansion of demand, if the increase in quantity demanded is due to
+A) Price of Related Goods
+B) Price of goods
+C) Change in income
+D) Change in Taste & Preferences.
+Ans: B
+Exp: Expansion in demand occurs exclusively due to a change (reduction) in the own price of the good.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Movement along the same demand curve represents
+A) Change in demand
+B) Change in Quantity demand
+C) Increase in demand
+D) Decrease in demand
+Ans: B
+Exp: Moving between points on an existing demand curve in response to own-price changes is a Change in Quantity Demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When price of apple is 120 per kg. Ram buys one kg. of apples at that price. Now it other things remains the same but the price of apples falls to 90 per kg. Now Ram buys 2 kg. of apples. It is called as
+A) Demand schedule
+B) Market demand
+C) Contraction of demand
+D) Expansion of demand
+Ans: D
+Exp: Buying more units (2 kg vs 1 kg) solely because price fell from 120 to 90 is an Expansion of Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: refers to a change along a curve i.e. movement from one point to another on the same curve.
+A) Expansion/Contraction of Demand
+B) Increase/Decrease in Demand
+C) Shift of Demand Curve
+D) None of these
+Ans: A
+Exp: Movements along the same demand curve are classified as Expansion or Contraction of Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of goods, the expansion in demand due to a price fall will take place only if the substitution effect outweighs the income effect
+A) Inferior goods
+B) Necessaries
+C) Giffen goods
+D) Luxuries goods
+Ans: A
+Exp: For inferior goods, the substitution effect must be stronger than the negative income effect for demand to expand when price falls.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Movement along the demand curve may be due to
+A) Expansion of Demand
+B) Contraction of Demand
+C) Increase/Decrease in Demand
+D) Both (a) & (b)
+Ans: D
+Exp: Movements along the demand curve include both downward expansion and upward contraction.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Contraction of demand is the result of:
+A) Decrease in the number of consumers.
+B) Increase in the price of the good concerned.
+C) Increase in the prices of other goods.
+D) Decrease in the income of purchasers.
+Ans: B
+Exp: Contraction of demand is caused strictly by an increase in the own price of the commodity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A movement along the demand curve for soft drinks is best described as:
+A) An increase in demand.
+B) A decrease in demand.
+C) A change in quantity demanded.
+D) A change in demand.
+Ans: C
+Exp: Movement along a demand curve represents a Change in Quantity Demanded caused by own-price changes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: the demand curve indicates that there is a change in demand at each possible price because one or more other factors, such as income, tastes or the price of some other goods, etc. have changed.
+A) A Shift of
+B) A movement along
+C) No movement in
+D) None of these
+Ans: A
+Exp: A shift of the demand curve occurs when non-price determinants (income, tastes, related prices) change.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If roller-coaster ride is a function of amusement park visit, then, if the price of amusement park entry falls
+A) The demand for roller-coaster rides will rise and the demand curve will shift to right
+B) The demand for roller-coaster ride cannot be predicted as it depends on the tastes of consumers for the ride
+C) There will be an expansion in the demand for roller coaster drive as it complementary
+D) None of the above
+Ans: A
+Exp: Park entry and rides are complementary; cheaper park entry increases overall visitors and shifts roller-coaster demand rightward.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When more quantities are demanded at the same price due to reasons other than price of the commodity, there will be in the demand Curve:
+A) Rightward shift
+B) Leftward shift
+C) No shift
+D) Any of (a) & (b)
+Ans: A
+Exp: An increase in demand at the same price causes the entire demand curve to shift to the right.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Leftward shift of demand curve of coffee represents
+A) Decrease in demand
+B) Increase in demand
+C) Contraction
+D) Expansion
+Ans: A
+Exp: A leftward shift of the demand curve reflects a Decrease in Demand caused by adverse non-price factors.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An Increase in demand can result from:
+A) A decline in the market price
+B) An increase in income
+C) A reduction in the price of substitutes
+D) An increase in the price of complements
+Ans: B
+Exp: A rise in consumer income increases purchasing power for normal goods, causing an Increase in Demand (rightward shift).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: By 'Change in demand' represents which of the following?
+A) Movement upward and downwards on the same demand curve
+B) Change in budget line with change income
+C) Shift in the indifference curve
+D) Shift of the demand curve to the right or left
+Ans: D
+Exp: 'Change in Demand' denotes shifts of the entire demand curve to the right or left due to non-price factors.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose the price of Pepsi increases, we will expect the demand curve of Coca Cola to:
+A) Shift towards left since these are substitutes.
+B) Shift towards right since these are substitutes.
+C) Remain at the same level.
+D) None of the above.
+Ans: B
+Exp: Pepsi and Coke are substitutes; an increase in Pepsi's price induces consumers to switch to Coke, shifting Coke's demand curve to the right.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A leftward shift in the demand curve may be due to :
+A) Fall in income
+B) Fall in the Price of Substitute
+C) Decrease in Population
+D) Any of the above
+Ans: D
+Exp: A decrease in income (for normal goods), cheaper substitute goods, and a smaller population all cause a leftward shift (decrease) in demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: During a recession, economies experience increased unemployment and a reduced level of income. How would a recession likely to affect the market demand for new cars?
+A) Demand curve will shift to the right.
+B) Demand curve will shift to the left.
+C) Demand will not shift, but the quantity of cars sold per month will decrease.
+D) Demand will not shift, but the quantity of cars sold per month will increase.
+Ans: B
+Exp: Automobiles are normal durable goods; falling incomes and rising unemployment during a recession shift the demand curve to the left.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The movement upwards or downwards on the same demand curve resulting from a change in the price of the commodity is called as
+A) Change in demand
+B) Change in quantity demanded
+C) Shifting of demand Curve
+D) Increase in demand
+Ans: B
+Exp: Moving along an existing demand curve solely due to an own-price change is classified as a Change in Quantity Demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following may be a reason behind rightward shift of the demand curve?
+A) Rise in price of substitute
+B) Fall in price of substitute
+C) Rise of price of same commodity
+D) Fall in price of same commodity
+Ans: A
+Exp: When the price of a substitute good increases, consumers switch to the given commodity, shifting its demand curve to the right.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Elasticity of demand is the percentage change in divided by the percentage change in on which demand depends.
+A) Quantity demanded, one of the variables
+B) Quantity demanded, all the valuables
+C) Quantity supplied, all the valuables
+D) Quantity supplied, one of the variables
+Ans: A
+Exp: Elasticity of demand measures the responsiveness of quantity demanded to a percentage change in one of its determining variables.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is CORRECT for determination of Price Elasticity of Demand?
+A) Ep = % change in quantity demanded / % change in price
+B) Ep = (Change in Quantity / Original Quantity) * (Original Price / Change in Price)
+C) Ep = (Δq / Δp) * (p / q)
+D) All of the above
+Ans: D
+Exp: All three mathematical expressions correctly formulate the percentage and proportionate methods of price elasticity of demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: What is reason behind the fact that Price Elasticity is negative?
+A) Price of commodity always fall
+B) Quantity of commodity always fall
+C) Price and Quantity are inversely related (with few exceptions)
+D) Price and Quantity are positively related
+Ans: C
+Exp: Because the Law of Demand establishes an inverse relationship between price and quantity, the price elasticity coefficient is mathematically negative.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of a commodity decreases from 6 per unit to 4 Per unit and quantity demanded of the goods increased from 10 units to 15 units. The Co-efficient of Price Elasticity will be
+A) 1.5
+B) 2
+C) 1
+D) 4
+Ans: A
+Exp: Ep = (ΔQ / ΔP) * (P / Q) = (5 / 2) * (6 / 10) = 1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for the commodity is when a consumer is a habitual consumer.
+A) Relative elasticity
+B) Inelastic
+C) Unit elasticity
+D) Perfectly elastic
+Ans: B
+Exp: When consumers are habituated to a product (e.g. cigarettes, daily coffee), their consumption is largely insensitive to price hikes (inelastic).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Identify the factor which generally keeps the price elasticity of a good low:
+A) Variety of uses for that good
+B) Very low price of a commodity
+C) Close substitutes for that good
+D) High proportion of the consumer's income spent on it
+Ans: B
+Exp: Inexpensive goods that claim a negligible fraction of household expenditure (e.g. salt, matchboxes) have low price elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A 5% fall in the price of a good leads to a 15% rise in its demand. The Price Elasticity is and the good in question has demand.
+A) 1/3, Elastic
+B) 3, Elastic
+C) 1/3, Inelastic
+D) 3, Inelastic
+Ans: B
+Exp: Ep = %ΔQ / %ΔP = 15% / 5% = 3. Since Ep > 1, the demand for the good is price elastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The quantity demanded by a consumer at price 9 per unit is 800 units. As price falls by 25%, the quantity demanded rises by 160 units. What is the Price Elasticity of Demand?
+A) 1.3
+B) 1
+C) 0.8
+D) None of these
+Ans: C
+Exp: % change in Quantity Demanded = (160 / 800) * 100 = 20%. Ep = 20% / 25% = 0.8.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A Consumer buys 80 Units of a good at a price of 4 per unit. The Price Elasticity of demand is 4. At what price, consumer will buy 60 Units?
+A) 4 per unit
+B) 4.25 Per unit
+C) 4.80 Per unit
+D) None of these
+Ans: B
+Exp: Ep = (ΔQ / ΔP) * (P / Q) => 4 = (20 / ΔP) * (4 / 80) => 4 = 1 / ΔP => ΔP = 0.25. New Price = 4 + 0.25 = 4.25 per unit.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The numerical value of elasticity of demand can assume any value between
+A) Zero and -1
+B) Zero and infinity
+C) -1 and +1
+D) Zero and +1
+Ans: B
+Exp: In absolute magnitude, the coefficient of price elasticity of demand ranges from 0 (perfectly inelastic) to infinity (perfectly elastic).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The extent of responsiveness of demand due to changes in any of its determinants is regarded as
+A) Price Elasticity of Demand
+B) Income Elasticity of Demand
+C) Cross Elasticity of Demand
+D) Elasticity of Demand
+Ans: D
+Exp: Elasticity of demand is the general measure of responsiveness of quantity demanded to changes in any of its underlying determinants.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose the income elasticity of demand of Air Conditioner (AC) is +1.8 We can conclude from this that the AC is
+A) Superior good
+B) Inferior good
+C) Necessary good
+D) Conspicuous good
+Ans: A
+Exp: An income elasticity greater than 1 (Ey > 1) indicates that the good is a superior (luxury) good.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Identify the coefficient of price-elasticity of demand when the percentage increase in the quantity of a good demanded is smaller than the percentage fall in its price:
+A) Equal to one.
+B) Greater than one.
+C) Smaller than one.
+D) Zero.
+Ans: C
+Exp: When % change in quantity demanded is less than % change in price, Ep < 1 (inelastic demand).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: There is decrease in price of LED TV after budget announcement from 60,000 to 50,000. As a result of which demand for it has increases from 1,500 units to 2,000 units. The Elasticity of demand for LED TV will be
+A) 1.27
+B) -2
+C) 0.63
+D) 0.67
+Ans: B
+Exp: Ep = (ΔQ / ΔP) * (P / Q) = (500 / -10,000) * (60,000 / 1,500) = -2.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements about price elasticity of demand is correct?
+A) Price elasticity of demand is a measure of how much the quantity demanded of a good responds to a change in the price of that good.
+B) Price elasticity of demand is computed as the percentage change in quantity demanded divided by the percentage change in price.
+C) Price elasticity of demand in the long run would be different from that of the short run.
+D) All of the above.
+Ans: D
+Exp: All statements accurately describe the conceptual definition, calculation, and time-horizon variations of price elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the proportionate change in price is greater than the proportionate change in quantity demanded of a commodity, the price elasticity of demand will be
+A) Zero
+B) Inelastic
+C) Elastic
+D) Infinite
+Ans: B
+Exp: When the percentage change in price exceeds the percentage change in quantity demanded, demand is relatively inelastic (Ep < 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A decrease in price will result in an increase in total revenue if :
+A) The percentage change in quantity demanded in less than the percentage change in price.
+B) The percentage change in quantity demanded is greater than the percentage change in price.
+C) Demand is inelastic.
+D) The consumer is operating along a linear demand curve at a point at which the price is very low and the quantity demanded is very high.
+Ans: B
+Exp: When demand is price elastic (%ΔQ > %ΔP), lowering the price causes total revenue to rise.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An increase in price will result in an increase in total revenue if:
+A) The percentage change in quantity demanded is less than the percentage change in price.
+B) The percentage change in quantity demanded is greater than the percentage change in price.
+C) Demand is elastic.
+D) The consumer is operating along a linear demand curve at a point at which the price is very high and the quantity demanded is very low.
+Ans: A
+Exp: Under total outlay analysis, when demand is inelastic (%ΔQ < %ΔP), a price hike increases total revenue.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: For which of the following product elasticity of demand is highly elastic.
+A) Salt
+B) Life-saving medicines
+C) Water
+D) Jewellery
+Ans: D
+Exp: Jewellery is a luxury good with a high proportion of income spent and multiple close substitutes, making its demand highly elastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of X commodity decreases from 10 to 8, owing to which its demand increases form 100 to 120 units. Calculate the price elasticity of demand
+A) 1
+B) 0.8
+C) 1.2
+D) None of these
+Ans: A
+Exp: Ep = (ΔQ / ΔP) * (P / Q) = (20 / 2) * (10 / 100) = 1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If price decreases from 80 to 60 and elasticity of demand is 1.25 then
+A) Demand increase by 25%
+B) Demand decrease by 25%
+C) Remains constant
+D) None of the above
+Ans: D
+Exp: %ΔP = (20 / 80) * 100 = 25%. %ΔQ = Ep * %ΔP = 1.25 * 25% = 31.25% increase (making option D correct).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The elasticity of demand for a product will not be higher when:
+A) It has several uses
+B) More substitutes for the product are available
+C) It is an expensive commodity
+D) It is considered a necessity by its buyers
+Ans: D
+Exp: Goods perceived as strict necessities have low price elasticity because consumers cannot easily cut back on consumption.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the price of a gel pen increases from 40 to 50 and in response to this the quantity demand decreases from 25 units to 20 units. The coefficient of price elasticity will be
+A) 1.25
+B) -1.25
+C) 0.8
+D) -0.8
+Ans: D
+Exp: Ep = (ΔQ / ΔP) * (P / Q) = (-5 / 10) * (40 / 25) = -0.8.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price elasticity of demand for X is 1 and the original quantity demand of X is 90 units, if the price of X decreases from 300 to 180 per unit, calculate the new quantity demand of X
+A) 36 units
+B) 120 units
+C) 126 units
+D) 144 units
+Ans: C
+Exp: %ΔP = (120 / 300) * 100 = 40%. Since Ep = 1, %ΔQ = +40%. New Quantity = 90 + 40% of 90 = 90 + 36 = 126 units.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In the case of a straight line demand curve meeting the two axes, the price-elasticity of demand at the mid-point of the line would be:
+A) 0
+B) 1
+C) 1.5
+D) 2
+Ans: B
+Exp: By point elasticity formula (Lower segment / Upper segment), the lower and upper segments are equal at the midpoint, giving Ep = 1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Concept of point elasticity is used for measuring price elasticity where the change in price is
+A) Finite
+B) Limited
+C) Infinite small
+D) None of the above
+Ans: C
+Exp: Point elasticity measures price elasticity at an exact point on the curve when price change is infinitesimally small (marginal).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price elasticity of demand at the midpoint of the straight line demand curve under point method is
+A) 0
+B) 1
+C) >1
+D) <1
+Ans: B
+Exp: At the exact midpoint of a linear demand curve, Lower Segment equals Upper Segment, so elasticity is exactly 1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following methods calculates elasticity of demand by using the formula: lower segment of demand curve / upper segment of demand curve
+A) The ARC elasticity method
+B) Cross elasticity method
+C) The income elasticity method
+D) The point elasticity method
+Ans: D
+Exp: The geometric point elasticity method measures elasticity at any point on a straight line as Lower Segment / Upper Segment.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: To know the base price and quantity, which method of elasticity is used?
+A) Arc elasticity
+B) Point elasticity
+C) Cross elasticity
+D) Cannot be measured
+Ans: A
+Exp: The Arc elasticity method uses the midpoint (average of original and new prices/quantities) as the common base.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Point elasticity is useful for which of the following situations?
+A) The bookstore is considering doubling the price of notebooks.
+B) A restaurant is considering lowering the price of its most expensive dishes by 50 per cent.
+C) An auto producer is interested in determining the response of consumers to the price of cars being lowered by 100.
+D) None of the above.
+Ans: C
+Exp: Point elasticity is appropriate when the price variation is very small (e.g. lowering price of cars by a minor 100).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of a commodity decreases from 6 to 4 and the quantity demanded of the good increases from 10 units to 15 units, and the co-efficient of price elasticity. (Use Point Elasticity Method)
+A) 1.5
+B) 2.5
+C) -1.5
+D) 0.5
+Ans: C
+Exp: Ep = (ΔQ / ΔP) * (P / Q) = (5 / -2) * (6 / 10) = -1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the price of air-conditioner increases from 30,000 to 30,010 and resultant change in demand is negligible, we use the measure of to measure elasticity.
+A) Point elasticity.
+B) Perfect elasticity.
+C) Perfect inelasticity.
+D) Price elasticity.
+Ans: A
+Exp: When price changes are extremely minute (infinitesimal), the Point Elasticity method is applied.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Elasticity between two points:
+A) Point elasticity
+B) Arc elasticity
+C) Cross elasticity
+D) None
+Ans: B
+Exp: Arc elasticity measures price responsiveness over a discrete range (arc) between two distinct points on a demand curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose the price of movies seen at a theatre rises from 120 per person to 200 per person. The theatre manager observes that the rise in price causes attendance at a given movie to fall from 300 persons to 200 persons. What is the price elasticity of demand for movies? (Use Arc Elasticity Method)
+A) .5
+B) .8
+C) 1.0
+D) 1.2
+Ans: B
+Exp: Arc Ep = [(300 - 200) / (300 + 200)] / [(200 - 120) / (200 + 120)] = (100 / 500) / (80 / 320) = 0.20 / 0.25 = 0.8.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose a department store has a sale on its silverware. If the price of a plate-setting is reduced from 300 to 200 and the quantity demanded increases from 3,000 plate-settings to 5,000 plate-settings, what is the price elasticity of demand for silverware? (Use Arc Elasticity Method)
+A) .8
+B) 1.0
+C) 1.25
+D) 1.50
+Ans: C
+Exp: Arc Ep = [(5000 - 3000) / (5000 + 3000)] / [(300 - 200) / (300 + 200)] = (2000 / 8000) / (100 / 500) = 0.25 / 0.20 = 1.25.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the local pizzeria raises the price of a medium pizza from 60 to 100 and quantity demanded falls from 700 pizzas a night to 100 pizzas a night, the price elasticity of demand for pizzas is: (Use Arc Elasticity Method)
+A) .67
+B) 1.5
+C) 2.0
+D) 3.0
+Ans: D
+Exp: Arc Ep = [(700 - 100)/(700 + 100)] / [(100 - 60)/(100 + 60)] = (600 / 800) / (40 / 160) = 0.75 / 0.25 = 3.0.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following method is used to calculate Elasticity of demand when price and quantity demand are large?
+A) Zero elasticity
+B) Cross elasticity
+C) Point elasticity
+D) Arc elasticity
+Ans: D
+Exp: The Arc Elasticity method is specifically used to compute elasticity over a discrete, substantial change in price and quantity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of a commodity decreases from 200 to 120 per unit. If the price elasticity of demand for this commodity is 2 and the original quantity demanded is 60 units, calculate the new quantity demanded.
+A) 48 units
+B) 100 units
+C) 108 units
+D) 120 units
+Ans: C
+Exp: Ep = (ΔQ / ΔP) * (P / Q) => 2 = (ΔQ / 80) * (200 / 60) => 2 = ΔQ * (10 / 240) => ΔQ = 48. New Q = 60 + 48 = 108 units.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If regardless of changes in its price, the quantity demanded of a good remains unchanged, then the demand curve for the good will be:
+A) Horizontal.
+B) Vertical.
+C) Positively sloped.
+D) Negatively sloped.
+Ans: B
+Exp: When quantity demanded is completely non-responsive to price changes (Ep = 0), the demand curve is a vertical straight line.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of hot dogs increases by 22% and the quantity of hot dogs demanded falls by 25%. This indicates that demand for hot dogs is:
+A) Elastic.
+B) Inelastic.
+C) Unitarily elastic.
+D) Perfectly elastic.
+Ans: A
+Exp: Ep = %ΔQ / %ΔP = 25% / 22% = 1.136 > 1, so demand is price elastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for a generic good like soap and for Lux soap are respectively.
+A) Elastic and elastic
+B) Inelastic and inelastic
+C) Inelastic and elastic
+D) Elastic and inelastic
+Ans: A
+Exp: Broad commodity groups and specific branded varieties both exhibit price responsiveness depending on brand substitutes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If electricity demand is inelastic, and electricity charges increase, which of the following is likely to occur?
+A) Quantity demanded will fall by a relatively large amount.
+B) Quantity demanded will fall by a relatively small amount.
+C) Quantity demanded will rise in the short run, but fall in the long run.
+D) Quantity demanded will fall in the short run, but rise in the long run.
+Ans: B
+Exp: Inelastic demand (Ep < 1) implies that quantity demanded responds by a proportionately smaller percentage than the price hike.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose the demand for meals at a medium-priced restaurant is elastic. If the management of the restaurant is considering raising prices, it can expect a relatively:
+A) Large fall in quantity demanded.
+B) Large fall in demand.
+C) Small fall in quantity demanded.
+D) Small fall in demand.
+Ans: A
+Exp: When demand is price elastic, an increase in price induces a proportionately larger reduction in the quantity demanded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Demand for a good will tend to be more elastic if it exhibits which of the following characteristics?
+A) It represents a small part of the consumer's income.
+B) The good has many substitutes available.
+C) It is a necessity (as opposed to a luxury).
+D) There is little time for the consumer to adjust to the price change.
+Ans: B
+Exp: The existence of close substitutes allows consumers to easily switch away when price rises, increasing price elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Demand for a good will tend to be more inelastic if it exhibits which of the following characteristics?
+A) The good has many substitutes.
+B) The good is a luxury (as opposed to a necessity).
+C) The good is a small part of the consumer's income.
+D) There is a great deal of time for the consumer to adjust to the change in prices.
+Ans: C
+Exp: When a commodity accounts for only a minor fraction of the consumer's budget (e.g. salt, needles), its demand is highly inelastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Using total outlay method,
+A) We cannot find exact co-efficient of Price Elasticity.
+B) We can find exact co-efficient of Price Elasticity.
+C) We cannot determine whether the good is elastic or inelastic.
+D) None of the above.
+Ans: A
+Exp: The total outlay method only classifies demand into Ep > 1, Ep = 1, or Ep < 1; it cannot provide the exact numerical coefficient.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When, as a result of the change in price of a good, the total expenditure on the goods or total revenue received from those good remains the same, the price elasticity for the good is equal to
+A) Zero
+B) Unity
+C) More than one
+D) Less than one
+Ans: B
+Exp: Under Marshall's total outlay method, if total outlay remains unchanged despite a price change, elasticity is unitary (Ep = 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following is/are the determinants of price elasticity?
+A) Availability of substitutes.
+B) Time period
+C) Price range
+D) All of the above
+Ans: D
+Exp: Availability of substitutes, consumer adjustment time period, and price range are all core determinants of price elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for goods like common salt, matches, buttons, etc. tends to be because a household spends only a fraction of their income on each of them.
+A) Less elastic
+B) Inelastic
+C) Highly inelastic
+D) Highly elastic
+Ans: C
+Exp: Items claiming a tiny fraction of consumer income are purchased routinely without regard to price, making demand highly inelastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of a good has decreased from 100 to 60 per unit. If the price elasticity of demand for it is 1.5 and the original quantity demanded is 30 units, the new quantity demanded will be
+A) 18 Units
+B) 30 Units
+C) 48 Units
+D) 60 Units
+Ans: C
+Exp: %ΔP = (40 / 100) * 100 = 40%. %ΔQ = Ep * %ΔP = 1.5 * 40% = 60%. New Quantity = 30 + 60% of 30 = 30 + 18 = 48 units.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The electricity board wants to reduce the consumption of electricity by 5%. The price elasticity of demand for electricity is (-) 0.5. The board should
+A) Raise the price of electricity by 2.5%
+B) Decrease the price of electricity by 2.5%
+C) Raise the price of electricity by 10%
+D) Raise the price of electricity by 0.1%
+Ans: C
+Exp: Ep = %ΔQ / %ΔP => -0.5 = -5% / %ΔP => %ΔP = -5% / -0.5 = +10% (Raise price by 10%).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If there is no change at all in the quantity demanded, when price changes, the elasticity will be
+A) Zero
+B) Unitary
+C) Greater than one
+D) Less than one
+Ans: A
+Exp: Perfect inelasticity (Ep = 0) means that quantity demanded remains constant regardless of price fluctuations.
+Sub: Theory of Demand and Supply
+
+---
+
+: If elasticity is then the quantity demanded does not respond at all to a price change,
+A) Zero
+B) One
+C) Greater than one
+D) Less than one
+Ans: A
+Exp: Zero elasticity denotes completely insensitive demand where consumers purchase the exact same quantity at any price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand is said to be when the percentage change in quantity demanded is less than the percentage change in price.
+A) Elastic
+B) Inelastic
+C) Perfectly elastic
+D) None of the above
+Ans: B
+Exp: When %ΔQ < %ΔP, the price elasticity coefficient is less than one (inelastic demand).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of wheat & Common salt, the nature of Price elasticity of demand is
+A) Elastic
+B) Inelastic
+C) Perfectly Elastic
+D) None of the above
+Ans: B
+Exp: Wheat (essential food grain) and common salt are daily life necessities having inelastic demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If a Consumer is a habitual consumer of a commodity, no matter how much its price changes, the demand for the Commodity will be
+A) Elastic
+B) Inelastic
+C) Perfectly Elastic
+D) Unitary
+Ans: B
+Exp: Habit-forming commodities are purchased despite price increases, making their demand inelastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The greater the proportion of income spent on a commodity, generally the will be its elasticity of demand and vice versa.
+A) Greater
+B) Lesser
+C) Either (a) or (b)
+D) None of these
+Ans: A
+Exp: Goods taking a large share of a consumer's budget have high price elasticity because price changes impact real income heavily.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the demand for a good is inelastic, an increase in its price will cause the total expenditure of the consumers of the good to:
+A) Remain the same.
+B) Increase.
+C) Decrease.
+D) Any of these.
+Ans: B
+Exp: When demand is inelastic, the percentage drop in quantity is smaller than the percentage rise in price, so total expenditure rises.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Given the following four possibilities, which one results in an increase in total consumer expenditure?
+A) Demand is unitary elastic and price falls.
+B) Demand is elastic and price rises.
+C) Demand is inelastic and price falls.
+D) Demand is inelastic and prices rises,
+Ans: D
+Exp: Under total outlay analysis, price and total expenditure move in the same direction when demand is inelastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose a consumer's income increases from 30,000 to 36,000. As a result, the consumer increases her purchases of compact discs (CDs) from 25 CDs to 30 CDs. What is the consumer's income elasticity of demand for CDs? (Use Arc Elasticity Method)
+A) 0.5
+B) 1.0
+C) 1.5
+D) 2.0
+Ans: B
+Exp: Arc Ey = [(30 - 25) / (30 + 25)] / [(36000 - 30000) / (36000 + 30000)] = (5 / 55) / (6000 / 66000) = (1/11) / (1/11) = 1.0.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The household income rises by 20% in a year. Consequently the demand for TV rises by 30%. What is income elasticity of demand.
+A) 1.5
+B) 0.5
+C) 0.4
+D) 5
+Ans: A
+Exp: Ey = %ΔQ / %ΔY = 30% / 20% = 1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Income Elasticity of demand is the degree of responsiveness of quantity demanded to a good to change in the of Consumers.
+A) Taste and Preferences
+B) Income
+C) Status of Living
+D) Fashion
+Ans: B
+Exp: Income elasticity of demand measures the responsiveness of quantity demanded to a proportionate change in consumer income.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following formula can be used for calculation of income Elasticity of Demand?
+A) Ei = (Δq / Δy) * (y / q)
+B) Ei = (Δy / Δq) * (q / y)
+C) Ei = (Δq / Δy) * (q / y)
+D) None of the above
+Ans: A
+Exp: Income Elasticity of Demand Ei = (Percentage change in Quantity) / (Percentage change in Income) = (Δq / Δy) * (y / q).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Income elasticity of luxury goods
+A) Zero
+B) Positive and greater than one
+C) Positive and lesser than one
+D) Negative and greater than - 1
+Ans: B
+Exp: Luxury goods have an income elasticity coefficient greater than one (Ey > 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose there is an increase in income by 15%, which increases demand by 30% the income elasticity of demand will be
+A) 0.67
+B) 0.5
+C) 2
+D) 1.0
+Ans: C
+Exp: Ey = %ΔQ / %ΔY = 30% / 15% = 2.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The quantity purchased remains constant irrespective of the change in income. This is known as
+A) Negative income elasticity of demand.
+B) Income elasticity of demand less than one.
+C) Zero income elasticity of demand.
+D) Income elasticity of demand is greater than one.
+Ans: C
+Exp: When consumption is totally unaffected by changes in income (Ey = 0), it is Zero Income Elasticity of Demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When income increases the money spent on necessaries of life may not increase in the same proportion. This means:
+A) Income elasticity of demand is zero.
+B) Income elasticity of demand is one.
+C) Income elasticity of demand is greater than one.
+D) Income elasticity of demand is less than one.
+Ans: D
+Exp: According to Engel's Law, expenditure on basic necessities rises slower than income growth, so 0 < Ey < 1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: As income increases, the consumer will go in for superior goods and consequently the demand for inferior goods will fall. This means:
+A) Income elasticity of demand less than one.
+B) Negative income elasticity of demand.
+C) Zero income elasticity of demand.
+D) Unitary income elasticity of demand.
+Ans: B
+Exp: An inverse relationship between income and demand defines negative income elasticity (Ey < 0) for inferior goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Income elasticity of demand is calculated by dividing percentage change in by the percentage change in
+A) Income, Demand
+B) Demand, Income
+C) Income, Price
+D) Demand, Price
+Ans: B
+Exp: Income Elasticity = (Percentage change in Quantity Demanded) / (Percentage change in Consumer Income).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following is the preposition on the relationship between income elasticity of demand and the proportion of income spent on it?
+A) If the proportion of income on a good remains the same as income increase, then income elasticity for the good is equal to one.
+B) If the proportion of Income spent on good increases as income increases, then the income elasticity for the goods is greater than one.
+C) If the proportion of income spent on a good decreases as income rises, the income elasticity for the good is less than one.
+D) All of the above.
+Ans: D
+Exp: All three propositions accurately formulate the relationship between income elasticity and budget share changes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: For all goods, the income elasticity is positive.
+A) Normal
+B) Interior
+C) Luxury
+D) All of the above
+Ans: A
+Exp: All normal goods (including necessities and luxuries) exhibit positive income elasticity of demand (Ey > 0).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: For all goods, the income elasticity is greater than one.
+A) Normal
+B) Interior
+C) Luxury
+D) All of the above.
+Ans: C
+Exp: Luxury goods have an income elasticity strictly greater than one (Ey > 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If a good is a luxury, its income elasticity of demand is:
+A) Positive and less than 1.
+B) Negative but greater than 1.
+C) Positive and greater than 1.
+D) Zero.
+Ans: C
+Exp: Luxuries represent superior goods whose demand expands faster than the rate of income growth (Ey > 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If, as people's income increases, the quantity demanded of a good decreases, the good is called
+A) A substitute.
+B) A normal good.
+C) An inferior good.
+D) A complement.
+Ans: C
+Exp: When an increase in income leads to a reduction in quantity demanded, the good is classified as an inferior good.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When oranges has (0.58) income elasticity the commodity orange is called as
+A) Orange is a necessary good
+B) Orange is a inferior good
+C) Orange is a substitute good
+D) None
+Ans: A
+Exp: A positive income elasticity that is less than one (0 < Ey < 1) indicates that the good is a normal necessity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The income elasticity of tomatoes is 0.25, it means tomatoes are:
+A) Inferior goods.
+B) Luxury goods.
+C) Normal goods.
+D) Can't say.
+Ans: C
+Exp: A positive income elasticity between 0 and 1 (0 < Ey < 1) indicates that the commodity is a normal necessity good.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose the income elasticity of education in private school in India is 1.6. What does this indicate:
+A) Private school education is a luxury.
+B) Private school education is a necessity.
+C) Private school education is an inferior commodity.
+D) We should have more private schools.
+Ans: A
+Exp: An income elasticity greater than one (Ey > 1) signifies that private school education is treated as a superior/luxury service.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Suppose potatoes have (-) 0.4 as income elasticity. We can say from the data given that:
+A) Potatoes are inferior goods.
+B) Potatoes are superior goods.
+C) Potatoes are necessities.
+D) There is a need to increase the income of consumers so that they can purchase potatoes.
+Ans: A
+Exp: A negative income elasticity coefficient (Ey < 0) indicates that potatoes are inferior goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the income elasticity is less than one, it shows that the goods is either relatively least important in the eyes of consumer or it is a
+A) Inferior
+B) Luxury
+C) Necessity
+D) None of these
+Ans: C
+Exp: Income elasticity less than one (0 < Ey < 1) is a defining characteristic of basic consumer necessities.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The income elasticity of demand of commodity "Buttons" is
+A) Greater than one
+B) Lest than one
+C) Zero
+D) One
+Ans: C
+Exp: Inexpensive essential items like buttons have zero income elasticity as consumption remains fixed regardless of income changes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In the case of inferior goods, the income elasticity of demand is:
+A) Positive
+B) Zero
+C) Negative
+D) Infinite
+Ans: C
+Exp: As consumer income increases, demand for inferior goods declines, resulting in negative income elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: 'Bajra' is an inferior commodity in the eyes of the household. Its income elasticity of demand will be
+A) More than 1
+B) Equal to 1
+C) Less than 1, but greater than 0
+D) Negative
+Ans: D
+Exp: Inferior commodities exhibit a negative income elasticity coefficient (Ey < 0).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Assume that Wheat have (-) 0.4 as income elasticity. By this, we can say that wheat is a good
+A) Inferior
+B) Normal
+C) superior
+D) luxurious
+Ans: A
+Exp: A negative coefficient of income elasticity (-0.4) confirms that the good is an inferior commodity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Cross elasticity of demand refers to the quantities of commodity which will be demanded in response to keeping other things remaining the same.
+A) Income of consumer
+B) Price of same commodity
+C) Price of Related commodity
+D) Both (b) & (c)
+Ans: C
+Exp: Cross elasticity measures the responsiveness of quantity demanded of good X to a change in the price of related good Y.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of substitute commodities, the cross demand curve slopes
+A) Upwards
+B) Downwards
+C) Circular
+D) Parabolic
+Ans: A
+Exp: For substitute goods, cross demand slopes upwards from left to right, reflecting a positive relationship.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: What is numerical measure of elasticity for "Perfectly Elastic"?
+A) Zero
+B) Infinity
+C) Greater than one and less than infinity
+D) Less than one
+Ans: B
+Exp: Perfectly elastic demand has an elasticity coefficient equal to infinity (horizontal demand curve).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A shopkeeper sells only two brands of notebooks "Classmate" and "Neelgagan". It is observed that when the price of "classmate" rises by 10%, the demand for "Neelgagan" increases by 15%. What is the cross price elasticity for "Neelgagan" against the price of "classmate"?
+A) 0.5
+B) 1
+C) 1.5
+D) None of these
+Ans: C
+Exp: Cross Elasticity Ec = %ΔQ_Neelgagan / %ΔP_Classmate = 15% / 10% = 1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The cross price elasticity between two goods x and y is known to be 0.8. If the price of good y rises to 20%, how will the demand for x change?
+A) +10%
+B) +16%
+C) -16%
+D) None of these
+Ans: C
+Exp: Ec = %ΔQx / %ΔPy => 0.8 = %ΔQx / 20% => %ΔQx = 16%.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Price of 1 Kg. of coffee is 60. At this price 10 kg. of coffee is demanded. If the price of tea rises from 50 to 70 per kg. the quantity demanded of coffee rises from 10 kg. to 16 kg. The cross-price elasticity of coffee is
+A) -1.5
+B) +1.5
+C) +0.3
+D) -0.3
+Ans: B
+Exp: %ΔQ_coffee = (6 / 10) * 100 = 60%. %ΔP_tea = (20 / 50) * 100 = 40%. Ec = 60% / 40% = +1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: There is a relationship between price of a commodity and the demand for its complementary goods (other things remaining the same).
+A) Inverse
+B) Positive
+C) Direct
+D) Any of (b) & (c)
+Ans: A
+Exp: For complementary goods, an increase in the price of one reduces the demand for the other (inverse relationship).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Cross elasticity of perfect substitutes is:
+A) Zero
+B) Negative
+C) One
+D) Infinity
+Ans: D
+Exp: For perfect substitutes, even an infinitesimally small price change causes an infinitely large demand shift (Ec = infinity).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The cross elasticity between Bread and DVDs is:
+A) Positive.
+B) Negative.
+C) Zero.
+D) One.
+Ans: C
+Exp: Bread and DVDs are completely unrelated goods, so cross elasticity between them is zero.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the quantity demand of mutton increases by 5% when the price of chicken increases by 20%, the cross-price elasticity of demand between mutton and chicken
+A) 0.25
+B) -4
+C) 4
+D) -0.25
+Ans: A
+Exp: Cross Elasticity Ec = %ΔQ_mutton / %ΔP_chicken = +5% / +20% = +0.25.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When two goods are unrelated then cross elasticity of demand will be
+A) 0
+B) Infinity
+C) 1
+D) (-)
+Ans: A
+Exp: When goods have no substitute or complementary relationship, changes in one good's price cause zero change in the other's demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The quantity demanded of coffee increases by 2% when the price of tea increases by 8%, the cross elasticity of demand between two products are
+A) +0.25
+B) -0.25
+C) -0.4
+D) +0.4
+Ans: A
+Exp: Cross Elasticity Ec = +2% / +8% = +0.25.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The cross elasticity between personal computers and software's is:
+A) Positive.
+B) Negative.
+C) Zero.
+D) One.
+Ans: B
+Exp: Hardware and software are complementary goods, yielding a negative cross elasticity of demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If two goods are perfect substitutes for each other, the cross elasticity between them is
+A) One
+B) More than one
+C) Less than one
+D) Infinite
+Ans: D
+Exp: Perfect substitutes have an infinite cross elasticity of demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the numerical value of cross elasticity between two goods is very high, it means:
+A) The goods are perfect complements and therefore have to be used together.
+B) The goods are perfect substitutes and can be used with ease in place of one another.
+C) There is a high degree of substitutability between the two goods.
+D) The goods are neutral and therefore cannot be considered as substitutes.
+Ans: C
+Exp: A high positive cross-elasticity value indicates that the two commodities are very close substitutes.
+Sub: Theory of Demand and Supply
+
+---
+
+: If the goods are substituted (like tea and coffee), the cross elasticity between them is
+A) Positive
+B) Negative
+C) Zero
+D) Infinity
+Ans: A
+Exp: Substitute goods have a positive cross elasticity of demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the quantity demanded of mutton increases by 5% when the price of chicken increases by 20%, the cross price elasticity of demand between mutton and chicken is:
+A) -0.25
+B) 0.25
+C) -4
+D) 4
+Ans: B
+Exp: Ec = +5% / +20% = +0.25.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of Complementary Goods, a rise in the price of one leads to a fall in the quantity demanded of the other. The cross elasticity of demand between these will be
+A) Positive
+B) Negative
+C) Zero
+D) Infinity
+Ans: B
+Exp: Complementary goods have negative cross elasticity of demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the numerical value of cross elasticity between two goods is very high, it means
+A) The goods are perfect complements and therefore have to be used together.
+B) The goods are perfect substitutes and can be used with ease in place of one another.
+C) There is a high degree of substitutability between the two goods.
+D) The goods are neutral and therefore cannot be considered as substitutes.
+Ans: C
+Exp: A high positive cross-elasticity coefficient indicates strong substitutability.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The price of 1 kg. of tea is 30. At this price, 5 kg. of tea is demanded. If the price of coffee rises from 25 to 35 per kg., the quantity demanded of tea rises from 5 kg. to 8 kg. The cross price elastic of tea is
+A) 1
+B) 0.5
+C) 1.5
+D) 0
+Ans: C
+Exp: %ΔQ_tea = (3 / 5) * 100 = 60%. %ΔP_coffee = (10 / 25) * 100 = 40%. Ec = 60% / 40% = 1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Cross elasticity is -1.2. It represents that the commodities are in nature.
+A) Complementary
+B) Substituted
+C) Inferior
+D) Giffen
+Ans: A
+Exp: A negative cross elasticity coefficient signifies that the two goods are complementary goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Advertisement elasticity of sales or promotional elasticity of demand is the responsive of a good demanded to changes in
+A) Price of Commodity
+B) Per Unit advertisement budget
+C) Firms spending on advertising
+D) Firms spending on distribution
+Ans: C
+Exp: Promotional (advertising) elasticity measures the responsiveness of sales demand to changes in advertising expenditures.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Usually, higher the value of advertising elasticity, greater will be the responsiveness of demand to change in advertisement. Therefore, usually advertising elasticity of demand is typically
+A) Positive
+B) Unitary
+C) Negative
+D) Zero
+Ans: A
+Exp: Advertising elasticity is typically positive because increased promotional spending stimulates consumer awareness and demand.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Ram and sons are going for heavy advertisement campaign to enhance their sales. When analysed it was realised that the expenditure on advertisement by the company has gone up from 2,00,000 to 3,00,000 and the sales of this product increased from 10 lakh units to 20 lakh units. What is the advertising elasticity of demand?
+A) -1
+B) 4
+C) 2
+D) 3
+Ans: C
+Exp: %ΔSales = (10 / 10) * 100 = 100%. %ΔAd_Spend = (1,00,000 / 2,00,000) * 100 = 50%. Ea = 100% / 50% = 2.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Advertisement elasticity of demand values between and
+A) One, infinity
+B) Zero, infinity
+C) Zero, one
+D) (-) Infinity to (+) Infinity
+Ans: B
+Exp: Advertising elasticity of demand typically ranges from 0 (completely ineffective) to infinity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Advertising elasticity of demand is typically
+A) Negative
+B) Zero
+C) Infinity
+D) Positive
+Ans: D
+Exp: Promotional elasticity of demand is normally positive.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: What will be the advertisement elasticity? % Change in Demand = 30%, % change in Price = Nil, % change in advertisement Expenditure = 25%
+A) 1.2
+B) 0.83
+C) 1
+D) 25
+Ans: A
+Exp: Ea = %ΔDemand / %ΔAd_Spend = 30% / 25% = 1.2.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the demand changes at a higher rate than change in advertisement expenditure, the advertisement elasticity will be
+A) Zero
+B) One
+C) More than one
+D) Less than one
+Ans: C
+Exp: When %ΔQ > %ΔAd_Spend, the advertising elasticity coefficient is greater than one (Ea > 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the advertisement expenditure on X commodity increase by 20% and demand for it increases only by 5%. The advertisement elasticity of demand for X commodity is
+A) 0.25
+B) (-) 0.25
+C) 4
+D) (-) 4
+Ans: A
+Exp: Ea = %ΔQ / %ΔAd_Spend = 5% / 20% = 0.25.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The zero advertisement Elasticity represents:
+A) Demand responds proportionately
+B) Demand does not respond proportionately
+C) Demand does not respond at all
+D) None of the above
+Ans: C
+Exp: Zero advertising elasticity (Ea = 0) indicates that sales volume is completely insensitive to promotional campaigns.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the change in demand is less than proportionate change in advertisement expenditure, the advertisement elasticity (Ea) will be equal to
+A) Ea = 0
+B) Ea > 0
+C) Ea < 1
+D) Ea > 0 but < 1.
+Ans: D
+Exp: When sales increase at a smaller percentage rate than advertising spending, 0 < Ea < 1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements is correct?
+A) With the help of statistical tools, the demand can be forecasted accurately.
+B) The more the number of substitutes of a commodity, more elastic is the demand.
+C) Demand for butter is perfectly elastic.
+D) Gold jewellery will have negative income elasticity.
+Ans: B
+Exp: A higher availability of close substitutes provides greater flexibility to consumers, making demand more price elastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Method of demand forecasting does not include?
+A) Mathematical method
+B) Barometric method
+C) Expert opinion method
+D) Statistical method
+Ans: A
+Exp: Standard economic demand forecasting methods include expert opinion, survey of buyers' intentions, barometric, and statistical methods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Forecasting of demand is the Art and Science of predicting?
+A) Actual demand of a product at same future date
+B) Probable demand in future
+C) Total demand in future
+D) None of these
+Ans: B
+Exp: Demand forecasting is the scientific estimation of probable future demand for a product under given market assumptions.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Delphi technique of demand forecasting is also called an
+A) Survey of buyers intentions
+B) Expect opinion method
+C) Barometric method
+D) Controlled experiments
+Ans: B
+Exp: The Delphi technique is an iterative expert opinion forecasting method conducted anonymously through panel questionnaires.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Of the following, who developed the Delphi technique of demand forecasting?
+A) Olaf Helmer
+B) David Richardson
+C) Michael Porter
+D) J.M. Keynes
+Ans: A
+Exp: The Delphi method was originally developed by Olaf Helmer and Norman Dalkey at the RAND Corporation in the 1950s.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Forecasting refers to knowing or measuring the status or nature of an event or variable it occurs.
+A) Before
+B) When
+C) After
+D) Both (b) & (c)
+Ans: A
+Exp: Forecasting is an ex-ante (advance) evaluation undertaken before the actual event or time period takes place.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for cement in India is forecasted. It refers to
+A) Micro level forecasting
+B) Long-Term forecasting
+C) Industry level forecasting
+D) Firm level forecasting
+Ans: C
+Exp: Estimating total aggregate demand for an entire industrial product category (cement) represents Industry-level forecasting.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Method of demand forecasting does not include?
+A) Mathematical method
+B) Barometric method
+C) Expert opinion method
+D) Statistical method
+Ans: A
+Exp: General mathematical techniques alone without economic forecasting structure do not constitute a specific forecasting method.
+Sub: Theory of Demand and Supply
+
+---
+
+: demand forecasting is generally useful in tactical decisions.
+A) Short-term
+B) Long-Term
+C) Very Long Period
+D) Both (a) & (b)
+Ans: A
+Exp: Short-term forecasting is used for tactical operational decisions like inventory control, production scheduling, and pricing.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The demand for a commodity that arises because of the demand for same other commodity (prevent product) is called as
+A) Demand
+B) Direct Demand
+C) Derived Demand
+D) Implied Demand
+Ans: C
+Exp: Derived demand arises indirectly from the demand for the parent final product (e.g. demand for steel is derived from car demand).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the demand for a product is independent of the demand for other goods, then it is called as
+A) Derived Demand
+B) Autonomous Demand
+C) Industry Demand
+D) Implied Demand
+Ans: B
+Exp: Autonomous (direct) demand is independent of the demand for other goods and satisfies final consumer wants directly.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following are consumer's goods?
+A) Readymade clothes
+B) Prepared Food
+C) Residential Houses
+D) All of the above
+Ans: D
+Exp: Consumer goods are purchased by final consumers for direct personal satisfaction of wants.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Identify Producer's goods out of following:
+A) Plant and Equipment
+B) Readymade clothes
+C) Residential Houses
+D) All of the above
+Ans: A
+Exp: Producer (capital) goods like plant, machinery, and equipment are used for further production of other goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following factors affects demand for non-durable consumer goods?
+A) Disposable Income
+B) Price
+C) Demography
+D) All of the above
+Ans: D
+Exp: Non-durable consumption depends on real disposable income, prevailing commodity prices, and population demographics.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In order to find out turning points, it is necessary to find out the general behaviour of the economy. This method of forecasting is called as:
+A) Controlled Experiments
+B) Barometric Method
+C) Statistical Method
+D) None of these
+Ans: B
+Exp: The barometric forecasting technique uses leading, lagging, and coincident economic indicators to anticipate cyclical turning points.
+Sub: Theory of Demand and Supply
+
+---
+
+: method of forecasting includes the methods: # Complete Enumerations # Sample Survey # End Use
+A) Collective opinion
+B) Survey of Buyer's intentions
+C) Expert Opinion
+D) Barometric
+Ans: B
+Exp: Survey of buyers' intentions comprises complete enumeration surveys, sample surveys, and end-use method.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Under method of demand forecasting, the future demand is estimated by conducting market studies and experiments on consumer behaviour under actual, though controlled, market conditions.
+A) Controlled Experiment method
+B) Market Experiment Method
+C) Barometric Method
+D) Both (a) & (b)
+Ans: D
+Exp: Market experiments (controlled experiments) test consumer behavioral responses under simulated/controlled marketplace conditions.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following is the statistical method of demand forecasting?
+A) Trend Projection Method
+B) Fitting Equation Method
+C) Regression Analysis
+D) All of the above
+Ans: D
+Exp: Trend projection, graphical fitting, least squares regression, and time-series analysis are all statistical forecasting methods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not a statistical method of demand forecasting.
+A) Regression Analysis
+B) Survey of Buyer's intensions
+C) Least Square method
+D) Free hand projection method
+Ans: B
+Exp: Survey of buyers' intentions is a primary qualitative survey method, not an objective statistical quantitative tool.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Demand forecasting by means of asking customer what they are going to buy comes under
+A) Statistical method
+B) Grass roots method
+C) Survey of buyers intention
+D) Experts opinion method
+Ans: C
+Exp: Directly interviewing or questioning potential consumers about their future purchase plans is the Survey of Buyers' Intentions.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: All of human beings are called wants in Economics.
+A) Desires
+B) Tastes
+C) Motives
+D) All of these
+Ans: D
+Exp: In economics, human wants encompass all subjective desires, tastes, and psychological motives.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Wants may arise due to causes.
+A) Elementary
+B) Psychological
+C) Internal
+D) Both (a) & (b)
+Ans: D
+Exp: Human wants originate from basic physiological survival instincts (elementary) as well as acquired social/psychological habits.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not the characteristic of wants of human beings?
+A) Wants are unlimited
+B) Wants are subjective & relative
+C) Wants are affected by income, taste, fashion, advertisements and social customs
+D) Wants do not vary with time, place & person.
+Ans: D
+Exp: Wants constantly vary with time, geographic location, and individual consumer preferences; hence statement D is false.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Wants arise from multiple causes including
+A) Natural instincts
+B) Social obligations
+C) Individual's economic & social status
+D) All of the above
+Ans: D
+Exp: Biological instincts, social customs, demonstration effects, and economic status all create human wants.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is one of the categories of wants?
+A) Necessaries
+B) Comforts
+C) Luxuries
+D) All of the above
+Ans: D
+Exp: Economics classifies human wants into Necessaries (for life/efficiency), Comforts, and Luxuries.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is NOT an example of Luxuries?
+A) Expensive clothing
+B) Exclusive vintage cars
+C) Classy furniture
+D) Labour saving equipments
+Ans: D
+Exp: Labour-saving household appliances (washing machines, mixer-grinders) are classified as comforts, not pure luxuries.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is NOT an example of Necessaries?
+A) Nourishing food
+B) Adequate clothing & clean water
+C) Comfortable dwelling
+D) Expensive clothing
+Ans: D
+Exp: Expensive designer clothing represents luxury consumption, whereas basic food, water, and shelter are necessaries.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is the by the Consumer and is the actual satisfaction derived:
+A) Utility, anticipated satisfaction, satisfaction
+B) Utility, actual satisfactory, desire
+C) Desire, utility, satisfaction
+D) None of these
+Ans: A
+Exp: Utility is the expected (anticipated) satisfaction before consumption, whereas satisfaction is the actual pleasure realized.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is the want satisfying power of a Commodity.
+A) Utility
+B) Marginal Utility
+C) Desire
+D) Desired Utility
+Ans: A
+Exp: Utility is defined in economics as the subjective capacity or power of a good to satisfy a human want.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements about utility is incorrect?
+A) Utility is ethically neutral
+B) A commodity has utility even when it is not consumed
+C) Utility is subjective and varies from person to person
+D) Utility is the same thing as usefulness
+Ans: D
+Exp: Utility is not identical to usefulness; harmful commodities (e.g. liquor, cigarettes) possess economic utility without usefulness.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following theories explains consumer behaviours?
+A) Marginal Utility Analysis
+B) Indifference Curve
+C) Returns to scale
+D) Both (a) & (b)
+Ans: D
+Exp: Consumer demand behavior is analyzed through Cardinal Utility Theory (Marshall) and Ordinal Indifference Curve Analysis (Hicks & Allen).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Utility is the numerical score in terms of 'representing the satisfaction that a consumer obtains from the consumption of a particular good.
+A) Points
+B) Utils
+C) Units
+D) Numbers
+Ans: B
+Exp: In classical cardinal utility analysis, psychological satisfaction is quantitatively measured in imaginary units called 'Utils'.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Marginal Utility Analysis has been propounded by:
+A) Marshall
+B) Hicks
+C) Allen
+D) Hicks & Allen
+Ans: A
+Exp: Alfred Marshall formulated and popularized Cardinal Marginal Utility Analysis in his 'Principles of Economics'.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Alfred Marshall was a economist.
+A) British
+B) American
+C) European
+D) Asian
+Ans: A
+Exp: Alfred Marshall (1842–1924) was an eminent British neoclassical economist from the University of Cambridge.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is the sum of marginal utilities derived from the consumption of different units.
+A) Marginal Utility
+B) Average Utility
+C) Total Utility
+D) Incremental Marginal Utility
+Ans: C
+Exp: Total Utility (TU) is the aggregate sum of marginal utilities derived from consuming all successive units of a commodity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is the additional made to total utility by the consumption of an additional unit of a commodity.
+A) Marginal Utility
+B) Average Utility
+C) Total Utility
+D) Incremental Marginal Utility
+Ans: A
+Exp: Marginal Utility (MU) is the addition to total utility resulting from consuming one extra unit of a good (MUn = TUn - TUn-1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When economists speak of the utility of a certain good, they are referring to:
+A) The demand for the good.
+B) The usefulness of the good in consumption.
+C) The expected satisfaction derived from consuming the good.
+D) The rate at which consumers are willing to exchange one good for another.
+Ans: C
+Exp: In economic theory, utility denotes the expected subjective satisfaction derived from consuming a commodity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When total utility is diminishing, the marginal utility is
+A) Diminisher
+B) Zero
+C) Negative
+D) Increases
+Ans: C
+Exp: When Total Utility curve turns downward (diminishes), Marginal Utility falls below zero and becomes negative.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The aim of the consumer in allocating his income is to
+A) Maximize his total utility.
+B) Maximize his marginal utility.
+C) To buy the goods he wants most whatever the price.
+D) To buy the goods which he expects to be short in supply.
+Ans: A
+Exp: A rational consumer seeks to allocate limited disposable income across goods so as to maximize total utility.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Additional made to total utility refers to?
+A) Total utility
+B) Average utility
+C) Marginal utility
+D) All of the above
+Ans: C
+Exp: Marginal utility is the addition made to total utility by consuming one additional unit of output.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: At the point of satiation, TU is and MU is
+A) Maximum, Zero
+B) Minimum, Zero
+C) Zero, Zero
+D) Maximum, diminishing
+Ans: A
+Exp: At the point of satiety (satiation), Total Utility reaches its absolute maximum while Marginal Utility is exactly zero.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which Equation is correct-
+A) MUx / MUy = Px / Py
+B) MUx / MUy > Px / Py
+C) MUx / MUy < Px / Py
+D) MUx / MUy # Px / Py
+Ans: A
+Exp: Consumer equilibrium across two goods requires equating the ratio of marginal utilities to the ratio of their prices (MUx/MUy = Px/Py).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Marginal rate of Substitution of X for Y is calculated as
+A) Change in X/change in Y
+B) Px/Py
+C) Py/Px
+D) Change in Y/change in X
+Ans: D
+Exp: Marginal Rate of Substitution (MRSxy) is the rate at which consumer gives up good Y to obtain one extra unit of good X (ΔY / ΔX).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When marginal utility is zero then total utility is
+A) Maximum
+B) Lower
+C) Negative
+D) Increasing
+Ans: A
+Exp: Total Utility reaches its peak (point of satiety) at the exact point where Marginal Utility equals zero.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Supposing that total utility is 100 at 10 units of consumption of a commodity. If consumer increases the consumption by one more unit and owing to that total utility increases to 108. The marginal utility of last units consumed will be
+A) 8
+B) 100
+C) 108
+D) 101
+Ans: A
+Exp: Marginal Utility MUn = TUn - TUn-1 = 108 - 100 = 8.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Budget line is otherwise called as
+A) Money line
+B) Preference line
+C) Income line
+D) Price line
+Ans: D
+Exp: The budget constraint line is also known as the Price Line because its slope reflects the price ratio of the two commodities.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Consumer is in equilibrium when the following condition is satisfied:
+A) Budget line is tangent to the Ic curve
+B) MUx / Px = MUy / Py = MUz / Pz
+C) Both (a) and (b)
+D) None of the above
+Ans: C
+Exp: Condition (a) represents ordinal indifference curve equilibrium while condition (b) represents cardinal equi-marginal utility equilibrium.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An indifference curve is a curve which represents all those combinations of two goods which give to the consumer.
+A) Equal satisfaction
+B) Greater satisfaction
+C) Lesser satisfaction
+D) Variable satisfaction
+Ans: A
+Exp: An indifference curve connects all market baskets that yield the identical level of total utility to the consumer.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Cardinal approach is related to:
+A) Indifference curve
+B) Equi marginal utility
+C) Law of diminishing returns
+D) None of these
+Ans: B
+Exp: Marshall's Law of Equi-Marginal Utility is founded upon the quantifiable Cardinal Utility approach.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which economist said that money is the measuring rod of utility?
+A) A.C. Pigou
+B) Marshall
+C) Adam Smith
+D) Robbins
+Ans: B
+Exp: Alfred Marshall assumed that money serves as the common measuring rod of subjective cardinal utility.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following relation is true with MU?
+A) When MU is positive, Total utility rises at a diminishing rate
+B) When marginal utility is zero, total utility is maximum
+C) When marginal utility is negative, total utility is diminishing
+D) All of the above
+Ans: D
+Exp: All three statements accurately formulate the mathematical relationship between Marginal Utility and Total Utility.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Total utility is maximum when:
+A) Marginal utility is zero.
+B) Marginal utility is at its highest point.
+C) Marginal utility is negative.
+D) None of the above.
+Ans: A
+Exp: When MU = 0, the first derivative of total utility is zero, representing maximum total satisfaction.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The second glass of lemonade gives lesser satisfaction to a thirsty boy. This is a clear case of:
+A) Law of demand.
+B) Law of diminishing returns.
+C) Law of diminishing utility.
+D) Law of supply.
+Ans: C
+Exp: The Law of Diminishing Marginal Utility states that satisfaction declines with each successive unit of a good consumed.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When TUn-1 is deducted from TUn, the resultant is
+A) Marginal Utility
+B) Average Utility
+C) Total Utility
+D) Incremental Marginal Utility
+Ans: A
+Exp: Marginal Utility of the nth unit is MUn = TUn - TUn-1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Marginal Utility Analysis is Concept.
+A) Cardinal
+B) Ordinal
+C) Sequential
+D) None of these
+Ans: A
+Exp: Marshallian Marginal Utility analysis treats utility as a cardinal, quantitatively measurable psychological entity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not an assumption of Marginal Utility Analysis?
+A) Rationality
+B) Cardinal Measurability of Utility
+C) Hypothesis of independent utility
+D) Increasing Marginal Utility of Money
+Ans: D
+Exp: Marshall assumed constant (not increasing) marginal utility of money to use it as a reliable measuring rod.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Law of Diminishing Marginal Utility is derived from which of the following concept?
+A) Consumer Surplus
+B) Additional Utility
+C) Total utility
+D) Producer Surplus
+Ans: B
+Exp: The law is derived from evaluating the diminishing additional (marginal) utility derived from successive units.
+Sub: Theory of Demand and Supply
+
+---
+
+: As per the hypothesis of Utility, the total utility which a person gets from the whole collection of goods purchased by him is simply the sum total of the separate utilities of the goods.
+A) Dependent
+B) Independent
+C) Related
+D) Affected
+Ans: B
+Exp: Marshall assumed the Hypothesis of Independent Utilities, where a good's utility depends solely on its own quantity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: According to neo-classical economists, utility is a cardinal concept. It means:
+A) Utility is a measurable and quantifiable entity.
+B) A psychological unit of measurement of utility is available called as 'UTILS'.
+C) Utilities from different units of the commodity can be added.
+D) All of the above.
+Ans: D
+Exp: Cardinal utility posits that utility can be quantitatively measured, assigned numeric values in 'utils', and aggregated.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Hicks and Allen believed that utility
+A) Can be measured in ordinal numbers
+B) Can be measured in cardinal numbers
+C) Cannot be measured
+D) Cannot be expressed
+Ans: C
+Exp: Hicks and Allen rejected cardinal measurability, stating utility cannot be quantitatively measured but only ranked ordinally.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Marginal Utility can be
+A) Positive
+B) Zero
+C) Negative
+D) Any of above
+Ans: D
+Exp: Marginal utility can be positive (initial units), zero (point of satiety), or negative (over-consumption/disutility).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The concept of Consumer's Surplus was propounded by
+A) Alfred Marshall
+B) Hicks & Allen
+C) J.B. Say
+D) None of these
+Ans: A
+Exp: Alfred Marshall formally introduced the concept of Consumer's Surplus in his 'Principles of Economics'.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If a Consumer gets more utility from a commodity, he would be willing to pay a higher price and vice versa. This extra satisfaction which consumer gets from the purchase of goods is called as
+A) Producer's Supply
+B) Consumer's Surplus
+C) Extra Utility
+D) Excess Marginal Utility
+Ans: B
+Exp: Consumer's Surplus is the excess of price a consumer is willing to pay over what he actually pays.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statement is incorrect as regards Consumer's Surplus?
+A) It can be measured in money
+B) It cannot be measured precisely
+C) It is affected by a variability of substitutes
+D) It is always infinite for necessaries
+Ans: A
+Exp: Consumer surplus cannot be precisely measured in monetary terms due to subjective differences in marginal utility of money.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: By consumer surplus, economists mean
+A) The area inside the budget line.
+B) The area between the average revenue and marginal revenue curves.
+C) The difference between the maximum amount a person is willing to pay for a good and its market price.
+D) None of the above.
+Ans: C
+Exp: Consumer surplus equals Maximum Willingness to Pay minus Actual Market Price Paid.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Consumer's surplus = what the consumer is ready to pay minus ?
+A) What is actual price of the product
+B) What is income of the consumer
+C) What he actually pays
+D) What is actual surplus
+Ans: A
+Exp: Consumer's Surplus = Willingness to pay (Potential Price) - Actual Price of the product.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Purushotham wanted to buy laptop by paying 60,000 but the actual price is 55,000, then consumer surplus is
+A) 6,500
+B) 55,000
+C) 5,000
+D) 60,000
+Ans: C
+Exp: Consumer Surplus = 60,000 - 55,000 = 5,000.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is/are the condition's of theory of consumer surplus if price is same for all the units he purchased?
+A) Consumer gains extra utility or surplus
+B) Consumer surplus for the last commodity is zero
+C) Both
+D) None
+Ans: C
+Exp: Intra-marginal units yield surplus satisfaction, while for the marginal (last) unit, Price equals MU, yielding zero surplus.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The concept of consumer's surplus is derived from:
+A) The law of diminishing marginal utility
+B) The law of equal-marginal utility
+C) The law of diminishing returns
+D) Engel's law
+Ans: A
+Exp: Consumer's surplus is derived directly from the Law of Diminishing Marginal Utility (MU curve is the demand curve).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The concept of consumer surplus is derived from
+A) The law of Demand
+B) The law of Supply
+C) The law of diminishing marginal utility
+D) Indifference curve Analysis
+Ans: C
+Exp: Marshall deduced consumer surplus from the falling marginal utility of successive units of a commodity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In case of necessaries, consumes surplus is?
+A) Infinite
+B) Zero
+C) Equals to one
+D) More than one
+Ans: A
+Exp: For life-saving necessities (e.g. drinking water, salt), a person would pay everything they possess, making surplus infinite.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Producer surplus arises when:
+A) The price of the product is less than the minimum price at which they would be prepared to supply the product.
+B) The price of a product is equal to the minimum price at which they would be prepared to supply the product.
+C) The price of a product is greater than the minimum price at which they would be prepared to supply the product.
+D) The price of a product is equal to the marginal cost of the product.
+Ans: C
+Exp: Producer surplus is the excess of actual market price received over the minimum reservation supply price (marginal cost).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Marshall defined the concept of consume surplus as the
+A) Area covered in between the average revenue an marginal revenue curves.
+B) Area inside the budget line.
+C) Difference between the minimum amount a person is willing to pay for a good and its market price.
+D) Difference between the maximum amounts a person is willing to pay for a good and the amount he actually pays.
+Ans: D
+Exp: Marshallian consumer surplus is the excess of total utility over total actual outlay (WTP - Actual Expenditure).
+Sub: Theory of Demand and Supply
+
+---
+
+: The indifference curve analysis is based on utility.
+A) Ordinal
+B) Cardinal
+C) Quantitative
+D) Numeric
+Ans: A
+Exp: Indifference curve analysis (Hicks & Allen) is built on the Ordinal Utility framework (ranking bundles by preference).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is a property of indifference curves?
+A) Indifference curves are always concave to the origin
+B) Indifference curves slope upwards to the left
+C) Two indifference curves can touch or cut each other
+D) An indifference curve will not touch either the X-axis or Y-axis
+Ans: D
+Exp: Because a consumer purchases combinations of both goods (commodity bundles), an IC never touches the axes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Let assume that in OY-axis we have good A and on OX-axis good B. If the price of good B increases by 1 but the price of good A remains constant and income also remains unchanged, the budget line will shift
+A) Left on OY axis
+B) Left on OX axis
+C) Right on OY axis
+D) Right on OX axis
+Ans: B
+Exp: A price hike in good B reduces its maximum affordable quantity, pivoting the budget line inward (left) on the OX-axis.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one is not an assumption of the theory of demand based on analysis of indifference curves?
+A) Given scale of preferences as between different combinations of two goods.
+B) Diminishing marginal rate of substitution.
+C) Constant marginal utility of money.
+D) Consumers would always prefer more of a particular good to less of it, other things remaining the same.
+Ans: C
+Exp: Constant marginal utility of money is an assumption of Marshallian cardinal analysis, not ordinal indifference curve theory.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not the property of indifference curve?
+A) Slopes downwards to the right
+B) Always convex to the origin
+C) Intersects each other
+D) Will not touch either of the axes
+Ans: C
+Exp: Indifference curves can never intersect; intersection violates the logical consistency of consumer preferences.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Indifference Curve analysis is based on which approach?
+A) Ordinal
+B) Cardinal
+C) Marginal
+D) All of the above
+Ans: A
+Exp: Indifference Curve analysis ranks consumer satisfaction ordinally without requiring cardinal measurement in utils.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is not the property of indifference curve?
+A) IC is convex to the origin
+B) IC scopes downwards from left to right
+C) Two IC can touch each other
+D) IC cannot touch either of the axis
+Ans: C
+Exp: Indifference curves can never touch or be tangent to one another.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An indifference curve slopes down towards right since more of one commodity and less of another result in:
+A) Same level of satisfaction.
+B) Greater satisfaction.
+C) Maximum satisfaction.
+D) Any of the above.
+Ans: A
+Exp: To maintain an identical level of overall satisfaction, substituting more of good X requires sacrificing some of good Y.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is a property of an indifference curve?
+A) It is convex to the origin.
+B) The marginal rate of substitution is constant as you move along an indifference curve.
+C) Marginal utility is constant as you move along an indifference curve.
+D) Total utility is greatest where the 45 degree line cuts the indifference curve.
+Ans: A
+Exp: Indifference curves are strictly convex to the origin due to the diminishing Marginal Rate of Substitution (MRS).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An IC shows MRS between the commodity?
+A) Increasing
+B) Decreasing
+C) Constant
+D) Zero
+Ans: B
+Exp: Moving along an indifference curve from left to right exhibits a diminishing (decreasing) Marginal Rate of Substitution.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The indifference curve for two perfect complementary goods is
+A) Slopes downward
+B) L-shaped
+C) U-shaped
+D) Straight line
+Ans: B
+Exp: Perfect complements (e.g. left and right shoes) cannot be substituted for one another, resulting in an L-shaped (right-angled) IC.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: How would that budget line be affected if the price of both goods fell?
+A) The budget line would not shift.
+B) The new budget line must be parallel to the old budget line.
+C) The budget line must be shifting to the left.
+D) The new budget line will have the same slope as the original so long as the prices of both goods change in the same proportion.
+Ans: D
+Exp: A proportionate fall in the prices of both goods increases real purchasing power without altering the price ratio (slope).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Indifference curve is L shaped then two goods will be:
+A) Perfect substitute goods
+B) Substitute goods
+C) Perfect complementary goods
+D) Complementary goods
+Ans: C
+Exp: An L-shaped indifference curve represents zero substitutability between perfect complementary goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements is incorrect?
+A) An indifference curve must be downward-sloping to the right.
+B) Convexity of a curve implies that the slope of the curve diminishes as one moves from left to right.
+C) The income elasticity for inferior goods to a consumer is positive.
+D) The total effect of a change in the price of a good on its quantity demanded is called the price effect.
+Ans: C
+Exp: The income elasticity for inferior goods is negative, not positive, making statement C incorrect.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is a property of an indifference curve?
+A) It is convex to the origin.
+B) The marginal rate of substitution is constant as you move along an indifference curve.
+C) Marginal utility is constant as you move along an indifference curve.
+D) Total utility is greatest where the 45-degree line cuts the indifference curve.
+Ans: A
+Exp: Convexity to the origin is the fundamental geometric property of standard indifference curves.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A point below the budget line of a consumer
+A) Represents a combination of goods which costs the whole of consumer's income.
+B) Represents a combination of goods which costs less than the consumer's income.
+C) Represents a combination of goods which is unattainable to the consumer given his/her money income.
+D) Represents a combination of goods which costs more than the consumers' income.
+Ans: B
+Exp: Any point inside/below the budget line represents an affordable bundle that costs strictly less than total consumer income.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is a curve which represents all those combinations of two goods which give same satisfaction to the consumer.
+A) Indifference Curve
+B) Iso-Utility Curve
+C) Equal-Utility Curve
+D) All of the above
+Ans: D
+Exp: An Indifference Curve is also referred to as an Iso-Utility Curve or Equal-Utility Curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: represents a collection of many indifference curves where each curve represents a certain level of satisfaction.
+A) Indifference Group
+B) Indifference Map
+C) Indifference Aggregate
+D) Market Map
+Ans: B
+Exp: An Indifference Map is a family of indifference curves representing varying ordinal utility levels of a consumer.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Indifference curve for two perfect complementary goods is
+A) U-shaped
+B) Straight line
+C) Z-shaped
+D) L-shaped
+Ans: D
+Exp: Perfect complementary goods have an L-shaped indifference curve with zero elasticity of substitution.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A shift in budget line occurs, when prices of the two goods remain constant, is due to
+A) Change in preferences
+B) Change in demand
+C) Change in income
+D) Change in utility
+Ans: C
+Exp: When commodity prices are constant, an increase or decrease in consumer income shifts the budget line parallelly outward or inward.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: is the rate at which a consumer is prepared to exchange group X and Y.
+A) Marginal Rate of Substitution
+B) Average Rate of Substitution
+C) Mathematical Rate of Substitution
+D) None of the above
+Ans: A
+Exp: Marginal Rate of Substitution (MRSxy) is the willingness of a consumer to trade good Y for an additional unit of good X.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When MUA is divided by MUB, then it is the marginal rate of substitution of
+A) A for B
+B) B for A
+C) A & B for other Product
+D) None of these
+Ans: A
+Exp: By consumer choice theory, MRS(A for B) = MUA / MUB.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Why does demand curve slopes downwards?
+A) Law of diminishing marginal cost
+B) Arrival of old Consumers
+C) Cost effect
+D) Different users
+Ans: B
+Exp: Downward slope of the demand curve is explained by the Law of Diminishing Marginal Utility, Price Effect, and Arrival of New Consumers.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the consumer has more and more unit of food, he is prepared to give up less and less units of clothing. It is due to
+A) Falling MRS
+B) Rising MRS
+C) Constant MRS
+D) None of the above.
+Ans: A
+Exp: As consumption of food expands, its marginal utility diminishes relative to clothing, resulting in a Falling MRS.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If indifference curve is 'L' shaped then two goods will be called as
+A) Perfect superior goods
+B) Perfect inferior goods
+C) Perfect quality goods
+D) Perfect complementary goods
+Ans: D
+Exp: An L-shaped IC represents goods that must be consumed together in fixed proportions (perfect complements).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which one of the following Statement is incorrect about Indifference Curve?
+A) Always Convex to the origin
+B) Never intersects each other
+C) Higher Curve represents higher level of satisfaction.
+D) It may touch X axis but never Y axis.
+Ans: D
+Exp: An indifference curve never touches either the X-axis or Y-axis because the consumer is assumed to purchase combinations of both goods.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A higher indifference curve shows a higher level of satisfaction than a lower one. Therefore, a consumer, in his attempt to maximize satisfaction will try to reach the possible indifference curve.
+A) Highest
+B) Lowest
+C) Any of (a) or (b)
+D) None of these
+Ans: A
+Exp: Under the monotonicity of preferences, rational consumers always strive to reach the highest attainable indifference curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The consumer is in equilibrium at a point where the budget line:
+A) Is above an indifference curve,
+B) Is below an indifference curve.
+C) Is tangent to an indifference curve.
+D) Cuts an indifference curve,
+Ans: C
+Exp: Consumer equilibrium occurs at the point of tangency where the slope of the budget line equals the slope of the IC (MRSxy = Px/Py).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The scope of the indifference curve shows consumer equilibrium at point where MRS(xy) Px/Py (Price line)
+A) Less than
+B) More than
+C) Equal to
+D) None of the above
+Ans: C
+Exp: Consumer equilibrium is achieved where the Marginal Rate of Substitution is strictly equal to the price ratio (MRSxy = Px/Py).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Slope of Indifference curve is
+A) Marginal Rate of Substitution
+B) Minimal Rate of Substitution
+C) Average Rate of Substitution
+D) Total Rate of Substitution
+Ans: A
+Exp: The slope of an indifference curve at any given point is the Marginal Rate of Substitution (MRS).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The slope of the 'Price line' indicates the ratio between of the two goods.
+A) Prices
+B) Quantities demanded
+C) Quantities Sold
+D) Marginal Utility
+Ans: A
+Exp: The slope of the budget (price) line represents the relative price ratio of the two commodities (-(Px / Py)).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Indifference curve slopes downwards as one product increase and another decreases because they give.
+A) Equal satisfaction
+B) Greater Satisfaction
+C) Lesser Satisfaction
+D) None
+Ans: A
+Exp: Downward slope ensures that total utility remains constant (equal satisfaction) along the entire curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The supply of a good refers to:
+A) Actual production of the good.
+B) Total existing stock of the good.
+C) Stock available for sale.
+D) Amount of the good offered for sale at a particular price per unit of time.
+Ans: D
+Exp: Supply represents the specific quantity of a commodity that sellers are willing and able to offer for sale at a given price per unit of time.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Supply is a concept.
+A) Flow
+B) Stock
+C) Flow and stock, both
+D) Qualitative
+Ans: A
+Exp: Supply is a flow concept measured per unit of time (e.g. daily, weekly, or monthly supply).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Supply is the:
+A) Limited resources that are available with the seller.
+B) Cost of producing a good.
+C) Entire relationship between the quantity supplied and the price of good.
+D) Willingness to produce a good if the technology to produce it becomes available.
+Ans: C
+Exp: Supply expresses the complete functional schedule relating various prices to corresponding quantities offered for sale.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The quantity supplied of a good or service is the amount that
+A) Is actually bought during a given time period at a given price.
+B) Producers wish they could sell at a higher price.
+C) Producers plan to sell during a given time period at a given price.
+D) People are willing to buy during a given time period at a given price.
+Ans: C
+Exp: Quantity supplied is the planned amount offered for sale by producers at a given price during a specific period.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In a very short period, the supply:
+A) Can be changed.
+B) Cannot be changed.
+C) Can be increased.
+D) None of the above.
+Ans: B
+Exp: In the market period (very short run), physical output is strictly fixed by existing stocks and cannot be increased.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statement is correct?
+A) Supply is inversely related to its cost of production
+B) Price and quantity demand of a goods have direct relationship
+C) Taxes and subsidy has no impact on the supply of the product
+D) Seasonal changes have no impact on the supply of the commodity
+Ans: A
+Exp: Higher production costs reduce profit margins, causing supply to decrease (inverse relationship between cost and supply).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The term supply refers to the amount of goods or services that the producers are to the market at value prices during a given period of time.
+A) Willing to offer
+B) Able to Offer
+C) Actually Sold
+D) Both (a) & (b)
+Ans: D
+Exp: Supply requires both the willingness and financial/physical ability of producers to offer goods for sale in the market.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following is a factor determining the supply?
+A) Price of the good
+B) Price of related goods
+C) Price of factor of Production
+D) All of the above
+Ans: D
+Exp: Commodity own price, prices of related goods, factor input costs, and technology all determine market supply.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Other things being equal, the the relative price of a good the the quantity of it that will be supplied.
+A) Higher, Lesser
+B) Higher, Greater
+C) Lower, Lower
+D) None of these
+Ans: B
+Exp: According to the Law of Supply, a higher market price yields higher profit margins, inducing greater supply.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Under conditions, Supply will be more than that under conditions.
+A) Competitive, Monopolized
+B) Monopolized, Competitive
+C) Monopolized, Oligopoly
+D) Duopoly, Monopolized
+Ans: A
+Exp: Competitive markets maximize market output, producing higher aggregate supply than restrictive monopolies.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The supply of a particular product depends upon the state of technology also. Inventions and innovations tend to make it possible to produce goods with the same resources.
+A) More
+B) Better
+C) Lesser
+D) More and/or Better
+Ans: D
+Exp: Technological innovations enhance productivity, making it possible to produce larger quantities and superior quality goods with given inputs.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: According to law of supply, change in supply is related to?
+A) Price of goods
+B) Price of related goods
+C) Factors of production
+D) None of the above
+Ans: A
+Exp: The Law of Supply states a direct functional relationship between the own price of a good and its quantity supplied.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the demand is more than supply, then the pressure on price will be:
+A) Upward
+B) Downward
+C) Constant
+D) None of the above
+Ans: A
+Exp: Excess demand (shortage) leads to competitive buyer bidding, putting upward pressure on market price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the supply of bottled water decreases, other things remaining the same, the equilibrium price and the equilibrium quantity
+A) Increases; decreases.
+B) Decreases; increases.
+C) Decreases; decreases.
+D) Increases; increases.
+Ans: A
+Exp: A leftward shift in supply drives up the market equilibrium price while reducing the equilibrium quantity traded.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: In the book market, the supply of books will decrease if any of the following occurs except
+A) A decrease in the number of book publishers.
+B) A decrease in the price of the book.
+C) An increase in the future expected price of the book.
+D) An increase in the price of paper used.
+Ans: B
+Exp: A fall in the price of a book causes a contraction in quantity supplied along the curve, not a decrease (shift) in supply.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An increase in the number of sellers of bikes will increase the
+A) The price of a bike.
+B) Demand for bikes.
+C) The supply of bikes.
+D) Demand for helmets.
+Ans: C
+Exp: An increase in the number of market producers expands aggregate market supply, shifting the supply curve to the right.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If good growing conditions increases the supply of strawberries and hot weather increases the demand for strawberries, the quantity of strawberries bought.
+A) Increases and the price might rise, fall or not change.
+B) Does not change but the price rises.
+C) Does not change but the price falls.
+D) Increases and the price rises.
+Ans: A
+Exp: Simultaneous rightward shifts in both demand and supply unambiguously increase equilibrium quantity, while price change depends on relative shift magnitudes.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The supply curve for perishable commodities is
+A) Elastic
+B) Inelastic
+C) Perfectly elastic
+D) Perfectly inelastic
+Ans: D
+Exp: In the very short run, perishable goods (milk, fish, vegetables) cannot be preserved, making their supply perfectly inelastic (vertical).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When supply price increase in the short run, the profit of the producer
+A) Increases
+B) Decreases
+C) Remains constant
+D) Decreases marginally
+Ans: A
+Exp: A higher market price in the short run widens the gap over marginal cost, expanding producer profit margins.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The is a graphical presentation of the
+A) Supply Curve, Demand Schedule
+B) Supply Curve, Supply Schedule
+C) Demand Curve, Supply Schedule
+D) None of these
+Ans: B
+Exp: The Supply Curve is the graphical depiction of the price-quantity relationship given in a Supply Schedule.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Contraction of supply is the result of:
+A) Decrease in the number of producers.
+B) Decrease in the price of the good concerned.
+C) Increase in the prices of other goods.
+D) Decrease in the outlay of sellers.
+Ans: B
+Exp: A contraction in supply is caused strictly by a decrease in the own selling price of the commodity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the supply of a good increase as a result of an increase in its price, then it is an increase in and there is a upward the supply curve.
+A) Quantity Supplied, movement on
+B) Quantity Supplied, Shift of
+C) Supply, movement on
+D) Supply, Shift of
+Ans: A
+Exp: A price-induced rise is an Increase in Quantity Supplied, represented as an upward movement along the existing supply curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Movements on the supply curve may be due to:
+A) Change in price of goods
+B) Change in price of related goods
+C) Change in technology
+D) None of the above
+Ans: A
+Exp: Movements along the supply curve occur exclusively due to changes in the own price of the good.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Contraction of supply implies
+A) Decrease in cost of production
+B) Decrease in price of the good concerned
+C) Decrease in price of related good
+D) Increase in price of the good concerned
+Ans: B
+Exp: Contraction of supply represents a downward movement along the supply curve resulting from a price drop in the good itself.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When supply curves moves to right, it means
+A) Supply increases
+B) Supply decreases
+C) Supply remains constant
+D) Supply expands
+Ans: A
+Exp: A rightward shift of the supply curve denotes an Increase in Supply caused by favourable non-price factors.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: An increase in the supply of a good is caused by:
+A) Improvements in its technology.
+B) Fall in the prices of other goods.
+C) Fall in the prices of factors of production.
+D) All of the above.
+Ans: D
+Exp: Better technology, cheaper input costs, and falling prices of alternative goods all shift the market supply curve rightward.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When supply curve moves to right, it means
+A) Supply increases.
+B) Supply decreases.
+C) Supply remains constant.
+D) None of the above.
+Ans: A
+Exp: A shift of the supply curve to the right indicates higher quantities offered at each prevailing price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When supply curve shifts to the right there is:
+A) An increase
+B) Expansion
+C) Contraction
+D) Decrease
+Ans: A
+Exp: A rightward shift represents an Increase in Supply (distinct from price-induced expansion).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When supply curve moves to the left, it means
+A) Smaller supply at a given price.
+B) Larger supply at a given price.
+C) Constant supply at a lower price.
+D) None of the above.
+Ans: A
+Exp: A leftward shift (decrease in supply) signifies that producers offer smaller quantities at every price level.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the supply curve shifts to the left or right, it is called as or in supply, respectively.
+A) Decrease, Decrease
+B) Decreases, Increase
+C) Increase, Increase
+D) Increase, Decrease
+Ans: B
+Exp: Leftward shift is a Decrease in Supply, while a rightward shift is an Increase in Supply.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Elasticity of supply refers to the degree of responsiveness of supply of a good to changes in its:
+A) Demand.
+B) Price.
+C) Cost of production.
+D) State of technology.
+Ans: B
+Exp: Price elasticity of supply measures the responsiveness of quantity supplied to percentage changes in the good's own price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If there are large number of producers in the market of a product and there is high competition among them, then the elasticity of supply will be:
+A) More
+B) Less
+C) Zero
+D) Infinity
+Ans: A
+Exp: A large number of competing firms with flexible capacity makes industry supply more price elastic.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A vertical supply curve parallel to the Y-axis exhibits that the elasticity of supply is
+A) Zero
+B) Infinite
+C) Elastic
+D) Inelastic
+Ans: A
+Exp: A vertical supply curve represents perfectly inelastic supply (Es = 0) where quantity is fixed.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If elasticity of supply is infinite, the supply curve will be:
+A) Parallel to x axis
+B) Parallel to y axis
+C) Upward sloping
+D) Downward sloping
+Ans: A
+Exp: Perfectly elastic supply (Es = infinity) is represented by a horizontal line parallel to the X-axis.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Price elasticity of supply refers to change in responsiveness of quantity to change in:
+A) Price
+B) Price in substitute
+C) Income
+D) Preference
+Ans: A
+Exp: Price elasticity of supply specifically measures output response to a change in the commodity's own market price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The elasticity of supply is defined as the
+A) Responsiveness of the quantity supplied of a good to a change in its price.
+B) Responsiveness of the quantity supplied of a good without change in its price.
+C) Responsiveness of the quantity demanded of a good to a change in its price.
+D) Responsiveness of the quantity demanded of a good without change in its price.
+Ans: A
+Exp: Price elasticity of supply = (Percentage change in Quantity Supplied) / (Percentage change in Price).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Elasticity of supply is measured by dividing the percentage change in quantity supplied of a good by
+A) Percentage change in income.
+B) Percentage change in quantity demanded of goods.
+C) Percentage change in price.
+D) Percentage change in taste and preference.
+Ans: C
+Exp: Elasticity of supply is mathematically computed as %ΔQs / %ΔP.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Which of the following statements is correct?
+A) When the price falls the quantity demanded falls.
+B) Seasonal changes do not affect the supply of a commodity.
+C) Taxes and subsidies do not influence the supply of the commodity.
+D) With lower cost, it is profitable to supply more of the commodity.
+Ans: D
+Exp: Lower production costs widen per-unit profit margins, incentivizing producers to expand market supply.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When price of a commodity Rises from 200 to 300 and Quantity supply increases from 2,000 to 5,000 units find elasticity of supply?
+A) 3.0
+B) 2.5
+C) 0.3
+D) 3.5
+Ans: A
+Exp: Es = (ΔQ / ΔP) * (P / Q) = (3,000 / 100) * (200 / 2,000) = 30 * 0.1 = 3.0.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the price of sugar increases from 8,000 to 10,000 per tone and due to that quantity supplies of sugar increases from 2000 to 2500 tones. Compute the elasticity of supply
+A) (-) 1
+B) 1
+C) (-) 0.4
+D) 0.4
+Ans: B
+Exp: %ΔP = (2,000 / 8,000) * 100 = 25%. %ΔQs = (500 / 2,000) * 100 = 25%. Es = 25% / 25% = 1.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If price of computers increases by 10% and supply increases by 25%. The elasticity of supply is:
+A) 2.5
+B) 0.4
+C) (-) 2.5
+D) (-) 0.4
+Ans: A
+Exp: Es = %ΔQs / %ΔP = 25% / 10% = 2.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Due to introduction of 5G mobiles in the market, the price of such mobiles has increased by 20% and there by supply increased by 40% the elasticity of supply will be which of the following?
+A) 0.5
+B) -0.5
+C) -2
+D) 2
+Ans: D
+Exp: Es = %ΔQs / %ΔP = 40% / 20% = 2.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When No. of tourists increase at a place for which the room rent of hostel also increases. Then the elasticity of supply of room will be
+A) -1.5
+B) +1.5
+C) +0.66
+D) -0.66
+Ans: B
+Exp: The price elasticity of supply is positive (Es > 0); hotel rooms respond positively to rent surges.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If quantity supplied changes substantially in response to small changes in price of the good, then it is
+A) Perfect elastic
+B) Unitary elastic
+C) Relatively less elastic supply
+D) Relatively greater elastic supply
+Ans: D
+Exp: When %ΔQs > %ΔP, the supply is relatively elastic (Es > 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When elasticity is measured at a given point on the supply curve is called as which of the following?
+A) Unit elasticity
+B) Point elasticity
+C) Supply elasticity
+D) Limited elasticity
+Ans: B
+Exp: Point elasticity of supply measures price responsiveness at an exact coordinate point on the supply curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The Price of Commodity X increased from 2,000 per unit to 2,100 per unit and consequently the quantity supplied rises from 2,500 units to 3,000 units. The Elasticity of supply will be
+A) 2
+B) 4
+C) .25
+D) 0
+Ans: B
+Exp: Es = (ΔQ / ΔP) * (P / Q) = (500 / 100) * (2,000 / 2,500) = 5 * 0.8 = 4.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The supply function is given as Q = 20p - 200 The elasticity of supply using point method, when the price is 30 will be
+A) Zero
+B) <1
+C) >1
+D) =1
+Ans: B
+Exp: At P=30, Q = 20(30) - 200 = 400. dQ/dP = 20. Point Es = (dQ/dP) * (P/Q) = 20 * (30 / 400) = 1.5.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Perishable commodities will have
+A) Perfectly elastic curve
+B) Perfectly inelastic curve
+C) Elastic
+D) Inelastic
+Ans: B
+Exp: Perishable agricultural commodities have a fixed physical shelf-life, resulting in a perfectly inelastic supply curve.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A vertical supply curve parallel to Y axis implies that the elasticity of supply is:
+A) Zero.
+B) Infinity.
+C) Equal to one.
+D) Greater than zero but less than infinity.
+Ans: A
+Exp: A vertical supply curve parallel to the price axis denotes zero price elasticity of supply (Es = 0).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: A horizontal supply curve parallel to the quantity axis implies that the elasticity of supply is:
+A) Zero.
+B) Infinite.
+C) Equal to one.
+D) Greater than zero but less than one.
+Ans: B
+Exp: A horizontal line indicates that sellers are willing to supply infinite quantities at the given price (Es = infinity).
+Sub: Theory of Demand and Supply
+
+---
+
+: In case of a perfectly elastic supply, price elasticity of supply is and the supply curve becomes
+A) Zero, vertical
+B) One, upward sloping
+C) One, downward sloping
+D) Infinite, horizontal
+Ans: D
+Exp: Perfectly elastic supply has an elasticity coefficient equal to infinity, and its curve is a horizontal straight line.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the percentage change in supply is less than the percentage change in price it is called
+A) Unit elasticity of supply.
+B) Perfectly elastic.
+C) More elastic supply.
+D) Inelastic supply.
+Ans: D
+Exp: When %ΔQs < %ΔP, the elasticity coefficient is less than one, termed Inelastic Supply.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Elasticity of supply is zero means?
+A) Perfectly inelastic
+B) Perfectly elastic
+C) Imperfectly elastic
+D) All of the above
+Ans: A
+Exp: Es = 0 represents perfectly inelastic supply where quantity supplied is completely rigid.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: If the quantity supplied is exactly equal to the relative change in price then the elasticity of supply is:
+A) Less than one.
+B) Greater than one.
+C) One.
+D) None of the above.
+Ans: C
+Exp: When %ΔQs = %ΔP, the elasticity of supply is unitary (Es = 1).
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Elasticity of supply is greater than one when
+A) Proportionate change in quantity supplied is more than the proportionate change in price.
+B) Proportionate change in price is greater than the proportionate change in quantity supplied.
+C) Change in price and quantity supplied are equal.
+D) None of the above.
+Ans: A
+Exp: Supply is price elastic (Es > 1) when the percentage response in output exceeds the percentage change in price.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: When the supply of a product is perfectly inelastic then the curve will be
+A) Parallel to Y - axis
+B) Parallel to X - axis
+C) At the angle of 45°
+D) Sloping upwards
+Ans: A
+Exp: Perfectly inelastic supply is graphed as a vertical straight line parallel to the Y-axis.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The cross elasticity between Rye bread and Whole Wheat bread is expected to be:
+A) Positive
+B) Negative
+C) Zero
+D) Can't say
+Ans: A
+Exp: Rye bread and whole wheat bread are close substitutes, resulting in a positive cross-price elasticity.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The supply function is given as Q = -100 + 10P Find the elasticity using point method, when price is 15.
+A) 4
+B) -3
+C) -5
+D) 3
+Ans: D
+Exp: At P=15, Q = -100 + 10(15) = 50. dQ/dP = 10. Point Es = (dQ/dP) * (P/Q) = 10 * (15 / 50) = 3.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: Equilibrium refers to a market situation where quantity demand is to quantity supplied.
+A) Equal
+B) Less than or Equal
+C) More than
+D) More than or equal
+Ans: A
+Exp: Market equilibrium is achieved when market quantity demanded is strictly equal to market quantity supplied.
+Sub: Theory of Demand and Supply
+
+---
+
+Q: The equilibrium price is determined by the inter-section between and It is also called as the equilibrium.
+A) Demand, Supply, Static
+B) Demand Supply, Dynamic
+C) Supply, Demand, Partial
+D) Demand, Supply, Market
+Ans: D
+Exp: The intersection of the market demand and market supply curves determines the Market Equilibrium Price.
+Sub: Theory of Demand and Supply
+
+---

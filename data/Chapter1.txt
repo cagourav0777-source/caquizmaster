@@ -1,0 +1,4191 @@
+Q: Economists regard decision making as important because
+A) The resources required to satisfy our unlimited wants and needs are finite, or scarce.
+B) It is crucial to understand how we can best allocate our scarce resources to satisfy society’s unlimited wants and needs.
+C) Resources have alternative uses.
+D) All the above.
+Ans: D
+Exp: Decision making arises because productive resources are scarce, have alternative uses, and human wants are unlimited.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Business Economics is -
+A) Abstract and applies the tools of Microeconomics.
+B) Involves practical application of economic theory in business decision making.
+C) Incorporates tools from multiple disciplines.
+D) (b) and (c) above.
+Ans: D
+Exp: Business Economics is pragmatic, interdisciplinary, and applies economic theory to solve real-world business problems.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In Economics, we use the term scarcity to mean -
+A) Absolute scarcity and lack of resources in less developed countries.
+B) Relative scarcity i.e. scarcity in relation to the wants of the society.
+C) Scarcity during times of business failure and natural calamities.
+D) Scarcity caused on account of excessive consumption by the rich.
+Ans: B
+Exp: Scarcity is always relative, meaning resources are limited in comparison to the unlimited desires of society.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: What implication(s) does resource scarcity have for the satisfaction of wants?
+A) Not all wants can be satisfied.
+B) We will never be faced with the need to make choices.
+C) We must develop ways to decrease our individual wants.
+D) The discovery of new natural resources is necessary to increase our ability to satisfy wants.
+Ans: A
+Exp: Because available resources are scarce, society cannot satisfy all wants simultaneously and must prioritize.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is a normative statement?
+A) Planned economies allocate resources via government departments.
+B) Most transitional economies have experienced problems of falling output and rising prices over the past decade.
+C) There is a greater degree of consumer sovereignty in market economies than planned economies.
+D) Reducing inequality should be a major priority for mixed economies.
+Ans: D
+Exp: Normative economics deals with value judgments and prescriptive opinions about 'what ought to be'.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In every economic system, scarcity imposes limitations on
+A) households, business firms, governments, and the nation as a whole.
+B) households and business firms, but not the governments.
+C) local and state governments, but not the federal government.
+D) households and governments, but not business firms.
+Ans: A
+Exp: Scarcity is universal and constrains every entity including individuals, corporations, and governments.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Macroeconomics is also called——— economics
+A) applied
+B) aggregate
+C) experimental
+D) none of the above
+Ans: B
+Exp: Macroeconomics studies aggregate economic variables such as total output, national income, and overall price levels.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: An example of ‘positive’ economic analysis would be:
+A) an analysis of the relationship between the price of food and the quantity purchased.
+B) determining how much income each person should be guaranteed.
+C) determining the ‘fair’ price for food.
+D) deciding how to distribute the output of the economy.
+Ans: A
+Exp: Positive economics is objective and fact-based, analyzing cause-and-effect relationships without moral judgments.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: A study of how increases in the corporate income tax rate will affect the national unemployment rate is an example of -
+A) Macro-Economics.
+B) Descriptive Economics.
+C) Micro-economics.
+D) Normative economics.
+Ans: A
+Exp: National unemployment and aggregate fiscal tax impacts are macroeconomic phenomena.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following does not suggest a macro approach for India?
+A) Determining the GNP of India.
+B) Finding the causes of failure of ABC Ltd.
+C) Identifying the causes of inflation in India.
+D) Analyse the causes of failure of industry in providing large scale employment
+Ans: B
+Exp: Analyzing an individual firm like ABC Ltd is a microeconomic investigation.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Ram: My corn harvest this year is poor. Krishan: Don’t worry. Price increases will compensate for the fall in quantity supplied. Vinod: Climate affects crop yields. Some years are bad, others are good. Madhu: The Government ought to guarantee that our income will not fall. In this conversation, the normative statement is made by -
+A) Ram
+B) Krishan
+C) Vinod
+D) Madhu
+Ans: D
+Exp: Madhu's statement uses 'ought to', which prescribes an ethical policy action (normative statement).
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Consider the following and decide which, if any, economy is without scarcity:
+A) The pre-independent Indian economy, where most people were farmers.
+B) A mythical economy where everybody is a billionaire.
+C) Any economy where income is distributed equally among its people.
+D) None of the above.
+Ans: D
+Exp: Scarcity is a fundamental reality in every economy because human wants endlessly outpace resources.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not a subject matter of Micro-economies?
+A) The price of mangoes.
+B) The cost of producing a fire truck for the fire department of Delhi, India.
+C) The quantity of mangoes produced for the mangoes market.
+D) The national economy’s annual rate of growth.
+Ans: D
+Exp: The national economy's growth rate is a macroeconomic indicator.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The branch of economic theory that deals with the problem of allocation of resources is-
+A) Micro-Economic theory.
+B) Macro-economic theory.
+C) Econometrics.
+D) None of the above.
+Ans: A
+Exp: Microeconomics studies how individual markets and firms allocate scarce resources among competing uses.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not the subject matter of Business Economics?
+A) Should our firm be in this business?
+B) How much should be produced and at price should be kept?
+C) How will the product be placed in the market?
+D) How should we decrease unemployment in the economy?
+Ans: D
+Exp: Reducing national unemployment is a public macroeconomic policy objective, not an internal firm business issue.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is a normative economic statement?
+A) Unemployment rate decreases with industrialization
+B) Economics is a social science that studies human behaviour.
+C) The minimum wage should be raised toRs.200/- per day
+D) India spends a huge amount of money on national defence.
+Ans: C
+Exp: Saying wages 'should be raised' reflects a subjective value judgment rather than a verifiable factual statement.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following would be considered a topic of study in Macroeconomics?
+A) The effect of increase in wages on the profitability of cotton industry
+B) The effect on steel prices when more steel is imported
+C) The effect of an increasing inflation rate on living standards of people in India
+D) The effect of an increase in the price of coffee on the quantity of tea consumed
+Ans: C
+Exp: Inflation rates and overall living standards of a country represent macro-level economic issues.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The difference between positive and normative Economics is:
+A) Positive Economics explains the performance of the economy while normative Economics finds out the reasons for poor performance.
+B) Positive Economics describes the facts of the economy while normative Economics involves evaluating whether some of these are good or bad for the welfare of the people.
+C) Normative Economics describes the facts of the economy while positive Economics involves evaluating whether some of these are good or bad for the welfare of the people.
+D) Positive Economics prescribes while normative Economics describes.
+Ans: B
+Exp: Positive economics describes objective facts ('what is'), while normative economics evaluates welfare ('what ought to be').
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not within the scope of Business Economics?
+A) Capital Budgeting
+B) Risk Analysis
+C) Business Cycles
+D) Accounting Standards
+Ans: D
+Exp: Accounting standards are financial compliance frameworks, whereas capital budgeting, risk, and business cycles are core economic tools.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is incorrect?
+A) Business economics is normative in nature.
+B) Business Economics has a close connection with statistics.
+C) Business Economist need not worry about macro variables.
+D) Business Economics is also called Managerial Economics.
+Ans: C
+Exp: Business economists must evaluate external macroeconomic environment variables (like GDP, inflation, and interest rates).
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Economic goods are considered scarce resources because they.
+A) cannot be increased in quantity.
+B) do not exist in adequate quantity to satisfy the requirements of the society.
+C) are of primary importance in satisfying social requirements.
+D) are limited to man made goods.
+Ans: B
+Exp: An economic good is scarce because its supply is limited relative to societal demand, commanding a positive price.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In a free market economy the allocation of resources is determined by
+A) voting done by consumers.
+B) a central planning authority.
+C) consumer preferences.
+D) the level of profits of firms.
+Ans: C
+Exp: In a market economy, consumer sovereignty and preferences guide producers through price signals.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: A capitalist economy uses ____________________ as the principal means of allocating resources.
+A) demand
+B) supply
+C) efficiency
+D) prices
+Ans: D
+Exp: The price mechanism coordinates supply and demand to allocate resources automatically in capitalism.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is considered as a disadvantage of allocating resources using the market system?
+A) Income will tend to be unevenly distributed.
+B) People do not get goods of their choice.
+C) Men of Initiative and enterprise are not rewarded.
+D) Profits will tend to be low.
+Ans: A
+Exp: Market systems reward capital ownership and enterprise, often widening wealth and income inequalities.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements does not apply to a market economy?
+A) Firms decide whom to hire and what to produce.
+B) Firms aim at maximizing profits.
+C) Households decide which firms to work for and what to buy with their incomes.
+D) Government policies are the primary forces that guide the decisions of firms and households.
+Ans: D
+Exp: Decentralized private decisions driven by market forces guide a market economy, not central government directives.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In a mixed economy -
+A) all economic decisions are taken by the central authority.
+B) all economic decisions are taken by private entrepreneurs.
+C) economic decisions are partly taken by the state and partly by the private entrepreneurs.
+D) none of the above.
+Ans: C
+Exp: A mixed economy combines private enterprise with public sector state regulation and ownership.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The central problem in economics is that of
+A) comparing the success of command versus market economies.
+B) guaranteering that production occurs in the most efficient manner.
+C) guaranteering a minimum level of income for every citizen.
+D) allocating scarce resources in such a manner that society’s unlimited needs or wants are satisfied in the best possible manner.
+Ans: D
+Exp: The fundamental economic problem is optimally allocating scarce resources to maximize satisfaction of unlimited wants.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Capital intensive technique would get chosen in a
+A) labour surplus economy where the relative price of capital is lower.
+B) capital surplus economy where the relative price of capital is lower.
+C) developed economy where technology is better.
+D) developing economy where technology is poor.
+Ans: B
+Exp: Firms choose capital-intensive methods when capital is abundant and relatively cheaper than labour.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not one of the four central questions that the study of economics is supposed to answer?
+A) Who produces what?
+B) When are goods produced?
+C) Who consumes what?
+D) How are goods produced?
+Ans: B
+Exp: The core economic questions are: What to produce, How to produce, For whom to produce, and Provision for future growth.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Larger production of ______ goods would lead to higher production in future.
+A) consumer goods
+B) capital goods
+C) agricultural goods
+D) public goods
+Ans: B
+Exp: Capital goods (such as tools, machines, and infrastructure) build productive capacity for future output.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The economic system in which all the means of production are owned and controlled by private individuals for profit.
+A) Socialism
+B) Capitalism
+C) Mixed economy
+D) Communism
+Ans: B
+Exp: Capitalism is defined by private property rights, enterprise freedom, and the pursuit of individual profit.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Macro Economics is the study of ________________________.
+A) all aspects of scarcity.
+B) the national economy and the global economy as a whole.
+C) big businesses.
+D) the decisions of individual businesses and people.
+Ans: B
+Exp: Macroeconomics focuses on the structure, performance, and behavior of the overall economy.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Freedom of choice is the advantage of -
+A) Socialism
+B) Capitalism
+C) Communism
+D) None of the above
+Ans: B
+Exp: Capitalism allows consumers and producers complete autonomy in consumption and occupational choices.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Exploitation and inequality are minimal under:
+A) Socialism
+B) Capitalism
+C) Mixed economy
+D) None of the above
+Ans: A
+Exp: Under socialism, public ownership and planned distribution prevent private monopolization and worker exploitation.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Administered prices refer to:
+A) Prices determined by forces of demand and supply
+B) Prices determined by sellers in the market
+C) Prices determined by an external authority which is usually the government
+D) None of the above
+Ans: C
+Exp: Administered prices are statutory prices fixed by government agencies rather than free market interaction.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In Economics, the central economic problem means:
+A) Output is restricted to the limited availability of resources
+B) Consumer do not have as much money as they would wish
+C) There will always be certain level of unemployment
+D) Resources are not always allocated in an optimum way
+Ans: A
+Exp: The central problem is that available physical resources are finite, thereby restricting total attainable output.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Scarcity definition of Economics is given by-
+A) Alfred Marshall
+B) Samuelson
+C) Robinson
+D) Adam Smith
+Ans: C
+Exp: Lionel Robbins propounded the scarcity and choice definition of economics in 1932.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The definition “Science which deals with wealth of Nation” was given by:
+A) Alfred Marshall
+B) A C Pigou
+C) Adam Smith
+D) J B Say
+Ans: C
+Exp: Adam Smith is renowned for defining economics as an inquiry into the nature and causes of the wealth of nations.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not one of the features of capitalist economy?
+A) Right of private property
+B) Freedom of choice by the consumers
+C) No profit, No Loss motive
+D) Competition
+Ans: C
+Exp: Capitalist enterprises are driven purely by profit maximization, not a 'no profit no loss' motive.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: There is need of economic study, because –
+A) The resources are limited
+B) The wants are unlimited
+C) The resources are unlimited
+D) Both a and b
+Ans: D
+Exp: Economics exists specifically because unlimited human desires must be met with limited productive resources.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The benefit of economics study is –
+A) It ensure that all problems will be appropriately tackled
+B) It helps in identifying problems
+C) It enable to examine a problem in its right perspective
+D) It gives exact solutions to every problem
+Ans: C
+Exp: Economics trains the analytical mind to evaluate complex trade-offs and issues objectively.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The managerial economics –
+A) Is Applied Economics that fills the gap between economic theory and business practice
+B) Is just a theory concept
+C) Trains managers how to behave in recession
+D) Provides the tools which explain various concepts
+Ans: A
+Exp: Managerial economics applies microeconomic concepts to bridge abstract theory with practical decision-making.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is correct?
+A) Micro economics is important for study of a particular household and a particular firm
+B) Macro economics is important for study of economic conditions of a country
+C) None of the above
+D) Both a and b
+Ans: D
+Exp: Microeconomics studies individual decision-making units, while macroeconomics studies national aggregate conditions.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Mr. Satish hired a business consultant to guide him for growth of his business. The consultant visited his factory and suggested some changes with respect to staff appointment, loan availability and so on. Which approach is that consultant using?
+A) Micro economics
+B) Macro economics
+C) None of the above
+D) Both a and b
+Ans: A
+Exp: Focusing on internal operations, staff allocation, and plant financing is a firm-specific microeconomic approach.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Profit motive is a merit of
+A) Socialism
+B) Capitalism
+C) Mixed economy
+D) None of the above
+Ans: B
+Exp: The profit motive in capitalism serves as a powerful incentive for efficiency, innovation, and output expansion.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: _______ is also called as command economy
+A) Socialist
+B) Capitalist
+C) Mixed economy
+D) None of the above
+Ans: A
+Exp: A socialist economy is termed a command economy because central authorities dictate resource allocation.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is/are correct regarding business economics?
+A) Business economics attempts to indicate how business policies are firmly rooted in economic principles.
+B) Business economics uses micro economic analysis of the business unit and macro economic analysis of business environment.
+C) Business economics takes a pragmatic approach towards facilitating an integration between economic theory and business practices.
+D) All the above.
+Ans: D
+Exp: Business economics integrates micro tools, macro awareness, and practical pragmatic applications.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Unlimited ends and limited means together present the problem of ________________.
+A) Scarcity of resources
+B) Choice
+C) Distribution
+D) None of the above
+Ans: B
+Exp: Unlimited wants combined with scarce resources force economic agents to make choices.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In the beginning the name of economics was _____
+A) Economics of wealth
+B) Political economy
+C) Welfare economics
+D) None of these
+Ans: B
+Exp: Historically, economics was referred to as 'Political Economy' until the late 19th century.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Economics is a Science which deals with wealth’ was referred by
+A) Alfred Marshal
+B) J.B. Say
+C) Adam Smith
+D) A.C. Pigou.
+Ans: B
+Exp: J.B. Say defined economics as the science which treats of wealth and its production/distribution.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: “If Americans today, for example were to content to live at the level of the Indian middle class people, all their wants would be fully satisfied with their available resources and capacity to produce.” On the basis of the above statement, which of the following conclusion can be made?
+A) The possession of goods and services by USA has enormously increased to exceed their wants.
+B) The affluent and developed countries of USA and Western Europe face the problem of scarcity even today as their present wants remain a head of their increased resources and capacity to produce.
+C) The affluent and developed countries are not facing the problem of scarcity.
+D) None of these
+Ans: B
+Exp: Scarcity persists in affluent nations because new and higher wants continuously emerge as capacity grows.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Economics is a branch of ________ focused on the production, distribution and consumption of goods and services.
+A) Natural science
+B) Physical science
+C) Social science
+D) None of these
+Ans: C
+Exp: Economics studies human behavior in society regarding resource allocation, making it a social science.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: ___ expressed the view the “Economics is neutral between end”.
+A) Robbins
+B) Marshall
+C) Pigou
+D) Adam Smith
+Ans: A
+Exp: Lionel Robbins asserted that economics is purely a positive science that remains neutral regarding ends.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Most of the economic problems are of ______ nature and are affected by ______
+A) Complex, Several forces
+B) Simple, Several forces
+C) Simple, single factor
+D) Complex, Single factor
+Ans: A
+Exp: Economic problems are multi-faceted and influenced simultaneously by diverse behavioral and market variables.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is true?
+A) The study of economics ensures that all problems will be appropriately tackled.
+B) The study of economics cannot ensure that all problems will be appropriately tackled.
+C) The study of economics does not enable a student to examine a problem in its right perspective.
+D) None of these
+Ans: B
+Exp: Economics provides analytical tools and frameworks, but cannot guarantee flawless practical solutions to every issue.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Economic is classified into____
+A) Normative and positive
+B) Micro and macro
+C) Internal and external
+D) None of the above
+Ans: B
+Exp: Ragnar Frisch in 1933 formally classified economic theory into Microeconomics and Macroeconomics.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is correct?
+A) Employment and economic growth are studied in micro-economics.
+B) Micro economics deals with balance of trade
+C) Economic condition of a section of the people is studied in micro-economics
+D) External value of money is dealt with in micro-economics
+Ans: C
+Exp: Studying a particular small segment or group of people/firms falls under microeconomics.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: When we study why saving rates are high or low, we are studying :
+A) Macro Economics
+B) Micro Economics
+C) Econometrics
+D) Both (a) and (b)
+Ans: A
+Exp: National aggregate saving rates and capital formation belong to macroeconomic analysis.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not a subject matter of micro economics?
+A) Behaviour of firms
+B) Location of industry
+C) Consumer behaviour
+D) Foreign exchange rate
+Ans: D
+Exp: Foreign exchange rates involve national balance of payments, which is a macroeconomic subject.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: ____ is concerned with welfare Proposition
+A) Normative Economics
+B) Positive Economics
+C) Both (A) and (B)
+D) None of these
+Ans: A
+Exp: Welfare propositions assess value-based outcomes, making them part of normative economics.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Business economics is ___ in its Approach
+A) Idealistic
+B) Pragmatic
+C) Both (A) and (B)
+D) None of these
+Ans: B
+Exp: Business economics is practical and pragmatic, addressing real operational problems rather than abstract ideals.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: “Generally a business manager is concerned with problems of his own business units. He does not study the economic problems of an economy as a whole. ”State whether the above statement is______
+A) True
+B) False
+C) Partly True
+D) Partly False
+Ans: A
+Exp: Managers focus primarily on micro-level firm operations, although they must remain aware of macro shifts.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Taxation involves which aspects of normative economics:
+A) Incidence
+B) Fairness
+C) Incentive to work
+D) All of the above
+Ans: B
+Exp: The concept of tax fairness (equity and justice) is inherently normative and value-driven.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Business economics is____
+A) science
+B) An art
+C) Both science and art
+D) None of these
+Ans: C
+Exp: Business economics is a science as it uses structured methodologies, and an art as it involves practical application.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following refers to the sum total of arrangements for the product and distribution of goods and services in society?
+A) Economic system
+B) Business system
+C) Capitalist economic system
+D) Socialist economic system
+Ans: A
+Exp: An economic system represents the organizational framework through which a society produces and distributes goods.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: “A wise individual or a society likes to provide for its growth of productive capacity.” This requires that a part of its resources should be devoted to the production of __
+A) Consumer goods
+B) Capital goods
+C) Defense goods
+D) None of these
+Ans: B
+Exp: Producing capital goods expands plant and machinery, ensuring future productive capacity growth.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The problem of “what to produce relate to
+A) The choice of goods and service
+B) Distribution of income
+C) The choice of technique
+D) None of these
+Ans: A
+Exp: 'What to produce' concerns deciding the quantities and varieties of consumer and capital goods to manufacture.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not one of the features of capitalist economy?
+A) Right of private property
+B) Freedom of choice by the consumers
+C) No profit, No Loss motive
+D) Competition
+Ans: C
+Exp: Capitalism functions on the profit motive; non-profit operations do not define capitalist markets.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The regulatory mechanism of the market system is-
+A) Self interest
+B) Private property
+C) Competition
+D) Specialization
+Ans: C
+Exp: Competition prevents monopolies and ensures fair pricing, acting as the regulatory mechanism in free markets.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: If there is no central planning authority to make the fundamental economic decisions and thus to allocate productive resources, how can then free enterprise or capitalist economy solve its central problems?
+A) Through the power of God
+B) On the basis of decision taken by industrial groups.
+C) The free market economy uses the impersonal forces of the market to solve its central problems
+D) None of these
+Ans: C
+Exp: Free markets rely on the impersonal forces of supply and demand (Adam Smith's invisible hand).
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The industrialization and economic development of the USA, Great Britain and other Western European countries have taken place under the condition of__?
+A) Socialism and planned structure
+B) Capitalism and laissez faire
+C) Mixed economic structure
+D) None of these
+Ans: B
+Exp: Western industrial revolutions historically unfolded under capitalist, laissez-faire market frameworks.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The Characteristic of capitalist economics does not include?
+A) Right to Private property
+B) Freedom of economic choice
+C) Absence of Consumer choice
+D) Competition
+Ans: C
+Exp: Consumer sovereignty (freedom of choice) is a core pillar of capitalism, not its absence.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following economic system is self regulating and run by invisible hands ?
+A) Mixed economic system
+B) Socialistic economic system
+C) Capitalist economic system
+D) Planned economic system
+Ans: C
+Exp: Capitalism operates self-regulatingly through the price mechanism ('invisible hand').
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In a socialist economy the allocation of resources is done by-
+A) Market Price
+B) Consumer preferences
+C) A central planning authority
+D) The level of corporate profits
+Ans: C
+Exp: Central planning authorities dictate economic targets, quotas, and distribution in socialism.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: A socialist economy is a system of production where goods and services are produced _______
+A) to generate profit
+B) directly for use
+C) Both (A) and (B)
+D) None of these
+Ans: B
+Exp: Socialism prioritizes production directly for social use and human need rather than private monetary profit.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following is not a merit of socialist economy?
+A) It provides equal access to health care and education
+B) Workers are no longer exploited because they own the means of production
+C) Profits are not spread equitably among all workers according to their individual contributions.
+D) Natural resources are preserved for the good of the whole
+Ans: C
+Exp: In socialism, equitable reward distribution is intended as a merit; statement C is phrased negatively.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which economy is now a myth only, as no country in the world is having that type of economy?
+A) Capitalist Economy
+B) Socialist Economy
+C) Mixed Economy
+D) None of the above
+Ans: B
+Exp: Pure socialism without any market mechanism is non-existent today; all modern nations have adopted mixed features.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is/are correct about mixed economic system?
+A) Mixed economic system depends on both markets and governments for allocation of resources
+B) Mixed economy is not always a golden path between capitalism and socialism.
+C) It is very difficult to maintain a proper balance between private and public sectors.
+D) All of the above
+Ans: D
+Exp: Mixed economies balance both sectors, face coordination friction, and are not universally ideal.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statements is correct?
+A) In a two-good economy, the production possibilities frontier reflects the maximum amount of one good that can be produced when a given amount of the other good is produced.
+B) Microeconomics is the study of the behavior of the economy as a whole.
+C) Positive economics focuses on welfare of the people of a society
+D) None of the above
+Ans: A
+Exp: The Production Possibilities Curve (PPC/PPF) depicts maximum output combinations given fixed resources and technology.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of the following statement is correct?
+A) Mixed economy is not always a ‘golden path’ between capitalistic and socialistic economy
+B) Socialistic economy is not always a ‘golden path’ between mixed economy and capitalism
+C) Capitalistic economy is not always a ‘golden path’ between mixed economy and socialism
+D) Local economy is not always a ‘golden path’ between internal and international economy
+Ans: A
+Exp: Critics highlight that mixed economies often inherit the inefficiencies of both market failure and government bureaucracy.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Capitalist system offers incentives for ______
+A) Efficient business decisions
+B) Efficient government decisions
+C) Efficient non-governmental decisions
+D) Efficient economic decisions
+Ans: D
+Exp: Capitalism ties economic rewards directly to efficient, value-creating economic choices.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The ‘Communist Manifesto’ was published in:
+A) 1848
+B) 1905
+C) 1952
+D) None of these.
+Ans: A
+Exp: Karl Marx and Friedrich Engels published 'The Communist Manifesto' in 1848.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Encourage enterprise and risk taking is considered as a merit of which of the following economy?
+A) Social economy
+B) Political Economy
+C) Mixed Economy
+D) Managerial economy
+Ans: C
+Exp: Mixed economies protect private property and profit incentives, promoting entrepreneurship and risk-taking.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: ____ involves the predominance of bureaucracy and resulting inefficiencies and delays
+A) Socialistic economy
+B) Capitalist economy
+C) Mixed economy
+D) Free market economy
+Ans: A
+Exp: Excessive state control in socialism often leads to red-tapism, administrative delays, and bureaucratic inefficiency.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The survival and success of any business depends on sound____
+A) Mind
+B) Environment
+C) Decisions
+D) None of these
+Ans: C
+Exp: Rational and informed decision-making under uncertainty is crucial for business sustainability.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: _____ is concerned with welfare proposition.
+A) Normative Economics
+B) Positive Economics
+C) Both (a) and (b)
+D) None of these
+Ans: A
+Exp: Normative economics assesses policies based on ethics, fairness, and overall societal welfare.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Microeconomics deals primarily with:
+A) comparative statics, general equilibrium, and positive economics
+B) comparative statics, partial equilibrium, and normative economics
+C) dynamics, partial equilibrium, and positive economics
+D) comparative statics, partial equilibrium, and positive economics.
+Ans: D
+Exp: Microeconomics traditionally utilizes partial equilibrium analysis and comparative statics within a positive framework.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: What is economic planning?
+A) It refers to Central planning authority.
+B) It refers the planning of agricultural production.
+C) It means development in the seller’s market.
+D) A process through which targets are being achieved as per need & means of the economy
+Ans: D
+Exp: Economic planning is the deliberate coordination of resources to attain predetermined socioeconomic targets.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: What is the merit of Capitalism?
+A) It promotes self-interest & economic growth.
+B) It leads economic balance in the country
+C) It leads to equitable distribution of wealth.
+D) It leads to income equality
+Ans: A
+Exp: Harnessing individual self-interest drives innovation, capital accumulation, and rapid growth.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Normative economics is also known as -
+A) Prescriptive Economics
+B) Positive Economics
+C) Applied Economics
+D) None of these
+Ans: A
+Exp: Normative economics prescribes what policies ought to be adopted, hence termed prescriptive economics.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: In a market economy, resource allocation is primarily determined by:
+A) Central planning by the government
+B) Consumer demand and supply in the marketplace
+C) The decisions of a few large corporations
+D) International trade agreements
+Ans: B
+Exp: Interaction of competitive supply and demand curves sets equilibrium quantities and prices.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which of these countries is a purely socialist economy?
+A) USSR
+B) China
+C) Vietnam
+D) None of these
+Ans: D
+Exp: No modern state maintains a 100% pure socialist economy today; all engage in market-based transactions.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Business Economics is basically concerned with:
+A) Applied Economics
+B) Managerial Economics
+C) Micro Economics
+D) Macro Economics
+Ans: B
+Exp: Business Economics is essentially Managerial Economics applied to firm-level problem solving.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Sarah runs a lemonade stall, her decision-making process involves assessing the demand for her lemonade, pricing strategies and maximizing her profits within the limited scope of her small business. Which level of the economy does Sarah's lemonade stall represent?
+A) Масrо Economy
+B) Global Economy
+C) Micro Economy
+D) National Economy
+Ans: C
+Exp: A single small business deciding on pricing and local output represents microeconomic behavior.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Price in capitalist economy is determined by:
+A) Small private firms
+B) Big corporates
+C) Market forces of demand and supply
+D) Government
+Ans: C
+Exp: In capitalism, prices are freely determined by the market forces of demand and supply.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Micro economics is abstract and purely ___ nature and takes ____ assumptions
+A) Pragmatic, Unrealistic
+B) Practical, Realistic
+C) Theoretical, Unrealistic
+D) Theoretical, Realistic
+Ans: C
+Exp: Pure microeconomic theory builds abstract mathematical models based on simplifying (often unrealistic) assumptions like ceteris paribus.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Mr. X had been given a task to segregate normative and non-normative statements. Help him to identify which one of these is normative economic statement?
+A) Pollution level is rising day by day because of urbanization
+B) The part time working hours of students should be increased to 25 hours per week
+C) Due to the increased number of cars on roads, people will be stuck in traffic jams
+D) The government has allotted a major portion of revenue in defense.
+Ans: B
+Exp: Statement B contains 'should be increased', expressing a value judgment (normative).
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: What is the nature of business economics, which is an applied branch of economics?
+A) It is positive in nature
+B) It is normative in nature
+C) It is neutral in nature
+D) It is both positive as well as normative in nature.
+Ans: B
+Exp: While drawing upon positive rules, business economics is primarily normative as it guides what a firm 'should' do to reach goals.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: Which statement differentiates business economics from economics?
+A) It is abstract in nature
+B) It is broader concept than economics
+C) It is no different from economics
+D) It is pragmatic in nature
+Ans: D
+Exp: Unlike abstract theoretical economics, business economics is pragmatic and focused on realistic applications.
+Sub: Nature & Scope of Business Economics
+
+---
+
+Q: The term 'Economics' owes its origin to the Greek word.
+A) Aikonomia
+B) Wikonomia
+C) Oikonomia
+D) None of the above
+Ans: C
+Exp: The word 'Economics' is derived from the Greek word 'Oikonomia', which means 'management of household'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economics in terms of Dynamic Growth and development defined by
+A) Adam Smith
+B) Robbins
+C) Alfred Marshall
+D) Paul A Samuelson
+Ans: D
+Exp: Paul A. Samuelson provided the growth-oriented definition of economics emphasizing dynamic growth and resource allocation over time.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Adam Smith published his masterpiece "An enquiry into the nature and causes of wealth of nations" in the year
+A) 1776
+B) 1786
+C) 1789
+D) 1790
+Ans: A
+Exp: Adam Smith published his pioneering work 'The Wealth of Nations' in the year 1776.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which book of economics is known as first book of modern economics?
+A) An Inquiry into nation
+B) An inquiry into wealth of nation
+C) An inquiry into wealth
+D) Wealth of nation
+Ans: B
+Exp: Adam Smith's 'An Inquiry into the Nature and Causes of the Wealth of Nations' (1776) is regarded as the first book of modern economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Oikonomia means
+A) Industry
+B) Management of household
+C) Services
+D) None of these
+Ans: B
+Exp: In ancient Greek, 'Oikonomia' strictly translates to the management of household affairs.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The book "Wealth of Nations" was written by
+A) Alfred Marshall
+B) Join Robinson
+C) Adam Smith
+D) Robert Malthus
+Ans: C
+Exp: Adam Smith, known as the Father of Modern Economics, authored 'Wealth of Nations'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economists regard decision making as important because:
+A) The resources required to satisfy our unlimited wants and needs are finite or scarce.
+B) It is crucial to understand how we can best allocate our scarce resources to satisfy society's unlimited wants and needs.
+C) Resources have alternative uses.
+D) All of the above.
+Ans: D
+Exp: Decision making arises because productive resources are scarce, have alternative uses, and human wants are unlimited.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: are responsible for all economic problems
+A) Alternative resources
+B) Unlimited wants
+C) Scarcity of resources
+D) Others
+Ans: C
+Exp: Scarcity of resources in relation to unlimited human needs is the root cause of all economic problems.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: 'Economics is the science of choice making'. It implies:
+A) No choice is to be made
+B) Choice to be made between alternative uses
+C) Choice to be made between means and ends
+D) None of the above
+Ans: B
+Exp: Because resources have alternative uses, economic agents must choose the most efficient allocation among alternatives.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The famous book abbreviated as "The Wealth of Nations", which is also considered as the first modern work of Economics, was written by
+A) Frederic Engels
+B) Karl Marx
+C) David Ricardo
+D) Adam Smith
+Ans: D
+Exp: Adam Smith wrote the landmark treatise 'The Wealth of Nations' in 1776.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The concept of socialist economy was propounded by Karl Marx and Frederic Engels in their work. The Communist Manifesto was published in the year.
+A) 1947
+B) 1848
+C) 1949
+D) 1950
+Ans: B
+Exp: Karl Marx and Friedrich Engels published 'The Communist Manifesto' in the year 1848.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one is the feature of Marshall's definition?
+A) Limited ends
+B) Scarce means
+C) Study of wealth as well as study of man
+D) Study of allocation of resources
+Ans: C
+Exp: Alfred Marshall defined economics as a study of mankind in the ordinary business of life, studying wealth as well as human material welfare.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: According to Robbins, 'means' are:
+A) Scarce
+B) Unlimited
+C) Undefined
+D) All of these
+Ans: A
+Exp: Lionel Robbins defined economics as the relationship between unlimited ends and scarce means that have alternative uses.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Scarcity definition of Economics is given by.
+A) Alfred Marshall
+B) Samuelson
+C) Robinson
+D) Adam Smith
+Ans: C
+Exp: Lionel Robbins (referred here as Robinson) introduced the scarcity and choice definition of economics in 1932.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The definition "Science which deals with wealth of Nation" was given by:
+A) Alfred Marshall
+B) A C Pigou
+C) Adam Smith
+D) JB Say
+Ans: C
+Exp: Adam Smith defined economics as an inquiry into the nature and causes of the wealth of nations.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economics is the study of:
+A) How society manages its unlimited resources
+B) How to reduce our wants until we are satisfied
+C) How society manages its scarce resources
+D) How to fully satisfy our unlimited wants
+Ans: C
+Exp: Economics fundamentally studies how societies allocate their scarce resources to satisfy competing human desires.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In Economics, we use "scarcity" the term to mean:
+A) Absolute scarcity and lack of resources in less developed countries.
+B) Relative scarcity i.e. scarcity in relation to the wants of the society.
+C) Scarcity during times of business failure and natural calamities.
+D) Scarcity caused on account of excessive consumption by the rich.
+Ans: B
+Exp: In economics, scarcity is always relative—meaning resources are limited in relation to society's unlimited desires.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In Economics, we use the term scarcity to mean:
+A) Absolute scarcity and lack of resources in less developed countries.
+B) Relative scarcity i.e. scarcity in relation to the wants of the society.
+C) Scarcity during times of business failure and natural calamities.
+D) Scarcity caused on account of excessive consumption by the rich.
+Ans: B
+Exp: Scarcity represents the relative inadequacy of productive resources compared to human wants.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: An economy exists because of two basic facts i.e.
+A) Human wants are limited and resources are unlimited
+B) Human wants are unlimited and resources are unlimited
+C) Human wants are unlimited and resources are scare
+D) Human wants are limited and resources are abundant
+Ans: C
+Exp: The foundation of economic activity rests upon unlimited human wants and relatively scarce resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: What implication(s) does resource scarcity have for the satisfaction of wants?
+A) Not all wants can be satisfied.
+B) We will never be faced with the need to make choices.
+C) We must develop ways to decrease our individual wants.
+D) The discovery of new natural resources is necessary to increase our ability to satisfy wants.
+Ans: A
+Exp: Because productive resources are scarce, society cannot satisfy all wants simultaneously and must make choices.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Adam Smith defined Economics in terms of:
+A) The Science of welfare
+B) The Science of scarcity
+C) The Science of wealth
+D) The Science of wealth and welfare
+Ans: C
+Exp: Classical economists led by Adam Smith defined economics as the 'Science of Wealth'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Who defines Economics in terms of Dynamic Growth and Development?
+A) Robbins
+B) Paul A Samuelson
+C) Adam Smith
+D) None of these
+Ans: B
+Exp: Paul A. Samuelson formulated the modern growth-centric definition of economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a basic problem of an economy?
+A) Whether to produce more of consumer goods or capital goods
+B) Whether to lay emphasis on labour-intensive techniques or on capital intensive techniques
+C) Whether to produce for rich people or for poor people
+D) Whether to accept foreign direct investment in the economy
+Ans: D
+Exp: The core economic problems are What to produce, How to produce, and For whom to produce; accepting FDI is a policy choice.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In every economic system, scarcity imposes limitations on
+A) Households, business firms, governments and the nation as a whole.
+B) Households and business firms, but not the governments.
+C) Local and state governments, but not the federal government.
+D) Households and governments, but not business firms.
+Ans: A
+Exp: Scarcity is universal and constrains every level of society including individuals, enterprises, and governments.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economic goods are considered scarce resources because they
+A) Cannot be increased in quantity.
+B) Do not exist in adequate quantity to satisfy the requirements of the society.
+C) Are of primary importance in satisfying social requirements.
+D) Are limited to man made goods.
+Ans: B
+Exp: An economic good is scarce because its supply is limited relative to societal demand, thereby commanding a positive price.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: 'Economics is the study of mankind in the ordinary business of life' was given by:
+A) Adam Smith
+B) Lord Robbins
+C) Alfred Marshall
+D) Samuelson
+Ans: C
+Exp: Alfred Marshall gave the material welfare definition in his 1890 book 'Principles of Economics'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Consider the following and decide which, if any, economy is without scarcity:
+A) The pre-independent Indian economy, where most people were farmers.
+B) Amythical economy where everybody is a billionaire.
+C) Any economy where income is distributed equally among its people.
+D) None of the above.
+Ans: D
+Exp: Scarcity is a universal phenomenon present in every economy because human desires continually expand.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Human wants are in response to satisfy their wants?
+A) Unlimited
+B) Limited
+C) Scarce
+D) Multiple
+Ans: A
+Exp: Human wants are inherently unlimited and recurring in nature.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: There is need of economic study, because-
+A) The resources are limited
+B) The wants are unlimited
+C) The resources are unlimited
+D) Both (a) and (b)
+Ans: D
+Exp: The study of economics is necessary because unlimited human wants must be satisfied using limited productive resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The benefit of economic study is-
+A) It ensure that all problems will be appropriately tackled
+B) It helps in identifying problems
+C) It enable to examine a problem in its right perspective
+D) It gives exact solutions to every problem
+Ans: C
+Exp: Economics equips learners with analytical tools to examine real-world trade-offs in their objective perspective.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economic goods are considered as scarce resources because
+A) Inadequate quantity to satisfy the needs of the society
+B) Not possible to increase in quantity
+C) Limited hands to make goods
+D) Primary importance in satisfying social requirements
+Ans: A
+Exp: Goods are scarce because available physical quantities fall short of total societal requirements.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The meaning of time element in Economics is:
+A) Calendar time
+B) Clock time
+C) Operational time in which supply adjusts with the market demand
+D) None of the above
+Ans: C
+Exp: In economics, time element refers to the operational adjustment period of supply to market demand (Alfred Marshall).
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: All wants of an individual are not of:
+A) Equal importance
+B) Immediate importance
+C) Fixed importance
+D) All of the above
+Ans: A
+Exp: Wants differ in urgency and intensity; therefore, all wants are not of equal importance.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: refers to the process of selecting an appropriate alternative that will provide the most efficient means of attaining a desired end, from two or more alterative courses of action.
+A) Decision making
+B) Strategy
+C) Problem Solving
+D) Effectiveness
+Ans: A
+Exp: Decision making is the rational process of choosing the optimal alternative to achieve business objectives.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not within the scope of Business Economics?
+A) Capital Budgeting
+B) Risk Analysis
+C) Business Cycles
+D) Accounting Standards
+Ans: D
+Exp: Accounting standards are financial reporting frameworks, whereas capital budgeting, risk, and business cycles are core economic tools.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is
+A) Abstract and applies the tools of Microeconomics.
+B) Involves practical application of economic theory in business decision making.
+C) Incorporates tools from multiple disciplines.
+D) (b) and (c) above.
+Ans: D
+Exp: Business Economics is pragmatic, interdisciplinary, and applies economic concepts to practical decision-making.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is also known as?
+A) Applied Economics
+B) Managerial Economics
+C) Micro Economics
+D) All of the above
+Ans: B
+Exp: Business Economics is widely referred to as Managerial Economics as it assists managers in decision-making.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The question of choice arises because our productive resources
+A) Are limited
+B) Can be employed in alternatives
+C) Both (a) & (b)
+D) None of the above
+Ans: C
+Exp: Choice is necessitated because resources are both limited and possess alternative employments.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The management of a business unit generally needs to make
+A) Strategic Decision
+B) Tactical Decision
+C) Operational Decision
+D) All of the above
+Ans: D
+Exp: Business managers formulate strategic, tactical, and operational decisions at various organizational levels.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Concept of Business Economics was given by:
+A) Joel Dean
+B) Alfred Marshall
+C) Adam Smith
+D) L. Robbins
+Ans: A
+Exp: Joel Dean pioneered the formal concept and managerial application of Business Economics in his 1951 book.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the following is incorrect about Business Economics?
+A) It is applied economics that fills the gap between economic theory and business practice.
+B) Business Economics integrates economic theory with business practice.
+C) Business Economics is also referred to as Managerial Economics.
+D) Business Economics is more concerned with Macro Economics.
+Ans: D
+Exp: Business Economics is primarily based on microeconomics because it deals with decision-making of individual business units.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The managerial economics-
+A) Is Applied Economics that fills the gap between economic theory and business practice
+B) Is just a theory concept
+C) Trains managers how to behave in recession
+D) Provides the tools which explain various concepts
+Ans: A
+Exp: Managerial economics applies economic logic and analytical tools to solve practical business decision-making problems.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: defined Business Economics in terms of the use of economics analysis in the formulation of business policies.
+A) Joel Dean
+B) Karl Marks
+C) Adam Smith
+D) Schumpeter
+Ans: A
+Exp: Joel Dean defined Business Economics as the use of economic analysis in the formulation of business policies.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is essentially a component of as it includes application of selected quantitative techniques.
+A) Pure Economics
+B) Applied Economics
+C) Statistical Economics
+D) None of the above
+Ans: B
+Exp: Business Economics is a core branch of Applied Economics integrating economic theory with quantitative methods.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not included in Economics?
+A) Family Structure
+B) Managerial Economics
+C) Micro Economics
+D) Macro Economics
+Ans: A
+Exp: Family structure is a subject matter of sociology, whereas micro, macro, and managerial economics belong to economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The heart of Business Economics is
+A) Micro Economic Theory of the behaviour of consumers and firms in competitive markets.
+B) Macro-Economic Theory of the national income
+C) Income Economic analysis to analyze the industry
+D) All of the above
+Ans: A
+Exp: Microeconomic theory regarding firm behavior, cost, pricing, and consumer demand forms the core of Business Economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the following is not a subject matter of Micro-Economics?
+A) Behaviour of Firms
+B) External Value of Currency
+C) Factor Pricing
+D) Location of Industry
+Ans: B
+Exp: The external value of currency (foreign exchange rate and balance of payments) is a macroeconomic subject.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro economics does not study
+A) Consumer behaviour
+B) Factor pricing.
+C) General price level
+D) Firms equilibrium
+Ans: C
+Exp: General price level and inflation are economy-wide aggregates studied under Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro Economics is also known as
+A) Public Economics
+B) Income Theory
+C) Demand Theory
+D) Price Theory
+Ans: D
+Exp: Microeconomics is widely known as Price Theory because it explains how prices of goods and factor services are determined.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro Economics is the study of:
+A) Individual parts of the economy
+B) The economy as a whole
+C) Choice making
+D) Development of the economy
+Ans: A
+Exp: Microeconomics studies the economic actions and behavior of individual units like consumers, households, and firms.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro economics is also known as
+A) Public Economics
+B) Price Theory
+C) Income Theory
+D) Demand Theory
+Ans: B
+Exp: Microeconomics focuses on the determination of product and factor prices, hence called Price Theory.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economics is classified into
+A) Normative & positive
+B) Micro & Macro
+C) Internal & External
+D) None of the above
+Ans: B
+Exp: Ragnar Frisch formally classified economic theory into two major branches: Microeconomics and Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Mrs. Reshma, a CEO of a company had decided to expand the business by introducing a new product into market. She hires a consultant to guide her for deciding the pricing of the new product, study the consumer behaviour and the staff requirements. Approach of consultant will be towards
+A) Applied Economics
+B) Econometrics
+C) Macro Economics
+D) Micro Economics
+Ans: D
+Exp: Pricing decisions, consumer demand, and staffing for an individual firm fall under Microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The branch of economic theory that deals with the problem of allocation of resources is
+A) Micro-Economic theory.
+B) Macro-Economic theory.
+C) Econometrics.
+D) None of the above.
+Ans: A
+Exp: Microeconomic theory analyzes how individual markets and firms allocate scarce resources among competing uses.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not the subject matter of micro economics?
+A) Consumer Behaviour
+B) Foreign Exchange Rate
+C) Behaviour of Firms
+D) Location of Industry
+Ans: B
+Exp: Foreign exchange rates and international trade balances belong to Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro economics theories deal with
+A) Productions and Cost analysis
+B) Government Policies
+C) Total Consumption
+D) Social and political environment
+Ans: A
+Exp: Production and cost analysis of individual business units are central to microeconomic theory.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is used for allocation of resources?
+A) Micro-Economics
+B) Marco-Economics
+C) Econometrics
+D) Descriptive Economics
+Ans: A
+Exp: Resource allocation among competing individual goods and services is addressed through microeconomic analysis.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not the subject matter of Business Economics?
+A) Should our firm be in this business?
+B) How much should be produced and at price should be kept?
+C) How will the product be placed in the market?
+D) How should we decrease unemployment in the economy?
+Ans: D
+Exp: Reducing national unemployment is a public macroeconomic policy objective, not an internal firm business decision.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The branch of economic theory that deals with the problem of allocation of resources is:
+A) Micro Economics
+B) Macro Economics
+C) Econometrics
+D) None of these
+Ans: A
+Exp: Microeconomics examines how the price mechanism guides the allocation of scarce resources among alternative uses.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a subject matter of micro economics?
+A) Behaviour of firms
+B) Location of industry
+C) Consumer behaviour
+D) Foreign exchange rate
+Ans: D
+Exp: Foreign exchange rate determination is a macroeconomic topic.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro Economics Covers:
+A) National Income and National Output
+B) External Value of Currency
+C) Overall level of Savings and Investment
+D) Location of Industry
+Ans: D
+Exp: Decisions regarding the location of an industrial plant or firm are studied under Microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not an example of Micro-Economics?
+A) The effect of increase in general price on living standards
+B) The effect of increase in steel import of a country on steel prices
+C) The effect of increase in wages on Automobile Industry
+D) The effect of increase in real estate prices on the location of industry
+Ans: A
+Exp: General price level and nation-wide living standards are macroeconomic aggregates.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The study of behaviour of different individuals, organisations with in an economic system is known as
+A) Micro economics
+B) Macro economics
+C) Welfare economics
+D) None
+Ans: A
+Exp: The study of individual decision-making entities (persons and firms) within an economy is Microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A study of how increase in the corporate income tax rate will affect the natural unemployment rate is an example of:
+A) Macro Economics
+B) Descriptive Economics
+C) Micro Economics
+D) Normative Economics
+Ans: A
+Exp: Aggregate unemployment and nation-wide corporate tax policy are macroeconomic phenomena.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: examines how the individual units (Consumers or firms) make decisions as to how to efficiently allocate their scare resources.
+A) Macro Economics
+B) Micro Economics
+C) Mathematical Economics
+D) Consumer Economics
+Ans: B
+Exp: Microeconomics specifically studies decision-making by individual consumers and firms for optimal resource allocation.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following falls under micro economics?
+A) National Income
+B) General price level
+C) Factor pricing
+D) National saving and investment
+Ans: C
+Exp: Factor pricing (determination of rent, wages, interest, and profit) is a core component of microeconomic theory.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of these is a part of micro economics?
+A) Factor pricing
+B) National Income
+C) Balance of payment
+D) None of the above
+Ans: A
+Exp: Factor pricing belongs to Microeconomics, while National Income and BoP belong to Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the issue is not considered by micro economics?
+A) Production and cost analysis
+B) Demand analysis and forecasting
+C) Accounting standards
+D) Resource allocation Scope of Micro economics
+Ans: C
+Exp: Accounting standards are financial reporting regulations, not economic analytical concepts.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro economics is also known as
+A) Public economics
+B) Price theory
+C) Income theory
+D) Demand theory
+Ans: B
+Exp: Microeconomics is synonymous with Price Theory.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Micro Economics is concerned with:
+A) Consumer Behaviour
+B) Product pricing
+C) Factor Pricing
+D) All of the above
+Ans: D
+Exp: Microeconomics encompasses consumer theory, product pricing, and factor pricing.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Macro-economic is also called economics.
+A) Applied
+B) Aggregate
+C) Micro
+D) Experimental
+Ans: B
+Exp: Macroeconomics is known as Aggregate Economics because it deals with economy-wide totals.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Macro Economics is also called economics.
+A) Applied
+B) Aggregate
+C) Experimental
+D) None of the above
+Ans: B
+Exp: Macroeconomics studies aggregates like national income, aggregate demand, and overall price level.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Study of the behaviour of different individuals and organizations within an economic system is called?
+A) Industrial Economics
+B) Macro Economics
+C) Micro Economics
+D) Welfare Economics
+Ans: C
+Exp: The study of individual economic units and organizations is Microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following does not suggest a macro approach for India?
+A) Determining the GNP of India.
+B) Finding the causes of failure of ABC Ltd.
+C) Identifying the causes of inflation in India.
+D) Analyse the causes of failure of industry in providing large scale employment
+Ans: B
+Exp: The performance and failure of an individual firm (ABC Ltd) is a microeconomic matter.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Macro Economics is the study of
+A) All aspects of scarcity.
+B) The national economy and the global economy as a whole.
+C) Big businesses.
+D) The decisions of individual businesses and people.
+Ans: B
+Exp: Macroeconomics focuses on the performance and structure of the national and global economy as a whole.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A study of how increases in the corporate income tax rate will affect the national unemployment rate is an example of
+A) Macro-Economics
+B) Descriptive Economics
+C) Micro-economics
+D) Normative economics
+Ans: A
+Exp: National unemployment and fiscal tax policies are aggregate macroeconomic subjects.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of these is an example of macro economics:
+A) Problem of unemployment in India
+B) Rising price level in the country
+C) Increase in disparities of income
+D) All of the above
+Ans: D
+Exp: Unemployment, general price inflation, and national income distribution are all macroeconomic topics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Analysis of impact of Covid-19 on the Indian economy is a subject matter of
+A) Macro economics
+B) Micro economics
+C) Economics of slicing
+D) Normative economics
+Ans: A
+Exp: Assessing the broad impact of an external shock across the entire national economy falls under Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Macro economics include
+A) Product pricing
+B) Consumer behaviour
+C) External value of money
+D) Location of industry
+Ans: C
+Exp: The external value of money (foreign exchange rate and balance of payments) is studied under Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a subject matter of Micro-economies?
+A) The price of mangoes.
+B) The cost of producing a fire truck for the fire department of Delhi, India.
+C) The quantity of mangoes produced for the mangoes market.
+D) The national economy's annual rate of growth.
+Ans: D
+Exp: The national economy's growth rate is a macroeconomic aggregate.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements is correct?
+A) Microeconomics is important for study of a particular household and a particular firm
+B) Macroeconomics is important for study of economic conditions of a country
+C) None of the above
+D) Both (a) and (b)
+Ans: D
+Exp: Microeconomics studies individual decision-making units, while Macroeconomics studies aggregate economic conditions of a nation.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Mr. Satish hired a business consultant to guide him for growth of his business. The consultant visited his factory and suggested some changes with respect to staff appointment, loan availability and so on. Which approach is that consultant using?
+A) Micro economics
+B) Macro economics
+C) None of the above
+D) Both (a) and (b)
+Ans: A
+Exp: Providing guidance on internal operational matters of an individual enterprise is a microeconomic approach.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following would be considered a topic of study in Macro economics?
+A) The effect of increase in wages on the profitability of cotton industry
+B) The effect on steel prices when more steel is imported
+C) The effect of an increasing inflation rate on living standards of people in India
+D) The effect of an increase in the price of coffee on the quantity of tea consumed
+Ans: C
+Exp: Nation-wide inflation and aggregate standard of living are macroeconomic topics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a study of Macro-economics?
+A) Consumer behaviour
+B) National Income
+C) General price level
+D) Level of employment
+Ans: A
+Exp: Consumer behaviour is an individual economic decision-making topic studied under Microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is a part of the subject matter of macro economics?
+A) Study of firms
+B) Aggregate profits of a firm
+C) Market demand for a product
+D) Net national product
+Ans: D
+Exp: Net National Product (NNP) is an aggregate measure of national output and income, making it part of Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A study of how increases in the corporate income tax rate will affect the national unemployment rate an example of
+A) Macro-Economics
+B) Descriptive Economics
+C) Micro-economics
+D) Normative Economics
+Ans: A
+Exp: National unemployment and fiscal tax policy are macroeconomic subjects.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The Macro Economics does not cover the area of
+A) General price level and interest rates
+B) Level of employment and rate of economic growth
+C) Balance of trade & Balance of payments
+D) Product Pricing
+Ans: D
+Exp: Product pricing of an individual good is studied under Microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Normative science suggests which of the following?
+A) What should be
+B) What to produce
+C) How to produce
+D) When to produce
+Ans: A
+Exp: Normative science involves value judgments and prescribes 'what ought to be' or 'what should be'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Shyam: This year due to heavy rainfall my option crop was damaged Krishna: Climates affects crop yields. Some years are bad, other are good Hari: Don't worry-Price increase will compensate for the fall in quantity supplied Radhe: The Government ought to guarantee that our income will not fall. In this conversation, the normative statement is made by
+A) Shyam
+B) Krishna
+C) Hari
+D) Radhe
+Ans: D
+Exp: Radhe's statement contains 'ought to guarantee', which represents a subjective policy prescription (normative).
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements is incorrect about Macro Economics?
+A) Macro-Economics is the branch of Economics that deals with the study of the behaviour and performance of the economy in total.
+B) Macro-Economics studies the particular market segment of the economy.
+C) Macro-Economics deals with various issued like national income, distribution, employment, general price level, money and more.
+D) It is applied to environmental and external issues.
+Ans: B
+Exp: Studying a particular market segment is the domain of Microeconomics, not Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the area comes under macro-economics?
+A) Product pricing
+B) Consumer behaviour
+C) The general price level and interest rates
+D) Economics conditions of a Section of people
+Ans: C
+Exp: The general price level and interest rates are aggregate macroeconomic variables.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics enables application of economic logic and analytical tools to
+A) Bridge the gap between theory and practice.
+B) Increase the implementation science.
+C) Increase the effectiveness.
+D) Apply tools of macro economics.
+Ans: A
+Exp: Business Economics bridges the gap between abstract economic theory and practical business management.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics relies heavily on the techniques of
+A) Micro Economics
+B) Macro Economics
+C) Normative Science only
+D) Economics discipline only
+Ans: A
+Exp: Business Economics relies predominantly on microeconomic techniques to address operational decisions of the firm.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the following is not the scope of business economics?
+A) Cost standards
+B) Cost analysis
+C) Demand analysis
+D) Inventory management
+Ans: A
+Exp: Accounting/cost standards are regulatory frameworks, whereas cost analysis, demand, and inventory are core to Business Economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economic is pragmatic in approach because of which of the following cause?
+A) Based on assumptions
+B) Tackles practical problems
+C) Considers profit only
+D) Considers internal value
+Ans: B
+Exp: Business Economics is pragmatic because it tackles realistic, practical problems faced by firms in the real world.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is a normative statement?
+A) Planned econonties allocate resources via government departments.
+B) Most transitional economies have experienced problems of falling output and rising prices over the past decade.
+C) There is a greater degree of consumer sovereignty in market economies than planned economies.
+D) Reducing inequality should be a major priority for mixed economies.
+Ans: D
+Exp: Prescribing that reducing inequality 'should be a priority' involves an ethical value judgment (normative).
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: An example of 'positive' economic analysis would be:
+A) An analysis of the relationship between the price of food and the quantity purchased.
+B) Determining how much income each person should be guaranteed.
+C) Determining the 'fair' price for food.
+D) Deciding how to distribute the output of the economy.
+Ans: A
+Exp: Positive analysis describes verifiable cause-and-effect relationships without subjective value judgments.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a correct statement?
+A) Business Economics is a normative science,
+B) Business Economics is an art
+C) Business Economics is based largely on Micro Economics
+D) Business Economics does not incorporate elements of Macro Economics
+Ans: D
+Exp: Business Economics incorporates macroeconomic environment analysis (e.g. GDP trends, taxation, business cycles).
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a correct statement?
+A) Business economics is a normative science
+B) Business economics is an art
+C) Business economics is based largely on micro economics
+D) Business economics does not incorporate elements of macro economic analysis
+Ans: D
+Exp: Business economics must evaluate the external macroeconomic environment in which the firm operates.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is in its approach as it tackles practical problems which the firm faces in the real world,
+A) Scientific
+B) Programmatic
+C) Theoretical
+D) Mathematical
+Ans: B
+Exp: Business Economics is pragmatic (programmatic/practical) in its orientation as it addresses real-world business challenges.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The difference between positive and normative Economics is:
+A) Positive Economics explains the performance of the economy while normative Economics finds out the reasons for poor performance.
+B) Positive Economics describes the facts of the economy while normative Economics involves evaluating whether some of these are good or bad for the welfare of the people.
+C) Normative Economics describes the facts of the economy while positive Economics involves evaluating whether some of these are good or bad for the welfare of the people.
+D) Positive Economics prescribes while normative Economics describes.
+Ans: B
+Exp: Positive economics describes 'what is' using factual data, while normative economics evaluates welfare and 'what ought to be'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Normative aspect of Economics is given by:
+A) Marshall
+B) Robbins
+C) Adam Smith
+D) Samuelson
+Ans: A
+Exp: Alfred Marshall and A.C. Pigou emphasized the normative, welfare-oriented dimensions of economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Normative Economics is based on:
+A) Ethical Considerations
+B) Facts and Generalization
+C) What is?
+D) All of the above
+Ans: A
+Exp: Normative economics is founded upon ethical considerations and value judgments regarding social welfare.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Deductive and Inductive methods are complimentary to each other. It is:
+A) Absolutely correct
+B) Absolutely incorrect
+C) Partially incorrect
+D) None of the above
+Ans: A
+Exp: Deductive and inductive reasoning are complementary methods of scientific investigation in economic analysis.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In inductive method, logic proceeds from:
+A) General to Particular
+B) Particular to General
+C) Both (a) and (b)
+D) None of these
+Ans: B
+Exp: The inductive method derives generalized economic principles from specific, particular factual observations.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is a normative economic statement?
+A) Unemployment rate decreases with industrialization
+B) Economics is a social science that studies human behaviour.
+C) The minimum wage should be raised to 200 per day
+D) India spends a huge amount of money on national defence.
+Ans: C
+Exp: The statement prescribes that wages 'should be raised', reflecting a value judgment.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Ram: My corn harvest this year is poor. Krishan: Don't worry. Price increases will compensate for the fall in quantity supplied. Vinod: Climate affects crop yields. Some years are bad, others are good. Madhu: The Government ought to guarantee that our income will not fall. In this conversation, the normative statement is made by
+A) Ram
+B) Krishan
+C) Vinod
+D) Madhu
+Ans: D
+Exp: Madhu uses the prescriptive phrase 'ought to guarantee', making it a normative statement.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Positive Science only explains
+A) What is?
+B) What ought to be?.
+C) What is right or wrong?
+D) None of the above
+Ans: A
+Exp: Positive science strictly describes facts and objective causal mechanisms ('what is').
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Positive science only explains
+A) What is?
+B) What ought to be?
+C) What is right or wrong
+D) None of the above
+Ans: A
+Exp: Positive economics analyzes objective facts and verifiable phenomena ('what is').
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Under Inductive method logic proceeds from:
+A) General to particular
+B) Positive to normative
+C) Normative to positive
+D) Particular to general
+Ans: D
+Exp: Induction proceeds from particular empirical observations to general economic laws.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: economics explain economics phenomenon according to their causes and effects
+A) positive
+B) Normative
+C) Empirical
+D) Applied
+Ans: A
+Exp: Positive economics establishes cause-and-effect relationships between economic variables.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: analyses causes and effect relationship between variables in an objective and scientific manner.
+A) Positive Science
+B) Normative Science
+C) Negative Science
+D) Analytical Science
+Ans: A
+Exp: Positive science investigates cause-and-effect relationships objectively and scientifically.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is generally in nature.
+A) Normative
+B) Prescriptive
+C) Normative or Prescriptive
+D) Theoretical
+Ans: C
+Exp: Business Economics is primarily normative and prescriptive because it guides managers on what decisions should be made.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements is incorrect?
+A) Business economics is normative in nature.
+B) Business Economics has a close connection with statistics.
+C) Business Economist need not worry about macro variables.
+D) Business Economics is also called Managerial Economics.
+Ans: C
+Exp: Business economists must evaluate external macroeconomic environment variables (GDP, inflation, tax policy).
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Under Inductive method, the logic proceeds from:
+A) General to particulars
+B) Particular to general
+C) Both (a) and (b)
+D) None
+Ans: B
+Exp: Inductive methodology moves from specific observed facts to general principles.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Rama: My corn harvest this year is poor. Manoj: Don't worry. Price increase will compensate for this fall in quantity supplied. Meera: Climate affects crop yield. Some years are bad, others are good. Bharti: The Government ought to guarantee that our income will not fall. In this conversation, the normative statement is made by:
+A) Rama
+B) Manoj
+C) Meera
+D) Bharti
+Ans: D
+Exp: Bharti makes a value-based prescriptive assertion ('ought to guarantee').
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Who gave the positive aspect of science?
+A) Alfred Marshall
+B) A.C. Pigou
+C) Adam Smith
+D) Robbins
+Ans: D
+Exp: Lionel Robbins strictly defined economics as a positive science that remains neutral between ends.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Although business economics combines the essentials of normative and positive economic theory but the emphasis is on:
+A) Positive
+B) Normative
+C) Both Positive and Normative
+D) Neither Positive nor Normative
+Ans: B
+Exp: Business Economics places primary emphasis on normative analysis to prescribe optimal courses of business action.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is
+A) Normative in nature
+B) Interdisciplinary in nature
+C) Both
+D) None
+Ans: A
+Exp: Business Economics is primarily normative in nature as it formulates goal-directed managerial policies.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Find out the correct statement
+A) Higher the prices, lower the quality demanded of a product are a normative statement
+B) Micro and macro-economics are interdependent
+C) In a capitalist economy, the economic problems are solved by planning commission
+D) In deductive method logic proceeds from particular to the general
+Ans: B
+Exp: Microeconomics and Macroeconomics are complementary and interdependent branches of economic analysis.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: "Economics is neutral between ends". The statement is given by:
+A) L. Robbins
+B) Mrs. Joan
+C) Alfred Marshall
+D) A.C. Pigou
+Ans: A
+Exp: Lionel Robbins defined economics as a strictly positive science that does not pass moral judgments and remains neutral between ends.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economics which is concerned with welfare propositions is called
+A) Socialistic economics
+B) Capitalistic economics
+C) Positive economics
+D) Normative economics
+Ans: D
+Exp: Normative economics evaluates economic outcomes on the basis of social welfare, ethics, and value judgments.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The Business Economics incorporates tools from other disciplines such as Mathematics, operations Research, Management theory, Accounting, etc. Therefore, Business Economics is
+A) Intra-disciplinary
+B) Inter-disciplinary
+C) Multi-disciplinary
+D) Flexi-disciplinary
+Ans: B
+Exp: Business Economics integrates analytical tools from mathematics, statistics, accounting, and management, making it interdisciplinary.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Under inductive method logic proceeds from:
+A) General to particular
+B) Positive to narrative
+C) Normative to positive
+D) Particular to general
+Ans: D
+Exp: Inductive logic establishes general economic principles based on particular, concrete empirical facts.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics involves the elements of
+A) Micro Environment
+B) Macro Environment
+C) Both (a) and (b)
+D) None of the above
+Ans: C
+Exp: Business Economics uses microeconomic tools for internal firm operations and macroeconomic analysis for the external business environment.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In which of the following methods conclusions are drawn on the basis of collection and analysis of facts?
+A) Deductive method
+B) Scientific method
+C) Inductive method
+D) Experimental method
+Ans: C
+Exp: The inductive method formulates economic laws by collecting, observing, and analyzing real-world factual data.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business economy involves theory of Business economics with
+A) Normative Economics
+B) Business practices
+C) Micro Economics
+D) Macro Economics
+Ans: B
+Exp: Business Economics integrates theoretical economic principles with practical business management practices.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The operational or interval issues to which economic theories can be directly applied are related with.
+A) Micro Economics
+B) Macro Economics
+C) Business Economics
+D) Environmental Economics
+Ans: A
+Exp: Internal operational issues of a business unit (such as pricing, cost analysis, and production) are analyzed using microeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The scope of business Economics encompasses all of the following except
+A) Accounting Standards
+B) Resource Allocation
+C) Inventory Management
+D) Profit Analysis
+Ans: A
+Exp: Accounting standards are financial reporting frameworks, whereas resource allocation, inventory, and profit analysis are part of Business Economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics is essentially a component of Applied Economics as it includes application of selected quantitative techniques. Which technique is not included in it?
+A) Regression analysis
+B) Capital budgeting
+C) Economic analysis
+D) Linear programming
+Ans: C
+Exp: Quantitative techniques include regression analysis, capital budgeting, and linear programming, while general economic analysis is the theoretical foundation itself.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which factor is included in business Economics?
+A) Business Economics is an art
+B) Inter-disciplinary in nature
+C) Normative in nature
+D) All of the above
+Ans: D
+Exp: Business Economics is an art (practical application), interdisciplinary in scope, and predominantly normative in nature.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business économics is pragmatic in its approach because?
+A) It tackles practical problem which the firm faces in real world.
+B) It tackles practical problem which the firm faces due to WTO policies
+C) It tackles practical problem which the firm faces due to lack of directors.
+D) Business economics is abstracts and purely theoretical.
+Ans: A
+Exp: Business Economics avoids abstract theoretical assumptions and focuses pragmatically on solving real-world business problems.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the below enables application of economic logic and analytical tools to bridge the gap between theory and practice?
+A) Macro economics
+B) Micro economics
+C) Business economics
+D) Traditional economics
+Ans: C
+Exp: Business Economics applies economic theory to bridge the gap between abstract concepts and day-to-day business practice.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Applied economics includes
+A) Regression analysis and mathematical linear programming
+B) Capital budgeting
+C) Both (a) and (b)
+D) None
+Ans: C
+Exp: Applied economics utilizes quantitative tools such as regression analysis, linear programming, and capital budgeting.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not within the scope of Business Economics?
+A) Capital Budgeting
+B) Risk Analysis
+C) Business Cycles
+D) Accounting Standards
+Ans: D
+Exp: Accounting standards are financial regulatory rules, not micro/macro analytical tools of Business Economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: explains the relationship between inputs and output.
+A) Production Theory
+B) Demand Analysis
+C) Inventory Management
+D) None of the above
+Ans: A
+Exp: Production theory analyzes the technological and physical relationship between factor inputs and resulting output.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics with the help of advanced tools like enables the firm to arrive at the best course of action for optimum utilisation of available resources.
+A) Accounting
+B) Finance
+C) Linear Programming
+D) Marketing Mix
+Ans: C
+Exp: Linear programming is an optimization technique used to achieve optimal resource allocation under given constraints.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The nature of business economics is
+A) Positive in nature
+B) Pure science
+C) Pragmatic
+D) Independent
+Ans: C
+Exp: Business Economics is pragmatic because it deals with realistic operational problems of business enterprises.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economists use method(s) to maintain optimum stock of inventories.
+A) ABC Analysis
+B) Simple simulation exercises
+C) Mathematical models
+D) All of the above
+Ans: D
+Exp: Inventory management in Business Economics uses ABC analysis, simulation exercises, and mathematical programming models.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following Macro-Economic Factor is considered in Business Economics?
+A) Business Cycles
+B) Employment, Prices
+C) Saving & investment
+D) All of the above
+Ans: D
+Exp: Business economists analyze business cycles, general price levels, employment trends, and national savings/investment.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following involves the application of economic principles to solve economic problems?
+A) Macro Economics
+B) Economics
+C) Business Economics
+D) Practical Economics
+Ans: C
+Exp: Business Economics applies economic principles and logic to solve operational and managerial decision-making problems.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: What is the character of Economics?
+A) Micro-economics
+B) Macro-economics
+C) Micro as well as Macro Economic
+D) Positive Economics
+Ans: C
+Exp: General economics encompasses both microeconomic and macroeconomic branches of analysis.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: What is the character of Business Economics?
+A) Micro-economics
+B) Macro-economics
+C) Micro as well as Macro Economic
+D) Positive Economics
+Ans: A
+Exp: Business Economics is primarily microeconomic in character as it centers on the individual firm's decision-making.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: What is the nature of Economics?
+A) Positive
+B) Negative
+C) Normative
+D) Positive as well as Normative
+Ans: D
+Exp: Traditional economics combines both positive (factual description) and normative (welfare evaluation) dimensions.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: What is the nature of Business Economics?
+A) Positive
+B) Negative
+C) Normative
+D) Positive as well as Normative
+Ans: C
+Exp: Business Economics is predominantly normative and prescriptive because it guides managers toward optimal goal attainment.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics concentrates on aspects of any business problem.
+A) Economic
+B) Non-Economic
+C) Both Economic as well as Non-Economic
+D) Macro Economic
+Ans: C
+Exp: While primarily focusing on economic logic, business economists also integrate non-economic organizational and behavioral factors.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Business Economics makes use of micro-economic analysis. Which of the following is NOT a part of such analysis?
+A) Demand analysis and forecasting
+B) Production and Cost Analysis.
+C) Theory of Capital and Investment decisions.
+D) National Income
+Ans: D
+Exp: National Income is an aggregate concept belonging strictly to Macroeconomics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is NOT a part of Macro Economics?
+A) Business Cycles
+B) National Income
+C) Saving and Investment
+D) Demand Analysis and Forecasting
+Ans: D
+Exp: Demand analysis and forecasting for an individual product is a microeconomic function.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Unlimited ends and limited means together present the problem of
+A) Scarcity of resources
+B) Choice
+C) Distribution.
+D) None of the above
+Ans: B
+Exp: Unlimited wants combined with scarce means having alternative uses give rise to the fundamental problem of choice.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements is/are correct regarding business economics?
+A) Business economics attempts to indicate how business policies are firmly rooted to economic principles.
+B) Business economics uses micro economic analysis of the business unit and macro economic analysis of business environment.
+C) Business economics takes a pragmatic approach towards facilitating an integration between economic theory and business practices.
+D) All of the above
+Ans: D
+Exp: All three statements accurately reflect the definition, methodology, and pragmatic nature of Business Economics.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statement is false?
+A) The Resources are limited.
+B) The Resources have alternative uses.
+C) If resources are unlimited, people would be able to satisfy all their wants.
+D) The economics problem arises because resource has only a single use.
+Ans: D
+Exp: Economic problems arise precisely because resources have alternative uses, requiring allocation choices.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The central economic problem of an economy arises due to
+A) Scarcity of resources relative to the wants
+B) Co-existences of private and public sector
+C) Govt. interference in economic activities
+D) Federal structure of Constitution
+Ans: A
+Exp: The central problem of every economy stems from the relative scarcity of resources compared to human wants.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The basic problem of scarcity give rise to:
+A) Technological problems
+B) Social problems
+C) Cultural problems
+D) Economic problems
+Ans: D
+Exp: Scarcity of productive resources directly gives rise to fundamental economic problems of production and distribution.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following economic system has to deal with the control problem of scarcity of resources?
+A) Capitalist
+B) Socialist
+C) Mixed
+D) All of the above
+Ans: D
+Exp: Every economic system (capitalist, socialist, or mixed) must address the universal central problem of resource scarcity.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In economics, the central economic problem means:
+A) Output is restricted to the limited availability of resources.
+B) Consumer do not have as much money as they would wish
+C) There will always be certain level of unemployment
+D) Resources are not always allocated in an optimum way
+Ans: A
+Exp: The central economic problem signifies that attainable output is constrained by finite available productive resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is the central problem of economy?
+A) Scarcity of resources
+B) Unemployment
+C) Poverty
+D) Inflation
+Ans: A
+Exp: Scarcity of resources in relation to unlimited wants is the primary central problem of any economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is the central problem of the economy?
+A) Unemployment
+B) Poverty
+C) Scarcity of resources
+D) Inflation
+Ans: C
+Exp: Scarcity of resources is the root economic problem underlying all allocation decisions.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The Central problem in every economic society is:
+A) To ensure a minimum level of income for every individual.
+B) To allocate scarce resources in such a manner that societies unlimited wants are satisfied in the best possible manner.
+C) To ensure that production occurs in the most efficient manner.
+D) To provide job to every job seeker.
+Ans: B
+Exp: The core economic objective is allocating scarce means to best satisfy society's unlimited wants.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A developed economy uses technique in production.
+A) Labour intensive.
+B) Capital intensive
+C) Home-based
+D) Traditional
+Ans: B
+Exp: Developed nations have abundant capital relative to labour, hence adopting capital-intensive production techniques.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The 'Central Economics Problem' does not deal with which of the following economic problems?
+A) What to produce?
+B) How to produce?
+C) For whom to produce?
+D) Where to produce?
+Ans: D
+Exp: The four central economic problems are What, How, For whom to produce, and Provision for economic growth; 'Where to produce' is a spatial location decision.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The central problem in economics is that of
+A) Comparing the success of command versus market economies.
+B) Guaranteeing that production occurs in the most efficient manner.
+C) Guaranteeing a minimum level of income for every citizen.
+D) Allocating scarce resources in such a manner that society's unlimited needs or wants are satisfied in the best possible manner.
+Ans: D
+Exp: Economics fundamentally deals with allocating scarce resources among competing uses to maximize societal satisfaction.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following refers to the sum total of arrangements for the product and distribution of goods and services in society?
+A) Economic System
+B) Business System
+C) Capitalist Economic System
+D) Socialist Economic System
+Ans: A
+Exp: An economic system represents the institutional framework through which society organizes production and distribution.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capital intensive technique would get chosen in a
+A) Labour surplus economy where the relative price of capital is lower.
+B) Capital surplus economy where the relative price of capital is lower.
+C) Developed economy where technology is better.
+D) Developing economy where technology is poor.
+Ans: B
+Exp: Capital-intensive production is preferred where capital is abundant and relatively cheaper than labour.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a part of central economic Problem?
+A) What to Produce?
+B) How to Produce?
+C) For whom to Produce?
+D) Price fixation of Production.
+Ans: D
+Exp: The central economic problems are What, How, and For whom to produce; price fixation is a market mechanism function.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: refers to the sum total of arrangements for the production and distribution of goods and services in a Society.
+A) Economic System
+B) Social System
+C) Business system
+D) Comprehensive System
+Ans: A
+Exp: An economic system encompasses the complete set of structural arrangements for production and resource distribution.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economic Problem arises when:
+A) Wants are unlimited
+B) Resources are limited
+C) Alternative uses of resources
+D) All of the above
+Ans: D
+Exp: The economic problem arises from the combination of unlimited wants, limited resources, and alternative uses of resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not one of the four central questions that the study of economics is supposed to answer?
+A) Who produces what?
+B) When are goods produced?
+C) Who consumes what?
+D) How are goods produced?
+Ans: B
+Exp: The core economic questions focus on What, How, For whom to produce, and Provision for economic growth, not 'When'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The classification of economies into Capitalist, Socialist and Mixed is based on their:
+A) Mode of Production, exchange and distribution
+B) Government's role in economic activity.
+C) Both (a) and (b)
+D) Neither (a) nor (b)
+Ans: C
+Exp: Economic systems are classified by property ownership, mode of production/distribution, and the degree of government intervention.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The choice between labour and Capital intensive techniques is related with.
+A) What to Produce?
+B) How to Produce?
+C) For whom to Produce?
+D) All of the above
+Ans: B
+Exp: 'How to produce' addresses the choice of production technique—specifically labour-intensive versus capital-intensive methods.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the following is not an example of capitalist economy?
+A) Japan
+B) Mexico
+C) Germany
+D) Cuba
+Ans: D
+Exp: Cuba operates as a socialist/command economy, whereas Japan, Mexico, and Germany follow capitalist/market structures.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The capitalist Economy uses as principle means of allocation of resources -
+A) Price
+B) Demand
+C) Supply
+D) None of the above
+Ans: A
+Exp: In a capitalist economy, the price mechanism (forces of demand and supply) serves as the primary allocator of resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Freedom of choice is the advantage of
+A) Socialism
+B) Capitalist
+C) Mixed economy
+D) None of the above
+Ans: B
+Exp: Capitalism affords consumers and producers maximum freedom of occupational, consumption, and enterprise choice.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A capitalist economy consists of
+A) Central planning authority
+B) A mechanism to decide as what, how and for whom to produce
+C) Both (a) and (b)
+D) None of the above
+Ans: B
+Exp: Capitalism utilizes the decentralized market price mechanism to resolve what, how, and for whom to produce.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalist system offer incentives for:
+A) Efficient business decisions
+B) Efficient government decisions
+C) Efficient non-government decisions
+D) Efficient economic decisions
+Ans: D
+Exp: The profit motive and private ownership in capitalism reward efficient economic decisions across production and exchange.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In capitalistic economy and will be more
+A) Equalities, non-exploitation
+B) Inequalities, exploitation
+C) Exploitation, equalities
+D) Non-exploitation, inequalities
+Ans: B
+Exp: Unregulated market capitalism often leads to concentration of wealth, widening income inequalities and labour exploitation.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a free market economy the allocation of resources is determined by
+A) Voting done by consumers
+B) A central planning authority.
+C) Consumer preferences,
+D) The level of profits of firms.
+Ans: C
+Exp: Under consumer sovereignty in free markets, consumer preferences and demand guide resource allocation through price signals.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: An economy is called capitalist economy, when is given.
+A) Right to private property
+B) Freedom of Government interference
+C) Freedom of business choices
+D) Discrimination
+Ans: A
+Exp: The legal right to private property and individual ownership of productive assets is the defining feature of capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A capitalist economy uses as the principal means of allocating resources.
+A) Demand
+B) Supply
+C) Efficiency
+D) Prices
+Ans: D
+Exp: The price mechanism functions as the guiding 'invisible hand' in allocating scarce resources under capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: An economic system in which all means of production are owned and controlled by private individuals for profit is called as?
+A) Free economy
+B) Capitalist economy
+C) Normative economy
+D) Socialist economy
+Ans: B
+Exp: Capitalism is an economic system characterized by private ownership of productive assets and the profit motive.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Laissez-Faire economy is also known as:
+A) Capitalist economy
+B) Socialist economy
+C) Mixed economy
+D) Communist economy
+Ans: A
+Exp: Laissez-faire represents minimal state intervention in economic affairs, which is the foundational doctrine of capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalist system offer incentives for
+A) Efficient business decisions
+B) Efficient government decisions
+C) Efficient non-government decisions
+D) Efficient economic decisions
+Ans: D
+Exp: Private property rights and competitive market forces in capitalism incentivize efficient economic decision-making.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: One of the demerits of capitalism is that it leads to formation of
+A) Duopoly
+B) Oligopoly
+C) Monopoly
+D) Perfect Competition
+Ans: C
+Exp: Unrestrained competition and corporate mergers in capitalism often lead to market concentration and private monopolies.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Price Mechanism is the main feature of which economy
+A) Capitalistic Economy
+B) Mixed Economy
+C) Socialist Economy
+D) All of the above
+Ans: A
+Exp: The price mechanism is the central coordinating system of a free-market capitalist economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Profit motive is a merit of
+A) Socialism
+B) Capitalism
+C) Mixed economy
+D) None of the above
+Ans: B
+Exp: The profit motive in capitalism serves as a powerful incentive for enterprise, innovation, and productive efficiency.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which out of these are the feature of capitalism? (i) Profit motive (ii) Human welfare (iii) Workthrough price mechanism
+A) (i) and (ii)
+B) (ii) and (iii)
+C) (i) and (iii)
+D) All of these
+Ans: C
+Exp: Capitalism operates through the price mechanism driven by the profit motive; social welfare is the primary objective of socialism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not one of the features of capitalist economy?
+A) Right of private property
+B) Freedom of choice by the consumers
+C) No profit, No Loss motive
+D) Competition
+Ans: C
+Exp: Capitalist firms are driven strictly by the profit maximization motive, not a 'no profit no loss' objective.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalist economy solve their economic problems through which of the following?
+A) Central Planning Authority
+B) Price mechanism
+C) Administered Prices
+D) Voting done by customers
+Ans: B
+Exp: Capitalist economies solve central problems automatically through the market price mechanism of demand and supply.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: is an economic system in which all means of production are owned and controlled by private individuals for profit.
+A) Capitalist
+B) Socialist
+C) Mixed
+D) None of the above
+Ans: A
+Exp: Private ownership of factors of production operated for personal profit defines a capitalist economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is considered as a disadvantage of allocating resources using the market system?
+A) Income will tend to be unevenly distributed.
+B) People do not get goods of their choice.
+C) Men of Initiative and enterprise are not rewarded.
+D) Profits will tend to be low.
+Ans: A
+Exp: A major drawback of the market system is the concentration of wealth and uneven income distribution.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Exploitation and inequality will be more in
+A) Socialism
+B) Capitalism
+C) Mixed
+D) All of the above
+Ans: B
+Exp: Due to class division between capital owners and wage earners, exploitation and inequality are highest under capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: means that buyers ultimately determine which goods and services will be produced and in what quantities.
+A) Capitalist Economic
+B) Socialist Economy
+C) Mixed Economy
+D) Consumer Sovereignty
+Ans: D
+Exp: Consumer sovereignty implies that consumers are 'kings' whose purchasing preferences dictate production patterns.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Consumers' sovereignty is a typical feature of
+A) Command economy
+B) Socialistic economy
+C) Mixed economy
+D) Capitalist economy
+Ans: D
+Exp: Complete consumer sovereignty is a hallmark of free market capitalism where firms respond directly to consumer demand.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In which type of economy do consumers and producers make their choices based on the market forces of demand and supply?
+A) Open Economy
+B) Controlled Economy
+C) Command Economy
+D) Market Economy
+Ans: D
+Exp: In a market economy, decentralized choices by economic agents are guided purely by demand and supply market forces.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The economic system in which all the means of production are owned and controlled by private individuals for profit.
+A) Socialism
+B) Capitalism
+C) Mixed economy
+D) Communism
+Ans: B
+Exp: Capitalism is defined by private ownership of productive assets and the pursuit of commercial profit.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a free market economy, when consumers increase their purchase of a goods and the level of exceeds then prices tend to rise:
+A) Demand, supply
+B) Supply, demand
+C) Prices, demand
+D) Profits, supply
+Ans: A
+Exp: When quantity demanded exceeds available market supply (excess demand), competitive bidding drives prices up.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalistic Economy uses as principal means of allocating resources.
+A) Demand
+B) Supply
+C) Price
+D) All of the above
+Ans: C
+Exp: Resource allocation in capitalist economies is governed by the price mechanism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a capitalist economy, allocation of resources is done by:
+A) Producers
+B) Government
+C) Planners
+D) Price mechanism
+Ans: D
+Exp: The price mechanism coordinates resource allocation among competing sectors under capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A Free Market economy solves its Central Problems through
+A) Planning authority
+B) Market mechanism
+C) Both
+D) None
+Ans: B
+Exp: Free market economies rely on the market mechanism (interaction of price, demand, and supply) to solve central problems.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalistic economy uses as principal means of allocating resources
+A) Demand
+B) Supply
+C) Price
+D) All of the above
+Ans: C
+Exp: Prices act as signals for producers and consumers to allocate scarce resources in a capitalist economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A capitalist economy is by and large
+A) A closed economy
+B) A free market economy
+C) A centrally controlled economy
+D) An economy in which a government neither collects any taxes nor incurs any expenditure.
+Ans: B
+Exp: A capitalist economy operates primarily as a free market economic system guided by market forces.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one is not the characteristic of capitalistic economy?
+A) Profit motive
+B) Income inequality
+C) Free employment
+D) Collective ownership
+Ans: D
+Exp: Collective ownership of productive assets is a defining feature of socialism, whereas capitalism is based on private property.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Consumer sovereignty is found in which economy?
+A) Capitalist Economy
+B) Socialist Economy
+C) Mixed Economy
+D) Communist Economy
+Ans: A
+Exp: Consumer sovereignty, where consumer preferences dictate production patterns through the price mechanism, exists in capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalistic Economy uses as principal means of allocating resources.
+A) Demand
+B) Supply
+C) Price
+D) All of the above
+Ans: C
+Exp: Prices determined by market demand and supply serve as the primary resource allocation mechanism under capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the following is not true about capitalist economy?
+A) There is freedom of economic choice.
+B) Profit motive is the driving force.
+C) It is also called as free market economy or laissez- Faire economy.
+D) Producer is the king under capitalism
+Ans: D
+Exp: Under capitalism, the consumer is considered the 'king' (consumer sovereignty), not the producer.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The merits of Capitalist economy do not include:
+A) Faster process of economic growth
+B) Efficient economic decisions and their implementation
+C) Incentives for innovation and technological progress
+D) Welfare of labour
+Ans: D
+Exp: Labour welfare is often compromised in unregulated capitalism due to exploitation and inequality.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A free market economy's driving force is:
+A) Profit motive
+B) Welfare of the people
+C) Rising income and levels of living
+D) None of the above.
+Ans: A
+Exp: The profit motive acts as the ultimate guiding incentive and driving engine of a free-market economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalist or Laissez faire economy has which of the following characteristics?
+A) Relatively equal income distribution
+B) Competition
+C) Price mechanism
+D) Collective ownership
+Ans: B
+Exp: Free market competition among numerous producers and buyers is a fundamental characteristic of capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: An economic system in which all means of production are owned and controlled by private individuals for profit is called:
+A) Mixed Economy
+B) Socialist Economy
+C) Capitalist Economy
+D) Developed Economy
+Ans: C
+Exp: Private ownership of factors of production operated for individual profit defines a capitalist economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Where does price mechanism exists?
+A) Capitalist Economy
+B) Socialist Economy
+C) Both type of economies
+D) None of the above.
+Ans: A
+Exp: The price mechanism functions as the principal, self-regulating coordinator in a capitalist economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In which among the following systems the 'right to property' exists
+A) Mixed economy
+B) Capitalist economy
+C) Socialist economy
+D) Traditional economy
+Ans: B
+Exp: Capitalism is legally founded upon the unrestricted right to acquire, hold, and bequeath private property.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A system of economy in which all the means of production are owned and controlled by the private individuals for the purpose of profit, is called:
+A) Socialist Economy
+B) Capitalist Economy
+C) Mixed Economy
+D) All of the above
+Ans: B
+Exp: Capitalist economies are characterized by private enterprise, property rights, and commercial profit orientation.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Capitalistic Economy user as principal means of allocating resources:
+A) Demand
+B) Supply
+C) Price
+D) All of the above
+Ans: C
+Exp: The price mechanism serves as the primary instrument for allocating productive resources in capitalist economies.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Factors of production are owned by in market economies.
+A) Govt.
+B) Investors
+C) Privately
+D) None
+Ans: C
+Exp: In a market economy, land, capital, and productive enterprises are owned privately by individuals.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not demerit of Capitalism?
+A) Precedence of property rights over human rights.
+B) Misallocation of resources.
+C) Punishment for inefficient & imprudent men.
+D) Environmental degradation due to excessive materialism.
+Ans: C
+Exp: Penalizing inefficient producers and rewarding efficient firms is a merit of market discipline, not a demerit.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Freedom of choice is the advantage of
+A) Socialism
+B) Capitalism
+C) Mixed Economy
+D) Communism
+Ans: B
+Exp: Capitalism guarantees full autonomy to consumers in spending and to producers in choosing their enterprise.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Under a free economy, prices are:
+A) Regulated
+B) Determined through free interplay of demand and supply
+C) Partly regulated
+D) None of these
+Ans: B
+Exp: In a free market, prices are determined purely through the interaction of market demand and market supply.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements does not apply to a market economy?
+A) Firms decide whom to hire and what to produce.
+B) Firms aim at maximizing profits.
+C) Households decide which firms to work for and what to buy with their incomes.
+D) Government policies are the primary forces that guide the decisions of firms and households.
+Ans: D
+Exp: In a pure market economy, decentralized market forces guide economic choices rather than government directives.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Economic system is self-regulating and run by invisible hands.
+A) Mixed
+B) Socialistic
+C) Capitalistic
+D) Planned
+Ans: C
+Exp: Capitalism operates self-regulatingly through Adam Smith's 'invisible hand' of the market price mechanism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is not a feature of a capitalist economy?
+A) Right to private property
+B) Restrictions on consumers Right to choose
+C) Profit motive
+D) Freedom of enterprise
+Ans: B
+Exp: Under capitalism, consumers enjoy unrestricted consumer sovereignty rather than restrictions on choice.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Freedom of choice is the advantage of
+A) Socialism
+B) Capitalism
+C) Communism
+D) None of the above
+Ans: B
+Exp: Freedom of economic choice in consumption, occupation, and investment is a major advantage of capitalism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A Capitalist Economy follows the policy of:-
+A) Laissez faire
+B) Regulated markets
+C) Promoting public sector
+D) None of the above
+Ans: A
+Exp: Capitalism is based on the principle of laissez-faire, advocating non-interference by the government in market activities.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a capitalist economy the allocation of resources is performed by:
+A) Producers
+B) Government
+C) Planners
+D) Price mechanism
+Ans: D
+Exp: Price signals coordinate the allocation of land, labour, and capital across various competing industries.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statement does not apply to a market economy?
+A) Firms decide whom to hire and what to product
+B) Firms at maximizing profits
+C) Households decide which firms to work for and what to buy with their incomes
+D) Government policies are the primary forces that guide the decisions of firms and households.
+Ans: D
+Exp: Government policies do not dictate core decisions in a free market economy; private incentives and market prices govern actions.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The Concept of socialist economy was propounded by
+A) Karl Mark
+B) Frederic Engels
+C) Adam Smith
+D) Both (a) & (b)
+Ans: D
+Exp: Karl Marx and Friedrich Engels jointly propounded the philosophical and economic doctrines of scientific socialism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is NOT a characteristic of a socialist economy?
+A) Absence of consumer choice
+B) Central planning
+C) Relatively equal income distribution
+D) Competition
+Ans: D
+Exp: A socialist economy eliminates market competition; production is coordinated centrally by the state.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Socialist economy is
+A) Self regulation
+B) Profit Oriented
+C) Command economy
+D) Allocation of resources as per market requirements
+Ans: C
+Exp: A socialist economy is termed a command economy because central planning authorities dictate production quotas.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Under which of the following economy the consumer has limited freedom of choice?
+A) Social
+B) Mixed
+C) Capital
+D) Restricted
+Ans: A
+Exp: In a socialist economy, state production targets restrict the range of consumer goods available in the market.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The concept of socialist economy was propounded by
+A) Alfred Marshall
+B) Joel dean
+C) Albert Einstein
+D) Karl Marx and Fredric Engles
+Ans: D
+Exp: Karl Marx and Friedrich Engels presented the framework of socialism in 'The Communist Manifesto' and 'Das Kapital'.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Exploitation and inequality are minimal under:
+A) Socialism
+B) Capitalism
+C) Mixed economy
+D) None of the above
+Ans: A
+Exp: Collective ownership of productive assets and equitable distribution under socialism minimize economic exploitation.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Socialist Economy was propounded by:
+A) Karl Marx
+B) Samuelson
+C) A.C. Pigou
+D) Adam Smith
+Ans: A
+Exp: Karl Marx is regarded as the principal founder of modern socialist economic theory.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Socialist economy is also called as
+A) Command Economy
+B) Centrally Planned Economy
+C) Free market Economy
+D) Both (a) & (b)
+Ans: D
+Exp: A socialist economy is interchangeably referred to as a Command Economy and a Centrally Planned Economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The economic system in which production and distribution of goods are aimed at maximizing the welfare of the community as a whole is known as
+A) Capitalism
+B) Socialism
+C) Mixed economy
+D) Communist Economy
+Ans: B
+Exp: Socialism prioritizes maximizing overall social welfare and equitable distribution rather than private commercial profit.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements is not correct?
+A) Scarcity of resources is the key problem of all economies
+B) Economic inequalities lead to wide difference in economic opportunities to people
+C) Economic instability is very common under capitalism
+D) Freedom of enterprise is one of the main characteristic of command economy
+Ans: D
+Exp: Freedom of private enterprise is absent in a command economy where the state controls all major economic enterprises.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Although Price mechanism exists in but it has only a secondary role.
+A) Capitalist economy
+B) Socialist economy
+C) Mixed Economy
+D) Price Economy.
+Ans: B
+Exp: In a socialist economy, state-administered prices may exist for accounting or rationing, but play only a secondary role.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Inequalities of income do not perpetuate in
+A) Socialism
+B) Mixed economy
+C) Capitalism
+D) None
+Ans: A
+Exp: Socialism prevents cumulative income disparities by eliminating private ownership of capital assets and inheritance of wealth.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Administered prices refer to:
+A) Prices determined by forces of demand and supply
+B) Prices determined by sellers in the market
+C) Prices determined by an external authority which is usually the government
+D) None of the above
+Ans: C
+Exp: Administered prices are fixed statutorily by government authorities rather than determined through market forces.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Socialism ensures
+A) Rapid growth and balanced development
+B) Right to work
+C) Incentives for efficient economic decisions
+D) Both (a) and (b)
+Ans: D
+Exp: Central planning in socialism coordinates balanced regional growth and guarantees social security including the right to work.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A socialistic economy is also called as
+A) Profit oriented economy
+B) Centrally planned economy
+C) self-regulatory economy
+D) Unorganized economy
+Ans: B
+Exp: A socialist economy is directed through comprehensive state planning, hence termed a Centrally Planned Economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is one of the merits of socialism?
+A) Importance given to personal efficiency
+B) Importance given to productivity
+C) Incentive for economic decisions
+D) Rapid growth and balanced economic development.
+Ans: D
+Exp: Planned resource mobilization in socialism facilitates coordinated rapid industrialization and balanced regional development.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a socialistic economy the allocation of resources is done by
+A) Market prices
+B) Consumer preferences
+C) A central planning authority
+D) The level of corporate profits
+Ans: C
+Exp: A Central Planning Authority formulates economic plans and directly allocates resources in a socialist economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: involves the predominance of bureaucracy and resulting in inefficiencies and delays.
+A) Socialistic economy
+B) Capitalist economy
+C) Mixed economy
+D) Free market economy
+Ans: A
+Exp: Excessive state control and administrative centralization in a socialist economy often lead to red-tapism and bureaucratic delays.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The erstwhile U.S.S.R. is an example of economy.
+A) Capitalist
+B) Socialist
+C) Mixed
+D) Price
+Ans: B
+Exp: The Union of Soviet Socialist Republics (U.S.S.R.) operated as a classic centrally planned socialist command economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The concept of Socialist economy was propounded by
+A) Karl Marx and Adam Smith
+B) Frederic Engels and Adam Smith
+C) Frederic Engels
+D) Karl Marx and Frederic Engels
+Ans: D
+Exp: Karl Marx and Friedrich Engels jointly formulated the foundational doctrines of socialist economic systems.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which one of the following is Not a feature of socialist economy?
+A) Collective ownership
+B) Absence of consumer choice
+C) Minimum role of Price Mechanism
+D) High Competition
+Ans: D
+Exp: A socialist economy replaces market competition with centralized planning and state allocation of resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following is an example of Socialist economy?
+A) Erstwhile U.S.S.R.
+B) North Korea
+C) China and Cuba
+D) All of the above
+Ans: D
+Exp: The former U.S.S.R., North Korea, Cuba, and historical China represent state-directed socialist economies.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: A socialist economy is called as which of the following
+A) Command economy
+B) Military economy
+C) Behaviouralist economy
+D) Applied economy
+Ans: A
+Exp: A socialist economy is known as a Command Economy because state directives dictate production and distribution.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The demerits of Socialism do not include:
+A) Predominance of bureaucracy
+B) Red tapism & favouritism
+C) Corruption
+D) Consumer Sovereignty
+Ans: D
+Exp: Consumer sovereignty is a feature of market capitalism, whereas its complete absence is a characteristic of socialism.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: involves the predominance of bureaucracy and resulting inefficiencies and delays
+A) Socialistic economy
+B) Capitalist economy
+C) Mixed economy
+D) Free market economy
+Ans: A
+Exp: State-administered planning in socialism tends to generate bureaucratic red-tape, inflexibility, and decision delays.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Under the Consumers have no freedom of choice.
+A) Capitalist
+B) Socialist
+C) Mixed
+D) None of the above
+Ans: B
+Exp: In a socialist economy, production is standardized and determined by the central authority, eliminating consumer choice.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Socialist economy is called as
+A) Centrally planned economy
+B) Mixed economy
+C) Private economy
+D) Consumer economy
+Ans: A
+Exp: State ownership and planning by a central authority characterize a Centrally Planned Economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In which economic system production and distribution of goods and services aim at maximizing the welfare of community as a whole
+A) Normative
+B) Mixed
+C) Socialism
+D) Capitalistic economy
+Ans: C
+Exp: Socialism organizes economic activity primarily to maximize collective social welfare rather than private profits.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In which economy market and government both play on important role?
+A) Mixed economy
+B) Socialistic economy
+C) Capitalistic economy
+D) Business economy
+Ans: A
+Exp: In a mixed economy, both the private market mechanism and government planning play vital, complementary roles.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Important feature of mixed economy is
+A) Only Public Sector
+B) Absence of consumer behaviour
+C) Absence of government interferences
+D) Co-existences of both private and public enterprises
+Ans: D
+Exp: The simultaneous co-existence of private enterprises and public sector undertakings defines a mixed economy.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which economic system is described by Schumpeter as capitalism in the oxygen tent?
+A) Laissez-faire Economy
+B) Command Economy
+C) Mixed Economy
+D) Agrarian Economy
+Ans: C
+Exp: Joseph Schumpeter described the mixed economy as 'capitalism in the oxygen tent', preserved through state support.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The Government itself must run important and selected industries and eliminate the free play of profit motive and self-interest. It is applicable in case of economy.
+A) Capitalist
+B) Socialist
+C) Mixed
+D) Price
+Ans: C
+Exp: In a mixed economy, the state directly operates strategic core infrastructure industries while allowing private enterprise elsewhere.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: both are the tools used in the Mixed economy.
+A) Price mechanism and market
+B) Central planning and bureaucracy
+C) Price mechanism and central planning
+D) Administered prices and competition
+Ans: C
+Exp: A mixed economy combines the price mechanism for private sector allocation with central planning for public investments.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Co-existence of public and private sector is the feature of
+A) Capitalist Economy
+B) Mixed Economy
+C) Socialist Economy
+D) Federal Economy
+Ans: B
+Exp: Co-existence of private enterprise alongside state-owned public utilities is the core pillar of a mixed economic system.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The term "Mixed Economy" denotes:
+A) Co-existence of both consumers and producers goods' industries in the economy.
+B) Co-existence of both private and public sectors in the economy.
+C) Co-existence of both rural and urban sectors in the economy.
+D) Co-existence of both large and small industries in the economy
+Ans: B
+Exp: A mixed economy explicitly denotes the joint presence and operation of both the private and public sectors.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In which economy, cost benefit analysis is used to answer the fundamental questions of economy
+A) Socialistic economy
+B) Capitalistic economy
+C) Regulatory economy
+D) Mixed economy
+Ans: D
+Exp: In a mixed economy, the public sector uses social cost-benefit analysis alongside market profitability to allocate resources.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Mixed economy means
+A) All economic decisions are taken by Central Authority
+B) All economic decisions are taken by private entrepreneurs
+C) Economic decisions are partly taken by the state and partly by private entrepreneurs
+D) None of these
+Ans: C
+Exp: In a mixed economy, economic choices are shared between state planners (public sector) and private business entrepreneurs.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following are the features of a mixed economy?
+A) Planned economy
+B) Dual system of pricing exists
+C) Balance regional development
+D) All of the above
+Ans: D
+Exp: A mixed economy features economic planning, dual pricing (market prices + administered prices), and balanced regional goals.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a mixed economy
+A) All economic decisions are taken by the central authority.
+B) All economic decisions are taken by private entrepreneurs,
+C) Economic decisions are partly taken by the state and partly by the private entrepreneurs.
+D) None of the above.
+Ans: C
+Exp: Economic responsibilities in a mixed economy are divided between the government and the private enterprise sector.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: is also called as command economy
+A) Socialist
+B) Capitalist
+C) Mixed economy
+D) None of the above
+Ans: A
+Exp: A socialist economy is known as a Command Economy due to centralized state allocation directives.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In a mixed economy, there are sectors of industries.
+A) Two
+B) Three
+C) Four
+D) Five
+Ans: B
+Exp: A mixed economy consists of three distinct industrial sectors: Private Sector, Public Sector, and Combined/Joint Sector.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statement is correct?
+A) Mixed economy is not always a 'golden path' between capitalistic and socialistic economy
+B) Socialistic economy is not always a 'golden path' between mixed economy and capitalism
+C) Capitalistic economy is not always a 'golden path' between mixed economy and socialism.
+D) Local economy is not always a 'golden path' between internal and international economy
+Ans: A
+Exp: Critics note that a mixed economy is not always an ideal middle ground, as it can suffer from both market and state failures.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Dual system of pricing exist in:
+A) Free market economy
+B) Socialistic economy
+C) Mixed economy
+D) None of the above
+Ans: C
+Exp: A mixed economy features dual pricing where open market prices operate alongside state-administered or subsidized prices.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which Economic System is described by Schumpeter as 'capitalism in the oxygen tent'?
+A) Laissez-Faire Economy
+B) Command Economy
+C) Mixed Economy
+D) Agrarian Economy
+Ans: C
+Exp: Schumpeter characterized the mixed economy as capitalism kept alive artificially through government interventions.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: The existence of three sectors of industries (Private, Public and Combine sector) is one of the futures of
+A) Capitalist
+B) Socialist
+C) Mixed
+D) Price
+Ans: C
+Exp: The structural presence of Private, Public, and Joint/Combined sectors is unique to mixed economies.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statement is correct?
+A) Mixed economy is not always a 'golden path' between capitalism and socialism.
+B) Socialisticeconomy is not always a 'golden path' between mixed and capitalism.
+C) Capitalistic economy is not always a 'golden path' between mixed and socialism.
+D) Mixed economy is always a 'golden path' between capitalism and socialism.
+Ans: A
+Exp: A mixed economy can encounter excessive bureaucratic delays alongside private monopolistic market distortions.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Mixed economy means:
+A) Co-existence of both private and public sector
+B) Co-existence of poor and rich people
+C) Both (a) and (b)
+D) None
+Ans: A
+Exp: Structurally, mixed economy denotes the co-existence and joint participation of private and public enterprises.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following economic system is self regulating and run by in available hands?
+A) Mixed economic system
+B) Socialistic economic system
+C) Capitalist economic system
+D) Planned economic system
+Ans: C
+Exp: Capitalism is self-regulating and guided automatically by Adam Smith's 'invisible hand' of market forces.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Mixed economy means:
+A) Co-existence of small and large industries
+B) Promoting both agriculture and industries in the economy
+C) Co-existence of rich and poor
+D) Co-existence of public and private sectors
+Ans: D
+Exp: A mixed economy operates with the co-existence of both state-owned public and privately-owned business sectors.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: is a sector in which both the government and the private enterprises have equal access and join hands to produce commodities and services, leading to the establishment of joint sector.
+A) Private Sector
+B) Public Sector
+C) Combined sector
+D) Price
+Ans: C
+Exp: The Combined or Joint Sector is managed collaboratively by both government authorities and private entrepreneurs.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Indian economy is example of:
+A) Mixed economy
+B) Socialist economy
+C) Capitalist economy
+D) Unregulated economy
+Ans: A
+Exp: India follows a mixed economic framework where private enterprise operates alongside public sector infrastructure.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Encourage enterprise & risk taking is considered as a merit of which of the following economy?
+A) Social economy
+B) Political
+C) Mixed
+D) Managerial economy
+Ans: C
+Exp: A mixed economy protects private ownership and profit incentives, thereby encouraging entrepreneurship and risk-taking.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: In India Mixed Economy exists due to:
+A) Co-existence of public sector and private sector.
+B) Individual forces of demand and supply.
+C) Orders by government.
+D) None of these.
+Ans: A
+Exp: India's mixed economic structure is founded upon the active co-existence of the public and private sectors.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Larger production of goods would lead to higher production in future.
+A) Consumer goods
+B) Capital goods
+C) Agricultural goods
+D) Public goods
+Ans: B
+Exp: Allocating resources to capital goods (plant, tools, machinery) expands the nation's future productive capacity.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: refers to the work area where surplus manpower is employed out of which some individuals have zero or almost zero marginal productivity, such that if they are removed the total level of output remains unchanged.
+A) Voluntary
+B) Disguised
+C) Structural
+D) Technological
+Ans: B
+Exp: Disguised unemployment occurs when excess labour is engaged with zero marginal productivity, typical in agriculture.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Which of the following statements is incorrect?
+A) Alfred marshall propagated the wealth definition of Economics
+B) L. Robbins introduces the "Scarcity" definition of Economics
+C) Samuelson emphasized upon the "growth" aspect of Economics
+D) A.C. Pigou believed in "welfare" aspect of Economics
+Ans: A
+Exp: Adam Smith propagated the 'Wealth' definition of economics; Alfred Marshall gave the 'Material Welfare' definition.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Who has defined economics as "Science which deals with wealth"?
+A) Adam Smith
+B) Canon
+C) J.B. Say
+D) A.C. Pigou
+Ans: C
+Exp: French economist J.B. Say defined economics as the science which treats of wealth and its production/distribution.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: Who is the author of "The Nature and causes of wealth of Nation"?
+A) Karl Marx
+B) Adam Smith
+C) JB Say
+D) AC Pigou.
+Ans: B
+Exp: Adam Smith authored the foundational economics treatise 'The Wealth of Nations' in 1776.
+Sub: Nature and Scope of Business Economics
+
+---
+
+Q: "Features of the book wealth of nations"
+A) It was the first book user on economics.
+B) It was created in 1776.
+C) It was also known as 'wealth of nations'.
+D) All of the above.
+Ans: D
+Exp: Published in 1776, Adam Smith's masterpiece 'Wealth of Nations' is recognized as the first comprehensive book of modern economics.
+Sub: Nature and Scope of Business Economics
+
+---
+

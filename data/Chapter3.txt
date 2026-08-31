@@ -1,0 +1,4520 @@
+Q: Which of the following is considered production in Economics?
+A) Tilling of soil.
+B) Singing a song before friends.
+C) Preventing a child from falling into a manhole on the road.
+D) Painting a picture for pleasure.
+Ans: A
+Exp: In economics, production means creating utilities having an exchangeable market value.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Identify the correct statement:
+A) Average product is at its maximum when marginal product is equal to average product.
+B) Law of increasing returns to scale relates to effect of changes in factor proportions.
+C) Economies of scale arise only because of indivisibilities of factor proportions.
+D) Internal economies of scale accrue when industry expands beyond optimum.
+Ans: A
+Exp: Average Product (AP) reaches its peak when Marginal Product (MP) intersects AP from above (MP = AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is not a characteristic of land?
+A) Its supply for the economy is limited.
+B) It is immobile.
+C) Its usefulness depends on human efforts.
+D) It is produced by our forefathers.
+Ans: D
+Exp: Land is a primary, free gift of nature; it is not man-made or produced by human forefathers.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true?
+A) Accumulation of capital depends solely on income of individuals.
+B) Savings can be influenced by government policies.
+C) External economies go with size and internal economies with location.
+D) The supply curve of labour is an upward slopping curve.
+Ans: B
+Exp: Fiscal incentives, interest rates, and tax policies by the government directly influence national savings.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the production of wheat, all of the following are variable factors except:
+A) the seed and fertilizer used when the crop is planted.
+B) the field that has been cleared of trees and in which the crop is planted.
+C) the tractor used by the farmer in cultivating wheat, corn and barley.
+D) the number of hours that the farmer spends in cultivating wheat fields.
+Ans: B
+Exp: Agricultural land is fixed in quantity and cannot be readily altered in the short run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The marginal product of a variable input is best described as:
+A) total product divided by the number of units of variable input.
+B) additional output resulting from a one unit increase in the variable input.
+C) additional output resulting from a one unit increase in both variable and fixed inputs.
+D) ratio of variable input amount used to fixed input amount used.
+Ans: B
+Exp: Marginal product measures the incremental change in total output from adding one unit of variable factor.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns implies:
+A) decreasing average variable costs.
+B) decreasing marginal costs.
+C) increasing marginal costs.
+D) decreasing average fixed costs.
+Ans: C
+Exp: When marginal returns to a factor diminish, marginal cost of producing each additional unit increases.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The short run, as economists use the phrase, is characterized by:
+A) at least one fixed factor of production and firms neither leaving nor entering the industry.
+B) generally a period which is shorter than one year.
+C) all factors of production are fixed and no variable inputs.
+D) all inputs are variable and production is done in less than one year.
+Ans: A
+Exp: The short run is an operational timeframe where at least one factor input is fixed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The product curves in the short run exhibit all of the following relationships except:
+A) when total product is rising, average and marginal product may be either rising or falling.
+B) when marginal product is negative, total product and average product are falling.
+C) when average product is at maximum, MP equals AP, and total product is rising.
+D) when marginal product is at maximum, AP equals MP, and total product is rising.
+Ans: D
+Exp: Marginal Product reaches its maximum before Average Product; at MP max, MP is greater than AP.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The main difference between the short run and the long run is that:
+A) In the short run all inputs are fixed, while in the long run all inputs are variable.
+B) In the short run the firm varies all of its inputs to find the least-cost combination.
+C) In the short run, at least one of the firm's input levels is fixed.
+D) In the long run, the firm is making a constrained decision about existing equipment.
+Ans: C
+Exp: In the short run at least one input is fixed, whereas in the long run all factors are variable.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is the best definition of "production function"?
+A) Relationship between market price and quantity supplied.
+B) Relationship between the firm's total revenue and cost of production.
+C) Relationship between quantities of inputs needed to produce a given level of output.
+D) Relationship between quantity of inputs and the firm's marginal cost.
+Ans: C
+Exp: Production function expresses the technological relationship between physical inputs and physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The "law of diminishing returns" applies to:
+A) the short run, but not the long run.
+B) the long run, but not the short run.
+C) both the short run and the long run.
+D) neither the short run nor the long run.
+Ans: A
+Exp: The Law of Diminishing Returns (Law of Variable Proportions) applies strictly in the short run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing returns occur:
+A) when units of a variable input are added to a fixed input and total product falls.
+B) when units of a variable input are added to a fixed input and marginal product falls.
+C) when the size of the plant is increased in the long run.
+D) when quantity of fixed input is increased and returns to variable input falls.
+Ans: B
+Exp: Diminishing returns begin when Marginal Product (MP) of the variable factor starts declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is the total output when 2 hours of labour are employed? [Labour 1: TP=100; Labour 2: MP=80]
+A) 80
+B) 100
+C) 180
+D) 200
+Ans: C
+Exp: Total Product at 2 units of labour = TP(1) + MP(2) = 100 + 80 = 180.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is the marginal product of the third hour of labour? [TP at L=2 is 180, TP at L=3 is 240]
+A) 60
+B) 80
+C) 100
+D) 240
+Ans: A
+Exp: MP at 3 units = TP(3) - TP(2) = 240 - 180 = 60.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is the average product of the first three hours of labour? [TP at L=3 is 240]
+A) 60
+B) 80
+C) 100
+D) 240
+Ans: B
+Exp: Average Product = Total Product / Labour Units = 240 / 3 = 80.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which cost increases continuously with the increase in production?
+A) Average cost.
+B) Marginal cost.
+C) Fixed cost.
+D) Variable cost.
+Ans: D
+Exp: Total Variable Cost (TVC) starts from zero and increases continuously with output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following cost curves is never 'U' shaped?
+A) Average cost curve.
+B) Marginal cost curve.
+C) Average variable cost curve.
+D) Average fixed cost curve.
+Ans: D
+Exp: Average Fixed Cost (AFC) is a rectangular hyperbola that slopes downward continuously.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Total cost in the short run is classified into fixed and variable costs. Which one is a variable cost?
+A) Cost of raw materials.
+B) Cost of equipment.
+C) Interest payment on past borrowings.
+D) Payment of rent on building.
+Ans: A
+Exp: Raw materials vary directly with output, making them variable costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the short run, when the output of a firm increases, its average fixed cost:
+A) increases.
+B) decreases.
+C) remains constant.
+D) first declines and then rises.
+Ans: B
+Exp: Since TFC remains constant, AFC (TFC / Output) declines continuously as output rises.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which one of the following is also known as planning curve?
+A) Long run average cost curve.
+B) Short run average cost curve.
+C) Average variable cost curve.
+D) Average total cost curve.
+Ans: A
+Exp: LAC curve is called the planning curve because a firm chooses its optimal plant size along this curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If a firm moves from one point on a production isoquant to another, which of the following will not happen?
+A) A change in the ratio in which inputs are combined.
+B) A change in the ratio of marginal products of inputs.
+C) A change in the marginal rate of technical substitution.
+D) A change in the level of output.
+Ans: D
+Exp: An isoquant (equal product curve) represents constant total output at all points along the curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: With which of the following is the concept of marginal cost closely related?
+A) Variable cost.
+B) Fixed cost.
+C) Opportunity cost.
+D) Economic cost.
+Ans: A
+Exp: Marginal Cost = ΔTVC / ΔQ, because fixed costs do not vary with output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is correct?
+A) When average cost is rising, marginal cost must also be rising.
+B) When average cost is rising, marginal cost must be falling.
+C) When average cost is rising, marginal cost is above the average cost.
+D) When average cost is falling, marginal cost must be rising.
+Ans: C
+Exp: Whenever Average Cost (AC) is rising, Marginal Cost (MC) is always above AC (MC > AC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is an example of "explicit cost"?
+A) Wages a proprietor could have made working as an employee elsewhere.
+B) Income earned in alternative uses by firm-owned resources.
+C) Payment of wages by the firm to hired workers.
+D) Normal profit earned by a firm.
+Ans: C
+Exp: Explicit costs involve actual direct cash payments to outsiders for factor services.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is an example of an "implicit cost"?
+A) Interest that could have been earned on retained earnings used for expansion.
+B) Payment of rent by the firm for factory building.
+C) Interest payment made for bank loan.
+D) Payment of wages by the firm.
+Ans: A
+Exp: Implicit cost is the imputed opportunity cost of self-owned factors employed in business.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If TC at Q=0 is Rs.240 and TC at Q=2 is Rs.410, average fixed cost of 2 units is:
+A) Rs.80
+B) Rs.85
+C) Rs.120
+D) Rs.205
+Ans: C
+Exp: TFC = TC at zero output = Rs. 240. AFC at Q=2 is 240 / 2 = Rs. 120.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If TC at Q=5 is Rs.610 and TC at Q=6 is Rs.690, the marginal cost of the 6th unit is:
+A) Rs.133
+B) Rs.75
+C) Rs.80
+D) Rs.450
+Ans: C
+Exp: Marginal Cost of 6th unit = TC(6) - TC(5) = 690 - 610 = Rs. 80.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If TC for units 0 to 6 are 240, 330, 410, 480, 540, 610, 690, diminishing marginal returns start between:
+A) 2 and 3.
+B) 3 and 4.
+C) 4 and 5.
+D) 5 and 6.
+Ans: C
+Exp: MC values are 90, 80, 70, 60, 70, 80. MC reaches minimum at unit 4 and starts rising at unit 5.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Marginal cost is defined as:
+A) Change in total cost due to a one unit change in output.
+B) Total cost divided by output.
+C) Change in output due to a one unit change in input.
+D) Total product divided by quantity of input.
+Ans: A
+Exp: Marginal cost represents the incremental cost of producing one additional unit of output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is true of the relationship between marginal cost and average cost?
+A) If MC is greater than ATC, then ATC is falling.
+B) ATC curve intersects MC curve at minimum MC.
+C) MC curve intersects ATC curve at minimum ATC.
+D) If MC is less than ATC, then ATC is increasing.
+Ans: C
+Exp: The MC curve cuts the ATC curve from below at its lowest (minimum) point.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true of the relationship among average cost functions?
+A) ATC = AFC - AVC.
+B) AVC = AFC + ATC.
+C) AFC = ATC + AVC.
+D) AFC = ATC - AVC.
+Ans: D
+Exp: Since ATC = AFC + AVC, we have AFC = ATC - AVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is not a determinant of the firm's cost function?
+A) The production function.
+B) The price of labour.
+C) Taxes.
+D) The price of the firm's output.
+Ans: D
+Exp: The price of output affects revenue and profit, not the production cost function.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is correct concerning cost relationships?
+A) TC = TFC - TVC.
+B) TVC = TFC - TC.
+C) TFC = TC - TVC.
+D) TC = TVC - TFC.
+Ans: C
+Exp: Total Cost = TFC + TVC, which implies TFC = TC - TVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Suppose output increases in the short run. Total cost will:
+A) Increase due to an increase in fixed costs only.
+B) Increase due to an increase in variable costs only.
+C) Increase due to an increase in both fixed and variable costs.
+D) Decrease if firm is in region of diminishing returns.
+Ans: B
+Exp: Fixed costs remain constant in the short run, so any rise in TC is purely due to TVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which statement concerning the long-run average cost curve is false?
+A) It represents least-cost input combination for each output level.
+B) It is derived from a series of short-run average cost curves.
+C) SAC at minimum point of LAC represents least-cost plant size for all output levels.
+D) As output increases, capital employed increases along the curve.
+Ans: C
+Exp: The optimal plant size is least-cost only at the minimum point of LAC, not at all output levels.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The falling (negatively-sloped) part of the long-run average total cost curve is due to:
+A) Diseconomies of scale.
+B) Diminishing returns.
+C) Difficulties in coordinating large firm activities.
+D) The increase in productivity that results from specialization.
+Ans: D
+Exp: Falling LAC reflects internal and external economies of scale, including specialization of labour and management.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The rising (positively sloped) part of the long-run average total cost curve is due to:
+A) Diseconomies of scale.
+B) Increasing returns.
+C) Large-scale production techniques.
+D) Specialization productivity.
+Ans: A
+Exp: Beyond the minimum point of LAC, managerial and organizational diseconomies of scale set in.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's ATC is Rs.300 at 5 units and Rs.320 at 6 units. The marginal cost of the 6th unit is:
+A) Rs.20
+B) Rs.120
+C) Rs.320
+D) Rs.420
+Ans: D
+Exp: TC(5) = 300 * 5 = 1500; TC(6) = 320 * 6 = 1920. MC(6) = 1920 - 1500 = Rs. 420.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Firm producing 7 units has ATC of Rs.150 and fixed costs of Rs.350. What is the average variable cost?
+A) Rs.200
+B) Rs.50
+C) Rs.300
+D) Rs.100
+Ans: D
+Exp: AFC = TFC / Q = 350 / 7 = Rs. 50. AVC = ATC - AFC = 150 - 50 = Rs. 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm has variable cost of Rs.1000 and fixed cost of Rs.400 at 5 units. What is the average total cost?
+A) Rs.280
+B) Rs.60
+C) Rs.120
+D) Rs.1400
+Ans: A
+Exp: Total Cost = 1000 + 400 = Rs. 1400. Average Total Cost (ATC) = 1400 / 5 = Rs. 280.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's average fixed cost is Rs.20 at 6 units of output. What will it be at 4 units of output?
+A) Rs.60
+B) Rs.30
+C) Rs.40
+D) Rs.20
+Ans: B
+Exp: Total Fixed Cost = 20 * 6 = Rs. 120. AFC at 4 units = 120 / 4 = Rs. 30.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true?
+A) The services of a doctor are considered production.
+B) Man can create matter.
+C) The services of a housewife are considered production.
+D) When a man creates a table, he creates matter.
+Ans: A
+Exp: Doctor's services generate economic utility with a market price, hence classified as production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is a function of an entrepreneur?
+A) Initiating a business enterprise.
+B) Risk bearing.
+C) Innovating.
+D) All of the above.
+Ans: D
+Exp: An entrepreneur initiates production, manages business risks, and implements innovations.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In describing a given production technology, the short run is best described as lasting:
+A) up to six months from now.
+B) up to five years from now.
+C) as long as all inputs are fixed.
+D) as long as at least one input is fixed.
+Ans: D
+Exp: The short run is defined as the operational period during which at least one factor input remains fixed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If decreasing returns to scale are present, when all inputs are increased by 10%:
+A) output will also decrease by 10%.
+B) output will increase by 10%.
+C) output will increase by less than 10%.
+D) output will increase by more than 10%.
+Ans: C
+Exp: Under decreasing returns to scale, output increases by a smaller percentage than the increase in inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The production function is a relationship between a given combination of inputs and:
+A) another combination that yields the same output.
+B) the highest resulting output.
+C) increase in output generated by one-unit increase in one output.
+D) all levels of output that can be generated by those inputs.
+Ans: B
+Exp: A production function shows the maximum attainable output from a given combination of inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If the marginal product of labour is below the average product of labour, it must be true that:
+A) marginal product of labour is negative.
+B) marginal product of labour is zero.
+C) average product of labour is falling.
+D) average product of labour is negative.
+Ans: C
+Exp: When Marginal Product is less than Average Product (MP < AP), Average Product is declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The average product of labour is maximized when marginal product of labour:
+A) equals the average product of labour.
+B) equals zero.
+C) is maximized.
+D) none of the above.
+Ans: A
+Exp: Average Product reaches its peak at the exact point of intersection with Marginal Product (MP = AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: The law of variable proportions is drawn under all assumptions except:
+A) technology is changing.
+B) some inputs are kept fixed.
+C) we consider physical inputs rather than monetary profitability.
+D) technology is given and stable.
+Ans: A
+Exp: The state of technology is assumed to remain constant; improved technology shifts the curve upward.
+Sub: Theory of Production and Cost
+
+---
+
+Q: What is a production function?
+A) Technical relationship between physical inputs and physical output.
+B) Relationship between fixed factors and variable factors.
+C) Relationship between a factor of production and utility created.
+D) Relationship between quantity produced and time taken.
+Ans: A
+Exp: A production function expresses the engineering relationship between physical inputs and physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Laws of production does not include:
+A) returns to scale.
+B) law of diminishing returns to a factor.
+C) law of variable proportions.
+D) least cost combination of factors.
+Ans: D
+Exp: Least cost combination is an optimization condition for producer equilibrium, not a law of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: An isoquant shows:
+A) All combinations of two inputs produced using a given output fully.
+B) Combinations of two products yielding equal profit.
+C) All alternative combinations of two inputs that yield the same total product.
+D) Both (b) and (c).
+Ans: C
+Exp: An isoquant (equal product curve) shows different input combinations yielding identical total output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Economies of scale exist because as a firm increases its size in the long run:
+A) Labour and management can specialize more.
+B) Firm can get finance at lower cost and buy inputs cheaper.
+C) Firm can employ more sophisticated technology.
+D) All of these.
+Ans: D
+Exp: Specialization, technical advantages, and bulk purchasing power all contribute to economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The production function:
+A) is relationship between quantity of inputs used and resulting output quantity.
+B) tells maximum attainable output from given input combinations.
+C) expresses technological relationship between inputs and output.
+D) All the above.
+Ans: D
+Exp: All options represent fundamental characteristics of the production function.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If Output for 1, 2, 3 workers is 23, 40, 50 respectively, this process exhibits:
+A) constant marginal product of labour.
+B) diminishing marginal product of labour.
+C) increasing return to scale.
+D) increasing marginal product of labour.
+Ans: B
+Exp: Marginal products are 23, 17, 10, clearly showing diminishing marginal product of labour.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is a variable cost in the short run?
+A) rent of the factory.
+B) wages paid to factory labour.
+C) interest payments on borrowed capital.
+D) payment on lease for factory equipment.
+Ans: B
+Exp: Factory labour wages vary directly with the level of production output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The efficient scale of production is the quantity of output that minimizes:
+A) average fixed cost.
+B) average total cost.
+C) average variable cost.
+D) marginal cost.
+Ans: B
+Exp: Optimum/efficient plant scale is defined at the minimum point of the Average Total Cost (ATC) curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the short run, the firm's product curves show that:
+A) Total product decreases when average product decreases.
+B) When MP = AP, average product is decreasing.
+C) When MP cuts AP from below, AP equals MP.
+D) In stage two, total product increases at a diminishing rate and reaches maximum.
+Ans: D
+Exp: In Stage II, Total Product increases at a diminishing rate until reaching its peak when MP = 0.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Average product is defined as:
+A) total product divided by the total cost.
+B) total product divided by marginal product.
+C) total product divided by the number of units of variable input.
+D) marginal product divided by the number of units of variable input.
+Ans: C
+Exp: Average Product (AP) = Total Product (TP) / Units of Variable Input (L).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is true?
+A) After inflection point, greater use of variable input induces reduction in MP.
+B) Before reaching decreasing marginal returns, output can increase at increasing rate.
+C) The first stage corresponds to range in which AP is increasing.
+D) All the above.
+Ans: D
+Exp: All statements accurately describe the properties and stages of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Marginal product, mathematically, is the slope of the:
+A) total product curve.
+B) average product curve.
+C) marginal product curve.
+D) implicit product curve.
+Ans: A
+Exp: Marginal Product is the first derivative (slope) of the Total Product curve (MP = dTP/dL).
+Sub: Theory of Production and Cost
+
+---
+
+Q: If first four units of variable input generate total output of 200, 350, 450, 500, MP of 3rd unit is:
+A) 50
+B) 100
+C) 150
+D) 200
+Ans: B
+Exp: Marginal Product of 3rd unit = TP(3) - TP(2) = 450 - 350 = 100 units.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which statement is false in respect of fixed cost of a firm?
+A) TFC are constant in the short run except when prices of fixed inputs change.
+B) TFC continue to exist in short run when production stops, but cannot exist in long run when stopped.
+C) TFC can be defined as sum of costs of all fixed inputs in the short run.
+D) In short run, a firm's fixed cost cannot be escaped even when production is stopped.
+Ans: B
+Exp: In the long run, all inputs are variable and there are no fixed costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns for first four units of variable input is shown by TP sequence:
+A) 50, 50, 50, 50
+B) 50, 110, 180, 260
+C) 50, 100, 150, 200
+D) 50, 90, 120, 140
+Ans: D
+Exp: Marginal products in sequence D are 50, 40, 30, 20 (continuously diminishing MP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the third of the three stages of production:
+A) marginal product curve has a positive slope.
+B) marginal product curve lies completely below the average product curve.
+C) total product increases.
+D) marginal product is positive.
+Ans: B
+Exp: In Stage III (Negative Returns), MP is negative and lies below the horizontal axis and below the AP curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: When marginal costs are below average total costs:
+A) average fixed costs are rising.
+B) average total costs are falling.
+C) average total costs are rising.
+D) average total costs are minimized.
+Ans: B
+Exp: Whenever MC < ATC, the Average Total Cost (ATC) curve is declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's long-run average total cost curve is:
+A) Identical to its long-run marginal-cost curve.
+B) Also its long-run supply curve.
+C) In fact the average total cost curve of the optimal plant in short run.
+D) Tangent to all short-run average total cost curves and represents lowest ATC for each output level.
+Ans: D
+Exp: The LAC curve envelops all SAC curves and represents the minimum cost of producing each output level.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the long run, if a very small factory expands its scale of operations, it will initially experience:
+A) increase in pollution level.
+B) diseconomies of scale.
+C) economies of scale.
+D) constant returns to scale.
+Ans: C
+Exp: Initial expansion allows specialization and cost efficiencies, generating economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A firm's long-run average total cost curve is:
+A) Identical to long-run marginal cost curve.
+B) Also its long-run total cost curve.
+C) Average total cost curve of optimal plant in short run.
+D) Tangent to all SAC curves and represents lowest average total cost for each output level.
+Ans: D
+Exp: LAC is the planning envelope curve tangent to all short-run average cost curves.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements describes increasing returns to scale?
+A) Doubling of all inputs used leads to doubling of output.
+B) Increasing inputs by 50% leads to a 25% increase in output.
+C) Increasing inputs by 1/4 leads to an increase in output of 1/3.
+D) None of the above.
+Ans: C
+Exp: Input increases by 25% (1/4) whereas output increases by 33.33% (1/3) > 25% (Increasing Returns).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Economic costs of production differ from accounting costs because:
+A) Economic costs include hired resources while accounting costs do not.
+B) Accounting costs include opportunity costs which are deducted later.
+C) Accounting costs include hired resources while economic costs do not.
+D) Economic costs add opportunity cost of a firm which uses its own resources.
+Ans: D
+Exp: Economic Cost = Explicit Accounting Costs + Implicit (Opportunity) Costs of self-owned factors.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The most important function of an entrepreneur is to:
+A) Innovate
+B) Bear the sense of responsibility
+C) Finance
+D) Earn profit
+Ans: A
+Exp: According to Schumpeter, innovation is the distinguishing and vital function of an entrepreneur.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Marginal cost changes due to changes in:
+A) Total cost
+B) Average cost
+C) Variable cost
+D) Quantity of output
+Ans: C
+Exp: Because fixed costs do not vary with output, marginal cost depends entirely on variable cost (MC = ΔTVC / ΔQ).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is correct?
+A) Fixed costs vary with change in output.
+B) Adding TVC and TFC gives average cost.
+C) Marginal cost is total cost divided by units produced.
+D) Total cost is obtained by adding up fixed cost and total variable cost.
+Ans: D
+Exp: Total Cost (TC) = Total Fixed Cost (TFC) + Total Variable Cost (TVC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements is incorrect?
+A) LAC curve is also called planning curve of a firm.
+B) Total revenue = price per unit x number of units sold.
+C) Opportunity cost is also called alternative cost.
+D) If total revenue is divided by number of units sold we get marginal revenue.
+Ans: D
+Exp: Total Revenue divided by units sold gives Average Revenue (AR), not Marginal Revenue (MR).
+Sub: Theory of Production and Cost
+
+---
+
+Q: The vertical difference between TVC and TC is equal to:
+A) MC
+B) AVC
+C) TFC
+D) None of the above
+Ans: C
+Exp: TC = TFC + TVC, hence the vertical gap between TC and TVC is always constant and equal to TFC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The falling part of long run average cost curve is tangent to the ___ of corresponding SAC curve(s):
+A) falling part
+B) rising part
+C) minimum point
+D) None of the above
+Ans: A
+Exp: On the downward slope of LAC, it touches the falling portions of short-run average cost (SAC) curves.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which one of the following is an external economies of scale in long run?
+A) Risk bearing economies
+B) Financial economies
+C) Development of skilled labour
+D) None of the above
+Ans: C
+Exp: Pool of trained and skilled labour in an industrial region benefits the entire industry externally.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 1. What is Production is Economics:
+A) Creating/Addition of Utility
+B) Production of food grains
+C) Creation of services
+D) Manufacturing of goods
+Ans: A
+Exp: In economics, production is defined as the process of creating or adding utility to matter to satisfy human wants.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 2. Which of the following is considered as production in economics?
+A) Helping a blind person in crossing the road
+B) Group dance performance in a college annual function
+C) Holding a child who is falling from a wall
+D) Performing an art in a theatre
+Ans: D
+Exp: Production in economics includes only those activities performed with the intention of market exchange for monetary consideration.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 3. Which of the following is considered production in Economics?
+A) Tilling of soil.
+B) Singing a song before friends.
+C) Preventing a child from falling into a manhole on the road.
+D) Painting a picture for pleasure.
+Ans: A
+Exp: Tilling the soil is an economic productive activity that creates utilities having an exchangeable market value.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 4. Which of the following statements is true?
+A) The services of a doctor are considered production.
+B) Man can create matter.
+C) The services of a housewife are considered production.
+D) When a man creates a table, he creates matter.
+Ans: A
+Exp: Man cannot create physical matter; he can only create or add utility. Professional medical services are paid economic production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 5. Production may be defined as an act of:
+A) Creating utility
+B) Destroying utility
+C) Earning profit in best way
+D) Providing services professionally
+Ans: A
+Exp: Production is the economic process of transforming resources into goods and services by creating form, place, time, or personal utility.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 6. In Economics, entire process of is nothing but creation of utilities in the form of goods and services.
+A) Consumption
+B) Production
+C) Exchange
+D) Distribution
+Ans: B
+Exp: In economic theory, production is essentially the creation of utilities in the form of physical commodities and services.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 7. Which activity is the base of all production activities
+A) Consumption
+B) Production
+C) Exchange
+D) Investment
+Ans: A
+Exp: Consumption is the beginning and end of all economic activity; production is carried out to satisfy final consumer demand.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 8. Production is defined as:
+A) Creation of matter
+B) Creation of utility in matter
+C) Creation of infrastructural facilities
+D) None of the above
+Ans: B
+Exp: Human beings cannot create new physical matter; production consists of creating utility in existing matter.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 9. According to Production is the organized activity of transforming resources into finished products in the form of goods and services, and the objective of production is to satisfy the demand of such transformed "resources".
+A) James Bates
+B) J.R. Parkinson
+C) Marshall
+D) Both (a) and (b)
+Ans: D
+Exp: Economists James Bates and J.R. Parkinson jointly defined production as the organized transformation of resources into goods.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 10. to exchange in the market is an essential component of production.
+A) Intention
+B) Ability
+C) Capacity
+D) Possibility
+Ans: A
+Exp: For any activity to qualify as economic production, there must be an intention to exchange the output in the market.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 11. Production does not include work done
+A) Within a household out of love & affection
+B) Voluntary services
+C) For self consumption
+D) All of the above.
+Ans: D
+Exp: Domestic chores out of love, voluntary charity, and subsistence self-consumption lack market exchange and are excluded.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 12. Factors of production refer to :
+A) Inputs
+B) Outputs
+C) Both (a) & (b)
+D) Either (a) or (b)
+Ans: A
+Exp: Factors of production are the productive inputs that an enterprise procures to transform into goods and services.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 13. are the factors or resources which make it possible to produce goods and services.
+A) Land, Labour, and Bank
+B) Capital, Owner and manpower
+C) Land, Labour and Entrepreneurial ability
+D) Land, Labour, Capital and Entrepreneurial ability
+Ans: D
+Exp: Classical economic theory classifies the primary factors of production into Land, Labour, Capital, and Entrepreneurship.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 14. Which of the following factors of production is a free gift of nature and refers to Natural resources?
+A) Land
+B) Labour
+C) Capital
+D) Entrepreneurial Ability
+Ans: A
+Exp: In economics, 'Land' includes all free natural resources provided by nature above, on, and beneath the earth's surface.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 15. Which of the following is not a characteristic of land?
+A) Its supply for the economy is limited.
+B) It is immobile.
+C) Its usefulness depends on human efforts.
+D) It is produced by our forefathers.
+Ans: D
+Exp: Land is a primary gift of nature with zero social cost of production; it is not man-made or produced by human forefathers.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 16. Which of the following is not a characteristics of Land?
+A) It is a free gift of nature
+B) It is a mobile factor of production
+C) It is limited in quantity
+D) Its productive power is indestructible
+Ans: B
+Exp: Land is geographically immobile and cannot be shifted physically from one location to another.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 17. The term means any mental or physical exertion directed to produce goods or services.
+A) Land
+B) Labour
+C) Capital
+D) Entrepreneur
+Ans: B
+Exp: Labour represents any human mental or physical exertion undertaken for monetary consideration in production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 18. Which among the following is not a characteristic of land?
+A) It is an active factor
+B) It has variety of uses
+C) Its production powers are indestructible
+D) Its supply is limited
+Ans: A
+Exp: Land is a passive factor of production; it cannot produce output without the active intervention of human labour and capital.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 19. Which one of the following is not a characteristic of land?
+A) Land is immobile
+B) Land is active factor
+C) Land has multiple uses
+D) Land is heterogeneous
+Ans: B
+Exp: Land is a passive factor, not an active factor of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 20. Which of the following statement about factors of production is not true?
+A) Land is a passive factor
+B) Land is a free gift of nature
+C) Land is immobile
+D) Land is perishable
+Ans: D
+Exp: According to David Ricardo, land possesses original and indestructible productive powers, making it non-perishable.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 21. 'Land is heterogeneous' implies which of the following?
+A) Two lands are alike
+B) Two lands are not alike
+C) Two lands are fixed
+D) Two lands are mobile
+Ans: B
+Exp: Heterogeneity of land signifies that no two plots of land are identical in fertility, situation, or chemical composition.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 22. No two pieces of land and alike. They differ in fertility and situation. Therefore, Land is
+A) Homogenous
+B) Heterogeneous
+C) Bitrogeneous
+D) None of these.
+Ans: B
+Exp: Differences in natural fertility and geographical location make land a heterogeneous factor.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 23. Which of the following is correct about Land?
+A) It is mobile
+B) It has single use
+C) Its supply is fixed
+D) It is homogeneous.
+Ans: C
+Exp: The total geographical supply of land is perfectly inelastic (fixed) from the viewpoint of the aggregate economy.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 24. Supply of land is:
+A) Elastic
+B) Perfectly Elastic
+C) Perfectly Inelastic
+D) Inelastic
+Ans: C
+Exp: Total land available on the earth's surface is fixed by nature, making its aggregate supply perfectly inelastic (Es = 0).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 25. The total supply of Land is from the point of view of the economy. However, it is relatively from the point of view of a firm.
+A) Perfectly Inelastic, Inelastic
+B) Perfectly Inelastic, Relatively Elastic
+C) Perfectly Elastic, Inelastic
+D) Perfectly Elastic, elastic
+Ans: B
+Exp: While total land is perfectly inelastic for the whole economy, an individual business firm can acquire more land by paying a higher rent (relatively elastic).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 26. Labour force wants more
+A) Facility
+B) Leisure
+C) Benefit
+D) All of the above
+Ans: B
+Exp: As wage rates rise beyond a point, the income effect dominates, causing workers to substitute leisure for labour (backward bending supply curve).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 27. Which of the following is not a characteristic of labour?
+A) It is perishable
+B) It has weak bargaining power
+C) Labour and Labour power cannot be separated
+D) Labour is not mobile
+Ans: D
+Exp: Labour possesses mobility (both occupational and geographical); hence stating 'Labour is not mobile' is incorrect.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 28. The concept of "innovative entrepreneurship" was given by
+A) Adam smith
+B) Marshall
+C) JK Mehta
+D) Schumpeter
+Ans: D
+Exp: Joseph Schumpeter propounded the Innovation Theory of Entrepreneurship, stating that innovation is the central function of entrepreneurs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 29. The labour power or efficiency of labour depends upon the
+A) Laborer's inherent and acquired qualities.
+B) Features of work environment
+C) Incentive to work
+D) All of the above.
+Ans: D
+Exp: Labour productivity depends on physical/mental capacity, training, work environment, and wage incentives.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 30. Labour is highly perishable in the sense that
+A) A labourer cannot store his labour.
+B) The life of labour is short.
+C) The labourer sells his labour against wages, but retains the capacity to work.
+D) The labour is always low priced.
+Ans: A
+Exp: Labour cannot be stored or saved; a day's lost labour is lost forever, making it highly perishable.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 31. Without the active participation of labour, land and capital may not produce anything. It means labour is factor.
+A) Passive
+B) Active
+C) Working
+D) Executing
+Ans: B
+Exp: Labour is an active, human factor of production that mobilizes passive factors like land and machinery.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 32. Profit is income from which of the following?
+A) Labour
+B) Business
+C) Land
+D) Investment
+Ans: B
+Exp: Profit is the residual economic reward earned from conducting business enterprise and bearing uninsurable risks.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 33. Which one of the following is not a necessary function of an entrepreneur?
+A) Innovations.
+B) Risk and uncertainty bearing
+C) Initiating a business enterprise
+D) Supervision of day-to-day production activities.
+Ans: D
+Exp: Routine day-to-day managerial supervision can be delegated to salaried managers; initiating enterprise, risk bearing, and innovating are unique to entrepreneurs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 34. Human capital refers to:
+A) Savings by individuals
+B) Mobilisation of saving
+C) Human skills and abilities
+D) Productive investment
+Ans: C
+Exp: Human capital represents the acquired stock of education, skills, technical expertise, and health embodied in the workforce.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 35. Capital performs its function is production in a single use and is not available for future use.
+A) Circulating
+B) Fixed
+C) Tangible
+D) Human
+Ans: A
+Exp: Circulating (working) capital, like raw materials and power, is exhausted in a single production cycle.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 36. Which of the following is not a passive factor of production?
+A) Building
+B) Machine
+C) Land
+D) Labour
+Ans: D
+Exp: Labour is an active human factor, whereas buildings, machinery, and land are passive productive inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 37. Which one of the following may be regarded as a part of social capital?
+A) Roads
+B) Bridges
+C) Machinery
+D) Both (a) & (b)
+Ans: D
+Exp: Public infrastructure like roads, bridges, and ports built for societal use constitute social overhead capital.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 38. The three stages of capital formation are:
+A) Savings, Mobilization of Savings and investment
+B) Mobilization of Saving, Savings, and investment
+C) Investment, Saving and mobilization of Saving
+D) Saving, Investment and mobilization of savings.
+Ans: A
+Exp: Capital formation requires a three-step sequence: Creation of savings, Mobilization of savings via financial systems, and Real investment in capital assets.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 39. means a sustained increase in the stock of real capital in a Country.
+A) Capital formation
+B) Savings
+C) Mobilization of Savings
+D) Mobilization of Capital
+Ans: A
+Exp: Capital formation represents the sustained net addition to the national stock of real capital assets (plant, machinery, infrastructure).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 40. Which one of the following statements is not correct?
+A) Land has indestructible powers
+B) Labour is mobile
+C) Capital is nature's gift
+D) Land is a passive factor.
+Ans: C
+Exp: Capital is a man-made produced means of production, not a free gift of nature.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 41. Functions of the entrepreneur are:
+A) Risk bearing
+B) Initiating a business enterprise and resource co-ordinating
+C) Introducing new innovations
+D) All of the above
+Ans: D
+Exp: An entrepreneur initiates production, coordinates resources, assumes business uncertainties, and introduces innovations.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 42. An Entrepreneur undertakes which one of the following functions?
+A) Initiating a business and resource co-ordination
+B) Risk or uncertainty bearing
+C) Innovations
+D) All of the above
+Ans: D
+Exp: Organizing factor inputs, bearing non-insurable risks, and implementing new methods are core entrepreneurial functions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 43. Innovation theory of entrepreneurship is propounded by:
+A) Knight
+B) Schumpeter
+C) Max Weber
+D) Peter Drucker
+Ans: B
+Exp: Joseph Schumpeter propounded that dynamic innovations (new goods, new methods, new markets) drive entrepreneurial profit.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 44. The concept of innovative entrepreneurship was propounded by
+A) Joel dean
+B) Schumpeter
+C) Marshall
+D) Karl Marx
+Ans: B
+Exp: Joseph Schumpeter established the concept of the innovative entrepreneur as the driver of economic development.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 45. The most important function of an entrepreneur is to
+A) Innovate
+B) Bear the sense of responsibility
+C) Finance
+D) Earn profit
+Ans: A
+Exp: Schumpeter emphasized that introducing commercial innovations is the distinct and primary role of an entrepreneur.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 46. Who has given the concept of Innovative Entrepreneurship?
+A) Robbins
+B) Adam Smith
+C) Schumpeter
+D) Sweezy
+Ans: C
+Exp: Joseph Schumpeter formulated the theory of innovative entrepreneurship.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 47. The basic minimum objective of all kinds of enterprises is to survive or to stay alive. It may be regarded as objective of the enterprise.
+A) Organic
+B) Economic
+C) Social
+D) National
+Ans: A
+Exp: Self-preservation and survival constitute the primary organic (biological) objective of any business enterprise.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 48. objective implies the profit maximizing behaviour of the firm.
+A) Organic
+B) Economic
+C) Social
+D) National
+Ans: B
+Exp: The economic objective of an enterprise focuses on cost minimization, revenue expansion, and profit maximization.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 49. mobilizes factors of production, combines them in the right proportion, initiates the process of production and bears the risks involved in it.
+A) Businessman
+B) Manager
+C) CEO
+D) Entrepreneur
+Ans: D
+Exp: An entrepreneur is the central figure who coordinates factors of production and assumes business risk.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 50. Which one of the following function is performed by entrepreneur?
+A) Initiating Business Enterprise and resource Co-ordination
+B) Risk-bearing or uncertainty bearing
+C) Innovations
+D) All of the above
+Ans: D
+Exp: Entrepreneurial roles encompass project initiation, factor coordination, risk taking, and continuous innovation.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 51. According to the true function of an entrepreneur is to introduce innovations.
+A) Schumpeter
+B) Peter Ducker
+C) Paul Samuelson
+D) None of the above
+Ans: A
+Exp: Joseph Schumpeter propounded that the core and distinguishing function of an entrepreneur is introducing innovations.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 52. Which of the following is the best definition of "production function"?
+A) The relationship between market price and quantity supplied.
+B) The relationship between the firm's total revenue and the cost of production.
+C) The relationship between the quantities of inputs needed to produce a given level of output.
+D) The relationship between the quantity of inputs and the firm's marginal cost of production.
+Ans: C
+Exp: Production function expresses the technical relationship between physical quantities of inputs and the maximum attainable output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 53. Technological relationship between inputs & output
+A) Production function
+B) Marketing
+C) Supply function
+D) Social function
+Ans: A
+Exp: Production function is purely a technological relationship between physical inputs and physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 54. A production function is defined as the relationship between
+A) The quantity of physical inputs and physical output of a firm
+B) Stock of inputs and stock of output
+C) Prices of inputs and output
+D) Price and supply of a firm
+Ans: A
+Exp: Production function models the physical conversion of factor inputs into finished physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 55. The production function is a relationship between a given combination of inputs and:
+A) Another combination that yields the same output.
+B) The highest resulting output.
+C) The increase in output generated by one-unit increase in one output.
+D) All levels of output that can be generated by those inputs.
+Ans: B
+Exp: A production function always specifies the maximum (highest) feasible output obtainable from given factor inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 56. What is a production function?
+A) Technical relationship between physical inputs and physical output.
+B) Relationship between fixed factors of production and variable factors of production.
+C) Relationship between a factor of production and the utility created by it.
+D) Relationship between quantity of output produced and time taken to produce the output.
+Ans: A
+Exp: It is the technical and engineering relationship connecting physical inputs to maximum physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 57. Production function is:
+A) Purely a technical relationship between input & output
+B) Purely an economic relationship between input & output
+C) Both the technical & economical relationship between input & output
+D) None of the above
+Ans: A
+Exp: A production function is purely technical in nature and does not incorporate monetary cost or input prices.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 58. The production function:
+A) Is the relationship between the quantity of inputs used and the resulting quantity of product.
+B) Tells us the maximum attainable output from a given combination of inputs.
+C) Expresses the technological relationship between inputs and output of a product.
+D) All the above
+Ans: D
+Exp: All three statements correctly define the technological nature, purpose, and scope of a production function.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 59. shows the overall output generated at a given level of input:
+A) Cost function
+B) Production function
+C) ISO cost
+D) Marginal rate of technical substitution
+Ans: B
+Exp: The production function indicates total physical product generated from specific factor input combinations.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 60. Which function shows relationship between input and output?
+A) Consumption function
+B) Investment function
+C) Production function
+D) Cost function
+Ans: C
+Exp: Production function establishes the transformation relationship of factor inputs into product output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 61. A functional relationship between inputs and output is called
+A) Cost function
+B) Revenue function
+C) Production function
+D) Consumption function
+Ans: C
+Exp: The input-output functional relationship is known as the Production Function.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 62. Which of the following statements is true?
+A) After the inflection point of the production function, a greater use of the variable input induces a reduction in the marginal product.
+B) Before reaching the inevitable point of decreasing marginal returns, the quantity of output obtained can increase at an increasing rate.
+C) The first stage corresponds to the range in which the AP is increasing as a result of utilizing increasing quantities of variable inputs.
+D) All the above.
+Ans: D
+Exp: All statements accurately describe the three progressive stages of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 63. Which one of the following is the assumption underlying any production function?
+A) Relationship between inputs and outputs exists for a period of time.
+B) There is a given "State-of-the art" in the production technology.
+C) Whatever input combinations are included in a particular function, the output resulting from their utilization is at the maximum level.
+D) All of the above.
+Ans: D
+Exp: Production functions assume a specified timeframe, constant technology state, and maximum engineering efficiency.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 64. The short run, as economists use the phrase, is characterized by:
+A) At least one fixed factor of production and firms neither leaving nor entering the industry.
+B) Generally a period which is shorter than one year.
+C) All factors of production are fixed and no variable inputs.
+D) All inputs are variable and production is done in less than one year.
+Ans: A
+Exp: The short run is an operational timeframe where at least one factor input is fixed and industry entry/exit is closed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 65. To economists, the main difference between the short run and the long run is that:
+A) In the short run all inputs are fixed, while in the long run all inputs are variable.
+B) In the short run the firm varies all of its inputs to find the least-cost combination of inputs.
+C) In the short run, at least one of the firm's input levels is fixed.
+D) In the long run, the firm is making a constrained decision about how to use existing plant and equipment efficiently.
+Ans: C
+Exp: The short run contains at least one fixed factor, whereas in the long run all factor inputs are completely variable.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 66. In describing a given production technology, the short run is best described as lasting:
+A) Up to six months from now.
+B) Up to five years from now.
+C) As long as all inputs are fixed.
+D) As long as at least one input is fixed.
+Ans: D
+Exp: The economic short run lasts as long as at least one productive input (e.g. plant size, land) remains fixed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 67. In the short run, the firm's product curves show that
+A) Total product begins to decrease when average product begins to decrease but continues to increase at a decreasing rate.
+B) When marginal product is equal to average product, average product is decreasing but at its highest.
+C) When the marginal product curve cuts the average product curve from below, the average product is equal to marginal product.
+D) In stage two, total product increases at a diminishing rate and reaches maximum at the end of this stage.
+Ans: D
+Exp: In Stage II of production, Total Product rises at a decreasing rate until it reaches its maximum when MP becomes zero.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 68. Long period production function is related to:
+A) Law of variable proportions
+B) Laws of returns to scale
+C) Law of diminishing returns
+D) None of the above
+Ans: B
+Exp: Returns to scale is a long-run production phenomenon where all inputs are varied simultaneously.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 69. Long-run does not have:
+A) Average Cost
+B) Total Cost
+C) Fixed Cost
+D) Variable Cost
+Ans: C
+Exp: In the long run, all factors of production are variable; therefore, there are no fixed costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 70. A fixed input is defined as:
+A) That input whose quantity can be quickly changed in the short run, in response to the desire of the company to change its production.
+B) That input whose quantity cannot be quickly changed in the short run, in response to the desire of the company to change its production.
+C) That input whose quantities can be easily changed in response to the desire to increase or reduce the level of production.
+D) That input whose demand can be easily changed in response to the desire to increase or reduce the level of production.
+Ans: B
+Exp: Fixed inputs (buildings, heavy plant machinery) cannot be altered instantaneously in the short run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 71. In the long run, if a very small factory were to expand its scale of operations, it is likely that it would initially experience
+A) An increase in pollution level.
+B) Diseconomies of scale.
+C) Economies of scale.
+D) Constant returns to scale.
+Ans: C
+Exp: Initial scale expansion allows specialization and technological efficiencies, yielding economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 72. Paul Douglas and Cobb studied the production function of the manufacturing industries.
+A) American
+B) Japanese
+C) British
+D) Asian
+Ans: A
+Exp: Paul H. Douglas and C.W. Cobb conducted empirical studies on American manufacturing industries.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 73. In its original form, the Cobb-Douglas production function applies:
+A) To individual firm
+B) To selected Firms
+C) To whole of manufacturing in the USA
+D) None of the above.
+Ans: C
+Exp: The original Cobb-Douglas production function was fitted to aggregate manufacturing output across the entire USA.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 74. In Cobb-Douglas production function, two inputs are:
+A) Land and Labour
+B) Labour and Capital
+C) Capital and Entrepreneur
+D) Entrepreneur and land
+Ans: B
+Exp: In Q = A * L^a * K^b, the two explicit factor inputs are Labour (L) and Capital (K).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 75. The famous Cobb-Douglas production function is based on studies of industries in the United States of America.
+A) Manufacturing
+B) Construction
+C) Consumer
+D) Aviation
+Ans: A
+Exp: Cobb-Douglas studied the historical production data of US manufacturing industries.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 76. If Cobb-Douglas function is given by Q = K L^a C^b then there will be when (a+b)
+A) Increasing returns, > 1
+B) Increasing returns to scale, > 1
+C) Diminishing returns, < 1
+D) Decreasing returns to scale, = 1
+Ans: B
+Exp: If the sum of input exponents (a + b) > 1, the production function exhibits Increasing Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 77. The conclusion drawn from Cobb-Douglas production function is that labour contributed about and capital about of the increase in the manufacturing production.
+A) 3/4, 1/4
+B) 1/2, 1/2
+C) 1/4, 3/4
+D) None of the above
+Ans: A
+Exp: Cobb-Douglas estimated labour's output elasticity at approximately 0.75 (3/4) and capital's at 0.25 (1/4).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 78. According to Cobb-Douglas production function, will get returns to scale?
+A) Constant
+B) Diminishing
+C) Increasing
+D) Any of the above
+Ans: A
+Exp: In its standard linear homogeneous form (a + b = 1), Cobb-Douglas exhibits Constant Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 79. According to Cobb-Douglas production function, labour contribution in increasing manufacturing production is
+A) 2/3
+B) 3/4
+C) 1/4
+D) 1/2
+Ans: B
+Exp: Labour contributed about 3/4th (75%) of the growth in manufacturing output in the Cobb-Douglas study.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 81. Marginal product is the slope of:
+A) Total Product
+B) Average Product
+C) Marginal Product
+D) Implicit Product
+Ans: A
+Exp: Marginal Product is the first derivative (slope) of the Total Product curve (MP = dTP/dL).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 82. The marginal product of a variable input is described as:
+A) The additional output resulting from one unit increases in both the variable and fixed inputs.
+B) The additional output resulting from one unit increase it fixed inputs.
+C) The additional output resulting from one unit increase in variable inputs.
+D) The additional output resulting from all units increase in variable inputs.
+Ans: C
+Exp: Marginal Product is the addition to total physical output resulting from employing one extra unit of the variable input.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 84. Which of the following is correct:
+A) TFC = TVC - TC
+B) TC = TVC - TFC
+C) TFC = TC - TVC
+D) TC = TFC - TVC
+Ans: C
+Exp: Total Cost = Total Fixed Cost + Total Variable Cost, which rearranges to TFC = TC - TVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 85. is the total output resulting from the efforts of all the factors of production combined together at any time.
+A) Total Product
+B) Average Product
+C) Marginal Product
+D) None of the above.
+Ans: A
+Exp: Total Product (TP) is the total volume of goods produced during a given period by all factors combined.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 86. Average product is defined as
+A) Total product divided by the total cost.
+B) Total product divided by marginal product.
+C) Total product divided by the number of units of variable input.
+D) Marginal product divided by the number of units of variable input.
+Ans: C
+Exp: Average Product (AP) = Total Product (TP) / Quantity of Variable Input (L).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 87. Suppose the first four units of a variable input generate corresponding total outputs of 200, 350, 450, 500. The marginal product of the third unit of input is:
+A) 50
+B) 100
+C) 150
+D) 200
+Ans: B
+Exp: Marginal Product of 3rd unit = TP(3) - TP(2) = 450 - 350 = 100 units.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 89. At the point of inflexion, the marginal product is:
+A) Increasing
+B) Decreasing
+C) Maximum
+D) Negative
+Ans: C
+Exp: The point of inflexion on the Total Product curve corresponds to the point where Marginal Product reaches its maximum.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 90. Marginal product will be at the point of inflexion is
+A) Minimum
+B) Maximum
+C) Negative
+D) Zero
+Ans: B
+Exp: At the inflection point on the TP curve, the slope of TP (Marginal Product) is at its peak.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 91. Suppose the first four units of a variable input generate corresponding total output of 150, 200, 350, 550. What will be the marginal product of the third unit of input?
+A) 50
+B) 100
+C) 200
+D) 150
+Ans: D
+Exp: MP(3) = TP(3) - TP(2) = 350 - 200 = 150 units.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 92. When Average Product falls, marginal product is the Average Product.
+A) Less than
+B) More than
+C) Equal to
+D) Maximum
+Ans: A
+Exp: Whenever Average Product is declining, Marginal Product lies below Average Product (MP < AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 94. Marginal product, mathematically, is the slope of the
+A) Total product curve.
+B) Average product curve.
+C) Marginal product curve.
+D) Implicit product curve.
+Ans: A
+Exp: The slope of the Total Product curve at any point equals the Marginal Product (dTP/dL).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 95. Which of the following is Correct?
+A) MPn = TPn - TPn-1
+B) MPn = MPn + MPn-1
+C) MPn = TPn + TPn-1
+D) None of the above.
+Ans: A
+Exp: Marginal Product of the nth unit is computed as MPn = TPn - TPn-1.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 99. If variable cost of 5 units of output is 100 and fixed cost is 40. Find average cost at 5 units of output.
+A) 8
+B) 100
+C) 28
+D) 540
+Ans: C
+Exp: Total Cost = TVC + TFC = 100 + 40 = 140. Average Cost = TC / Output = 140 / 5 = 28.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 100. Marginal, average and total product of a firm in the short run will not comprise with
+A) When marginal production is at a maximum, average product is equal to marginal product, and total product is rising
+B) When average product is maximum, average product is equal to marginal product, and total product is rising
+C) When marginal product is negative, total product and average product are falling
+D) When total product is increasing, average product and marginal product may be either rising or falling
+Ans: A
+Exp: Marginal Product reaches its maximum before Average Product; at maximum MP, MP is strictly greater than AP.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 101. When average product rises as a result of an increase in the quantity of variable factor, marginal product is:
+A) Equal to average product
+B) More than average product
+C) Less than average product
+D) Becomes negative
+Ans: B
+Exp: As long as Average Product (AP) is rising, Marginal Product (MP) is strictly greater than AP (MP > AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 102. The marginal product curve is above the average product curve when the average product is:
+A) Increasing
+B) Decreasing
+C) Constant
+D) None
+Ans: A
+Exp: Whenever Average Product is increasing, the Marginal Product curve lies above the Average Product curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 103. Identify the correct statement:
+A) The average product is at its maximum when marginal product is equal to average product.
+B) The law of increasing returns to scale relates to the effect of changes in factor proportions.
+C) Economies of scale arise only because of indivisibilities of factor proportions.
+D) Internal economies of scale can accrue when industry expands beyond optimum.
+Ans: A
+Exp: AP reaches its maximum at the point where the MP curve cuts the AP curve from above (MP = AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 104. Which of the following is correct in relation to Marginal Product?
+A) What is produced units when all factors of production are employed at optimum efficiency?
+B) The extra output obtained from employing an additional unit of a factor
+C) The left revenue to the entrepreneur after he has incurred all expenses
+D) None of the above
+Ans: B
+Exp: Marginal Product is defined as the incremental physical output generated by employing one additional unit of a factor input.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 105. If the marginal product of labour is below the average product of labour, it must be true that:
+A) The marginal product of labour is negative.
+B) The marginal product of labour is zero.
+C) The average product of labour is falling.
+D) The average product of labour is negative.
+Ans: C
+Exp: When MP < AP, the Average Product of labour is continuously declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 106. The average product of labour is maximized when marginal product of labour:
+A) Equals the average product of labour.
+B) Equals zero.
+C) Is maximized.
+D) None of the above.
+Ans: A
+Exp: Average Product reaches its peak at the exact point where Marginal Product intersects Average Product (MP = AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 107. The marginal, average, and total product curves encountered by the firm producing in the short run exhibit all of the following relationships except:
+A) When total product is rising, average and marginal product may be either rising or falling.
+B) When marginal product is negative, total product and average product are falling.
+C) When average product is at a maximum, marginal product equals average product, and total product is rising.
+D) When marginal product is at a maximum, average product equals marginal product, and total product is rising.
+Ans: D
+Exp: At maximum MP, MP is above AP (MP > AP), not equal to AP.
+Sub: Theory of Production and Cost
+
+---
+
+Q: If the marginal product of labour is below the average product of labour. It must be true that:
+A) Marginal product of labour is negative
+B) Marginal product of labour is zero
+C) Average product of labour is falling
+D) Average product of labour is negative
+Ans: A
+Exp: When Marginal Product lies below Average Product (MP < AP), Average Product is continuously declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the production of wheat, all of the following are variable factors that are used by the farmer except:
+A) The seed and fertilizer used when the crop is planted.
+B) The field that has been cleared of trees and in which the crop is planted.
+C) The tractor used by the farmer in planting and cultivating not only wheat but also corn and barley.
+D) The number of hours that the farmer spends in cultivating the wheat fields.
+Ans: B
+Exp: Agricultural land is a fixed factor of production in the short run and cannot be quickly varied.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Law of variable proportion is valid when:
+A) Only one input is fixed and all other inputs are kept variable
+B) All factors are kept constant
+C) All inputs are varied in the same proportion
+D) None of these
+Ans: A
+Exp: The Law of Variable Proportions operates in the short run where one factor is fixed and variable inputs are added to it.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns implies:
+A) Decreasing average variable costs
+B) Decreasing marginal costs
+C) Increasing marginal costs
+D) Decreasing average fixed costs
+Ans: C
+Exp: When marginal product of a variable factor falls, the marginal cost of producing each additional unit increases.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns for the first four units of a variable input is exhibited by the total product sequence:
+A) 50, 50, 50, 50
+B) 50, 110, 180, 260
+C) 50, 100, 150, 200
+D) 50, 90, 120, 140
+Ans: D
+Exp: Marginal products in sequence D are 50, 40, 30, and 20, which shows continuously diminishing marginal returns.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In short run the Law of variable proportions is also known as
+A) Law of increasing returns
+B) Law of diminishing returns
+C) Law of decreasing returns
+D) Law of constant returns
+Ans: B
+Exp: The Law of Variable Proportions is popularly known as the Law of Diminishing Returns.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Production activity in the short period is analysed with the help of:
+A) Law of variable proportion
+B) Laws of returns to scale
+C) Both (a) & (b)
+D) None of the above
+Ans: A
+Exp: Short-run production analysis uses the Law of Variable Proportions where factor proportions change.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The Law of Variable Proportions is associated with:
+A) Short period
+B) Long period
+C) Both short and long periods
+D) Neither short nor long period
+Ans: A
+Exp: The Law of Variable Proportions applies strictly to the short-period operational timeframe.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The "law of diminishing returns" applies to:
+A) The short run, but not the long run.
+B) The long run, but not the short run.
+C) Both the short run and the long run.
+D) Neither the short run nor the long run.
+Ans: A
+Exp: Diminishing returns apply to the short run where variable factors are applied to fixed factors.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The law of variable proportions is drawn under all of the assumptions mentioned below except the assumption that:
+A) The technology is changing.
+B) There must be some inputs whose quantity is kept fixed.
+C) We consider only physical inputs and not economically profitability in monetary terms.
+D) The technology is given and stable.
+Ans: A
+Exp: The state of production technology is assumed to remain constant; technological progress shifts the curve upwards.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Law of increasing returns is applicable because of
+A) Indivisibility of factors.
+B) Specialization.
+C) Economies of scale.
+D) Both (a) & (b) above.
+Ans: D
+Exp: Increasing returns in Stage I occur due to better utilization of indivisible fixed factors and division of labour (specialization).
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the first stage of law of variable proportions, total product increases at the
+A) Decreasing rate
+B) Increasing rate
+C) Constant rate
+D) Both (a) and (b).
+Ans: B
+Exp: Up to the point of inflexion in Stage I, Total Product increases at an increasing rate.
+Sub: Theory of Production and Cost
+
+---
+
+Q: During 2nd stage of law of Diminishing returns:
+A) MP and TP is maximum
+B) MP and AP are decreasing
+C) AP is negative
+D) TP is negative
+Ans: B
+Exp: In Stage II (Stage of Diminishing Returns), both Average Product and Marginal Product are declining but remain positive.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A rational producer will produce in the stage in which marginal product is positive and:
+A) MP > AP
+B) MP = AP
+C) MP < AP
+D) MP is zero
+Ans: C
+Exp: A rational producer always operates in Stage II where MP is positive, declining, and lies below AP (MP < AP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns implies:
+A) Decreasing average variable costs
+B) Decreasing marginal costs
+C) Increasing marginal costs
+D) Decreasing average fixed costs
+Ans: C
+Exp: As marginal physical productivity falls, each additional unit of output requires more factor input, driving up marginal cost.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The phenomenon of diminishing returns rests upon the of the fixed factor:
+A) Divisibility
+B) Flexibility
+C) Indivisibility
+D) None of these
+Ans: C
+Exp: Indivisibility of the fixed factor means that once optimal factor proportions are exceeded, diminishing returns set in.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Law of diminishing returns is applicable in:
+A) Manufacturing industry
+B) Agriculture
+C) Neither (a) nor (b)
+D) Any economic activity at a point of time.
+Ans: D
+Exp: While historically observed in agriculture, the law applies universally to any production activity when variable inputs are added to a fixed factor.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In the third of the three stages of production:
+A) The marginal product curve has a positive slope.
+B) The marginal product curve lies completely below the average product curve.
+C) Total product increases.
+D) Marginal product is positive.
+Ans: B
+Exp: In Stage III, Marginal Product becomes negative and lies below the horizontal axis and below Average Product.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing marginal returns implies
+A) Decreasing average variable costs
+B) Decreasing marginal costs
+C) Increasing marginal costs
+D) Decreasing fixed costs.
+Ans: C
+Exp: Decreasing marginal returns is the direct physical counterpart to increasing marginal costs of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The "law of diminishing returns" applies to
+A) The short run, but not the long run
+B) The long run, but not the short run
+C) Both the short run and the long run
+D) Neither the short run nor the long run
+Ans: A
+Exp: Diminishing returns occur in the short run due to fixed factor constraints.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing returns occur:
+A) When units of a variable input are added to a fixed input and total product falls.
+B) When units of a variable input are added to a fixed input and marginal product falls.
+C) When the size of the plant is increased in the long run.
+D) When the quantity of the fixed input is increased and returns to the variable input falls.
+Ans: B
+Exp: Diminishing returns begin at the exact point where Marginal Product of the variable factor starts declining.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The concept of Returns to Scale is related with:
+A) Very short period
+B) Short period
+C) Long period
+D) None of above
+Ans: C
+Exp: Returns to scale is a long-run production concept where all factor inputs are varied in equal proportion.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The Law of returns to scale is.
+A) Short run
+B) Long run
+C) Short and Long run
+D) Medium run
+Ans: B
+Exp: The Laws of Returns to Scale operate strictly in the long run when the scale of the entire plant can be altered.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The scale of production can be changed in
+A) Very short period
+B) Short period
+C) Long period
+D) Both very short period and short period
+Ans: C
+Exp: In the long run, all factors of production are variable, allowing a firm to expand or contract its scale of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Increasing returns to scale can be explained in terms of:
+A) External and internal economies
+B) External and internal dis-economies
+C) External economics and internal dis-economies
+D) All of these
+Ans: A
+Exp: Increasing returns to scale arise due to internal economies of scale within the firm and external economies in the industry.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Increasing returns to scale occurs due to:
+A) Economies of scale
+B) Specialization
+C) Indivisibility of factors
+D) All of these
+Ans: D
+Exp: Specialization of labour, technological efficiencies, and factor indivisibility all generate increasing returns to scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following statements describes increasing returns to scale?
+A) Doubling of all inputs used leads to doubling of the output.
+B) Increasing the inputs by 50% leads to a 25% increase in output.
+C) Increasing inputs by 1/4 leads to an increase in output of 1/3
+D) None of the above.
+Ans: C
+Exp: Inputs increase by 25% (1/4) while output increases by 33.33% (1/3) > 25%, demonstrating Increasing Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: The stage of "Decreasing returns to scale" will occur when
+A) Decrease in output is less than increase in input
+B) Decrease in output is greater than increase in input
+C) Increase in output is greater than increase in input
+D) Increase in output is less than increase in input
+Ans: D
+Exp: Decreasing returns to scale occur when proportionate increase in total output is less than proportionate increase in all inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Returns to scale will said to be in operation when quantity of:
+A) All inputs are changed
+B) All inputs are changed in already established proportion
+C) All inputs are not changed
+D) One input is changed while quantity of all other inputs remain the same
+Ans: B
+Exp: Returns to scale require all factor inputs to change simultaneously in a constant factor ratio.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Diminishing returns occur
+A) When units of a variable input are added to a fixed input and total product falls
+B) When units of a variable input are added to a fixed input and marginal product falls
+C) When the size of the plant is increased in the long run.
+D) When the quantity of the fixed input is increased and returns to the variable input falls
+Ans: B
+Exp: Diminishing returns set in when additional units of variable input yield successively smaller additions to output (falling MP).
+Sub: Theory of Production and Cost
+
+---
+
+Q: Which of the following is the reason of the working of law of increasing returns?
+A) Fuller utilisation of fixed factors
+B) Indivisibility of the factors
+C) Greater specialization of labour
+D) All of the above
+Ans: D
+Exp: Increasing returns operate because fixed factor capacity is utilized more fully, and division of labour enhances worker efficiency.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Linear homogeneous production function is based on:
+A) Increasing returns to scale
+B) Decreasing returns to scale
+C) Constant returns to scale
+D) None of the above
+Ans: C
+Exp: A production function homogeneous of degree 1 represents constant returns to scale (e.g. standard Cobb-Douglas when a + b = 1).
+Sub: Theory of Production and Cost
+
+---
+
+Q: If decreasing returns to scale are present, then if all inputs are increased by 10% then:
+A) Output will also decrease by 10%.
+B) Output will increase by 10%.
+C) Output will increase by less than 10%.
+D) Output will increase by more than 10%.
+Ans: C
+Exp: Under decreasing returns to scale, output expands by a smaller percentage than the percentage increase in inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: In Cobb-Douglas Production function [Q=KL^a C^b], there will be increasing returns to scale if:
+A) a + b > 1
+B) a + b = 1
+C) a + b = 0
+D) a + b < 1
+Ans: A
+Exp: In the Cobb-Douglas production function, the sum of output elasticities (a + b) > 1 indicates Increasing Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: A change in scale means that factors of production are increased or decreased in the same production.
+A) Two
+B) Three
+C) No
+D) All
+Ans: D
+Exp: Changing the scale of production requires altering all factor inputs in the same fixed proportion simultaneously.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Increase in all input leading to less than proportional increase in output is called
+A) Increasing returns to scale
+B) Decreasing returns to scale
+C) Constant returns to scale
+D) Both increasing and decreasing returns to scale
+Ans: B
+Exp: When output rises by a smaller percentage than input expansion, it is Decreasing Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: When output decreases by 20% due to increase in inputs by 20%, this stage is called the law of
+A) Increasing returns to scale.
+B) Decreasing returns to scale.
+C) Constant returns to scale.
+D) None of the above.
+Ans: D
+Exp: An increase in inputs resulting in an absolute decline in output is negative returns, not standard returns to scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: Constant Returns to Scale are also called as Production Function.
+A) Linear
+B) Curvilinear
+C) Linear Homogenous
+D) Curvilinear Homogenous
+Ans: C
+Exp: Constant returns to scale are termed a Linear Homogeneous Production Function (homogeneous of degree one).
+Sub: Theory of Production and Cost
+
+---
+
+Q: With a view to increase his production, Hariharan a manufacturer of shoes, increases all the factors of production in his unit by 100%. But at the end of the year, he finds that instead of an increase of 100%, his production has increased by only 80%. Which law of returns to scale is operating in this case?
+A) Increasing returns to scale
+B) Decreasing returns to scale
+C) Constant returns to scale
+D) None of the above
+Ans: B
+Exp: Output growth (80%) is less than the input increase (100%), exhibiting Decreasing Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: When output increase in a smaller proportion with an increase in all inputs returns to scale set in.
+A) Increasing
+B) Decreasing
+C) Constant
+D) Circular
+Ans: B
+Exp: Less than proportionate output growth with respect to scale expansion defines Decreasing Returns to Scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 149. ISO quants are equal to:
+A) Product Lines
+B) Total utility lines
+C) Cost lines
+D) Revenue lines
+Ans: A
+Exp: An isoquant curve shows equal total product combinations of two inputs, hence also called an Equal Product curve or Product Line.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 150. Among the following statements which is incorrect in relation to isoquants
+A) These are negatively sloped
+B) These are concave to origin
+C) These are not intersecting
+D) These are convex to origin
+Ans: B
+Exp: Isoquants are strictly convex to the origin due to the diminishing Marginal Rate of Technical Substitution (MRTS).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 151. ISO quants are also known as:
+A) Production possibility curves
+B) Indifference curves
+C) Production indifference curves
+D) None of the above
+Ans: C
+Exp: Isoquants represent producer indifference across various input combinations yielding identical output, hence called Production Indifference Curves.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 152. An Isoquant is to an Isocost line at equilibrium point:
+A) Convex
+B) Concave
+C) Tangent
+D) Perpendicular
+Ans: C
+Exp: Producer equilibrium (least-cost input combination) occurs at the point of tangency between the Isoquant and the Isocost line.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 153. Large production of goods would lead to higher production in future.
+A) Consumer Goods
+B) Capital Goods
+C) Agricultural Goods
+D) Public Goods
+Ans: B
+Exp: Capital goods (machinery, equipment, tools) enhance the future productive capacity of the economy.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 154. An ISO quant shows
+A) All the alternative combinations of two inputs that can be produced by using a given set of output fully and in the best possible way.
+B) All the alternative combinations of two products among which a producer is indifferent because they yield the same profit.
+C) All the alternative combinations of two inputs that yield the same total product.
+D) Both (b) and (c).
+Ans: C
+Exp: An isoquant graphs all alternative combinations of two factor inputs (e.g., labour and capital) that yield the exact same physical output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 155. ISO quants are negatively sloped & to the origin due to Marginal Rate of Technical Substitution (MRTS).
+A) Convex, Increasing
+B) Convex, Decreasing
+C) Concave, Increasing
+D) Concave, Decreasing
+Ans: B
+Exp: Isoquants are convex to the origin because the Marginal Rate of Technical Substitution (MRTS_LK) is diminishing.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 156. Which of the following statement is true in relation to an ISO Quant Curve?
+A) It represents those combination of two factors of production that will give the same level of output
+B) It represents those combinations of all the factors that will give the same level of output
+C) It slopes upward to the right
+D) It can tough either axis
+Ans: A
+Exp: An isoquant represents all alternative combinations of two variable factor inputs producing an identical output level.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 157. Suppose, the total cost of production of commodity X is 1,25,000. Out of this cost implicit cost is 35,000 and normal profits is 25,000. What will be the explicit cost of commodity X?
+A) 90,000
+B) 65,000
+C) 60,000
+D) 1,00,000
+Ans: B
+Exp: Total Economic Cost = Explicit Cost + Implicit Cost + Normal Profit. Explicit Cost = 1,25,000 - 35,000 - 25,000 = 65,000.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 158. Which of the following is an example of "explicit cost"?
+A) The wages a proprietor could have made by working as an employee of a large firm.
+B) The income that could have been earned in alternative uses by the resources owned by the firm.
+C) The payment of wages by the firm.
+D) The normal profit earned by a firm.
+Ans: C
+Exp: Explicit costs involve actual out-of-pocket cash payments made to external suppliers and workers for factor services.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 159. Which of the following is an example of an "implicit cost"?
+A) Interest that could have been earned on retained earnings used by the firm to finance expansion.
+B) The payment of rent by the firm for the building in which it is housed.
+C) The interest payment made by the firm for funds borrowed from a bank.
+D) The Payment of wages by the firm.
+Ans: A
+Exp: Implicit cost is the imputed opportunity cost of using self-owned resources (such as self-financed retained earnings).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 160. Implicit cost can be defined as:
+A) Money payments made to the non-owners of the firm for the self-owned factors employed in the business and therefore not entered into books of account.
+B) Money not paid out to the owners of the firm for the self owned factors employed in a business and therefore not entered into books of account.
+C) Money payments which the self owned and employed resources could have earned in their next best alternative employment and therefore entered into books of account.
+D) Money payments which the self owned and employed resources earn in their best use and therefore entered into books of account.
+Ans: B
+Exp: Implicit costs are non-contractual, imputed opportunity costs of self-owned factors that do not appear in accounting ledgers.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 161. Total Cost = Explicit cost + Implicit cost +
+A) Super Normal Profit
+B) Normal Profit
+C) Super Normal Losses
+D) Average Fixed Cost
+Ans: B
+Exp: Total economic cost comprises explicit accounting costs, implicit factor costs, and normal entrepreneurial profit.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 162. Implicit cost may be defined as the:
+A) Costs which do not change over a period of time
+B) Costs which the firm incurs but doesn't disclose
+C) Payment to the non-owners of the firm for the resources
+D) Money payment which the self employed resources could have earned in their best alternative employment.
+Ans: D
+Exp: Implicit cost represents the opportunity reward that self-owned and self-employed resources would earn in their next best use.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 163. Which of the following is including in cost of production and is termed as accounting cost?
+A) Wages to workers employed
+B) Prices for the raw materials
+C) Fuel and Power Used
+D) All of these
+Ans: D
+Exp: All contractual cash outlays for wages, raw materials, and fuel are recorded as accounting (explicit) costs of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 164. Which of the following Statements is false?
+A) Economic costs include the opportunity costs of the resources owned by the firm.
+B) Accounting costs include only explicit costs.
+C) Economic profit will always less than accounting profit if resources owned and used by the firm have any opportunity costs.
+D) Accounting profit is equal to total revenue less implicit costs.
+Ans: D
+Exp: Accounting profit equals Total Revenue minus Explicit costs (not implicit costs).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 165. Economic cost excludes which of the following:
+A) Accounting cost + explicit cost
+B) Accounting cost + implicit cost
+C) Explicit cost + Implicit cost
+D) Accounting cost opportunity cost
+Ans: A
+Exp: Economic cost consists of explicit costs plus implicit opportunity costs; adding accounting cost to explicit cost is redundant.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 166. Economic cost includes:
+A) Explicit cost only
+B) Implicit cost only
+C) Sunk cost only
+D) Both explicit costs and implicit costs.
+Ans: D
+Exp: Economic Cost = Explicit (Accounting) Costs + Implicit (Opportunity) Costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 167. The cost of resources owned and employed by the entrepreneur himself in his business is termed as cost.
+A) Explicit
+B) Implicit
+C) Fixed
+D) Variable
+Ans: B
+Exp: Imputed costs of self-owned factors utilized in one's own enterprise are implicit costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 168. Cost in terms of pain, discomfort, disability involved in supplying the various factors of production by their owners are termed as
+A) Social cost
+B) Explicit cost
+C) Real cost
+D) Implicit cost
+Ans: C
+Exp: Marshall defined Real Cost as the psychological disutility, pain, and sacrifices borne by factor suppliers in production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 169. Total economic costs = Explicit costs + Implicit cost +
+A) Super Normal Profit
+B) Super Normal Loss
+C) Normal Profit
+D) Economic Profit
+Ans: C
+Exp: Total economic cost includes explicit costs, implicit opportunity costs, and minimum normal profits needed to sustain the firm.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 170. Economic costs of production differ from accounting costs of production because
+A) Economic costs include expenditures for hired resources while accounting costs do not.
+B) Accounting costs include opportunity costs which are deducted later to find paid out costs.
+C) Accounting costs include expenditures for hired resources while economic costs do not.
+D) Economic costs add the opportunity cost of a firm which uses its own resources.
+Ans: D
+Exp: Economics factors in the opportunity costs of self-owned inputs, whereas accounting only records actual cash outlays.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 171. Accounting cost is of Economic cost
+A) Equal to
+B) Less than
+C) More than
+D) Not Included
+Ans: B
+Exp: Accounting cost includes only explicit costs, making it strictly less than economic cost (which adds implicit costs).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 172. Economic Costs comprises
+A) Accounting Costs
+B) Implicit Cost
+C) Explicit Cost
+D) Both (a) & (b)
+Ans: D
+Exp: Economic cost consists of accounting (explicit) costs plus implicit opportunity costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 173. Which of the following will be included in implicit Cost?
+A) Normal return on money Capital invested by the entrepreneur himself in his own business.
+B) The wages or Salary not paid to the entrepreneur, but could have earned if the services has been sold somewhere else.
+C) Wages or Salary paid to workers
+D) Both (a) and (b)
+Ans: D
+Exp: Interest on own capital and salary foregone by the proprietor represent implicit opportunity costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 174. Accounting Costs are also called as costs whereas the cost of factors owned by the entrepreneur himself and employed in his own business is called as costs.
+A) Explicit, Implicit
+B) Implicit, Explicit
+C) Economic, Non-Economic
+D) Explicit, Non-Economic.
+Ans: A
+Exp: Accounting costs represent explicit paid-out costs, while self-owned resource costs are implicit costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 175. Outlay Costs involve expenditure of funds on wages, material, returns interest, etc.
+A) Actual
+B) Expected
+C) Fixed
+D) Planned
+Ans: A
+Exp: Outlay costs involve actual financial outlays and cash disbursements recorded in accounting books.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 176. Outlay costs involve expenditure at some point of time and hence the books of account.
+A) Financial, are not
+B) Financial, are
+C) Non-Financial, are not
+D) Non-Financial, are
+Ans: B
+Exp: Outlay costs represent real financial transactions and are duly recorded in financial books of account.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 177. Opportunity Cost is
+A) Direct Cost
+B) Total Cost
+C) Accounting Cost
+D) Cost of forgone opportunity
+Ans: D
+Exp: Opportunity cost is the value of the next best alternative sacrificed when making a choice.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 178. The cost of one thing in terms of alternative given up is known as:
+A) Opportunity Cost
+B) Real Cost
+C) Production Cost
+D) Physical Cost
+Ans: A
+Exp: Opportunity cost measures the cost of a chosen commodity in terms of the foregone alternative good.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 179. If the market price of good is more than the opportunity cost of producing it, then:
+A) The market price of the product will increase in the long-run
+B) Producers will increase supply in the long-run
+C) Resources will flow away from production of the good, causing supply to decline with the passage of time
+D) The situation will remain unchanged as long as supply and demand remain in balance.
+Ans: B
+Exp: When market price exceeds opportunity cost, supernormal profits induce existing and new firms to expand supply in the long run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 180. In which of the following cases opportunity cost concept applies?
+A) Resources have alternative uses
+B) Resources have limited uses
+C) Resources have no use
+D) None of the above.
+Ans: A
+Exp: Opportunity cost arises only when scarce resources can be allocated across multiple alternative employments.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 181. Opportunity Cost is:
+A) Marginal cost
+B) Variable cost
+C) Total fixed cost
+D) None of these
+Ans: D
+Exp: Opportunity cost is an economic concept of foregone earnings in the next best alternative, not an accounting cost entry.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 182. Opportunity Cost is
+A) Recorded in the books of account
+B) Sacrificed alternative
+C) Both (a) and (b)
+D) None of the above
+Ans: B
+Exp: Opportunity cost is the return expected from the sacrificed alternative; it is not entered in books of account.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 183. The concept of opportunity cost has to be considered whenever:
+A) Resources are scarce
+B) Decision involving choice of one option over other(s) is involved
+C) Both (a) & (b)
+D) Neither (a) nor (b)
+Ans: C
+Exp: Scarcity of resources and the necessity of choosing among competing alternatives make opportunity cost analysis essential.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 184. Opportunity cost is the value that is foregone in choosing one activity over the alternative.
+A) Subjective, other
+B) Subjective, next best
+C) Principal, other
+D) Principal, next best
+Ans: B
+Exp: Opportunity cost represents the subjective value foregone from the next best alternative choice.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 185. Opportunity Cost is the cost of the opportunity and involves a comparison between the policy that was and the policy that was
+A) Other, Chosen, Should be chosen
+B) Missed, Chosen, should be chosen
+C) Missed, Chosen, rejected
+D) None of these
+Ans: C
+Exp: Opportunity cost evaluates the missed opportunity by comparing the chosen course of action with the rejected alternative.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 186. Direct Cost is also known as:
+A) Indirect Cost
+B) Traceable Cost
+C) Opportunity Cost
+D) Accounting Cost
+Ans: B
+Exp: Direct costs can be clearly identified and directly traced to a specific product line, process, or department.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 187. costs are the costs that are readily identified and are traceable to a particular product, operations or plant.
+A) Direct Cost
+B) Traceable Cost
+C) Indirect Cost
+D) Both (a) & (b)
+Ans: D
+Exp: Direct costs (or traceable costs) are directly allocable to individual cost units or production processes.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 188. may vary according to the changes accruing to the product, process or machine.
+A) Direct Cost
+B) Implicit-Cost
+C) Indirect Cost
+D) Non-Traceable Cost.
+Ans: A
+Exp: Direct costs vary in direct proportion to modifications in the specific product, machine, or process.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 189. Indirect Costs are not easily and definitely identifiable in relation to a plants, products, process or department. These are changed to different jobs or products in standard accounting practice.
+A) Not
+B) Never
+C) Nevertheless
+D) Cannot
+Ans: C
+Exp: Indirect costs cannot be directly traced, but are nevertheless apportioned across jobs using standard cost allocation methods.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 190. Identify the indirect Cost.
+A) Common cost incurred for general operations
+B) Wages paid to worker
+C) Material Purchased
+D) Commission Paid
+Ans: A
+Exp: Common administrative overheads and general operational expenses benefiting multiple departments are indirect costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 191. Theoretically, incremental costs are related to the concept of
+A) Marginal Cost
+B) Fixed Cost
+C) Judgmental Cost
+D) Semi Variable Cost
+Ans: A
+Exp: Incremental cost is the broader managerial counterpart of marginal cost, measuring the change in total cost due to a business decision.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 192. Which of the following is part of incremental costs?
+A) Change in product line
+B) Replacement of worn-out machinery
+C) Buy a new production facility
+D) All of these
+Ans: D
+Exp: Adding new products, replacing plant equipment, or setting up new production lines all involve incremental cost outlays.
+Sub: Theory of Production and Cost
+
+---
+
+: 193. refer to those costs which are already incurred once and for all and cannot be recovered.
+A) Sunk Cost
+B) Fixed Cost
+C) Variable Cost
+D) Incremental
+Ans: A
+Exp: Sunk costs are historical, unrecoverable past expenditures that should be ignored in forward-looking decision-making.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 194. Which one of the following is an example of Sunk Cost?
+A) Expenses on advertising
+B) Research & Development Expenditure
+C) Specialized equipment & fixed facilities
+D) All of these.
+Ans: D
+Exp: Historical R&D outlays, past advertising campaigns, and specialized non-reusable machinery are classic sunk costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 195. Which of the following in incurred first?
+A) Historical Cost
+B) Replacement Cost
+C) Realized Value
+D) None of these
+Ans: A
+Exp: Historical cost is the original acquisition cost incurred first at the time of purchasing the asset.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 196. Cost refers to the cost incurred in the past on the acquisition of a productive asset.
+A) Current Cost
+B) Historical Cost
+C) Future Cost
+D) Desired Cost.
+Ans: B
+Exp: Historical cost reflects the actual cash outlay paid in the past to acquire a capital asset.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 197. A Company is willing to change its existing Machinery (5 years old) by a new machinery at a cost of 10,00,000. The cost of 10,00,000 may be regarded as:
+A) Historical Cost
+B) Replacement Cost
+C) New Cost
+D) Market Cost
+Ans: B
+Exp: The cost to acquire an identical or modern replacement asset at current market prices is its Replacement Cost.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 198. Other things remaining the same, an increase in price will make cost higher than cost.
+A) Historical, Replacement
+B) Replacement, Historical
+C) Historical, reliable
+D) Fixed, Historical.
+Ans: B
+Exp: Under inflationary conditions, current replacement cost is strictly higher than original historical acquisition cost.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 199. Usually in the case of continuous decrease in price of an asset, which one of the following shall be the highest?
+A) Replacement Cost
+B) Historical Cost
+C) Realisable Value
+D) Variable Cost.
+Ans: B
+Exp: When asset prices decline steadily over time, the past acquisition cost (Historical Cost) remains higher than the current Replacement Cost or Realisable Value.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 200. Private Costs are costs actually incurred or provided for by firms. These may be
+A) Explicit
+B) Implicit
+C) Either (a) or (b)
+D) None of these
+Ans: C
+Exp: Private costs incurred by business enterprises include both direct contractual outlays (explicit) and opportunity costs of self-owned resources (implicit).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 201. The Cost of resources for which the firm is not required to pay price is called as
+A) Fixed
+B) Private
+C) Social
+D) Welfare
+Ans: C
+Exp: Uncompensated environmental burdens and spillover damages borne by society without monetary payment by the firm are social costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 202. Costs normally figure in business decisions as they Form part of total cost and are internalized by the firm.
+A) Fixed
+B) Private
+C) Social
+D) Welfare
+Ans: B
+Exp: Private costs are directly internalized by the enterprise and incorporated into accounting and managerial decision-making.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 203. Which of the following is not a determinant of the firm's cost function?
+A) The production function.
+B) The price of labour.
+C) Taxes.
+D) The price of the firm's output.
+Ans: D
+Exp: Output price determines firm revenue and profitability, not the cost of production function itself.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 204. Which of the following statements is correct concerning the relationships among the firm's cost functions?
+A) TC = TFC - TVC.
+B) TVC = TFC - TC.
+C) TFC = TC - TVC.
+D) TC = TVC - TFC.
+Ans: C
+Exp: Total Cost = Total Fixed Cost + Total Variable Cost, which algebraically gives TFC = TC - TVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 205. In the long-run all factors are -
+A) Fixed
+B) Variable
+C) All factors remain unchanged
+D) None
+Ans: B
+Exp: In the long run, all factor inputs can be altered and varied; there are no fixed costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 206. Cost Function is the mathematical relation between of a Product and the various determinants of
+A) Cost, Costs
+B) Revenue, Revenues
+C) Cost, Revenues
+D) Revenue, Costs.
+Ans: A
+Exp: A cost function expresses the mathematical relationship between the cost of a product and its underlying cost determinants.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 207. In a cost function, the dependent variable is unit cost or total cost and the independent variable(s) are
+A) Units sold and purchased.
+B) Price of factor, & size of output
+C) Relevant phenomenon which has a bearing on cost like technology, level of capacity utilisation, efficiency, etc.
+D) Both (b) & (c)
+Ans: D
+Exp: Costs (dependent variable) depend upon physical output scale, input factor prices, technology, and plant capacity utilization.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 208. Cost function is a function which is obtained from
+A) Production Function
+B) Market Supply of inputs
+C) Market Supply of outputs
+D) Both (a) & (b).
+Ans: D
+Exp: A firm's cost function is derived from its technological production function combined with prevailing market prices of factor inputs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 209. The Cost function expresses he relationship between and
+A) Costs, input
+B) Costs, Output
+C) Dependent Variable, Cost
+D) None of these
+Ans: B
+Exp: The cost function expresses the functional relationship between production output and total costs incurred: C = f(Q).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 210. Cost Functions are derived from cost data of the firms.
+A) Actual
+B) Expected
+C) Desired
+D) Standard.
+Ans: A
+Exp: Empirical cost functions are estimated and derived from the historical and actual cost data of operating firms.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 211. Which of the following is a kind of Cost function?
+A) Short-Run Cost Function
+B) Long-Run Cost Function
+C) Short/Long Run Cost Curve
+D) Both (a) and (b)
+Ans: D
+Exp: Cost functions are broadly categorized according to time horizon into Short-Run Cost Functions and Long-Run Cost Functions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 212. A company produces 10 units of output and incurs 30 per unit as variable cost and 5 per unit of fixed cost. What will be its total cost of producing 10 units?
+A) 300
+B) 35
+C) 305
+D) 350
+Ans: D
+Exp: Total Variable Cost = 10 * 30 = 300. Total Fixed Cost = 10 * 5 = 50. Total Cost = 300 + 50 = 350.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 213. What is the total cost of production of 20 units, if fixed cost 5,000 and variable cost is 2/-?
+A) 5,400
+B) 5,040
+C) 4,960
+D) 5,020
+Ans: B
+Exp: Total Cost = Fixed Cost + (Variable Cost per unit * Quantity) = 5,000 + (2 * 20) = 5,040.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 214. Suppose output increases in the short run. Total cost will:
+A) Increase due to an increase in fixed costs only.
+B) Increase due to an increase in variable costs only.
+C) Increase due to an increase in both fixed and variable costs.
+D) Decrease if the firm is in the region of diminishing returns.
+Ans: B
+Exp: In the short run, fixed costs remain constant; any increase in Total Cost is entirely driven by expanding Total Variable Cost.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 217. Costs do not change with changes in Output.
+A) Fixed
+B) Valuable
+C) Semi Valuable
+D) Both (a) & (b)
+Ans: A
+Exp: Fixed costs (overhead costs) remain constant in total amount irrespective of the volume of output produced.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 218. If fixed cost is plotted on a graph taking output on X-axis and Cost on Y axis, the Fixed cost will be represented by
+A) Straight line parallel to Y axis
+B) Straight line parallel to X axis
+C) U Shaped Curve
+D) Hyper-parabola Curve.
+Ans: B
+Exp: Total Fixed Cost (TFC) is graphed as a horizontal straight line parallel to the X-axis (output axis).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 219. Fixed costs are a function of output.
+A) Not
+B) Always
+C) Treated as
+D) Directly related
+Ans: A
+Exp: Fixed costs do not vary with output levels and are incurred even when production is zero.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 220. Fixed costs may also be called as:
+A) Inescapable
+B) Uncontrollable
+C) Constant
+D) All of the above
+Ans: D
+Exp: Fixed costs are inescapable, unavoidable overhead expenses that remain constant regardless of short-run output changes.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 221. Fixed cost curve normally:
+A) Starts from the origin
+B) Is U shaped
+C) Is vertical line
+D) Is horizontal line.
+Ans: D
+Exp: Total Fixed Cost curve is a horizontal line parallel to the output axis starting from a positive intercept on the cost axis.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 222. The vertical difference between TVC and TC curves is equal to:
+A) MC
+B) AVC
+C) TFC
+D) None of the above
+Ans: C
+Exp: Because TC = TFC + TVC, the constant vertical distance between the TC curve and TVC curve is always equal to TFC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 223. Average fixed cost for producing 8 units of output was 60, what is the average Fixed cost at 6 units of output
+A) 40
+B) 60
+C) 80
+D) 50
+Ans: C
+Exp: Total Fixed Cost = 8 * 60 = 480. Average Fixed Cost at 6 units = 480 / 6 = 80.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 225. The total cost is 4200 and fixed cost is 1200 then find the variable cost
+A) 1,200
+B) 3,000
+C) 4,200
+D) 5,450
+Ans: B
+Exp: Variable Cost = Total Cost - Fixed Cost = 4,200 - 1,200 = 3,000.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 226. A firm producing 9 units of output has an average total cost of 200 and has to pay 630 to its fixed cost of production. How much of the average total cost is made up of variable cost?
+A) 150
+B) 130
+C) 70
+D) 300
+Ans: B
+Exp: Total Cost = 9 * 200 = 1,800. TVC = 1,800 - 630 = 1,170. Average Variable Cost = 1,170 / 9 = 130.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 227. A firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?
+A) 200
+B) 60
+C) 100
+D) 1,400
+Ans: C
+Exp: Average Fixed Cost = 350 / 7 = 50. Average Variable Cost = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 228. Which cost decreases continuously with increase in production
+A) Average fixed cost
+B) Average variable cost
+C) Marginal cost
+D) Average total cost
+Ans: A
+Exp: Since TFC is constant, Average Fixed Cost (TFC / Q) continuously declines as output rises (rectangular hyperbola).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 229. A Firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production whether it produces or not? How much of the average total cost is made up of variable costs?
+A) 200
+B) 50
+C) 300
+D) 100
+Ans: D
+Exp: AFC = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 230. Which cost increases continuously with the increase in production?
+A) Average cost.
+B) Marginal cost.
+C) Fixed cost.
+D) Variable cost.
+Ans: D
+Exp: Total Variable Cost starts from zero and increases continuously with expanding output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 231. The difference between Total Cost and Total Fixed Cost is equal to
+A) Zero
+B) MC
+C) AFC
+D) TVC
+Ans: D
+Exp: Total Cost minus Total Fixed Cost equals Total Variable Cost (TC - TFC = TVC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 232. Total cost in the short run is classified into fixed costs and variable costs. Which one of the following is a variable cost?
+A) Cost of raw materials.
+B) Cost of equipment.
+C) Interest payment on past borrowings.
+D) Payment of rent on building.
+Ans: A
+Exp: Raw material expenses change directly with the volume of output, making them variable costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 233. Which of the following is a variable cost in the short-run?
+A) Rent of the factory.
+B) Wages paid to the factory labour.
+C) Interest payments on borrowed financial capital.
+D) Payment on the lease for factory equipment.
+Ans: B
+Exp: Direct factory labour wages vary with the level of production in the short run.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 235. If a Firm shuts down for a short period, it will not incur any cost.
+A) Fixed
+B) Semi-Variable
+C) Variable
+D) Both (a) & (b)
+Ans: C
+Exp: Upon temporary shutdown in the short run, production is zero and variable costs are completely eliminated.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 236. are those costs which change with changes in output.
+A) Fixed
+B) Semi-Variable
+C) Variable
+D) Both (a) & (b)
+Ans: C
+Exp: Variable costs are costs that increase or decrease in direct response to variations in output volume.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 237. Semi-Variable Costs are Variable, fixed in relation to the changes in the size of output.
+A) Neither, nor
+B) Neither, nor absolutely
+C) Absolutely, but relatively
+D) Absolutely, but is by nature.
+Ans: B
+Exp: Semi-variable costs contain both a fixed minimum component and a variable component, being neither purely fixed nor purely variable.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 238. Electricity charges include both a fixed charge and a charge based on consumption. It should be classified as
+A) Fixed Cost
+B) Variable Cost
+C) Semi-Variable Cost
+D) Quasi Cost.
+Ans: C
+Exp: Electricity bills combine fixed meter charges and variable per-unit consumption rates, classifying them as Semi-Variable costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 239. The Semi-Variable Cost:
+A) Remains Constant
+B) Remains variable proportionately
+C) Increases in stair-step fashion
+D) Increases proportionately
+Ans: C
+Exp: Semi-variable and step-costs remain constant over output ranges and step up discontinuously when capacity limits are crossed.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 240. Which of the following cost remains fixed over certain range of output but suddenly jump to a new higher level when output goes beyond a given limit?
+A) Total Fixed cost
+B) Total Variable Cost
+C) Both (a) & (b)
+D) Semi-Variable Cost
+Ans: D
+Exp: Semi-variable (step-fixed) costs jump to higher plateaus as additional shifts or supervisors are added.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 241. The total Cost Curve is obtained by adding the curve and the Curve.
+A) Vertically, Total Fixed Cost, Total Variable Cost
+B) Horizontally, Cost, Total
+C) Vertically, Total Cost, Total Variable cost
+D) Horizontally, Cost Valuable
+Ans: A
+Exp: The Total Cost curve is obtained by vertically summing the Total Fixed Cost and Total Variable Cost curves.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 242. The costs which remain fixed over certain range of output but suddenly jump to a new higher level when production goes beyond a given limit are called:
+A) Variable cost
+B) Semi-variable cost
+C) Stair-step variable cost
+D) Jumping cost.
+Ans: C
+Exp: Costs that jump to higher levels at discrete output intervals are referred to as stair-step variable costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 243. Average fixed cost can be obtained through:
+A) AFC = TFC / TS
+B) AFC = EC / TU
+C) AFC = TC / PC
+D) AFC = TFC / TU
+Ans: D
+Exp: Average Fixed Cost = Total Fixed Cost / Total Units of Output (AFC = TFC / Q).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 244. Which one of the following is correct?
+A) AFC = AVC + ATC
+B) ATC = AFC - AVC
+C) AVC = AFC + ATC
+D) AFC = ATC - AVC
+Ans: D
+Exp: Since ATC = AFC + AVC, rearranging gives AFC = ATC - AVC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 245. Which of the following cost curves is never 'U' shaped?
+A) Average Total Cost Curve
+B) Marginal Cost Curve
+C) Total Cost Curve
+D) Total Fixed Cost Curve
+Ans: D
+Exp: Total Fixed Cost is a horizontal line and Average Fixed Cost is a rectangular hyperbola; neither is U-shaped.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 246. AFC curve is:
+A) Convex & downward sloping
+B) Concave & downward sloping
+C) Convex & upward sloping
+D) Concave & upward rising
+Ans: A
+Exp: The Average Fixed Cost curve is a rectangular hyperbola that is convex to the origin and continuously downward sloping.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 247. Which of the following curves never tough any axis but is downward
+A) Marginal cost curve
+B) Total cost curve
+C) Average fixed cost curve
+D) Average variable cost curve
+Ans: C
+Exp: The AFC curve approaches both axes asymptotically but never touches either axis because TFC is positive and output is finite.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 248. The slope of Average Fixed cost curve is?
+A) Falls from left to right
+B) Rises from left to right
+C) Parallel to x-axis
+D) Parallel to y-axis
+Ans: A
+Exp: As production increases, fixed costs are spread over more units, causing AFC to fall continuously from left to right.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 249. When the output of a firm increase in the short run, its average fixed cost.
+A) Increases
+B) Decreases
+C) Remains constant
+D) First declines and then rises.
+Ans: B
+Exp: With expanding output, AFC (TFC / Output) declines continuously.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 250. Which statement among below is correct in reference in Average Fixed Cost.
+A) Never becomes zero
+B) Curve never touches x-axis
+C) Curve never touches y-axis
+D) All of the above
+Ans: D
+Exp: AFC approaches both axes asymptotically but never equals zero and never intersects either axis.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 251. Average fixed cost curve is always:
+A) Declining when output increases
+B) U-Shaped, if there are increasing returns to scale
+C) U-Shaped, if there are decreasing returns to scale
+D) Intersected by marginal cost at its minimum point
+Ans: A
+Exp: Average Fixed Cost declines monotonically throughout all ranges of production.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 252. Which of the following curves never touch any axis but is downward.
+A) Marginal cost curve
+B) Total cost curve
+C) Average fixed cost curve
+D) Average variable cost curve
+Ans: C
+Exp: Average Fixed Cost curve is asymptotic to both the price axis and output axis.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 253. A firm's average fixed cost is 20 at 6 units of output. What will it be at 4 units of output?
+A) 60
+B) 30
+C) 40
+D) 20
+Ans: B
+Exp: Total Fixed Cost TFC = AFC * Q = 20 * 6 = 120. AFC at 4 units = 120 / 4 = 30.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 254. A firm's average fixed cost is 40 at 12 units. What will be the average fixed cost at 8 units:
+A) 60
+B) 70
+C) 90
+D) 80
+Ans: A
+Exp: TFC = 40 * 12 = 480. AFC at 8 units = 480 / 8 = 60.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 255. A firms AFC is 200 at 10 units of output what will be it at 20 units of output?
+A) 500
+B) 100
+C) 150
+D) 200
+Ans: B
+Exp: TFC = 200 * 10 = 2,000. AFC at 20 units = 2,000 / 20 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 256. A firm producing 7 units of output has an average total cost of rupees 150 and has to pay rupees 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable cost?
+A) 100
+B) 200
+C) 50
+D) 300
+Ans: A
+Exp: AFC = TFC / Q = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 257. Average cost of producing 50 units of any commodity is 250 and fixed cost is 1,000. What will be the average fixed cost of producing 100 units of the commodity?
+A) 10
+B) 30
+C) 20
+D) 05
+Ans: A
+Exp: TFC = 1,000. AFC at 100 units = 1,000 / 100 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 258. Average Fixed Cost = 20 Quantity Produced = 10 units What will be the Average Fixed Cost of 20th unit?
+A) 10
+B) 20
+C) 5
+D) None
+Ans: A
+Exp: TFC = 20 * 10 = 200. AFC at 20 units = 200 / 20 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 261. Average cost curve is
+A) 'U' Shaped
+B) Positively sloped
+C) Negatively sloped
+D) Rectangular hyperbola
+Ans: A
+Exp: The short-run average total cost (ATC) curve is U-shaped due to the operation of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 262. A firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?
+A) 200
+B) 50
+C) 300
+D) 100
+Ans: D
+Exp: AFC = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 263. For 15 units of output, average cost was 250 end fixed cost per unit of output was 125, then the average variable cost per at 15 units?
+A) 25
+B) 50
+C) 125
+D) 250
+Ans: C
+Exp: AVC = ATC - AFC = 250 - 125 = 125.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 265. A firm produces 10 units of a commodity at an average total cost of 200 and with a fixed cost of 500. Find out the component of average variable cost in the total cost:
+A) 300
+B) 200
+C) 150
+D) 100
+Ans: C
+Exp: Total Cost = 200 * 10 = 2,000. Total Variable Cost TVC = 2,000 - 500 = 1,500. AVC = 1,500 / 10 = 150.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 266. A Firm has a variable cost of 2,000 at 5 units of output. If fixed costs are 800, what will be the average total cost at 5 units of output?
+A) 560
+B) 120
+C) 240
+D) 2,800
+Ans: A
+Exp: Total Cost = TVC + TFC = 2,000 + 800 = 2,800. ATC = 2,800 / 5 = 560.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 267. A firm producing 15 units of output has average cost of ```text
+Q: 253. A firm's average fixed cost is 20 at 6 units of output. What will it be at 4 units of output?
+A) 60
+B) 30
+C) 40
+D) 20
+Ans: B
+Exp: Total Fixed Cost TFC = AFC * Q = 20 * 6 = 120. AFC at 4 units = 120 / 4 = 30.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 254. A firm's average fixed cost is 40 at 12 units. What will be the average fixed cost at 8 units:
+A) 60
+B) 70
+C) 90
+D) 80
+Ans: A
+Exp: TFC = AFC * Q = 40 * 12 = 480. AFC at 8 units = 480 / 8 = 60.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 255. A firms AFC is 200 at 10 units of output what will be it at 20 units of output?
+A) 500
+B) 100
+C) 150
+D) 200
+Ans: B
+Exp: TFC = 200 * 10 = 2,000. AFC at 20 units = 2,000 / 20 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 256. A firm producing 7 units of output has an average total cost of rupees 150 and has to pay rupees 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable cost?
+A) 100
+B) 200
+C) 50
+D) 300
+Ans: A
+Exp: AFC = TFC / Q = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 257. Average cost of producing 50 units of any commodity is 250 and fixed cost is 1,000. What will be the average fixed cost of producing 100 units of the commodity?
+A) 10
+B) 30
+C) 20
+D) 05
+Ans: A
+Exp: TFC = 1,000. AFC at 100 units = 1,000 / 100 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 258. Average Fixed Cost = 20 Quantity Produced = 10 units What will be the Average Fixed Cost of 20th unit?
+A) 10
+B) 20
+C) 5
+D) None
+Ans: A
+Exp: TFC = 20 * 10 = 200. AFC at 20 units = 200 / 20 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 261. Average cost curve is
+A) 'U' Shaped
+B) Positively sloped
+C) Negatively sloped
+D) Rectangular hyperbola
+Ans: A
+Exp: The short-run Average Total Cost (ATC) curve is U-shaped due to the operation of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 262. A firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?
+A) 200
+B) 50
+C) 300
+D) 100
+Ans: D
+Exp: AFC = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 263. For 15 units of output, average cost was 250 end fixed cost per unit of output was 125, then the average variable cost per at 15 units?
+A) 25
+B) 50
+C) 125
+D) 250
+Ans: C
+Exp: AVC = ATC - AFC = 250 - 125 = 125.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 265. A firm produces 10 units of a commodity at an average total cost of 200 and with a fixed cost of 500. Find out the component of average variable cost in the total cost:
+A) 300
+B) 200
+C) 150
+D) 100
+Ans: C
+Exp: Total Cost = 200 * 10 = 2,000. Total Variable Cost = 2,000 - 500 = 1,500. AVC = 1,500 / 10 = 150.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 266. A Firm has a variable cost of 2,000 at 5 units of output. If fixed costs are 800, what will be the average total cost at 5 units of output?
+A) 560
+B) 120
+C) 240
+D) 2,800
+Ans: A
+Exp: Total Cost = 2,000 + 800 = 2,800. Average Total Cost (ATC) = 2,800 / 5 = 560.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 267. A firm producing 15 units```text
+Q: 253. A firm's average fixed cost is 20 at 6 units of output. What will it be at 4 units of output?
+A) 60
+B) 30
+C) 40
+D) 20
+Ans: B
+Exp: Total Fixed Cost TFC = AFC * Q = 20 * 6 = 120. AFC at 4 units = 120 / 4 = 30.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 254. A firm's average fixed cost is 40 at 12 units. What will be the average fixed cost at 8 units:
+A) 60
+B) 70
+C) 90
+D) 80
+Ans: A
+Exp: TFC = 40 * 12 = 480. AFC at 8 units = 480 / 8 = 60.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 255. A firms AFC is 200 at 10 units of output what will be it at 20 units of output?
+A) 500
+B) 100
+C) 150
+D) 200
+Ans: B
+Exp: TFC = 200 * 10 = 2,000. AFC at 20 units = 2,000 / 20 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 256. A firm producing 7 units of output has an average total cost of rupees 150 and has to pay rupees 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable cost?
+A) 100
+B) 200
+C) 50
+D) 300
+Ans: A
+Exp: AFC = TFC / Q = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 257. Average cost of producing 50 units of any commodity is 250 and fixed cost is 1,000. What will be the average fixed cost of producing 100 units of the commodity?
+A) 10
+B) 30
+C) 20
+D) 05
+Ans: A
+Exp: TFC = 1,000. AFC at 100 units = 1,000 / 100 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 258. Average Fixed Cost = 20 Quantity Produced = 10 units What will be the Average Fixed Cost of 20th unit?
+A) 10
+B) 20
+C) 5
+D) None
+Ans: A
+Exp: TFC = 20 * 10 = 200. AFC at 20 units = 200 / 20 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 261. Average cost curve is
+A) 'U' Shaped
+B) Positively sloped
+C) Negatively sloped
+D) Rectangular hyperbola
+Ans: A
+Exp: The short-run Average Total Cost (ATC) curve is U-shaped due to the operation of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 262. A firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?
+A) 200
+B) 50
+C) 300
+D) 100
+Ans: D
+Exp: AFC = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 263. For 15 units of output, average cost was 250 end fixed cost per unit of output was 125, then the average variable cost per at 15 units?
+A) 25
+B) 50
+C) 125
+D) 250
+Ans: C
+Exp: AVC = ATC - AFC = 250 - 125 = 125.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 265. A firm produces 10 units of a commodity at an average total cost of 200 and with a fixed cost of 500. Find out the component of average variable cost in the total cost:
+A) 300
+B) 200
+C) 150
+D) 100
+Ans: C
+Exp: Total Cost = 200 * 10 = 2,000. Total Variable Cost = 2,000 - 500 = 1,500. AVC = 1,500 / 10 = 150.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 266. A Firm has a variable cost of 2,000 at 5 units of output. If fixed costs are 800, what will be the average total cost at 5 units of output?
+A) 560
+B) 120
+C) 240
+D) 2,800
+Ans: A
+Exp: Total Cost = 2,000 + 800 = 2,800. Average Total Cost (ATC) = 2,800 / 5 = 560.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 267. A firm producing 15 units of output has average cost of 250 and 125 as```text
+Q: 253. A firm's average fixed cost is 20 at 6 units of output. What will it be at 4 units of output?
+A) 60
+B) 30
+C) 40
+D) 20
+Ans: B
+Exp: Total Fixed Cost TFC = AFC * Q = 20 * 6 = 120. AFC at 4 units = 120 / 4 = 30.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 254. A firm's average fixed cost is 40 at 12 units. What will be the average fixed cost at 8 units:
+A) 60
+B) 70
+C) 90
+D) 80
+Ans: A
+Exp: TFC = 40 * 12 = 480. AFC at 8 units = 480 / 8 = 60.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 255. A firms AFC is 200 at 10 units of output what will be it at 20 units of output?
+A) 500
+B) 100
+C) 150
+D) 200
+Ans: B
+Exp: TFC = 200 * 10 = 2,000. AFC at 20 units = 2,000 / 20 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 256. A firm producing 7 units of output has an average total cost of rupees 150 and has to pay rupees 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable cost?
+A) 100
+B) 200
+C) 50
+D) 300
+Ans: A
+Exp: AFC = TFC / Q = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 257. Average cost of producing 50 units of any commodity is 250 and fixed cost is 1,000. What will be the average fixed cost of producing 100 units of the commodity?
+A) 10
+B) 30
+C) 20
+D) 05
+Ans: A
+Exp: TFC = 1,000. AFC at 100 units = 1,000 / 100 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 258. Average Fixed Cost = 20 Quantity Produced = 10 units What will be the Average Fixed Cost of 20th unit?
+A) 10
+B) 20
+C) 5
+D) None
+Ans: A
+Exp: TFC = 20 * 10 = 200. AFC at 20 units = 200 / 20 = 10.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 261. Average cost curve is
+A) 'U' Shaped
+B) Positively sloped
+C) Negatively sloped
+D) Rectangular hyperbola
+Ans: A
+Exp: The short-run average cost curve is U-shaped due to the operation of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 262. A firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?
+A) 200
+B) 50
+C) 300
+D) 100
+Ans: D
+Exp: Total fixed cost = 350. AFC = 350 / 7 = 50. AVC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 263. For 15 units of output, average cost was 250 end fixed cost per unit of output was 125, then the average variable cost per at 15 units?
+A) 25
+B) 50
+C) 125
+D) 250
+Ans: C
+Exp: AVC = ATC - AFC = 250 - 125 = 125.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 265. A firm produces 10 units of a commodity at an average total cost of 200 and with a fixed cost of 500. Find out the component of average variable cost in the total cost:
+A) 300
+B) 200
+C) 150
+D) 100
+Ans: C
+Exp: Total Cost = 200 * 10 = 2,000. TVC = 2,000 - 500 = 1,500. AVC = 1,500 / 10 = 150.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 266. A Firm has a variable cost of 2,000 at 5 units of output. If fixed costs are 800, what will be the average total cost at 5 units of output?
+A) 560
+B) 120
+C) 240
+D) 2,800
+Ans: A
+Exp: Total Cost = 2,000 + 800 = 2,800. ATC = 2,800 / 5 = 560.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 267. A firm producing 15 units of output has average cost of 250 and 125 as per unit cost for fixed factors of production. Then average variable cost will be
+A) 180
+B) 150
+C) 125
+D) None of the above
+Ans: C
+Exp: Average Variable Cost = Average Total Cost - Average Fixed Cost = 250 - 125 =```text
+
+---
+
+Q: 270. A firm has a variable cost of 1000 at 5 units of output. If fixed costs are 400, what will be the average total cost at 5 units of output?
+A) 280
+B) 60
+C) 120
+D) 1400
+Ans: A
+Exp: Total Cost = Variable Cost + Fixed Cost = 1000 + 400 = 1400. Average Total Cost (ATC) = Total Cost / Output = 1400 / 5 = 280.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 271. U-shaped average cost curve is based on:
+A) Law of increasing cost
+B) Law of decreasing cost
+C) Law of constant returns to scale
+D) Law of variable proportions
+Ans: D
+Exp: In the short run, the Average Total Cost (ATC) curve is U-shaped due to the operation of the Law of Variable Proportions.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 272. A firm producing 7 units of output has an average total cost of 150 and has to pay 350 to its fixed factors of production. How much of the average total cost is made up of variable cost?
+A) 200
+B) 50
+C) 300
+D) 100
+Ans: D
+Exp: Average Fixed Cost (AFC) = Total Fixed Cost / Output = 350 / 7 = 50. AVC = ATC - AFC = 150 - 50 = 100.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 273. Marginal Cost is defined as:
+A) The change in total cost due to a one unit change in output.
+B) Total cost divided by output.
+C) The change in output due to a one unit change in an input.
+D) Total product divided by the quantity of input.
+Ans: A
+Exp: Marginal Cost (MC) is the addition to total cost resulting from producing one additional unit of output (MCn = TCn - TCn-1).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 274. The change in total cost due to one unit change in the output is called cost.
+A) Marginal
+B) Average
+C) Average variable
+D) Average fixed.
+Ans: A
+Exp: Marginal cost represents the incremental change in total production cost resulting from a single unit increase in output.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 275. Marginal cost changes due to change in cost.
+A) Total
+B) Fixed
+C) Average
+D) Variable
+Ans: D
+Exp: Because total fixed costs remain constant in the short run, any change in marginal cost is entirely due to changes in total variable cost.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 277. MC curve of a firm in a perfectly competitive industry depicts?
+A) Demand curve
+B) Supply curve
+C) Average cost curve
+D) Total cost curve
+Ans: B
+Exp: The rising portion of the Marginal Cost curve above minimum Average Variable Cost serves as the firm's short-run supply curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 278. When shape of average cost curve is upward, marginal cost:
+A) Must be decreasing
+B) Must be constant
+C) Must be rising
+D) Any of these
+Ans: C
+Exp: When Average Cost (AC) is rising, Marginal Cost (MC) is always above AC and must also be rising.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 279. With which of the following is the concept of marginal cost closely related?
+A) Variable Cost
+B) Fixed Cost
+C) Opportunity Cost
+D) Economic Cost
+Ans: A
+Exp: Marginal Cost is independent of fixed costs and depends solely on variable costs (MC = ΔTVC / ΔQ).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 283. Marginal cost changes due to changes in
+A) Total cost
+B) Average cost
+C) Variable cost
+D) Quantity of output
+Ans: C
+Exp: In the short run, fixed costs do not vary with output; therefore, marginal cost fluctuates purely with variable cost.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 284. Which of the following statements is correct?
+A) Fixed costs vary with change in output.
+B) If we add total variable cost and total fixed cost we get the average cost.
+C) Marginal cost is the result of total cost divided by number of units produced.
+D) Total cost is obtained by adding up the fixed cost and total variable cost.
+Ans: D
+Exp: Total Cost (TC) is the direct sum of Total Fixed Cost (TFC) and Total Variable Cost (TVC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 285. If total cost at 10 units is 600 and 640 for 11th unit. The marginal cost of 11th unit is:
+A) 20
+B) 30
+C) 40
+D) 50
+Ans: C
+Exp: MC of 11th unit = TC(11) - TC(10) = 640 - 600 = 40.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 289. AT 10 units Total Cost ₹200 20 units Total Cost ₹600 Marginal Cost = ?
+A) 50
+B) 40
+C) 30
+D) 400
+Ans: B
+Exp: Marginal Cost per unit = ΔTC / ΔQ = (600 - 200) / (20 - 10) = 400 / 10 = 40.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 290. The total cost incurred for 10 units is ₹400 and 20 units is ₹ 800. Find the marginal cost.
+A) 300
+B) 40
+C) 500
+D) 600
+Ans: B
+Exp: MC = ΔTC / ΔQ = (800 - 400) / (20 - 10) = 400 / 10 = 40.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 294. Which of the following statements is correct?
+A) When the average cost is rising, the marginal cost must also be rising.
+B) When the average cost is rising, the marginal cost must be falling.
+C) When the average cost is rising, the marginal cost is above the average cost.
+D) When the average cost is falling, the marginal cost must be rising.
+Ans: C
+Exp: Whenever the Average Cost curve slopes upward, the Marginal Cost curve lies strictly above the Average Cost curve (MC > AC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 295. When AC curve is rising, the MC curve must be to it.
+A) Equal
+B) Above
+C) Below
+D) Parallel
+Ans: B
+Exp: When Average Cost is increasing, Marginal Cost is pulling it upward, so MC is always above AC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 296. What happens to marginal cost when average cost increases?
+A) Marginal cost is below average cost
+B) Marginal cost is above average cost
+C) Marginal cost is equal to average variable cost
+D) Marginal cost is equal to average cost
+Ans: D
+Exp: As Average Cost reaches its minimum and starts increasing, Marginal Cost cuts AC at its lowest point (MC = AC) and rises above it.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 297. When AC Curve is at minimum then MC Curve is ?
+A) Minimum then AC Curve
+B) Equals to AC Curve
+C) Above AC Curve
+D) Less than AC Curve
+Ans: B
+Exp: The Marginal Cost curve intersects the Average Cost curve at its lowest (minimum) point, where MC = AC.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 298. Which of the following statement is incorrect?
+A) AC is sloping downwards, MC is below AC
+B) AC is sloping downwards, MC must fall
+C) AC is sloping upwards, MC is above AC
+D) MC cuts AC from its lowest point.
+Ans: B
+Exp: When AC is falling, MC can be either falling or rising (as long as MC remains below AC); hence statement B is incorrect.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 299. Which of the following is true of the relationship between the marginal cost function and the average cost function?
+A) If MC is greater than ATC, then ATC is falling.
+B) The ATC curve intersects the MC curve at minimum MC.
+C) The MC curve intersects the ATC curve at minimum ATC.
+D) If MC is less than ATC, then ATC is increasing.
+Ans: C
+Exp: The MC curve cuts the ATC curve from below at the exact point where ATC is minimized.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 300. If LAC curve falls as output expands, this is due to
+A) Law of diminishing returns
+B) Economics of scale
+C) Law of variable proportion
+D) Dis-economics of scale
+Ans: B
+Exp: A downward-sloping Long-run Average Cost (LAC) curve reflects internal and external economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 301. Planning curve is related to which of the following?
+A) Short run average cost curve
+B) Long run average cost curve
+C) Average variable cost
+D) Average total cost
+Ans: B
+Exp: The Long-run Average Cost curve is known as the Planning Curve because it helps a firm choose the optimal plant size.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 302. Which of the following is known as Envelope curve?
+A) Marginal Cost Curve
+B) Average Fixed Cost Curve
+C) Long Run Average cost Curve
+D) Total Fixed Cost Curve
+Ans: C
+Exp: The LAC curve envelopes a family of Short-run Average Cost (SAC) curves, hence termed the Envelope Curve.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 303. Which of the following statements concerning the long-run average cost curve is false?
+A) It represents the least-cost input combination for producing each level of output.
+B) It is derived from a series of short-run average cost curves.
+C) The short-run cost curve at the minimum point of the long-run average cost curve represents the least-cost plant size for all levels of output.
+D) As output increases, the amount of capital employed by the firm increases along the curve.
+Ans: C
+Exp: The optimal plant size is least-cost only at the minimum point of LAC, not for every other output level.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 304. The negatively-sloped (i.e. falling) part of the long-run average total cost curve is due to which of the following?
+A) Diseconomies of scale.
+B) Diminishing returns,
+C) The difficulties encountered in coordinating the many activities of a large firm.
+D) The increase in productivity that results from specialization.
+Ans: D
+Exp: Increasing returns to scale and cost savings from division of labour and specialization cause the LAC curve to decline.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 305. A firm's long-run average total cost curve is.
+A) Identical to its long-run marginal cost curve as all factors are variable.
+B) Also its long-run total cost curve because it explains the relationship cost and quantity supplied in the long run.
+C) In fact the average total cost curve of the optimal plant in the short run as it tries to produce at least cost.
+D) Tangent to all short-run average total cost the curves and represents the lowest average total cost for producing each level of output.
+Ans: D
+Exp: The LAC curve is the locus of points of tangency with various SAC curves, showing minimum production cost for each output level.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 306. The positively sloped (rising) part of the long run average cost curve indicates working of the
+A) Diseconomies of scale
+B) Increasing returns to scale
+C) Constant returns to scale
+D) Economies of scale.
+Ans: A
+Exp: Beyond the optimum capacity point, managerial and operational diseconomies of scale cause long-run unit costs to rise.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 307. External economies accrue due to
+A) Increasing returns to scale
+B) Increasing returns to factor
+C) Law of variable proportion
+D) Low cost
+Ans: A
+Exp: External economies of scale arise when the expansion of an entire industry creates shared cost advantages for all firms.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 308. External Economies arise due to:
+A) Growth of ancillary industries
+B) High cost of technologies
+C) Increase in the price of factors of production
+D) None of the above
+Ans: A
+Exp: Development of specialized component suppliers and ancillary industries provides external cost economies to member firms.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 309. External economies can be achieved through:
+A) Foreign trade only
+B) Superior managerial skill
+C) Extension of transport and credit facilities
+D) External assistance
+Ans: C
+Exp: Regional expansion of transportation, communication, and banking infrastructure lowers operating costs for all local firms.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 310. When output increases more than the increase in input, it occurs due to:
+A) External and internal diseconomies
+B) External and internal economies
+C) Both (a) and (b)
+D) None of the above
+Ans: B
+Exp: When percentage increase in output exceeds percentage increase in all inputs, it is due to internal and external economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 311. External economies can be achieved through
+A) External assistance
+B) Development of unskilled labour
+C) Superior managerial efficiency
+D) Technological external economies
+Ans: D
+Exp: Technological innovations and research breakthroughs shared across an industry create technological external economies.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 312. Economies of scale exist because as a firm increases its size in the long-run:
+A) Labour and management can specialize in their activities more.
+B) As a larger input buyer, the firm can get finance at lower cost and purchase inputs at a lower per unit cost.
+C) The firm can afford to employ more sophisticated technology in production.
+D) All of these.
+Ans: D
+Exp: Managerial specialization, bulk purchasing discounts, and advanced machinery all contribute to long-run economies of scale.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 313. External Economies of Scale are obtained by:
+A) A firm
+B) A group of firm
+C) Small Production
+D) Society
+Ans: B
+Exp: External economies are shared advantages enjoyed by all firms belonging to an expanding industry or geographic cluster.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 314. External economics are enjoyed:
+A) By large producers only
+B) As firm expands
+C) Both (a) and (b)
+D) None of the above
+Ans: C
+Exp: External economies benefit growing firms and large industry participants through lower shared production and logistics costs.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 315. How many kinds are of Economies of scale?
+A) 5
+B) 3
+C) 2
+D) 1
+Ans: C
+Exp: Economies of scale are broadly classified into two main types: Internal Economies and External Economies.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 316. Issue requiring decision making in the context of business are:
+A) How much should be the optimum output at what price should the firm sell?
+B) How will the product be placed in the market?
+C) How to combat the risks and uncertainties involved?
+D) All of the above
+Ans: D
+Exp: Business decision-making encompasses output optimization, product pricing, market placement, and risk management.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 317. Long-run price is also called by the name of
+A) Market price
+B) Normal price
+C) Administered price
+D) Wholesale price.
+Ans: B
+Exp: In economic theory, long-run equilibrium price where supply fully adjusts to demand is known as Normal Price.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 318. Which of the following equation represents profit maximization condition?
+A) MC = MR
+B) MC > MR
+C) MC < MR
+D) None
+Ans: A
+Exp: The first-order necessary condition for firm profit maximization is Marginal Cost equals Marginal Revenue (MC = MR).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 319. Large scale production is associated with
+A) Technical Economies
+B) Un-managerial economies
+C) Commercial Economies
+D) Financial Economies
+Ans: A
+Exp: Large-scale operations allow the adoption of indivisible, high-efficiency capital machinery, yielding Technical Economies.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 320. Which of the following statements is true?
+A) Accumulation of capital depends solely on income of individuals.
+B) Savings can be influenced by government policies.
+C) External economies go with size and internal economies with location.
+D) The supply curve of labour is an upward slopping curve.
+Ans: B
+Exp: Government monetary incentives, interest rates, and tax exemptions directly influence national savings mobilization.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 321. Supply curve remaining unchanged, an increase in demand will lead to.
+A) A fall in price
+B) A rise in price
+C) No change in price
+D) AN increase in supply
+Ans: B
+Exp: A rightward shift in demand with a fixed supply curve results in an excess demand, driving equilibrium price upward.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 322. Marginal Cost changes due to changes in
+A) Total cost
+B) Average cost
+C) Variable cost
+D) Quantity of output
+Ans: A
+Exp: Marginal cost measures the change in total cost resulting from a unit change in output (MC = ΔTC / ΔQ).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 323. Price of a commodity is best expressed as
+A) Exchange value
+B) Cost of goods sold
+C) Production cost
+D) Nominal value
+Ans: A
+Exp: In economics, the price of a good reflects its value in exchange against money units.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 324. A firm will close down in the short period if its average revenue is less than its:
+A) Average cost
+B) Average variable cost
+C) Marginal cost
+D) Average fixed cost
+Ans: B
+Exp: In the short run, a firm shuts down when Average Revenue (Price) falls below Average Variable Cost (AR < AVC).
+Sub: Theory of Production and Cost
+
+---
+
+Q: 325. Which of the following statements is incorrect?
+A) The LAC curve is also called the planning curve of a firm.
+B) Total revenue = price per unit x number of units sold.
+C) Opportunity cost is also called alternative cost.
+D) If total revenue is divided by the number of units sold we get marginal revenue.
+Ans: D
+Exp: Dividing total revenue by units sold gives Average Revenue (AR), not Marginal Revenue (MR); hence statement D is incorrect.
+Sub: Theory of Production and Cost
+
+---
+
+Q: 326. Average Revenue Curve is also known as
+A) Profit curve
+B) Demand curve
+C) Supply curve
+D) Average cost curve
+Ans: B
+Exp: Because Average Revenue equals price at every level of output, the AR curve is identical to the firm's Demand Curve.
+Sub: Theory of Production and Cost
