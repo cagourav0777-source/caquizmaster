@@ -169,6 +169,65 @@ class QuestionsManager:
         if not self.data_dir.exists():
             self.data_dir.mkdir(parents=True, exist_ok=True)
 
+        # 🎯 NEW: Load from subject-specific subfolders
+        subject_folders = {
+            "economics": self.data_dir / "economics",
+            "accounts": self.data_dir / "accounts", 
+            "quant": self.data_dir / "quant"
+        }
+
+        # Load from each subject folder
+        for subject, folder_path in subject_folders.items():
+            if folder_path.exists():
+                for txt_file in folder_path.glob("*.txt"):
+                    try:
+                        with open(txt_file, "r", encoding="utf-8") as f:
+                            parsed = self.parse_txt_content(f.read(), txt_file.stem)
+                            source_dict[txt_file.stem] = parsed
+                            all_questions.extend(parsed)
+
+                            # 🎯 CATEGORIZE based on folder
+                            if subject == "economics":
+                                self.economics_sources.append(txt_file.stem)
+                                logger.info(f"📈 Economics: {txt_file.stem}")
+                            elif subject == "accounts":
+                                self.accounts_sources.append(txt_file.stem)
+                                logger.info(f"📊 Accounts: {txt_file.stem}")
+                            elif subject == "quant":
+                                self.quant_sources.append(txt_file.stem)
+                                logger.info(f"🧮 Quantitative: {txt_file.stem}")
+                    except Exception as e:
+                        logger.error(f"Error reading {txt_file}: {e}")
+
+                for json_file in folder_path.glob("*.json"):
+                    try:
+                        with open(json_file, "r", encoding="utf-8") as f:
+                            json_data = json.load(f)
+                            if isinstance(json_data, list):
+                                parsed_json = []
+                                for item in json_data:
+                                    if item.get("question") and isinstance(item.get("options"), list):
+                                        if "id" not in item:
+                                            item["id"] = "Q_" + hashlib.md5(item["question"].encode()).hexdigest()[:10]
+                                        item["source"] = json_file.stem
+                                        parsed_json.append(item)
+                                        all_questions.append(item)
+                                source_dict[json_file.stem] = parsed_json
+
+                                # 🎯 CATEGORIZE based on folder
+                                if subject == "economics":
+                                    self.economics_sources.append(json_file.stem)
+                                    logger.info(f"📈 Economics: {json_file.stem}")
+                                elif subject == "accounts":
+                                    self.accounts_sources.append(json_file.stem)
+                                    logger.info(f"📊 Accounts: {json_file.stem}")
+                                elif subject == "quant":
+                                    self.quant_sources.append(json_file.stem)
+                                    logger.info(f"🧮 Quantitative: {json_file.stem}")
+                    except Exception as e:
+                        logger.error(f"Error reading {json_file}: {e}")
+
+        # Also load from root data folder for backward compatibility
         for txt_file in self.data_dir.glob("*.txt"):
             try:
                 with open(txt_file, "r", encoding="utf-8") as f:
