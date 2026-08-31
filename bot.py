@@ -751,6 +751,27 @@ async def poll_answer_handler(update: Update, context: ContextTypes.DEFAULT_TYPE
         if answer.option_ids and answer.option_ids[0] == correct_id:
             user_score["correct"] += 1
             user_score["total_time"] += elapsed
+
+        # 🎯 NEW: For DM chats, immediately trigger next question after answer
+        try:
+            chat = await context.bot.get_chat(chat_id)
+            if chat.type == Chat.PRIVATE:
+                # Cancel the scheduled job for this question
+                job_name = get_mock_job_name(chat_id)
+                for job in context.application.job_queue.get_jobs_by_name(job_name):
+                    job.schedule_removal()
+                
+                # Immediately trigger next question with small delay
+                context.application.job_queue.run_once(
+                    send_mocktest_question_job,
+                    when=1,  # 1 second delay for immediate next question
+                    data=chat_id,
+                    name=job_name,
+                )
+                logger.info(f"DM user {user_id} answered, triggering next question immediately")
+        except Exception as e:
+            logger.error(f"Error checking chat type or scheduling immediate next question: {e}")
+
     except Exception as e:
         logger.error(f"Error processing poll answer: {e}")
 
